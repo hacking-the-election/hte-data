@@ -1,0 +1,2 @@
+# README.md
+These are state objects that have been serialized by C++ (through the [boost_serialization](https://www.boost.org/doc/libs/1_72_0/libs/serialization/doc/) library) for fast reading and small file size. To parse them, see the main repository at [hacking-the-election/gerrymandering](https://github.com/hacking-the-election/gerrymandering). If you want state objects that are more readable, see the json located at `/json` in this repository.

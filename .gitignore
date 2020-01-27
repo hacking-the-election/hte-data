@@ -2,3 +2,5 @@
 *.geojson
 *.json
 *.tab
+
+!test/*

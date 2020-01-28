@@ -3,4 +3,6 @@
 *.json
 *.tab
 
+bin/cpp/old/*
+
 !test/*

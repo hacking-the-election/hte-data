@@ -3,4 +3,7 @@
 *.json
 *.tab
 
+bin/cpp/old/*
+
+!raw/california/*
 !test/*

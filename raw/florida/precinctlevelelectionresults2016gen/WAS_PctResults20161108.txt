@@ -1,0 +1,144 @@
+WAS	Washington	10282	11/08/2016	2016 General Election	1	Caryville Town Hall	405	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	142
+WAS	Washington	10282	11/08/2016	2016 General Election	1	Caryville Town Hall	405	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	150
+WAS	Washington	10282	11/08/2016	2016 General Election	1	Caryville Town Hall	405	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+WAS	Washington	10282	11/08/2016	2016 General Election	1	Caryville Town Hall	405	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+WAS	Washington	10282	11/08/2016	2016 General Election	1	Caryville Town Hall	405	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+WAS	Washington	10282	11/08/2016	2016 General Election	1	Caryville Town Hall	405	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	1	Caryville Town Hall	405	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAS	Washington	10282	11/08/2016	2016 General Election	1	Caryville Town Hall	405	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	1	Caryville Town Hall	405	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	4
+WAS	Washington	10282	11/08/2016	2016 General Election	2	Five Points Community Center	893	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	602
+WAS	Washington	10282	11/08/2016	2016 General Election	2	Five Points Community Center	893	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	50
+WAS	Washington	10282	11/08/2016	2016 General Election	2	Five Points Community Center	893	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+WAS	Washington	10282	11/08/2016	2016 General Election	2	Five Points Community Center	893	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+WAS	Washington	10282	11/08/2016	2016 General Election	2	Five Points Community Center	893	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAS	Washington	10282	11/08/2016	2016 General Election	2	Five Points Community Center	893	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	2	Five Points Community Center	893	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAS	Washington	10282	11/08/2016	2016 General Election	2	Five Points Community Center	893	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	2	Five Points Community Center	893	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	1
+WAS	Washington	10282	11/08/2016	2016 General Election	3	Hinson Crossroads Fire Station	568	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	358
+WAS	Washington	10282	11/08/2016	2016 General Election	3	Hinson Crossroads Fire Station	568	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	55
+WAS	Washington	10282	11/08/2016	2016 General Election	3	Hinson Crossroads Fire Station	568	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+WAS	Washington	10282	11/08/2016	2016 General Election	3	Hinson Crossroads Fire Station	568	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+WAS	Washington	10282	11/08/2016	2016 General Election	3	Hinson Crossroads Fire Station	568	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAS	Washington	10282	11/08/2016	2016 General Election	3	Hinson Crossroads Fire Station	568	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	3	Hinson Crossroads Fire Station	568	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAS	Washington	10282	11/08/2016	2016 General Election	3	Hinson Crossroads Fire Station	568	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	3	Hinson Crossroads Fire Station	568	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	7
+WAS	Washington	10282	11/08/2016	2016 General Election	4	Agriculture Center	3017	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1628
+WAS	Washington	10282	11/08/2016	2016 General Election	4	Agriculture Center	3017	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	481
+WAS	Washington	10282	11/08/2016	2016 General Election	4	Agriculture Center	3017	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+WAS	Washington	10282	11/08/2016	2016 General Election	4	Agriculture Center	3017	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+WAS	Washington	10282	11/08/2016	2016 General Election	4	Agriculture Center	3017	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+WAS	Washington	10282	11/08/2016	2016 General Election	4	Agriculture Center	3017	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+WAS	Washington	10282	11/08/2016	2016 General Election	4	Agriculture Center	3017	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	8
+WAS	Washington	10282	11/08/2016	2016 General Election	4	Agriculture Center	3017	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	3
+WAS	Washington	10282	11/08/2016	2016 General Election	4	Agriculture Center	3017	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	12
+WAS	Washington	10282	11/08/2016	2016 General Election	5	Vernon City Hall	1390	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	779
+WAS	Washington	10282	11/08/2016	2016 General Election	5	Vernon City Hall	1390	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	178
+WAS	Washington	10282	11/08/2016	2016 General Election	5	Vernon City Hall	1390	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+WAS	Washington	10282	11/08/2016	2016 General Election	5	Vernon City Hall	1390	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+WAS	Washington	10282	11/08/2016	2016 General Election	5	Vernon City Hall	1390	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+WAS	Washington	10282	11/08/2016	2016 General Election	5	Vernon City Hall	1390	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	5	Vernon City Hall	1390	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	11
+WAS	Washington	10282	11/08/2016	2016 General Election	5	Vernon City Hall	1390	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	5	Vernon City Hall	1390	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	9
+WAS	Washington	10282	11/08/2016	2016 General Election	6	New Hope	597	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	230
+WAS	Washington	10282	11/08/2016	2016 General Election	6	New Hope	597	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	219
+WAS	Washington	10282	11/08/2016	2016 General Election	6	New Hope	597	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+WAS	Washington	10282	11/08/2016	2016 General Election	6	New Hope	597	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAS	Washington	10282	11/08/2016	2016 General Election	6	New Hope	597	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+WAS	Washington	10282	11/08/2016	2016 General Election	6	New Hope	597	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	6	New Hope	597	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAS	Washington	10282	11/08/2016	2016 General Election	6	New Hope	597	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	6	New Hope	597	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	2
+WAS	Washington	10282	11/08/2016	2016 General Election	7	Orange Hill Fire Station	1103	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	758
+WAS	Washington	10282	11/08/2016	2016 General Election	7	Orange Hill Fire Station	1103	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	123
+WAS	Washington	10282	11/08/2016	2016 General Election	7	Orange Hill Fire Station	1103	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+WAS	Washington	10282	11/08/2016	2016 General Election	7	Orange Hill Fire Station	1103	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAS	Washington	10282	11/08/2016	2016 General Election	7	Orange Hill Fire Station	1103	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAS	Washington	10282	11/08/2016	2016 General Election	7	Orange Hill Fire Station	1103	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAS	Washington	10282	11/08/2016	2016 General Election	7	Orange Hill Fire Station	1103	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	5
+WAS	Washington	10282	11/08/2016	2016 General Election	7	Orange Hill Fire Station	1103	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	7	Orange Hill Fire Station	1103	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAS	Washington	10282	11/08/2016	2016 General Election	8	Armory - Chipley	1603	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	823
+WAS	Washington	10282	11/08/2016	2016 General Election	8	Armory - Chipley	1603	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	313
+WAS	Washington	10282	11/08/2016	2016 General Election	8	Armory - Chipley	1603	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+WAS	Washington	10282	11/08/2016	2016 General Election	8	Armory - Chipley	1603	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+WAS	Washington	10282	11/08/2016	2016 General Election	8	Armory - Chipley	1603	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAS	Washington	10282	11/08/2016	2016 General Election	8	Armory - Chipley	1603	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	8	Armory - Chipley	1603	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	5
+WAS	Washington	10282	11/08/2016	2016 General Election	8	Armory - Chipley	1603	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	6
+WAS	Washington	10282	11/08/2016	2016 General Election	8	Armory - Chipley	1603	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	10
+WAS	Washington	10282	11/08/2016	2016 General Election	9	Wausau Town Hall	679	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	396
+WAS	Washington	10282	11/08/2016	2016 General Election	9	Wausau Town Hall	679	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	93
+WAS	Washington	10282	11/08/2016	2016 General Election	9	Wausau Town Hall	679	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+WAS	Washington	10282	11/08/2016	2016 General Election	9	Wausau Town Hall	679	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAS	Washington	10282	11/08/2016	2016 General Election	9	Wausau Town Hall	679	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAS	Washington	10282	11/08/2016	2016 General Election	9	Wausau Town Hall	679	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAS	Washington	10282	11/08/2016	2016 General Election	9	Wausau Town Hall	679	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAS	Washington	10282	11/08/2016	2016 General Election	9	Wausau Town Hall	679	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	9	Wausau Town Hall	679	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	5
+WAS	Washington	10282	11/08/2016	2016 General Election	10	Courts of Praise Church	724	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	481
+WAS	Washington	10282	11/08/2016	2016 General Election	10	Courts of Praise Church	724	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	97
+WAS	Washington	10282	11/08/2016	2016 General Election	10	Courts of Praise Church	724	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+WAS	Washington	10282	11/08/2016	2016 General Election	10	Courts of Praise Church	724	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+WAS	Washington	10282	11/08/2016	2016 General Election	10	Courts of Praise Church	724	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+WAS	Washington	10282	11/08/2016	2016 General Election	10	Courts of Praise Church	724	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	10	Courts of Praise Church	724	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	3
+WAS	Washington	10282	11/08/2016	2016 General Election	10	Courts of Praise Church	724	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	10	Courts of Praise Church	724	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	0
+WAS	Washington	10282	11/08/2016	2016 General Election	11	Ebro Town Hall	386	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	143
+WAS	Washington	10282	11/08/2016	2016 General Election	11	Ebro Town Hall	386	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	116
+WAS	Washington	10282	11/08/2016	2016 General Election	11	Ebro Town Hall	386	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+WAS	Washington	10282	11/08/2016	2016 General Election	11	Ebro Town Hall	386	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+WAS	Washington	10282	11/08/2016	2016 General Election	11	Ebro Town Hall	386	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAS	Washington	10282	11/08/2016	2016 General Election	11	Ebro Town Hall	386	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	11	Ebro Town Hall	386	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAS	Washington	10282	11/08/2016	2016 General Election	11	Ebro Town Hall	386	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	11	Ebro Town Hall	386	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAS	Washington	10282	11/08/2016	2016 General Election	12	Greenhead	1528	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	976
+WAS	Washington	10282	11/08/2016	2016 General Election	12	Greenhead	1528	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	110
+WAS	Washington	10282	11/08/2016	2016 General Election	12	Greenhead	1528	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+WAS	Washington	10282	11/08/2016	2016 General Election	12	Greenhead	1528	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAS	Washington	10282	11/08/2016	2016 General Election	12	Greenhead	1528	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAS	Washington	10282	11/08/2016	2016 General Election	12	Greenhead	1528	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+WAS	Washington	10282	11/08/2016	2016 General Election	12	Greenhead	1528	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	8
+WAS	Washington	10282	11/08/2016	2016 General Election	12	Greenhead	1528	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	2
+WAS	Washington	10282	11/08/2016	2016 General Election	12	Greenhead	1528	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	7
+WAS	Washington	10282	11/08/2016	2016 General Election	13	Sunny Hills Community Center	976	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	556
+WAS	Washington	10282	11/08/2016	2016 General Election	13	Sunny Hills Community Center	976	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	131
+WAS	Washington	10282	11/08/2016	2016 General Election	13	Sunny Hills Community Center	976	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+WAS	Washington	10282	11/08/2016	2016 General Election	13	Sunny Hills Community Center	976	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+WAS	Washington	10282	11/08/2016	2016 General Election	13	Sunny Hills Community Center	976	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAS	Washington	10282	11/08/2016	2016 General Election	13	Sunny Hills Community Center	976	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAS	Washington	10282	11/08/2016	2016 General Election	13	Sunny Hills Community Center	976	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	6
+WAS	Washington	10282	11/08/2016	2016 General Election	13	Sunny Hills Community Center	976	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	13	Sunny Hills Community Center	976	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	2
+WAS	Washington	10282	11/08/2016	2016 General Election	14	Shepherd's Gate Church	544	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	314
+WAS	Washington	10282	11/08/2016	2016 General Election	14	Shepherd's Gate Church	544	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	73
+WAS	Washington	10282	11/08/2016	2016 General Election	14	Shepherd's Gate Church	544	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+WAS	Washington	10282	11/08/2016	2016 General Election	14	Shepherd's Gate Church	544	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+WAS	Washington	10282	11/08/2016	2016 General Election	14	Shepherd's Gate Church	544	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAS	Washington	10282	11/08/2016	2016 General Election	14	Shepherd's Gate Church	544	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	14	Shepherd's Gate Church	544	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	3
+WAS	Washington	10282	11/08/2016	2016 General Election	14	Shepherd's Gate Church	544	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	14	Shepherd's Gate Church	544	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	2
+WAS	Washington	10282	11/08/2016	2016 General Election	15	Recycling Center	244	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	159
+WAS	Washington	10282	11/08/2016	2016 General Election	15	Recycling Center	244	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	19
+WAS	Washington	10282	11/08/2016	2016 General Election	15	Recycling Center	244	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+WAS	Washington	10282	11/08/2016	2016 General Election	15	Recycling Center	244	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+WAS	Washington	10282	11/08/2016	2016 General Election	15	Recycling Center	244	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+WAS	Washington	10282	11/08/2016	2016 General Election	15	Recycling Center	244	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	15	Recycling Center	244	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	0
+WAS	Washington	10282	11/08/2016	2016 General Election	15	Recycling Center	244	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	0
+WAS	Washington	10282	11/08/2016	2016 General Election	15	Recycling Center	244	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	0
+WAS	Washington	10282	11/08/2016	2016 General Election	16	Country Oaks Baptist Church	515	0	0	14820	President of the United States	 	100000	Trump / Pence	REP	0	65072	292
+WAS	Washington	10282	11/08/2016	2016 General Election	16	Country Oaks Baptist Church	515	0	0	14820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	56
+WAS	Washington	10282	11/08/2016	2016 General Election	16	Country Oaks Baptist Church	515	0	0	14820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+WAS	Washington	10282	11/08/2016	2016 General Election	16	Country Oaks Baptist Church	515	0	0	14820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+WAS	Washington	10282	11/08/2016	2016 General Election	16	Country Oaks Baptist Church	515	0	0	14820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+WAS	Washington	10282	11/08/2016	2016 General Election	16	Country Oaks Baptist Church	515	0	0	14820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+WAS	Washington	10282	11/08/2016	2016 General Election	16	Country Oaks Baptist Church	515	0	0	14820	President of the United States	 	100000	WriteinVotes	 	0	900	0
+WAS	Washington	10282	11/08/2016	2016 General Election	16	Country Oaks Baptist Church	515	0	0	14820	President of the United States	 	100000	OverVotes	 	0	901	1
+WAS	Washington	10282	11/08/2016	2016 General Election	16	Country Oaks Baptist Church	515	0	0	14820	President of the United States	 	100000	UnderVotes	 	0	902	3

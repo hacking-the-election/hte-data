@@ -1,0 +1,270 @@
+MRT	Martin	10282	11/08/2016	2016 General Election	1	PRECINCT 1 1	2970	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	1371
+MRT	Martin	10282	11/08/2016	2016 General Election	1	PRECINCT 1 1	2970	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	861
+MRT	Martin	10282	11/08/2016	2016 General Election	1	PRECINCT 1 1	2970	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+MRT	Martin	10282	11/08/2016	2016 General Election	1	PRECINCT 1 1	2970	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRT	Martin	10282	11/08/2016	2016 General Election	1	PRECINCT 1 1	2970	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MRT	Martin	10282	11/08/2016	2016 General Election	1	PRECINCT 1 1	2970	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MRT	Martin	10282	11/08/2016	2016 General Election	1	PRECINCT 1 1	2970	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	22
+MRT	Martin	10282	11/08/2016	2016 General Election	1	PRECINCT 1 1	2970	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	1
+MRT	Martin	10282	11/08/2016	2016 General Election	1	PRECINCT 1 1	2970	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	23
+MRT	Martin	10282	11/08/2016	2016 General Election	2	PRECINCT 2 2	5981	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2832
+MRT	Martin	10282	11/08/2016	2016 General Election	2	PRECINCT 2 2	5981	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1624
+MRT	Martin	10282	11/08/2016	2016 General Election	2	PRECINCT 2 2	5981	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	97
+MRT	Martin	10282	11/08/2016	2016 General Election	2	PRECINCT 2 2	5981	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRT	Martin	10282	11/08/2016	2016 General Election	2	PRECINCT 2 2	5981	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	36
+MRT	Martin	10282	11/08/2016	2016 General Election	2	PRECINCT 2 2	5981	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRT	Martin	10282	11/08/2016	2016 General Election	2	PRECINCT 2 2	5981	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	43
+MRT	Martin	10282	11/08/2016	2016 General Election	2	PRECINCT 2 2	5981	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	5
+MRT	Martin	10282	11/08/2016	2016 General Election	2	PRECINCT 2 2	5981	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	35
+MRT	Martin	10282	11/08/2016	2016 General Election	3	PRECINCT 3 3	4664	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2215
+MRT	Martin	10282	11/08/2016	2016 General Election	3	PRECINCT 3 3	4664	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1284
+MRT	Martin	10282	11/08/2016	2016 General Election	3	PRECINCT 3 3	4664	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	87
+MRT	Martin	10282	11/08/2016	2016 General Election	3	PRECINCT 3 3	4664	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRT	Martin	10282	11/08/2016	2016 General Election	3	PRECINCT 3 3	4664	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	31
+MRT	Martin	10282	11/08/2016	2016 General Election	3	PRECINCT 3 3	4664	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRT	Martin	10282	11/08/2016	2016 General Election	3	PRECINCT 3 3	4664	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	39
+MRT	Martin	10282	11/08/2016	2016 General Election	3	PRECINCT 3 3	4664	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	3
+MRT	Martin	10282	11/08/2016	2016 General Election	3	PRECINCT 3 3	4664	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	32
+MRT	Martin	10282	11/08/2016	2016 General Election	4	PRECINCT 4 4	3133	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	1273
+MRT	Martin	10282	11/08/2016	2016 General Election	4	PRECINCT 4 4	3133	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	862
+MRT	Martin	10282	11/08/2016	2016 General Election	4	PRECINCT 4 4	3133	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+MRT	Martin	10282	11/08/2016	2016 General Election	4	PRECINCT 4 4	3133	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRT	Martin	10282	11/08/2016	2016 General Election	4	PRECINCT 4 4	3133	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+MRT	Martin	10282	11/08/2016	2016 General Election	4	PRECINCT 4 4	3133	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRT	Martin	10282	11/08/2016	2016 General Election	4	PRECINCT 4 4	3133	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	20
+MRT	Martin	10282	11/08/2016	2016 General Election	4	PRECINCT 4 4	3133	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	2
+MRT	Martin	10282	11/08/2016	2016 General Election	4	PRECINCT 4 4	3133	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	30
+MRT	Martin	10282	11/08/2016	2016 General Election	5	PRECINCT 5 5	1503	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	782
+MRT	Martin	10282	11/08/2016	2016 General Election	5	PRECINCT 5 5	1503	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	411
+MRT	Martin	10282	11/08/2016	2016 General Election	5	PRECINCT 5 5	1503	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+MRT	Martin	10282	11/08/2016	2016 General Election	5	PRECINCT 5 5	1503	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRT	Martin	10282	11/08/2016	2016 General Election	5	PRECINCT 5 5	1503	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRT	Martin	10282	11/08/2016	2016 General Election	5	PRECINCT 5 5	1503	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRT	Martin	10282	11/08/2016	2016 General Election	5	PRECINCT 5 5	1503	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	14
+MRT	Martin	10282	11/08/2016	2016 General Election	5	PRECINCT 5 5	1503	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	2
+MRT	Martin	10282	11/08/2016	2016 General Election	5	PRECINCT 5 5	1503	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	14
+MRT	Martin	10282	11/08/2016	2016 General Election	6	PRECINCT 6 6	5309	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2310
+MRT	Martin	10282	11/08/2016	2016 General Election	6	PRECINCT 6 6	5309	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1465
+MRT	Martin	10282	11/08/2016	2016 General Election	6	PRECINCT 6 6	5309	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	87
+MRT	Martin	10282	11/08/2016	2016 General Election	6	PRECINCT 6 6	5309	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRT	Martin	10282	11/08/2016	2016 General Election	6	PRECINCT 6 6	5309	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+MRT	Martin	10282	11/08/2016	2016 General Election	6	PRECINCT 6 6	5309	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRT	Martin	10282	11/08/2016	2016 General Election	6	PRECINCT 6 6	5309	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	32
+MRT	Martin	10282	11/08/2016	2016 General Election	6	PRECINCT 6 6	5309	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	7
+MRT	Martin	10282	11/08/2016	2016 General Election	6	PRECINCT 6 6	5309	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	34
+MRT	Martin	10282	11/08/2016	2016 General Election	7	PRECINCT 7 7	5704	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2408
+MRT	Martin	10282	11/08/2016	2016 General Election	7	PRECINCT 7 7	5704	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1802
+MRT	Martin	10282	11/08/2016	2016 General Election	7	PRECINCT 7 7	5704	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	79
+MRT	Martin	10282	11/08/2016	2016 General Election	7	PRECINCT 7 7	5704	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRT	Martin	10282	11/08/2016	2016 General Election	7	PRECINCT 7 7	5704	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+MRT	Martin	10282	11/08/2016	2016 General Election	7	PRECINCT 7 7	5704	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRT	Martin	10282	11/08/2016	2016 General Election	7	PRECINCT 7 7	5704	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	40
+MRT	Martin	10282	11/08/2016	2016 General Election	7	PRECINCT 7 7	5704	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	4
+MRT	Martin	10282	11/08/2016	2016 General Election	7	PRECINCT 7 7	5704	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	36
+MRT	Martin	10282	11/08/2016	2016 General Election	8	PRECINCT 8 8	1923	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	526
+MRT	Martin	10282	11/08/2016	2016 General Election	8	PRECINCT 8 8	1923	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	830
+MRT	Martin	10282	11/08/2016	2016 General Election	8	PRECINCT 8 8	1923	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+MRT	Martin	10282	11/08/2016	2016 General Election	8	PRECINCT 8 8	1923	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRT	Martin	10282	11/08/2016	2016 General Election	8	PRECINCT 8 8	1923	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+MRT	Martin	10282	11/08/2016	2016 General Election	8	PRECINCT 8 8	1923	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	8	PRECINCT 8 8	1923	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	13
+MRT	Martin	10282	11/08/2016	2016 General Election	8	PRECINCT 8 8	1923	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	1
+MRT	Martin	10282	11/08/2016	2016 General Election	8	PRECINCT 8 8	1923	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRT	Martin	10282	11/08/2016	2016 General Election	9	PRECINCT 9 9	2348	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	1280
+MRT	Martin	10282	11/08/2016	2016 General Election	9	PRECINCT 9 9	2348	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	637
+MRT	Martin	10282	11/08/2016	2016 General Election	9	PRECINCT 9 9	2348	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	41
+MRT	Martin	10282	11/08/2016	2016 General Election	9	PRECINCT 9 9	2348	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRT	Martin	10282	11/08/2016	2016 General Election	9	PRECINCT 9 9	2348	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRT	Martin	10282	11/08/2016	2016 General Election	9	PRECINCT 9 9	2348	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRT	Martin	10282	11/08/2016	2016 General Election	9	PRECINCT 9 9	2348	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	26
+MRT	Martin	10282	11/08/2016	2016 General Election	9	PRECINCT 9 9	2348	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	0
+MRT	Martin	10282	11/08/2016	2016 General Election	9	PRECINCT 9 9	2348	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	29
+MRT	Martin	10282	11/08/2016	2016 General Election	10	PRECINCT 10 10	1782	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	917
+MRT	Martin	10282	11/08/2016	2016 General Election	10	PRECINCT 10 10	1782	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	533
+MRT	Martin	10282	11/08/2016	2016 General Election	10	PRECINCT 10 10	1782	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+MRT	Martin	10282	11/08/2016	2016 General Election	10	PRECINCT 10 10	1782	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRT	Martin	10282	11/08/2016	2016 General Election	10	PRECINCT 10 10	1782	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRT	Martin	10282	11/08/2016	2016 General Election	10	PRECINCT 10 10	1782	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	10	PRECINCT 10 10	1782	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	20
+MRT	Martin	10282	11/08/2016	2016 General Election	10	PRECINCT 10 10	1782	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	0
+MRT	Martin	10282	11/08/2016	2016 General Election	10	PRECINCT 10 10	1782	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	14
+MRT	Martin	10282	11/08/2016	2016 General Election	11	PRECINCT 11 11	3407	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	1363
+MRT	Martin	10282	11/08/2016	2016 General Election	11	PRECINCT 11 11	3407	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	829
+MRT	Martin	10282	11/08/2016	2016 General Election	11	PRECINCT 11 11	3407	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	66
+MRT	Martin	10282	11/08/2016	2016 General Election	11	PRECINCT 11 11	3407	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRT	Martin	10282	11/08/2016	2016 General Election	11	PRECINCT 11 11	3407	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+MRT	Martin	10282	11/08/2016	2016 General Election	11	PRECINCT 11 11	3407	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRT	Martin	10282	11/08/2016	2016 General Election	11	PRECINCT 11 11	3407	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	14
+MRT	Martin	10282	11/08/2016	2016 General Election	11	PRECINCT 11 11	3407	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	5
+MRT	Martin	10282	11/08/2016	2016 General Election	11	PRECINCT 11 11	3407	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	20
+MRT	Martin	10282	11/08/2016	2016 General Election	12	PRECINCT 12 12	5723	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2758
+MRT	Martin	10282	11/08/2016	2016 General Election	12	PRECINCT 12 12	5723	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1507
+MRT	Martin	10282	11/08/2016	2016 General Election	12	PRECINCT 12 12	5723	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	89
+MRT	Martin	10282	11/08/2016	2016 General Election	12	PRECINCT 12 12	5723	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+MRT	Martin	10282	11/08/2016	2016 General Election	12	PRECINCT 12 12	5723	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+MRT	Martin	10282	11/08/2016	2016 General Election	12	PRECINCT 12 12	5723	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRT	Martin	10282	11/08/2016	2016 General Election	12	PRECINCT 12 12	5723	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	46
+MRT	Martin	10282	11/08/2016	2016 General Election	12	PRECINCT 12 12	5723	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	1
+MRT	Martin	10282	11/08/2016	2016 General Election	12	PRECINCT 12 12	5723	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	34
+MRT	Martin	10282	11/08/2016	2016 General Election	13	PRECINCT 13 13	4885	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2653
+MRT	Martin	10282	11/08/2016	2016 General Election	13	PRECINCT 13 13	4885	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1297
+MRT	Martin	10282	11/08/2016	2016 General Election	13	PRECINCT 13 13	4885	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+MRT	Martin	10282	11/08/2016	2016 General Election	13	PRECINCT 13 13	4885	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRT	Martin	10282	11/08/2016	2016 General Election	13	PRECINCT 13 13	4885	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+MRT	Martin	10282	11/08/2016	2016 General Election	13	PRECINCT 13 13	4885	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRT	Martin	10282	11/08/2016	2016 General Election	13	PRECINCT 13 13	4885	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	28
+MRT	Martin	10282	11/08/2016	2016 General Election	13	PRECINCT 13 13	4885	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	0
+MRT	Martin	10282	11/08/2016	2016 General Election	13	PRECINCT 13 13	4885	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	35
+MRT	Martin	10282	11/08/2016	2016 General Election	14	PRECINCT 14 14	4093	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	1620
+MRT	Martin	10282	11/08/2016	2016 General Election	14	PRECINCT 14 14	4093	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1320
+MRT	Martin	10282	11/08/2016	2016 General Election	14	PRECINCT 14 14	4093	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+MRT	Martin	10282	11/08/2016	2016 General Election	14	PRECINCT 14 14	4093	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRT	Martin	10282	11/08/2016	2016 General Election	14	PRECINCT 14 14	4093	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+MRT	Martin	10282	11/08/2016	2016 General Election	14	PRECINCT 14 14	4093	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	14	PRECINCT 14 14	4093	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	41
+MRT	Martin	10282	11/08/2016	2016 General Election	14	PRECINCT 14 14	4093	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	4
+MRT	Martin	10282	11/08/2016	2016 General Election	14	PRECINCT 14 14	4093	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	31
+MRT	Martin	10282	11/08/2016	2016 General Election	15	PRECINCT 15 15	3062	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	1653
+MRT	Martin	10282	11/08/2016	2016 General Election	15	PRECINCT 15 15	3062	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	833
+MRT	Martin	10282	11/08/2016	2016 General Election	15	PRECINCT 15 15	3062	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+MRT	Martin	10282	11/08/2016	2016 General Election	15	PRECINCT 15 15	3062	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MRT	Martin	10282	11/08/2016	2016 General Election	15	PRECINCT 15 15	3062	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MRT	Martin	10282	11/08/2016	2016 General Election	15	PRECINCT 15 15	3062	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRT	Martin	10282	11/08/2016	2016 General Election	15	PRECINCT 15 15	3062	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	16
+MRT	Martin	10282	11/08/2016	2016 General Election	15	PRECINCT 15 15	3062	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	4
+MRT	Martin	10282	11/08/2016	2016 General Election	15	PRECINCT 15 15	3062	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	24
+MRT	Martin	10282	11/08/2016	2016 General Election	16	PRECINCT 16 16	1245	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	403
+MRT	Martin	10282	11/08/2016	2016 General Election	16	PRECINCT 16 16	1245	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	409
+MRT	Martin	10282	11/08/2016	2016 General Election	16	PRECINCT 16 16	1245	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+MRT	Martin	10282	11/08/2016	2016 General Election	16	PRECINCT 16 16	1245	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRT	Martin	10282	11/08/2016	2016 General Election	16	PRECINCT 16 16	1245	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+MRT	Martin	10282	11/08/2016	2016 General Election	16	PRECINCT 16 16	1245	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	16	PRECINCT 16 16	1245	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRT	Martin	10282	11/08/2016	2016 General Election	16	PRECINCT 16 16	1245	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	3
+MRT	Martin	10282	11/08/2016	2016 General Election	16	PRECINCT 16 16	1245	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	2
+MRT	Martin	10282	11/08/2016	2016 General Election	17	PRECINCT 17 17	2935	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	1697
+MRT	Martin	10282	11/08/2016	2016 General Election	17	PRECINCT 17 17	2935	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	591
+MRT	Martin	10282	11/08/2016	2016 General Election	17	PRECINCT 17 17	2935	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+MRT	Martin	10282	11/08/2016	2016 General Election	17	PRECINCT 17 17	2935	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRT	Martin	10282	11/08/2016	2016 General Election	17	PRECINCT 17 17	2935	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRT	Martin	10282	11/08/2016	2016 General Election	17	PRECINCT 17 17	2935	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRT	Martin	10282	11/08/2016	2016 General Election	17	PRECINCT 17 17	2935	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	21
+MRT	Martin	10282	11/08/2016	2016 General Election	17	PRECINCT 17 17	2935	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	1
+MRT	Martin	10282	11/08/2016	2016 General Election	17	PRECINCT 17 17	2935	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	17
+MRT	Martin	10282	11/08/2016	2016 General Election	18	PRECINCT 18 18	5121	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2406
+MRT	Martin	10282	11/08/2016	2016 General Election	18	PRECINCT 18 18	5121	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1374
+MRT	Martin	10282	11/08/2016	2016 General Election	18	PRECINCT 18 18	5121	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	100
+MRT	Martin	10282	11/08/2016	2016 General Election	18	PRECINCT 18 18	5121	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRT	Martin	10282	11/08/2016	2016 General Election	18	PRECINCT 18 18	5121	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+MRT	Martin	10282	11/08/2016	2016 General Election	18	PRECINCT 18 18	5121	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRT	Martin	10282	11/08/2016	2016 General Election	18	PRECINCT 18 18	5121	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	49
+MRT	Martin	10282	11/08/2016	2016 General Election	18	PRECINCT 18 18	5121	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	5
+MRT	Martin	10282	11/08/2016	2016 General Election	18	PRECINCT 18 18	5121	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	38
+MRT	Martin	10282	11/08/2016	2016 General Election	19	PRECINCT 19 19	5466	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2553
+MRT	Martin	10282	11/08/2016	2016 General Election	19	PRECINCT 19 19	5466	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1517
+MRT	Martin	10282	11/08/2016	2016 General Election	19	PRECINCT 19 19	5466	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	82
+MRT	Martin	10282	11/08/2016	2016 General Election	19	PRECINCT 19 19	5466	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRT	Martin	10282	11/08/2016	2016 General Election	19	PRECINCT 19 19	5466	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+MRT	Martin	10282	11/08/2016	2016 General Election	19	PRECINCT 19 19	5466	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRT	Martin	10282	11/08/2016	2016 General Election	19	PRECINCT 19 19	5466	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	36
+MRT	Martin	10282	11/08/2016	2016 General Election	19	PRECINCT 19 19	5466	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	6
+MRT	Martin	10282	11/08/2016	2016 General Election	19	PRECINCT 19 19	5466	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	40
+MRT	Martin	10282	11/08/2016	2016 General Election	20	PRECINCT 20 20	2609	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	1272
+MRT	Martin	10282	11/08/2016	2016 General Election	20	PRECINCT 20 20	2609	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	723
+MRT	Martin	10282	11/08/2016	2016 General Election	20	PRECINCT 20 20	2609	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+MRT	Martin	10282	11/08/2016	2016 General Election	20	PRECINCT 20 20	2609	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRT	Martin	10282	11/08/2016	2016 General Election	20	PRECINCT 20 20	2609	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRT	Martin	10282	11/08/2016	2016 General Election	20	PRECINCT 20 20	2609	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRT	Martin	10282	11/08/2016	2016 General Election	20	PRECINCT 20 20	2609	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	23
+MRT	Martin	10282	11/08/2016	2016 General Election	20	PRECINCT 20 20	2609	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	5
+MRT	Martin	10282	11/08/2016	2016 General Election	20	PRECINCT 20 20	2609	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	29
+MRT	Martin	10282	11/08/2016	2016 General Election	21	PRECINCT 21 21	5212	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2921
+MRT	Martin	10282	11/08/2016	2016 General Election	21	PRECINCT 21 21	5212	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1245
+MRT	Martin	10282	11/08/2016	2016 General Election	21	PRECINCT 21 21	5212	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	83
+MRT	Martin	10282	11/08/2016	2016 General Election	21	PRECINCT 21 21	5212	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRT	Martin	10282	11/08/2016	2016 General Election	21	PRECINCT 21 21	5212	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRT	Martin	10282	11/08/2016	2016 General Election	21	PRECINCT 21 21	5212	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	21	PRECINCT 21 21	5212	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	40
+MRT	Martin	10282	11/08/2016	2016 General Election	21	PRECINCT 21 21	5212	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	5
+MRT	Martin	10282	11/08/2016	2016 General Election	21	PRECINCT 21 21	5212	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	49
+MRT	Martin	10282	11/08/2016	2016 General Election	22	PRECINCT 22 22	3927	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2087
+MRT	Martin	10282	11/08/2016	2016 General Election	22	PRECINCT 22 22	3927	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1022
+MRT	Martin	10282	11/08/2016	2016 General Election	22	PRECINCT 22 22	3927	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+MRT	Martin	10282	11/08/2016	2016 General Election	22	PRECINCT 22 22	3927	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRT	Martin	10282	11/08/2016	2016 General Election	22	PRECINCT 22 22	3927	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+MRT	Martin	10282	11/08/2016	2016 General Election	22	PRECINCT 22 22	3927	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	22	PRECINCT 22 22	3927	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	32
+MRT	Martin	10282	11/08/2016	2016 General Election	22	PRECINCT 22 22	3927	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	3
+MRT	Martin	10282	11/08/2016	2016 General Election	22	PRECINCT 22 22	3927	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	27
+MRT	Martin	10282	11/08/2016	2016 General Election	23	PRECINCT 23 23	3914	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	1983
+MRT	Martin	10282	11/08/2016	2016 General Election	23	PRECINCT 23 23	3914	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	972
+MRT	Martin	10282	11/08/2016	2016 General Election	23	PRECINCT 23 23	3914	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+MRT	Martin	10282	11/08/2016	2016 General Election	23	PRECINCT 23 23	3914	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRT	Martin	10282	11/08/2016	2016 General Election	23	PRECINCT 23 23	3914	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+MRT	Martin	10282	11/08/2016	2016 General Election	23	PRECINCT 23 23	3914	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRT	Martin	10282	11/08/2016	2016 General Election	23	PRECINCT 23 23	3914	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	32
+MRT	Martin	10282	11/08/2016	2016 General Election	23	PRECINCT 23 23	3914	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	3
+MRT	Martin	10282	11/08/2016	2016 General Election	23	PRECINCT 23 23	3914	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	19
+MRT	Martin	10282	11/08/2016	2016 General Election	24	PRECINCT 24 24	4024	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2071
+MRT	Martin	10282	11/08/2016	2016 General Election	24	PRECINCT 24 24	4024	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	957
+MRT	Martin	10282	11/08/2016	2016 General Election	24	PRECINCT 24 24	4024	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	90
+MRT	Martin	10282	11/08/2016	2016 General Election	24	PRECINCT 24 24	4024	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRT	Martin	10282	11/08/2016	2016 General Election	24	PRECINCT 24 24	4024	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+MRT	Martin	10282	11/08/2016	2016 General Election	24	PRECINCT 24 24	4024	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	24	PRECINCT 24 24	4024	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	26
+MRT	Martin	10282	11/08/2016	2016 General Election	24	PRECINCT 24 24	4024	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	1
+MRT	Martin	10282	11/08/2016	2016 General Election	24	PRECINCT 24 24	4024	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	45
+MRT	Martin	10282	11/08/2016	2016 General Election	25	PRECINCT 25 25	5692	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2937
+MRT	Martin	10282	11/08/2016	2016 General Election	25	PRECINCT 25 25	5692	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1406
+MRT	Martin	10282	11/08/2016	2016 General Election	25	PRECINCT 25 25	5692	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	88
+MRT	Martin	10282	11/08/2016	2016 General Election	25	PRECINCT 25 25	5692	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRT	Martin	10282	11/08/2016	2016 General Election	25	PRECINCT 25 25	5692	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+MRT	Martin	10282	11/08/2016	2016 General Election	25	PRECINCT 25 25	5692	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRT	Martin	10282	11/08/2016	2016 General Election	25	PRECINCT 25 25	5692	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	47
+MRT	Martin	10282	11/08/2016	2016 General Election	25	PRECINCT 25 25	5692	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	2
+MRT	Martin	10282	11/08/2016	2016 General Election	25	PRECINCT 25 25	5692	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	56
+MRT	Martin	10282	11/08/2016	2016 General Election	26	PRECINCT 26 26	5237	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2750
+MRT	Martin	10282	11/08/2016	2016 General Election	26	PRECINCT 26 26	5237	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1335
+MRT	Martin	10282	11/08/2016	2016 General Election	26	PRECINCT 26 26	5237	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	84
+MRT	Martin	10282	11/08/2016	2016 General Election	26	PRECINCT 26 26	5237	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRT	Martin	10282	11/08/2016	2016 General Election	26	PRECINCT 26 26	5237	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+MRT	Martin	10282	11/08/2016	2016 General Election	26	PRECINCT 26 26	5237	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	26	PRECINCT 26 26	5237	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	42
+MRT	Martin	10282	11/08/2016	2016 General Election	26	PRECINCT 26 26	5237	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	2
+MRT	Martin	10282	11/08/2016	2016 General Election	26	PRECINCT 26 26	5237	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	32
+MRT	Martin	10282	11/08/2016	2016 General Election	27	PRECINCT 27 27	5097	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	2802
+MRT	Martin	10282	11/08/2016	2016 General Election	27	PRECINCT 27 27	5097	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1235
+MRT	Martin	10282	11/08/2016	2016 General Election	27	PRECINCT 27 27	5097	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	74
+MRT	Martin	10282	11/08/2016	2016 General Election	27	PRECINCT 27 27	5097	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+MRT	Martin	10282	11/08/2016	2016 General Election	27	PRECINCT 27 27	5097	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+MRT	Martin	10282	11/08/2016	2016 General Election	27	PRECINCT 27 27	5097	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	27	PRECINCT 27 27	5097	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	50
+MRT	Martin	10282	11/08/2016	2016 General Election	27	PRECINCT 27 27	5097	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	3
+MRT	Martin	10282	11/08/2016	2016 General Election	27	PRECINCT 27 27	5097	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	34
+MRT	Martin	10282	11/08/2016	2016 General Election	28	PRECINCT 28 28	623	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	334
+MRT	Martin	10282	11/08/2016	2016 General Election	28	PRECINCT 28 28	623	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	171
+MRT	Martin	10282	11/08/2016	2016 General Election	28	PRECINCT 28 28	623	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+MRT	Martin	10282	11/08/2016	2016 General Election	28	PRECINCT 28 28	623	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRT	Martin	10282	11/08/2016	2016 General Election	28	PRECINCT 28 28	623	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MRT	Martin	10282	11/08/2016	2016 General Election	28	PRECINCT 28 28	623	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRT	Martin	10282	11/08/2016	2016 General Election	28	PRECINCT 28 28	623	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRT	Martin	10282	11/08/2016	2016 General Election	28	PRECINCT 28 28	623	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	0
+MRT	Martin	10282	11/08/2016	2016 General Election	28	PRECINCT 28 28	623	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRT	Martin	10282	11/08/2016	2016 General Election	29	PRECINCT 29 29	2612	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	999
+MRT	Martin	10282	11/08/2016	2016 General Election	29	PRECINCT 29 29	2612	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	730
+MRT	Martin	10282	11/08/2016	2016 General Election	29	PRECINCT 29 29	2612	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+MRT	Martin	10282	11/08/2016	2016 General Election	29	PRECINCT 29 29	2612	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRT	Martin	10282	11/08/2016	2016 General Election	29	PRECINCT 29 29	2612	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+MRT	Martin	10282	11/08/2016	2016 General Election	29	PRECINCT 29 29	2612	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRT	Martin	10282	11/08/2016	2016 General Election	29	PRECINCT 29 29	2612	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	16
+MRT	Martin	10282	11/08/2016	2016 General Election	29	PRECINCT 29 29	2612	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	6
+MRT	Martin	10282	11/08/2016	2016 General Election	29	PRECINCT 29 29	2612	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	17
+MRT	Martin	10282	11/08/2016	2016 General Election	30	PRECINCT 30 30	732	0	0	109220	President of the United States	 	100000	Trump / Pence	REP	0	65072	28
+MRT	Martin	10282	11/08/2016	2016 General Election	30	PRECINCT 30 30	732	0	0	109220	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	403
+MRT	Martin	10282	11/08/2016	2016 General Election	30	PRECINCT 30 30	732	0	0	109220	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRT	Martin	10282	11/08/2016	2016 General Election	30	PRECINCT 30 30	732	0	0	109220	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRT	Martin	10282	11/08/2016	2016 General Election	30	PRECINCT 30 30	732	0	0	109220	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRT	Martin	10282	11/08/2016	2016 General Election	30	PRECINCT 30 30	732	0	0	109220	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRT	Martin	10282	11/08/2016	2016 General Election	30	PRECINCT 30 30	732	0	0	109220	President of the United States	 	100000	WriteinVotes	 	0	900	3
+MRT	Martin	10282	11/08/2016	2016 General Election	30	PRECINCT 30 30	732	0	0	109220	President of the United States	 	100000	OverVotes	 	0	901	3
+MRT	Martin	10282	11/08/2016	2016 General Election	30	PRECINCT 30 30	732	0	0	109220	President of the United States	 	100000	UnderVotes	 	0	902	2

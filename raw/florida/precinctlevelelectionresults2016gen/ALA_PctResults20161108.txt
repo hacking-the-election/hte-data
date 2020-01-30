@@ -1,0 +1,567 @@
+ALA	Alachua	10282	11/08/2016	2016 General Election	01	First Baptist Church of Waldo	1378	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	637
+ALA	Alachua	10282	11/08/2016	2016 General Election	01	First Baptist Church of Waldo	1378	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	357
+ALA	Alachua	10282	11/08/2016	2016 General Election	01	First Baptist Church of Waldo	1378	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+ALA	Alachua	10282	11/08/2016	2016 General Election	01	First Baptist Church of Waldo	1378	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	01	First Baptist Church of Waldo	1378	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	01	First Baptist Church of Waldo	1378	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	01	First Baptist Church of Waldo	1378	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	9
+ALA	Alachua	10282	11/08/2016	2016 General Election	01	First Baptist Church of Waldo	1378	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	01	First Baptist Church of Waldo	1378	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	02	LaCrosse Town Hall	2027	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	839
+ALA	Alachua	10282	11/08/2016	2016 General Election	02	LaCrosse Town Hall	2027	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	668
+ALA	Alachua	10282	11/08/2016	2016 General Election	02	LaCrosse Town Hall	2027	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+ALA	Alachua	10282	11/08/2016	2016 General Election	02	LaCrosse Town Hall	2027	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	02	LaCrosse Town Hall	2027	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+ALA	Alachua	10282	11/08/2016	2016 General Election	02	LaCrosse Town Hall	2027	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	02	LaCrosse Town Hall	2027	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	02	LaCrosse Town Hall	2027	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	02	LaCrosse Town Hall	2027	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	03	Alachua Recreation Center	3939	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1711
+ALA	Alachua	10282	11/08/2016	2016 General Election	03	Alachua Recreation Center	3939	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1114
+ALA	Alachua	10282	11/08/2016	2016 General Election	03	Alachua Recreation Center	3939	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	105
+ALA	Alachua	10282	11/08/2016	2016 General Election	03	Alachua Recreation Center	3939	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	03	Alachua Recreation Center	3939	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	34
+ALA	Alachua	10282	11/08/2016	2016 General Election	03	Alachua Recreation Center	3939	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	03	Alachua Recreation Center	3939	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	26
+ALA	Alachua	10282	11/08/2016	2016 General Election	03	Alachua Recreation Center	3939	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	03	Alachua Recreation Center	3939	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	04	Newberry United Methodist Church	2898	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1483
+ALA	Alachua	10282	11/08/2016	2016 General Election	04	Newberry United Methodist Church	2898	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	687
+ALA	Alachua	10282	11/08/2016	2016 General Election	04	Newberry United Methodist Church	2898	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	75
+ALA	Alachua	10282	11/08/2016	2016 General Election	04	Newberry United Methodist Church	2898	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+ALA	Alachua	10282	11/08/2016	2016 General Election	04	Newberry United Methodist Church	2898	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	04	Newberry United Methodist Church	2898	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	04	Newberry United Methodist Church	2898	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	21
+ALA	Alachua	10282	11/08/2016	2016 General Election	04	Newberry United Methodist Church	2898	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	04	Newberry United Methodist Church	2898	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	18
+ALA	Alachua	10282	11/08/2016	2016 General Election	05	First Lutheran Church	3032	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	544
+ALA	Alachua	10282	11/08/2016	2016 General Election	05	First Lutheran Church	3032	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1409
+ALA	Alachua	10282	11/08/2016	2016 General Election	05	First Lutheran Church	3032	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	101
+ALA	Alachua	10282	11/08/2016	2016 General Election	05	First Lutheran Church	3032	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	05	First Lutheran Church	3032	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	29
+ALA	Alachua	10282	11/08/2016	2016 General Election	05	First Lutheran Church	3032	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	05	First Lutheran Church	3032	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	23
+ALA	Alachua	10282	11/08/2016	2016 General Election	05	First Lutheran Church	3032	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	05	First Lutheran Church	3032	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	6
+ALA	Alachua	10282	11/08/2016	2016 General Election	06	Newberry Municipal Building	2765	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1263
+ALA	Alachua	10282	11/08/2016	2016 General Election	06	Newberry Municipal Building	2765	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	762
+ALA	Alachua	10282	11/08/2016	2016 General Election	06	Newberry Municipal Building	2765	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+ALA	Alachua	10282	11/08/2016	2016 General Election	06	Newberry Municipal Building	2765	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+ALA	Alachua	10282	11/08/2016	2016 General Election	06	Newberry Municipal Building	2765	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	06	Newberry Municipal Building	2765	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	06	Newberry Municipal Building	2765	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	14
+ALA	Alachua	10282	11/08/2016	2016 General Election	06	Newberry Municipal Building	2765	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	06	Newberry Municipal Building	2765	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	07	Ignite Life Center	2428	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	259
+ALA	Alachua	10282	11/08/2016	2016 General Election	07	Ignite Life Center	2428	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1253
+ALA	Alachua	10282	11/08/2016	2016 General Election	07	Ignite Life Center	2428	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+ALA	Alachua	10282	11/08/2016	2016 General Election	07	Ignite Life Center	2428	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	07	Ignite Life Center	2428	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	50
+ALA	Alachua	10282	11/08/2016	2016 General Election	07	Ignite Life Center	2428	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	07	Ignite Life Center	2428	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	26
+ALA	Alachua	10282	11/08/2016	2016 General Election	07	Ignite Life Center	2428	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	07	Ignite Life Center	2428	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	08	Hawthorne City Hall	1992	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	768
+ALA	Alachua	10282	11/08/2016	2016 General Election	08	Hawthorne City Hall	1992	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	636
+ALA	Alachua	10282	11/08/2016	2016 General Election	08	Hawthorne City Hall	1992	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+ALA	Alachua	10282	11/08/2016	2016 General Election	08	Hawthorne City Hall	1992	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	08	Hawthorne City Hall	1992	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	08	Hawthorne City Hall	1992	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	08	Hawthorne City Hall	1992	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	08	Hawthorne City Hall	1992	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	08	Hawthorne City Hall	1992	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	09	Island Grove Baptist Church	518	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	279
+ALA	Alachua	10282	11/08/2016	2016 General Election	09	Island Grove Baptist Church	518	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	117
+ALA	Alachua	10282	11/08/2016	2016 General Election	09	Island Grove Baptist Church	518	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	09	Island Grove Baptist Church	518	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	09	Island Grove Baptist Church	518	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	09	Island Grove Baptist Church	518	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	09	Island Grove Baptist Church	518	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	09	Island Grove Baptist Church	518	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	09	Island Grove Baptist Church	518	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	10	Micanopy Town Hall	1537	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	551
+ALA	Alachua	10282	11/08/2016	2016 General Election	10	Micanopy Town Hall	1537	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	623
+ALA	Alachua	10282	11/08/2016	2016 General Election	10	Micanopy Town Hall	1537	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+ALA	Alachua	10282	11/08/2016	2016 General Election	10	Micanopy Town Hall	1537	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	10	Micanopy Town Hall	1537	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	10	Micanopy Town Hall	1537	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	10	Micanopy Town Hall	1537	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	10	Micanopy Town Hall	1537	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	10	Micanopy Town Hall	1537	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	6
+ALA	Alachua	10282	11/08/2016	2016 General Election	11	Archer Community Center	2787	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	964
+ALA	Alachua	10282	11/08/2016	2016 General Election	11	Archer Community Center	2787	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1044
+ALA	Alachua	10282	11/08/2016	2016 General Election	11	Archer Community Center	2787	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+ALA	Alachua	10282	11/08/2016	2016 General Election	11	Archer Community Center	2787	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	11	Archer Community Center	2787	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	11	Archer Community Center	2787	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	11	Archer Community Center	2787	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	22
+ALA	Alachua	10282	11/08/2016	2016 General Election	11	Archer Community Center	2787	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	11	Archer Community Center	2787	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	12	Parkview Baptist Church	2352	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	335
+ALA	Alachua	10282	11/08/2016	2016 General Election	12	Parkview Baptist Church	2352	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1292
+ALA	Alachua	10282	11/08/2016	2016 General Election	12	Parkview Baptist Church	2352	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+ALA	Alachua	10282	11/08/2016	2016 General Election	12	Parkview Baptist Church	2352	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+ALA	Alachua	10282	11/08/2016	2016 General Election	12	Parkview Baptist Church	2352	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	47
+ALA	Alachua	10282	11/08/2016	2016 General Election	12	Parkview Baptist Church	2352	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	12	Parkview Baptist Church	2352	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	19
+ALA	Alachua	10282	11/08/2016	2016 General Election	12	Parkview Baptist Church	2352	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	12	Parkview Baptist Church	2352	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	7
+ALA	Alachua	10282	11/08/2016	2016 General Election	13	Mt. Carmel Baptist Church	2426	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	58
+ALA	Alachua	10282	11/08/2016	2016 General Election	13	Mt. Carmel Baptist Church	2426	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1472
+ALA	Alachua	10282	11/08/2016	2016 General Election	13	Mt. Carmel Baptist Church	2426	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	13	Mt. Carmel Baptist Church	2426	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	13	Mt. Carmel Baptist Church	2426	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	13	Mt. Carmel Baptist Church	2426	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	13	Mt. Carmel Baptist Church	2426	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	13	Mt. Carmel Baptist Church	2426	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	13	Mt. Carmel Baptist Church	2426	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	6
+ALA	Alachua	10282	11/08/2016	2016 General Election	14	Eliam Baptist Church	1150	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	579
+ALA	Alachua	10282	11/08/2016	2016 General Election	14	Eliam Baptist Church	1150	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	281
+ALA	Alachua	10282	11/08/2016	2016 General Election	14	Eliam Baptist Church	1150	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+ALA	Alachua	10282	11/08/2016	2016 General Election	14	Eliam Baptist Church	1150	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	14	Eliam Baptist Church	1150	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	14	Eliam Baptist Church	1150	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	14	Eliam Baptist Church	1150	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	14	Eliam Baptist Church	1150	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	14	Eliam Baptist Church	1150	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	7
+ALA	Alachua	10282	11/08/2016	2016 General Election	15	Windsor Baptist Church	906	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	371
+ALA	Alachua	10282	11/08/2016	2016 General Election	15	Windsor Baptist Church	906	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	263
+ALA	Alachua	10282	11/08/2016	2016 General Election	15	Windsor Baptist Church	906	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+ALA	Alachua	10282	11/08/2016	2016 General Election	15	Windsor Baptist Church	906	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	15	Windsor Baptist Church	906	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	15	Windsor Baptist Church	906	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	15	Windsor Baptist Church	906	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	7
+ALA	Alachua	10282	11/08/2016	2016 General Election	15	Windsor Baptist Church	906	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	15	Windsor Baptist Church	906	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	16	BestWestern Gateway Grand Hotel	2337	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	899
+ALA	Alachua	10282	11/08/2016	2016 General Election	16	BestWestern Gateway Grand Hotel	2337	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	819
+ALA	Alachua	10282	11/08/2016	2016 General Election	16	BestWestern Gateway Grand Hotel	2337	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	56
+ALA	Alachua	10282	11/08/2016	2016 General Election	16	BestWestern Gateway Grand Hotel	2337	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	16	BestWestern Gateway Grand Hotel	2337	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+ALA	Alachua	10282	11/08/2016	2016 General Election	16	BestWestern Gateway Grand Hotel	2337	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	16	BestWestern Gateway Grand Hotel	2337	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	33
+ALA	Alachua	10282	11/08/2016	2016 General Election	16	BestWestern Gateway Grand Hotel	2337	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	16	BestWestern Gateway Grand Hotel	2337	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	15
+ALA	Alachua	10282	11/08/2016	2016 General Election	17	Elks Lodge #990	2890	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	609
+ALA	Alachua	10282	11/08/2016	2016 General Election	17	Elks Lodge #990	2890	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1390
+ALA	Alachua	10282	11/08/2016	2016 General Election	17	Elks Lodge #990	2890	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	80
+ALA	Alachua	10282	11/08/2016	2016 General Election	17	Elks Lodge #990	2890	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	17	Elks Lodge #990	2890	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	39
+ALA	Alachua	10282	11/08/2016	2016 General Election	17	Elks Lodge #990	2890	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	17	Elks Lodge #990	2890	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	37
+ALA	Alachua	10282	11/08/2016	2016 General Election	17	Elks Lodge #990	2890	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	17	Elks Lodge #990	2890	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	18	Kanapaha Presbyterian Church	2725	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	811
+ALA	Alachua	10282	11/08/2016	2016 General Election	18	Kanapaha Presbyterian Church	2725	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1163
+ALA	Alachua	10282	11/08/2016	2016 General Election	18	Kanapaha Presbyterian Church	2725	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	71
+ALA	Alachua	10282	11/08/2016	2016 General Election	18	Kanapaha Presbyterian Church	2725	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	18	Kanapaha Presbyterian Church	2725	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	18	Kanapaha Presbyterian Church	2725	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	18	Kanapaha Presbyterian Church	2725	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	35
+ALA	Alachua	10282	11/08/2016	2016 General Election	18	Kanapaha Presbyterian Church	2725	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	18	Kanapaha Presbyterian Church	2725	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	19	Springhill Baptist Church	1734	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	100
+ALA	Alachua	10282	11/08/2016	2016 General Election	19	Springhill Baptist Church	1734	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1038
+ALA	Alachua	10282	11/08/2016	2016 General Election	19	Springhill Baptist Church	1734	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	25
+ALA	Alachua	10282	11/08/2016	2016 General Election	19	Springhill Baptist Church	1734	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	19	Springhill Baptist Church	1734	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+ALA	Alachua	10282	11/08/2016	2016 General Election	19	Springhill Baptist Church	1734	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	19	Springhill Baptist Church	1734	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	19	Springhill Baptist Church	1734	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	19	Springhill Baptist Church	1734	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	20	High Springs Civic Center	3299	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1500
+ALA	Alachua	10282	11/08/2016	2016 General Election	20	High Springs Civic Center	3299	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	913
+ALA	Alachua	10282	11/08/2016	2016 General Election	20	High Springs Civic Center	3299	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	64
+ALA	Alachua	10282	11/08/2016	2016 General Election	20	High Springs Civic Center	3299	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	20	High Springs Civic Center	3299	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+ALA	Alachua	10282	11/08/2016	2016 General Election	20	High Springs Civic Center	3299	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	20	High Springs Civic Center	3299	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	29
+ALA	Alachua	10282	11/08/2016	2016 General Election	20	High Springs Civic Center	3299	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	20	High Springs Civic Center	3299	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	21	The Greenhouse Church	2894	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	837
+ALA	Alachua	10282	11/08/2016	2016 General Election	21	The Greenhouse Church	2894	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1235
+ALA	Alachua	10282	11/08/2016	2016 General Election	21	The Greenhouse Church	2894	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	77
+ALA	Alachua	10282	11/08/2016	2016 General Election	21	The Greenhouse Church	2894	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+ALA	Alachua	10282	11/08/2016	2016 General Election	21	The Greenhouse Church	2894	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	33
+ALA	Alachua	10282	11/08/2016	2016 General Election	21	The Greenhouse Church	2894	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	21	The Greenhouse Church	2894	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	41
+ALA	Alachua	10282	11/08/2016	2016 General Election	21	The Greenhouse Church	2894	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	21	The Greenhouse Church	2894	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	22	First Church Of The Nazarene	3338	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	894
+ALA	Alachua	10282	11/08/2016	2016 General Election	22	First Church Of The Nazarene	3338	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1415
+ALA	Alachua	10282	11/08/2016	2016 General Election	22	First Church Of The Nazarene	3338	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	82
+ALA	Alachua	10282	11/08/2016	2016 General Election	22	First Church Of The Nazarene	3338	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	22	First Church Of The Nazarene	3338	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+ALA	Alachua	10282	11/08/2016	2016 General Election	22	First Church Of The Nazarene	3338	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	22	First Church Of The Nazarene	3338	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	28
+ALA	Alachua	10282	11/08/2016	2016 General Election	22	First Church Of The Nazarene	3338	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	22	First Church Of The Nazarene	3338	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	25
+ALA	Alachua	10282	11/08/2016	2016 General Election	23	American Cancer Society Hope Lodge	1833	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	306
+ALA	Alachua	10282	11/08/2016	2016 General Election	23	American Cancer Society Hope Lodge	1833	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	872
+ALA	Alachua	10282	11/08/2016	2016 General Election	23	American Cancer Society Hope Lodge	1833	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+ALA	Alachua	10282	11/08/2016	2016 General Election	23	American Cancer Society Hope Lodge	1833	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	23	American Cancer Society Hope Lodge	1833	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+ALA	Alachua	10282	11/08/2016	2016 General Election	23	American Cancer Society Hope Lodge	1833	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	23	American Cancer Society Hope Lodge	1833	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	20
+ALA	Alachua	10282	11/08/2016	2016 General Election	23	American Cancer Society Hope Lodge	1833	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	23	American Cancer Society Hope Lodge	1833	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	24	Gainesville Baptist Church	2172	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	472
+ALA	Alachua	10282	11/08/2016	2016 General Election	24	Gainesville Baptist Church	2172	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1107
+ALA	Alachua	10282	11/08/2016	2016 General Election	24	Gainesville Baptist Church	2172	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	67
+ALA	Alachua	10282	11/08/2016	2016 General Election	24	Gainesville Baptist Church	2172	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	24	Gainesville Baptist Church	2172	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+ALA	Alachua	10282	11/08/2016	2016 General Election	24	Gainesville Baptist Church	2172	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	24	Gainesville Baptist Church	2172	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	29
+ALA	Alachua	10282	11/08/2016	2016 General Election	24	Gainesville Baptist Church	2172	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	24	Gainesville Baptist Church	2172	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	14
+ALA	Alachua	10282	11/08/2016	2016 General Election	25	SFC Center for Innov. & Econ. Dev.	2723	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	269
+ALA	Alachua	10282	11/08/2016	2016 General Election	25	SFC Center for Innov. & Econ. Dev.	2723	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1320
+ALA	Alachua	10282	11/08/2016	2016 General Election	25	SFC Center for Innov. & Econ. Dev.	2723	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+ALA	Alachua	10282	11/08/2016	2016 General Election	25	SFC Center for Innov. & Econ. Dev.	2723	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	25	SFC Center for Innov. & Econ. Dev.	2723	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	34
+ALA	Alachua	10282	11/08/2016	2016 General Election	25	SFC Center for Innov. & Econ. Dev.	2723	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	25	SFC Center for Innov. & Econ. Dev.	2723	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	22
+ALA	Alachua	10282	11/08/2016	2016 General Election	25	SFC Center for Innov. & Econ. Dev.	2723	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	25	SFC Center for Innov. & Econ. Dev.	2723	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	26	Westside Recreation Center	1718	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	319
+ALA	Alachua	10282	11/08/2016	2016 General Election	26	Westside Recreation Center	1718	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	935
+ALA	Alachua	10282	11/08/2016	2016 General Election	26	Westside Recreation Center	1718	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+ALA	Alachua	10282	11/08/2016	2016 General Election	26	Westside Recreation Center	1718	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	26	Westside Recreation Center	1718	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	26	Westside Recreation Center	1718	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	26	Westside Recreation Center	1718	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	26
+ALA	Alachua	10282	11/08/2016	2016 General Election	26	Westside Recreation Center	1718	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	26	Westside Recreation Center	1718	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	27	Thelma Boltin Activity Center	3481	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	331
+ALA	Alachua	10282	11/08/2016	2016 General Election	27	Thelma Boltin Activity Center	3481	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2110
+ALA	Alachua	10282	11/08/2016	2016 General Election	27	Thelma Boltin Activity Center	3481	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	74
+ALA	Alachua	10282	11/08/2016	2016 General Election	27	Thelma Boltin Activity Center	3481	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+ALA	Alachua	10282	11/08/2016	2016 General Election	27	Thelma Boltin Activity Center	3481	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	45
+ALA	Alachua	10282	11/08/2016	2016 General Election	27	Thelma Boltin Activity Center	3481	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	27	Thelma Boltin Activity Center	3481	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	22
+ALA	Alachua	10282	11/08/2016	2016 General Election	27	Thelma Boltin Activity Center	3481	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	27	Thelma Boltin Activity Center	3481	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	28	McPherson Recreation Center	2976	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	159
+ALA	Alachua	10282	11/08/2016	2016 General Election	28	McPherson Recreation Center	2976	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1829
+ALA	Alachua	10282	11/08/2016	2016 General Election	28	McPherson Recreation Center	2976	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	28	McPherson Recreation Center	2976	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	28	McPherson Recreation Center	2976	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	28	McPherson Recreation Center	2976	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	28	McPherson Recreation Center	2976	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	12
+ALA	Alachua	10282	11/08/2016	2016 General Election	28	McPherson Recreation Center	2976	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	28	McPherson Recreation Center	2976	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	29	Haile Meeting Hall	2788	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1024
+ALA	Alachua	10282	11/08/2016	2016 General Election	29	Haile Meeting Hall	2788	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1081
+ALA	Alachua	10282	11/08/2016	2016 General Election	29	Haile Meeting Hall	2788	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+ALA	Alachua	10282	11/08/2016	2016 General Election	29	Haile Meeting Hall	2788	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	29	Haile Meeting Hall	2788	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	29	Haile Meeting Hall	2788	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	29	Haile Meeting Hall	2788	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	30
+ALA	Alachua	10282	11/08/2016	2016 General Election	29	Haile Meeting Hall	2788	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	29	Haile Meeting Hall	2788	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	20
+ALA	Alachua	10282	11/08/2016	2016 General Election	30	Greater Bethel A.M.E. Church	2725	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	288
+ALA	Alachua	10282	11/08/2016	2016 General Election	30	Greater Bethel A.M.E. Church	2725	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1545
+ALA	Alachua	10282	11/08/2016	2016 General Election	30	Greater Bethel A.M.E. Church	2725	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+ALA	Alachua	10282	11/08/2016	2016 General Election	30	Greater Bethel A.M.E. Church	2725	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	30	Greater Bethel A.M.E. Church	2725	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+ALA	Alachua	10282	11/08/2016	2016 General Election	30	Greater Bethel A.M.E. Church	2725	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	30	Greater Bethel A.M.E. Church	2725	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	30	Greater Bethel A.M.E. Church	2725	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	30	Greater Bethel A.M.E. Church	2725	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	31	J. Wayne Reitz Union	5788	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	943
+ALA	Alachua	10282	11/08/2016	2016 General Election	31	J. Wayne Reitz Union	5788	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2554
+ALA	Alachua	10282	11/08/2016	2016 General Election	31	J. Wayne Reitz Union	5788	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	156
+ALA	Alachua	10282	11/08/2016	2016 General Election	31	J. Wayne Reitz Union	5788	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	31	J. Wayne Reitz Union	5788	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	39
+ALA	Alachua	10282	11/08/2016	2016 General Election	31	J. Wayne Reitz Union	5788	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	31	J. Wayne Reitz Union	5788	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	29
+ALA	Alachua	10282	11/08/2016	2016 General Election	31	J. Wayne Reitz Union	5788	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	31	J. Wayne Reitz Union	5788	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	32	LifeSouth Community Blood Centers	3604	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	691
+ALA	Alachua	10282	11/08/2016	2016 General Election	32	LifeSouth Community Blood Centers	3604	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1653
+ALA	Alachua	10282	11/08/2016	2016 General Election	32	LifeSouth Community Blood Centers	3604	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	122
+ALA	Alachua	10282	11/08/2016	2016 General Election	32	LifeSouth Community Blood Centers	3604	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+ALA	Alachua	10282	11/08/2016	2016 General Election	32	LifeSouth Community Blood Centers	3604	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	56
+ALA	Alachua	10282	11/08/2016	2016 General Election	32	LifeSouth Community Blood Centers	3604	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	32	LifeSouth Community Blood Centers	3604	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	46
+ALA	Alachua	10282	11/08/2016	2016 General Election	32	LifeSouth Community Blood Centers	3604	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	32	LifeSouth Community Blood Centers	3604	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	33	Ironwood Clubhouse	2812	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	230
+ALA	Alachua	10282	11/08/2016	2016 General Election	33	Ironwood Clubhouse	2812	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1566
+ALA	Alachua	10282	11/08/2016	2016 General Election	33	Ironwood Clubhouse	2812	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+ALA	Alachua	10282	11/08/2016	2016 General Election	33	Ironwood Clubhouse	2812	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	33	Ironwood Clubhouse	2812	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+ALA	Alachua	10282	11/08/2016	2016 General Election	33	Ironwood Clubhouse	2812	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	33	Ironwood Clubhouse	2812	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	25
+ALA	Alachua	10282	11/08/2016	2016 General Election	33	Ironwood Clubhouse	2812	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	33	Ironwood Clubhouse	2812	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	34	Fairbanks Baptist Church	1268	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	517
+ALA	Alachua	10282	11/08/2016	2016 General Election	34	Fairbanks Baptist Church	1268	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	399
+ALA	Alachua	10282	11/08/2016	2016 General Election	34	Fairbanks Baptist Church	1268	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	34	Fairbanks Baptist Church	1268	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	34	Fairbanks Baptist Church	1268	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+ALA	Alachua	10282	11/08/2016	2016 General Election	34	Fairbanks Baptist Church	1268	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	34	Fairbanks Baptist Church	1268	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	34	Fairbanks Baptist Church	1268	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	34	Fairbanks Baptist Church	1268	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	7
+ALA	Alachua	10282	11/08/2016	2016 General Election	35	Southwest United Methodist Church	1605	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	531
+ALA	Alachua	10282	11/08/2016	2016 General Election	35	Southwest United Methodist Church	1605	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	666
+ALA	Alachua	10282	11/08/2016	2016 General Election	35	Southwest United Methodist Church	1605	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+ALA	Alachua	10282	11/08/2016	2016 General Election	35	Southwest United Methodist Church	1605	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	35	Southwest United Methodist Church	1605	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+ALA	Alachua	10282	11/08/2016	2016 General Election	35	Southwest United Methodist Church	1605	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	35	Southwest United Methodist Church	1605	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	35	Southwest United Methodist Church	1605	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	35	Southwest United Methodist Church	1605	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	9
+ALA	Alachua	10282	11/08/2016	2016 General Election	36	Doyle Conner Building	3687	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	525
+ALA	Alachua	10282	11/08/2016	2016 General Election	36	Doyle Conner Building	3687	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1577
+ALA	Alachua	10282	11/08/2016	2016 General Election	36	Doyle Conner Building	3687	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	99
+ALA	Alachua	10282	11/08/2016	2016 General Election	36	Doyle Conner Building	3687	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	36	Doyle Conner Building	3687	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	42
+ALA	Alachua	10282	11/08/2016	2016 General Election	36	Doyle Conner Building	3687	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	36	Doyle Conner Building	3687	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	24
+ALA	Alachua	10282	11/08/2016	2016 General Election	36	Doyle Conner Building	3687	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	36	Doyle Conner Building	3687	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	37	Unitarian Universalist Fellowship	2227	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	682
+ALA	Alachua	10282	11/08/2016	2016 General Election	37	Unitarian Universalist Fellowship	2227	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1005
+ALA	Alachua	10282	11/08/2016	2016 General Election	37	Unitarian Universalist Fellowship	2227	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+ALA	Alachua	10282	11/08/2016	2016 General Election	37	Unitarian Universalist Fellowship	2227	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	37	Unitarian Universalist Fellowship	2227	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+ALA	Alachua	10282	11/08/2016	2016 General Election	37	Unitarian Universalist Fellowship	2227	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	37	Unitarian Universalist Fellowship	2227	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	37	Unitarian Universalist Fellowship	2227	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	37	Unitarian Universalist Fellowship	2227	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	15
+ALA	Alachua	10282	11/08/2016	2016 General Election	38	Senior Recreation Center	3384	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	849
+ALA	Alachua	10282	11/08/2016	2016 General Election	38	Senior Recreation Center	3384	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1540
+ALA	Alachua	10282	11/08/2016	2016 General Election	38	Senior Recreation Center	3384	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	88
+ALA	Alachua	10282	11/08/2016	2016 General Election	38	Senior Recreation Center	3384	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	38	Senior Recreation Center	3384	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+ALA	Alachua	10282	11/08/2016	2016 General Election	38	Senior Recreation Center	3384	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	38	Senior Recreation Center	3384	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	42
+ALA	Alachua	10282	11/08/2016	2016 General Election	38	Senior Recreation Center	3384	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	38	Senior Recreation Center	3384	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	39	Hilton Garden Inn	3410	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	459
+ALA	Alachua	10282	11/08/2016	2016 General Election	39	Hilton Garden Inn	3410	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1484
+ALA	Alachua	10282	11/08/2016	2016 General Election	39	Hilton Garden Inn	3410	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	70
+ALA	Alachua	10282	11/08/2016	2016 General Election	39	Hilton Garden Inn	3410	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	39	Hilton Garden Inn	3410	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	34
+ALA	Alachua	10282	11/08/2016	2016 General Election	39	Hilton Garden Inn	3410	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	39	Hilton Garden Inn	3410	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	29
+ALA	Alachua	10282	11/08/2016	2016 General Election	39	Hilton Garden Inn	3410	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	39	Hilton Garden Inn	3410	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	40	University City Church Of Christ	2226	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	687
+ALA	Alachua	10282	11/08/2016	2016 General Election	40	University City Church Of Christ	2226	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1009
+ALA	Alachua	10282	11/08/2016	2016 General Election	40	University City Church Of Christ	2226	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+ALA	Alachua	10282	11/08/2016	2016 General Election	40	University City Church Of Christ	2226	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	40	University City Church Of Christ	2226	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	40	University City Church Of Christ	2226	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	40	University City Church Of Christ	2226	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	27
+ALA	Alachua	10282	11/08/2016	2016 General Election	40	University City Church Of Christ	2226	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	40	University City Church Of Christ	2226	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	41	Oak Dale Baptist Church	2493	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1017
+ALA	Alachua	10282	11/08/2016	2016 General Election	41	Oak Dale Baptist Church	2493	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	868
+ALA	Alachua	10282	11/08/2016	2016 General Election	41	Oak Dale Baptist Church	2493	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+ALA	Alachua	10282	11/08/2016	2016 General Election	41	Oak Dale Baptist Church	2493	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	41	Oak Dale Baptist Church	2493	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	41	Oak Dale Baptist Church	2493	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	41	Oak Dale Baptist Church	2493	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	29
+ALA	Alachua	10282	11/08/2016	2016 General Election	41	Oak Dale Baptist Church	2493	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	41	Oak Dale Baptist Church	2493	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	12
+ALA	Alachua	10282	11/08/2016	2016 General Election	42	Tower Road Branch Library	2862	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	983
+ALA	Alachua	10282	11/08/2016	2016 General Election	42	Tower Road Branch Library	2862	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1187
+ALA	Alachua	10282	11/08/2016	2016 General Election	42	Tower Road Branch Library	2862	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	80
+ALA	Alachua	10282	11/08/2016	2016 General Election	42	Tower Road Branch Library	2862	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	42	Tower Road Branch Library	2862	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	42	Tower Road Branch Library	2862	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	42	Tower Road Branch Library	2862	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	36
+ALA	Alachua	10282	11/08/2016	2016 General Election	42	Tower Road Branch Library	2862	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	42	Tower Road Branch Library	2862	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	43	Grace United Methodist Church	3419	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	705
+ALA	Alachua	10282	11/08/2016	2016 General Election	43	Grace United Methodist Church	3419	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1400
+ALA	Alachua	10282	11/08/2016	2016 General Election	43	Grace United Methodist Church	3419	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	74
+ALA	Alachua	10282	11/08/2016	2016 General Election	43	Grace United Methodist Church	3419	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	43	Grace United Methodist Church	3419	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+ALA	Alachua	10282	11/08/2016	2016 General Election	43	Grace United Methodist Church	3419	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	43	Grace United Methodist Church	3419	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	14
+ALA	Alachua	10282	11/08/2016	2016 General Election	43	Grace United Methodist Church	3419	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	43	Grace United Methodist Church	3419	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	44	Phillips Center for the Perf. Arts	6666	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	762
+ALA	Alachua	10282	11/08/2016	2016 General Election	44	Phillips Center for the Perf. Arts	6666	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	3176
+ALA	Alachua	10282	11/08/2016	2016 General Election	44	Phillips Center for the Perf. Arts	6666	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	177
+ALA	Alachua	10282	11/08/2016	2016 General Election	44	Phillips Center for the Perf. Arts	6666	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	44	Phillips Center for the Perf. Arts	6666	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	49
+ALA	Alachua	10282	11/08/2016	2016 General Election	44	Phillips Center for the Perf. Arts	6666	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	44	Phillips Center for the Perf. Arts	6666	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	55
+ALA	Alachua	10282	11/08/2016	2016 General Election	44	Phillips Center for the Perf. Arts	6666	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	44	Phillips Center for the Perf. Arts	6666	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	26
+ALA	Alachua	10282	11/08/2016	2016 General Election	45	Trinity United Methodist Church	5388	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1748
+ALA	Alachua	10282	11/08/2016	2016 General Election	45	Trinity United Methodist Church	5388	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2392
+ALA	Alachua	10282	11/08/2016	2016 General Election	45	Trinity United Methodist Church	5388	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	144
+ALA	Alachua	10282	11/08/2016	2016 General Election	45	Trinity United Methodist Church	5388	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	45	Trinity United Methodist Church	5388	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	41
+ALA	Alachua	10282	11/08/2016	2016 General Election	45	Trinity United Methodist Church	5388	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	45	Trinity United Methodist Church	5388	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	44
+ALA	Alachua	10282	11/08/2016	2016 General Election	45	Trinity United Methodist Church	5388	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	45	Trinity United Methodist Church	5388	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	30
+ALA	Alachua	10282	11/08/2016	2016 General Election	46	Westside Baptist Church	3647	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1346
+ALA	Alachua	10282	11/08/2016	2016 General Election	46	Westside Baptist Church	3647	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1448
+ALA	Alachua	10282	11/08/2016	2016 General Election	46	Westside Baptist Church	3647	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	76
+ALA	Alachua	10282	11/08/2016	2016 General Election	46	Westside Baptist Church	3647	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+ALA	Alachua	10282	11/08/2016	2016 General Election	46	Westside Baptist Church	3647	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+ALA	Alachua	10282	11/08/2016	2016 General Election	46	Westside Baptist Church	3647	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	46	Westside Baptist Church	3647	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	49
+ALA	Alachua	10282	11/08/2016	2016 General Election	46	Westside Baptist Church	3647	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	46	Westside Baptist Church	3647	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	19
+ALA	Alachua	10282	11/08/2016	2016 General Election	47	The Family Church	3275	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1227
+ALA	Alachua	10282	11/08/2016	2016 General Election	47	The Family Church	3275	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1364
+ALA	Alachua	10282	11/08/2016	2016 General Election	47	The Family Church	3275	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	77
+ALA	Alachua	10282	11/08/2016	2016 General Election	47	The Family Church	3275	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	47	The Family Church	3275	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	47	The Family Church	3275	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	47	The Family Church	3275	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	32
+ALA	Alachua	10282	11/08/2016	2016 General Election	47	The Family Church	3275	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	47	The Family Church	3275	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	48	Freedom Comm. Center at Kanapaha	2946	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	658
+ALA	Alachua	10282	11/08/2016	2016 General Election	48	Freedom Comm. Center at Kanapaha	2946	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1131
+ALA	Alachua	10282	11/08/2016	2016 General Election	48	Freedom Comm. Center at Kanapaha	2946	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	80
+ALA	Alachua	10282	11/08/2016	2016 General Election	48	Freedom Comm. Center at Kanapaha	2946	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	48	Freedom Comm. Center at Kanapaha	2946	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	43
+ALA	Alachua	10282	11/08/2016	2016 General Election	48	Freedom Comm. Center at Kanapaha	2946	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	48	Freedom Comm. Center at Kanapaha	2946	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	28
+ALA	Alachua	10282	11/08/2016	2016 General Election	48	Freedom Comm. Center at Kanapaha	2946	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	48	Freedom Comm. Center at Kanapaha	2946	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	49	First Baptist Church	2304	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1038
+ALA	Alachua	10282	11/08/2016	2016 General Election	49	First Baptist Church	2304	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	779
+ALA	Alachua	10282	11/08/2016	2016 General Election	49	First Baptist Church	2304	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+ALA	Alachua	10282	11/08/2016	2016 General Election	49	First Baptist Church	2304	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	49	First Baptist Church	2304	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	49	First Baptist Church	2304	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	49	First Baptist Church	2304	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	19
+ALA	Alachua	10282	11/08/2016	2016 General Election	49	First Baptist Church	2304	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	49	First Baptist Church	2304	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	50	Westminster Presbyterian Church	1863	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	456
+ALA	Alachua	10282	11/08/2016	2016 General Election	50	Westminster Presbyterian Church	1863	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	969
+ALA	Alachua	10282	11/08/2016	2016 General Election	50	Westminster Presbyterian Church	1863	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+ALA	Alachua	10282	11/08/2016	2016 General Election	50	Westminster Presbyterian Church	1863	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	50	Westminster Presbyterian Church	1863	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+ALA	Alachua	10282	11/08/2016	2016 General Election	50	Westminster Presbyterian Church	1863	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	50	Westminster Presbyterian Church	1863	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	50	Westminster Presbyterian Church	1863	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	50	Westminster Presbyterian Church	1863	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	22
+ALA	Alachua	10282	11/08/2016	2016 General Election	51	Faith Presbyterian Church	3179	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	958
+ALA	Alachua	10282	11/08/2016	2016 General Election	51	Faith Presbyterian Church	3179	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1414
+ALA	Alachua	10282	11/08/2016	2016 General Election	51	Faith Presbyterian Church	3179	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	74
+ALA	Alachua	10282	11/08/2016	2016 General Election	51	Faith Presbyterian Church	3179	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+ALA	Alachua	10282	11/08/2016	2016 General Election	51	Faith Presbyterian Church	3179	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+ALA	Alachua	10282	11/08/2016	2016 General Election	51	Faith Presbyterian Church	3179	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	51	Faith Presbyterian Church	3179	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	25
+ALA	Alachua	10282	11/08/2016	2016 General Election	51	Faith Presbyterian Church	3179	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	51	Faith Presbyterian Church	3179	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	52	DAV State Office	2274	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	313
+ALA	Alachua	10282	11/08/2016	2016 General Election	52	DAV State Office	2274	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1002
+ALA	Alachua	10282	11/08/2016	2016 General Election	52	DAV State Office	2274	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+ALA	Alachua	10282	11/08/2016	2016 General Election	52	DAV State Office	2274	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	52	DAV State Office	2274	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+ALA	Alachua	10282	11/08/2016	2016 General Election	52	DAV State Office	2274	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	52	DAV State Office	2274	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	18
+ALA	Alachua	10282	11/08/2016	2016 General Election	52	DAV State Office	2274	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	52	DAV State Office	2274	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	11
+ALA	Alachua	10282	11/08/2016	2016 General Election	53	Hathcock Community Center	2866	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	956
+ALA	Alachua	10282	11/08/2016	2016 General Election	53	Hathcock Community Center	2866	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1085
+ALA	Alachua	10282	11/08/2016	2016 General Election	53	Hathcock Community Center	2866	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+ALA	Alachua	10282	11/08/2016	2016 General Election	53	Hathcock Community Center	2866	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+ALA	Alachua	10282	11/08/2016	2016 General Election	53	Hathcock Community Center	2866	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	35
+ALA	Alachua	10282	11/08/2016	2016 General Election	53	Hathcock Community Center	2866	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	53	Hathcock Community Center	2866	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	15
+ALA	Alachua	10282	11/08/2016	2016 General Election	53	Hathcock Community Center	2866	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	53	Hathcock Community Center	2866	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	21
+ALA	Alachua	10282	11/08/2016	2016 General Election	54	Florida Museum of Natural History	3951	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	562
+ALA	Alachua	10282	11/08/2016	2016 General Election	54	Florida Museum of Natural History	3951	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1775
+ALA	Alachua	10282	11/08/2016	2016 General Election	54	Florida Museum of Natural History	3951	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	104
+ALA	Alachua	10282	11/08/2016	2016 General Election	54	Florida Museum of Natural History	3951	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+ALA	Alachua	10282	11/08/2016	2016 General Election	54	Florida Museum of Natural History	3951	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	47
+ALA	Alachua	10282	11/08/2016	2016 General Election	54	Florida Museum of Natural History	3951	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	54	Florida Museum of Natural History	3951	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	35
+ALA	Alachua	10282	11/08/2016	2016 General Election	54	Florida Museum of Natural History	3951	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	54	Florida Museum of Natural History	3951	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	55	City Public Works Admin. Bldg.	1305	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	126
+ALA	Alachua	10282	11/08/2016	2016 General Election	55	City Public Works Admin. Bldg.	1305	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	704
+ALA	Alachua	10282	11/08/2016	2016 General Election	55	City Public Works Admin. Bldg.	1305	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	55	City Public Works Admin. Bldg.	1305	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	55	City Public Works Admin. Bldg.	1305	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+ALA	Alachua	10282	11/08/2016	2016 General Election	55	City Public Works Admin. Bldg.	1305	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	55	City Public Works Admin. Bldg.	1305	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	6
+ALA	Alachua	10282	11/08/2016	2016 General Election	55	City Public Works Admin. Bldg.	1305	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	55	City Public Works Admin. Bldg.	1305	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	7
+ALA	Alachua	10282	11/08/2016	2016 General Election	56	Covenant Presbyterian Church	2920	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	942
+ALA	Alachua	10282	11/08/2016	2016 General Election	56	Covenant Presbyterian Church	2920	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1121
+ALA	Alachua	10282	11/08/2016	2016 General Election	56	Covenant Presbyterian Church	2920	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	86
+ALA	Alachua	10282	11/08/2016	2016 General Election	56	Covenant Presbyterian Church	2920	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	56	Covenant Presbyterian Church	2920	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+ALA	Alachua	10282	11/08/2016	2016 General Election	56	Covenant Presbyterian Church	2920	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	56	Covenant Presbyterian Church	2920	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	28
+ALA	Alachua	10282	11/08/2016	2016 General Election	56	Covenant Presbyterian Church	2920	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	56	Covenant Presbyterian Church	2920	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	15
+ALA	Alachua	10282	11/08/2016	2016 General Election	57	Z.L. Sung 7th-day Adventist School	2763	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	658
+ALA	Alachua	10282	11/08/2016	2016 General Election	57	Z.L. Sung 7th-day Adventist School	2763	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1282
+ALA	Alachua	10282	11/08/2016	2016 General Election	57	Z.L. Sung 7th-day Adventist School	2763	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+ALA	Alachua	10282	11/08/2016	2016 General Election	57	Z.L. Sung 7th-day Adventist School	2763	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+ALA	Alachua	10282	11/08/2016	2016 General Election	57	Z.L. Sung 7th-day Adventist School	2763	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	38
+ALA	Alachua	10282	11/08/2016	2016 General Election	57	Z.L. Sung 7th-day Adventist School	2763	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	57	Z.L. Sung 7th-day Adventist School	2763	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	28
+ALA	Alachua	10282	11/08/2016	2016 General Election	57	Z.L. Sung 7th-day Adventist School	2763	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	57	Z.L. Sung 7th-day Adventist School	2763	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	14
+ALA	Alachua	10282	11/08/2016	2016 General Election	58	Gainesville Shrine Club	4663	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1447
+ALA	Alachua	10282	11/08/2016	2016 General Election	58	Gainesville Shrine Club	4663	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1900
+ALA	Alachua	10282	11/08/2016	2016 General Election	58	Gainesville Shrine Club	4663	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	134
+ALA	Alachua	10282	11/08/2016	2016 General Election	58	Gainesville Shrine Club	4663	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+ALA	Alachua	10282	11/08/2016	2016 General Election	58	Gainesville Shrine Club	4663	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	29
+ALA	Alachua	10282	11/08/2016	2016 General Election	58	Gainesville Shrine Club	4663	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	58	Gainesville Shrine Club	4663	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	43
+ALA	Alachua	10282	11/08/2016	2016 General Election	58	Gainesville Shrine Club	4663	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	58	Gainesville Shrine Club	4663	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	59	Paramount Plaza Hotel	6822	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1198
+ALA	Alachua	10282	11/08/2016	2016 General Election	59	Paramount Plaza Hotel	6822	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2899
+ALA	Alachua	10282	11/08/2016	2016 General Election	59	Paramount Plaza Hotel	6822	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	176
+ALA	Alachua	10282	11/08/2016	2016 General Election	59	Paramount Plaza Hotel	6822	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+ALA	Alachua	10282	11/08/2016	2016 General Election	59	Paramount Plaza Hotel	6822	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	75
+ALA	Alachua	10282	11/08/2016	2016 General Election	59	Paramount Plaza Hotel	6822	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ALA	Alachua	10282	11/08/2016	2016 General Election	59	Paramount Plaza Hotel	6822	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	47
+ALA	Alachua	10282	11/08/2016	2016 General Election	59	Paramount Plaza Hotel	6822	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	59	Paramount Plaza Hotel	6822	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	9
+ALA	Alachua	10282	11/08/2016	2016 General Election	60	Fellowship Church of High Springs	3117	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1827
+ALA	Alachua	10282	11/08/2016	2016 General Election	60	Fellowship Church of High Springs	3117	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	618
+ALA	Alachua	10282	11/08/2016	2016 General Election	60	Fellowship Church of High Springs	3117	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+ALA	Alachua	10282	11/08/2016	2016 General Election	60	Fellowship Church of High Springs	3117	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	60	Fellowship Church of High Springs	3117	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	60	Fellowship Church of High Springs	3117	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	60	Fellowship Church of High Springs	3117	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	29
+ALA	Alachua	10282	11/08/2016	2016 General Election	60	Fellowship Church of High Springs	3117	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	60	Fellowship Church of High Springs	3117	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	61	The Atrium	2224	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	607
+ALA	Alachua	10282	11/08/2016	2016 General Election	61	The Atrium	2224	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1145
+ALA	Alachua	10282	11/08/2016	2016 General Election	61	The Atrium	2224	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+ALA	Alachua	10282	11/08/2016	2016 General Election	61	The Atrium	2224	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	61	The Atrium	2224	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+ALA	Alachua	10282	11/08/2016	2016 General Election	61	The Atrium	2224	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	61	The Atrium	2224	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	19
+ALA	Alachua	10282	11/08/2016	2016 General Election	61	The Atrium	2224	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	61	The Atrium	2224	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	8
+ALA	Alachua	10282	11/08/2016	2016 General Election	62	North Central Baptist Church	2747	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	594
+ALA	Alachua	10282	11/08/2016	2016 General Election	62	North Central Baptist Church	2747	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1159
+ALA	Alachua	10282	11/08/2016	2016 General Election	62	North Central Baptist Church	2747	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+ALA	Alachua	10282	11/08/2016	2016 General Election	62	North Central Baptist Church	2747	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	62	North Central Baptist Church	2747	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+ALA	Alachua	10282	11/08/2016	2016 General Election	62	North Central Baptist Church	2747	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ALA	Alachua	10282	11/08/2016	2016 General Election	62	North Central Baptist Church	2747	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	27
+ALA	Alachua	10282	11/08/2016	2016 General Election	62	North Central Baptist Church	2747	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	1
+ALA	Alachua	10282	11/08/2016	2016 General Election	62	North Central Baptist Church	2747	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	13
+ALA	Alachua	10282	11/08/2016	2016 General Election	63	CSI Academy of Florida	2479	0	0	165593	President of the United States	 	100000	Trump / Pence	REP	0	65072	1133
+ALA	Alachua	10282	11/08/2016	2016 General Election	63	CSI Academy of Florida	2479	0	0	165593	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	799
+ALA	Alachua	10282	11/08/2016	2016 General Election	63	CSI Academy of Florida	2479	0	0	165593	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+ALA	Alachua	10282	11/08/2016	2016 General Election	63	CSI Academy of Florida	2479	0	0	165593	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ALA	Alachua	10282	11/08/2016	2016 General Election	63	CSI Academy of Florida	2479	0	0	165593	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+ALA	Alachua	10282	11/08/2016	2016 General Election	63	CSI Academy of Florida	2479	0	0	165593	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ALA	Alachua	10282	11/08/2016	2016 General Election	63	CSI Academy of Florida	2479	0	0	165593	President of the United States	 	100000	WriteinVotes	 	0	900	16
+ALA	Alachua	10282	11/08/2016	2016 General Election	63	CSI Academy of Florida	2479	0	0	165593	President of the United States	 	100000	OverVotes	 	0	901	2
+ALA	Alachua	10282	11/08/2016	2016 General Election	63	CSI Academy of Florida	2479	0	0	165593	President of the United States	 	100000	UnderVotes	 	0	902	15

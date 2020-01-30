@@ -1,0 +1,630 @@
+MAN	Manatee	10282	11/08/2016	2016 General Election	101	101	5397	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2589
+MAN	Manatee	10282	11/08/2016	2016 General Election	101	101	5397	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1408
+MAN	Manatee	10282	11/08/2016	2016 General Election	101	101	5397	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	133
+MAN	Manatee	10282	11/08/2016	2016 General Election	101	101	5397	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	101	101	5397	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+MAN	Manatee	10282	11/08/2016	2016 General Election	101	101	5397	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	101	101	5397	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	35
+MAN	Manatee	10282	11/08/2016	2016 General Election	101	101	5397	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	101	101	5397	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	35
+MAN	Manatee	10282	11/08/2016	2016 General Election	103	103	980	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	492
+MAN	Manatee	10282	11/08/2016	2016 General Election	103	103	980	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	245
+MAN	Manatee	10282	11/08/2016	2016 General Election	103	103	980	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+MAN	Manatee	10282	11/08/2016	2016 General Election	103	103	980	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	103	103	980	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	103	103	980	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	103	103	980	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	103	103	980	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	103	103	980	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	107	107	1612	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	828
+MAN	Manatee	10282	11/08/2016	2016 General Election	107	107	1612	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	383
+MAN	Manatee	10282	11/08/2016	2016 General Election	107	107	1612	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+MAN	Manatee	10282	11/08/2016	2016 General Election	107	107	1612	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	107	107	1612	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	107	107	1612	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	107	107	1612	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	107	107	1612	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	107	107	1612	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	111	111	1315	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	579
+MAN	Manatee	10282	11/08/2016	2016 General Election	111	111	1315	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	445
+MAN	Manatee	10282	11/08/2016	2016 General Election	111	111	1315	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+MAN	Manatee	10282	11/08/2016	2016 General Election	111	111	1315	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	111	111	1315	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	111	111	1315	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	111	111	1315	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	111	111	1315	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	111	111	1315	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	117	117	4193	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2050
+MAN	Manatee	10282	11/08/2016	2016 General Election	117	117	4193	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1137
+MAN	Manatee	10282	11/08/2016	2016 General Election	117	117	4193	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	103
+MAN	Manatee	10282	11/08/2016	2016 General Election	117	117	4193	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	117	117	4193	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+MAN	Manatee	10282	11/08/2016	2016 General Election	117	117	4193	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	117	117	4193	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	41
+MAN	Manatee	10282	11/08/2016	2016 General Election	117	117	4193	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	117	117	4193	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	13
+MAN	Manatee	10282	11/08/2016	2016 General Election	119	119	1600	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	846
+MAN	Manatee	10282	11/08/2016	2016 General Election	119	119	1600	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	431
+MAN	Manatee	10282	11/08/2016	2016 General Election	119	119	1600	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+MAN	Manatee	10282	11/08/2016	2016 General Election	119	119	1600	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	119	119	1600	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	119	119	1600	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	119	119	1600	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	119	119	1600	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	119	119	1600	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	121	121	4589	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2424
+MAN	Manatee	10282	11/08/2016	2016 General Election	121	121	4589	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1307
+MAN	Manatee	10282	11/08/2016	2016 General Election	121	121	4589	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	86
+MAN	Manatee	10282	11/08/2016	2016 General Election	121	121	4589	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	121	121	4589	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+MAN	Manatee	10282	11/08/2016	2016 General Election	121	121	4589	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	121	121	4589	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	29
+MAN	Manatee	10282	11/08/2016	2016 General Election	121	121	4589	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	121	121	4589	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	24
+MAN	Manatee	10282	11/08/2016	2016 General Election	123	123	3844	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1750
+MAN	Manatee	10282	11/08/2016	2016 General Election	123	123	3844	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1182
+MAN	Manatee	10282	11/08/2016	2016 General Election	123	123	3844	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	70
+MAN	Manatee	10282	11/08/2016	2016 General Election	123	123	3844	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	123	123	3844	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+MAN	Manatee	10282	11/08/2016	2016 General Election	123	123	3844	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	123	123	3844	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	22
+MAN	Manatee	10282	11/08/2016	2016 General Election	123	123	3844	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	123	123	3844	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	125	125	2230	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1101
+MAN	Manatee	10282	11/08/2016	2016 General Election	125	125	2230	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	692
+MAN	Manatee	10282	11/08/2016	2016 General Election	125	125	2230	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+MAN	Manatee	10282	11/08/2016	2016 General Election	125	125	2230	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	125	125	2230	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	125	125	2230	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	125	125	2230	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	125	125	2230	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	125	125	2230	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	127	127	5603	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2951
+MAN	Manatee	10282	11/08/2016	2016 General Election	127	127	5603	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1473
+MAN	Manatee	10282	11/08/2016	2016 General Election	127	127	5603	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	103
+MAN	Manatee	10282	11/08/2016	2016 General Election	127	127	5603	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	127	127	5603	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+MAN	Manatee	10282	11/08/2016	2016 General Election	127	127	5603	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	127	127	5603	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	45
+MAN	Manatee	10282	11/08/2016	2016 General Election	127	127	5603	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	127	127	5603	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	34
+MAN	Manatee	10282	11/08/2016	2016 General Election	129	129	1266	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	753
+MAN	Manatee	10282	11/08/2016	2016 General Election	129	129	1266	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	337
+MAN	Manatee	10282	11/08/2016	2016 General Election	129	129	1266	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	129	129	1266	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	129	129	1266	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	129	129	1266	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	129	129	1266	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	129	129	1266	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	129	129	1266	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	131	131	3980	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1863
+MAN	Manatee	10282	11/08/2016	2016 General Election	131	131	3980	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1240
+MAN	Manatee	10282	11/08/2016	2016 General Election	131	131	3980	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+MAN	Manatee	10282	11/08/2016	2016 General Election	131	131	3980	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	131	131	3980	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+MAN	Manatee	10282	11/08/2016	2016 General Election	131	131	3980	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	131	131	3980	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	42
+MAN	Manatee	10282	11/08/2016	2016 General Election	131	131	3980	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	131	131	3980	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	22
+MAN	Manatee	10282	11/08/2016	2016 General Election	133	133	871	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	481
+MAN	Manatee	10282	11/08/2016	2016 General Election	133	133	871	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	255
+MAN	Manatee	10282	11/08/2016	2016 General Election	133	133	871	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+MAN	Manatee	10282	11/08/2016	2016 General Election	133	133	871	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	133	133	871	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	133	133	871	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	133	133	871	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	133	133	871	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	133	133	871	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	135	135	4946	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2756
+MAN	Manatee	10282	11/08/2016	2016 General Election	135	135	4946	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1171
+MAN	Manatee	10282	11/08/2016	2016 General Election	135	135	4946	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	111
+MAN	Manatee	10282	11/08/2016	2016 General Election	135	135	4946	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	135	135	4946	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+MAN	Manatee	10282	11/08/2016	2016 General Election	135	135	4946	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	135	135	4946	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	43
+MAN	Manatee	10282	11/08/2016	2016 General Election	135	135	4946	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	135	135	4946	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	22
+MAN	Manatee	10282	11/08/2016	2016 General Election	137	137	3974	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2335
+MAN	Manatee	10282	11/08/2016	2016 General Election	137	137	3974	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	924
+MAN	Manatee	10282	11/08/2016	2016 General Election	137	137	3974	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	78
+MAN	Manatee	10282	11/08/2016	2016 General Election	137	137	3974	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	137	137	3974	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+MAN	Manatee	10282	11/08/2016	2016 General Election	137	137	3974	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	137	137	3974	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	40
+MAN	Manatee	10282	11/08/2016	2016 General Election	137	137	3974	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	137	137	3974	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	15
+MAN	Manatee	10282	11/08/2016	2016 General Election	139	139	6245	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	3541
+MAN	Manatee	10282	11/08/2016	2016 General Election	139	139	6245	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1420
+MAN	Manatee	10282	11/08/2016	2016 General Election	139	139	6245	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	130
+MAN	Manatee	10282	11/08/2016	2016 General Election	139	139	6245	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	13
+MAN	Manatee	10282	11/08/2016	2016 General Election	139	139	6245	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	31
+MAN	Manatee	10282	11/08/2016	2016 General Election	139	139	6245	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	139	139	6245	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	42
+MAN	Manatee	10282	11/08/2016	2016 General Election	139	139	6245	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	139	139	6245	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	33
+MAN	Manatee	10282	11/08/2016	2016 General Election	141	141	611	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	368
+MAN	Manatee	10282	11/08/2016	2016 General Election	141	141	611	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	76
+MAN	Manatee	10282	11/08/2016	2016 General Election	141	141	611	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+MAN	Manatee	10282	11/08/2016	2016 General Election	141	141	611	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	141	141	611	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	141	141	611	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	141	141	611	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	141	141	611	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	141	141	611	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	201	201	2083	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	893
+MAN	Manatee	10282	11/08/2016	2016 General Election	201	201	2083	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	610
+MAN	Manatee	10282	11/08/2016	2016 General Election	201	201	2083	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+MAN	Manatee	10282	11/08/2016	2016 General Election	201	201	2083	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	201	201	2083	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	201	201	2083	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	201	201	2083	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	201	201	2083	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	201	201	2083	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	203	203	1264	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	641
+MAN	Manatee	10282	11/08/2016	2016 General Election	203	203	1264	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	353
+MAN	Manatee	10282	11/08/2016	2016 General Election	203	203	1264	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+MAN	Manatee	10282	11/08/2016	2016 General Election	203	203	1264	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	203	203	1264	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	203	203	1264	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	203	203	1264	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	203	203	1264	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	203	203	1264	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	205	205	1290	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	36
+MAN	Manatee	10282	11/08/2016	2016 General Election	205	205	1290	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	818
+MAN	Manatee	10282	11/08/2016	2016 General Election	205	205	1290	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	205	205	1290	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	205	205	1290	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	205	205	1290	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	205	205	1290	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	205	205	1290	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	205	205	1290	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	207	207	2626	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	848
+MAN	Manatee	10282	11/08/2016	2016 General Election	207	207	2626	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	896
+MAN	Manatee	10282	11/08/2016	2016 General Election	207	207	2626	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+MAN	Manatee	10282	11/08/2016	2016 General Election	207	207	2626	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	207	207	2626	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	207	207	2626	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	207	207	2626	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	18
+MAN	Manatee	10282	11/08/2016	2016 General Election	207	207	2626	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	207	207	2626	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	209	209	2126	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	387
+MAN	Manatee	10282	11/08/2016	2016 General Election	209	209	2126	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1065
+MAN	Manatee	10282	11/08/2016	2016 General Election	209	209	2126	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+MAN	Manatee	10282	11/08/2016	2016 General Election	209	209	2126	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	209	209	2126	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	209	209	2126	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	209	209	2126	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	209	209	2126	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	209	209	2126	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	211	211	1879	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	946
+MAN	Manatee	10282	11/08/2016	2016 General Election	211	211	1879	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	421
+MAN	Manatee	10282	11/08/2016	2016 General Election	211	211	1879	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	32
+MAN	Manatee	10282	11/08/2016	2016 General Election	211	211	1879	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	211	211	1879	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MAN	Manatee	10282	11/08/2016	2016 General Election	211	211	1879	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	211	211	1879	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	17
+MAN	Manatee	10282	11/08/2016	2016 General Election	211	211	1879	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	211	211	1879	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	213	213	5230	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1105
+MAN	Manatee	10282	11/08/2016	2016 General Election	213	213	5230	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2047
+MAN	Manatee	10282	11/08/2016	2016 General Election	213	213	5230	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	61
+MAN	Manatee	10282	11/08/2016	2016 General Election	213	213	5230	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	213	213	5230	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	36
+MAN	Manatee	10282	11/08/2016	2016 General Election	213	213	5230	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	213	213	5230	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	27
+MAN	Manatee	10282	11/08/2016	2016 General Election	213	213	5230	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	213	213	5230	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	14
+MAN	Manatee	10282	11/08/2016	2016 General Election	215	215	2278	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	416
+MAN	Manatee	10282	11/08/2016	2016 General Election	215	215	2278	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	967
+MAN	Manatee	10282	11/08/2016	2016 General Election	215	215	2278	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+MAN	Manatee	10282	11/08/2016	2016 General Election	215	215	2278	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	215	215	2278	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MAN	Manatee	10282	11/08/2016	2016 General Election	215	215	2278	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	215	215	2278	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	215	215	2278	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	215	215	2278	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	217	217	3446	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1114
+MAN	Manatee	10282	11/08/2016	2016 General Election	217	217	3446	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1235
+MAN	Manatee	10282	11/08/2016	2016 General Election	217	217	3446	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+MAN	Manatee	10282	11/08/2016	2016 General Election	217	217	3446	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	217	217	3446	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+MAN	Manatee	10282	11/08/2016	2016 General Election	217	217	3446	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	217	217	3446	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	217	217	3446	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	217	217	3446	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	17
+MAN	Manatee	10282	11/08/2016	2016 General Election	219	219	3301	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1188
+MAN	Manatee	10282	11/08/2016	2016 General Election	219	219	3301	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1154
+MAN	Manatee	10282	11/08/2016	2016 General Election	219	219	3301	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	76
+MAN	Manatee	10282	11/08/2016	2016 General Election	219	219	3301	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	219	219	3301	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+MAN	Manatee	10282	11/08/2016	2016 General Election	219	219	3301	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	219	219	3301	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	31
+MAN	Manatee	10282	11/08/2016	2016 General Election	219	219	3301	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	219	219	3301	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	24
+MAN	Manatee	10282	11/08/2016	2016 General Election	221	221	3925	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1329
+MAN	Manatee	10282	11/08/2016	2016 General Election	221	221	3925	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1327
+MAN	Manatee	10282	11/08/2016	2016 General Election	221	221	3925	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	62
+MAN	Manatee	10282	11/08/2016	2016 General Election	221	221	3925	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	221	221	3925	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+MAN	Manatee	10282	11/08/2016	2016 General Election	221	221	3925	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	221	221	3925	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	28
+MAN	Manatee	10282	11/08/2016	2016 General Election	221	221	3925	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	221	221	3925	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	18
+MAN	Manatee	10282	11/08/2016	2016 General Election	223	223	2843	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	323
+MAN	Manatee	10282	11/08/2016	2016 General Election	223	223	2843	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1391
+MAN	Manatee	10282	11/08/2016	2016 General Election	223	223	2843	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+MAN	Manatee	10282	11/08/2016	2016 General Election	223	223	2843	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	223	223	2843	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+MAN	Manatee	10282	11/08/2016	2016 General Election	223	223	2843	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	223	223	2843	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	19
+MAN	Manatee	10282	11/08/2016	2016 General Election	223	223	2843	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	223	223	2843	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	301	301	1174	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	510
+MAN	Manatee	10282	11/08/2016	2016 General Election	301	301	1174	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	385
+MAN	Manatee	10282	11/08/2016	2016 General Election	301	301	1174	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	301	301	1174	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	301	301	1174	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	301	301	1174	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	301	301	1174	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	301	301	1174	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	301	301	1174	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	13
+MAN	Manatee	10282	11/08/2016	2016 General Election	303	303	1396	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	664
+MAN	Manatee	10282	11/08/2016	2016 General Election	303	303	1396	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	469
+MAN	Manatee	10282	11/08/2016	2016 General Election	303	303	1396	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+MAN	Manatee	10282	11/08/2016	2016 General Election	303	303	1396	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	303	303	1396	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	303	303	1396	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	303	303	1396	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	303	303	1396	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	303	303	1396	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	305	305	1485	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	706
+MAN	Manatee	10282	11/08/2016	2016 General Election	305	305	1485	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	502
+MAN	Manatee	10282	11/08/2016	2016 General Election	305	305	1485	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+MAN	Manatee	10282	11/08/2016	2016 General Election	305	305	1485	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	305	305	1485	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	305	305	1485	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	305	305	1485	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	305	305	1485	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	305	305	1485	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	307	307	755	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	380
+MAN	Manatee	10282	11/08/2016	2016 General Election	307	307	755	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	233
+MAN	Manatee	10282	11/08/2016	2016 General Election	307	307	755	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	307	307	755	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	307	307	755	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	307	307	755	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	307	307	755	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	307	307	755	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	307	307	755	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	309	309	2072	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	990
+MAN	Manatee	10282	11/08/2016	2016 General Election	309	309	2072	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	713
+MAN	Manatee	10282	11/08/2016	2016 General Election	309	309	2072	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	25
+MAN	Manatee	10282	11/08/2016	2016 General Election	309	309	2072	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	309	309	2072	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	309	309	2072	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	309	309	2072	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	13
+MAN	Manatee	10282	11/08/2016	2016 General Election	309	309	2072	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	309	309	2072	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	21
+MAN	Manatee	10282	11/08/2016	2016 General Election	311	311	4924	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2525
+MAN	Manatee	10282	11/08/2016	2016 General Election	311	311	4924	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1385
+MAN	Manatee	10282	11/08/2016	2016 General Election	311	311	4924	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	106
+MAN	Manatee	10282	11/08/2016	2016 General Election	311	311	4924	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	311	311	4924	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	311	311	4924	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	311	311	4924	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	53
+MAN	Manatee	10282	11/08/2016	2016 General Election	311	311	4924	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	311	311	4924	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	34
+MAN	Manatee	10282	11/08/2016	2016 General Election	313	313	3254	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1660
+MAN	Manatee	10282	11/08/2016	2016 General Election	313	313	3254	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	908
+MAN	Manatee	10282	11/08/2016	2016 General Election	313	313	3254	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	56
+MAN	Manatee	10282	11/08/2016	2016 General Election	313	313	3254	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	313	313	3254	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	313	313	3254	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	313	313	3254	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	32
+MAN	Manatee	10282	11/08/2016	2016 General Election	313	313	3254	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	313	313	3254	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	19
+MAN	Manatee	10282	11/08/2016	2016 General Election	315	315	3793	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1702
+MAN	Manatee	10282	11/08/2016	2016 General Election	315	315	3793	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1206
+MAN	Manatee	10282	11/08/2016	2016 General Election	315	315	3793	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	80
+MAN	Manatee	10282	11/08/2016	2016 General Election	315	315	3793	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	315	315	3793	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+MAN	Manatee	10282	11/08/2016	2016 General Election	315	315	3793	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	315	315	3793	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	30
+MAN	Manatee	10282	11/08/2016	2016 General Election	315	315	3793	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	315	315	3793	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	17
+MAN	Manatee	10282	11/08/2016	2016 General Election	317	317	4217	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2095
+MAN	Manatee	10282	11/08/2016	2016 General Election	317	317	4217	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1080
+MAN	Manatee	10282	11/08/2016	2016 General Election	317	317	4217	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	97
+MAN	Manatee	10282	11/08/2016	2016 General Election	317	317	4217	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	317	317	4217	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+MAN	Manatee	10282	11/08/2016	2016 General Election	317	317	4217	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	317	317	4217	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	39
+MAN	Manatee	10282	11/08/2016	2016 General Election	317	317	4217	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	317	317	4217	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	28
+MAN	Manatee	10282	11/08/2016	2016 General Election	321	321	583	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	240
+MAN	Manatee	10282	11/08/2016	2016 General Election	321	321	583	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	227
+MAN	Manatee	10282	11/08/2016	2016 General Election	321	321	583	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	321	321	583	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	321	321	583	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	321	321	583	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	321	321	583	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	321	321	583	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	321	321	583	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	323	323	4511	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1999
+MAN	Manatee	10282	11/08/2016	2016 General Election	323	323	4511	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1386
+MAN	Manatee	10282	11/08/2016	2016 General Election	323	323	4511	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	106
+MAN	Manatee	10282	11/08/2016	2016 General Election	323	323	4511	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	323	323	4511	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	31
+MAN	Manatee	10282	11/08/2016	2016 General Election	323	323	4511	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	323	323	4511	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	28
+MAN	Manatee	10282	11/08/2016	2016 General Election	323	323	4511	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	323	323	4511	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	28
+MAN	Manatee	10282	11/08/2016	2016 General Election	325	325	3384	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1569
+MAN	Manatee	10282	11/08/2016	2016 General Election	325	325	3384	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	997
+MAN	Manatee	10282	11/08/2016	2016 General Election	325	325	3384	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	56
+MAN	Manatee	10282	11/08/2016	2016 General Election	325	325	3384	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	325	325	3384	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	325	325	3384	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	325	325	3384	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	39
+MAN	Manatee	10282	11/08/2016	2016 General Election	325	325	3384	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	325	325	3384	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	26
+MAN	Manatee	10282	11/08/2016	2016 General Election	327	327	5004	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2231
+MAN	Manatee	10282	11/08/2016	2016 General Election	327	327	5004	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1325
+MAN	Manatee	10282	11/08/2016	2016 General Election	327	327	5004	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	113
+MAN	Manatee	10282	11/08/2016	2016 General Election	327	327	5004	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	327	327	5004	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+MAN	Manatee	10282	11/08/2016	2016 General Election	327	327	5004	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	327	327	5004	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	48
+MAN	Manatee	10282	11/08/2016	2016 General Election	327	327	5004	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	327	327	5004	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	32
+MAN	Manatee	10282	11/08/2016	2016 General Election	329	329	4671	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1641
+MAN	Manatee	10282	11/08/2016	2016 General Election	329	329	4671	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1699
+MAN	Manatee	10282	11/08/2016	2016 General Election	329	329	4671	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	83
+MAN	Manatee	10282	11/08/2016	2016 General Election	329	329	4671	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	329	329	4671	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+MAN	Manatee	10282	11/08/2016	2016 General Election	329	329	4671	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	329	329	4671	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	35
+MAN	Manatee	10282	11/08/2016	2016 General Election	329	329	4671	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	329	329	4671	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	21
+MAN	Manatee	10282	11/08/2016	2016 General Election	331	331	2388	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	980
+MAN	Manatee	10282	11/08/2016	2016 General Election	331	331	2388	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	778
+MAN	Manatee	10282	11/08/2016	2016 General Election	331	331	2388	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+MAN	Manatee	10282	11/08/2016	2016 General Election	331	331	2388	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	331	331	2388	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+MAN	Manatee	10282	11/08/2016	2016 General Election	331	331	2388	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	331	331	2388	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	23
+MAN	Manatee	10282	11/08/2016	2016 General Election	331	331	2388	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	331	331	2388	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	25
+MAN	Manatee	10282	11/08/2016	2016 General Election	333	333	5631	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2613
+MAN	Manatee	10282	11/08/2016	2016 General Election	333	333	5631	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1609
+MAN	Manatee	10282	11/08/2016	2016 General Election	333	333	5631	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	102
+MAN	Manatee	10282	11/08/2016	2016 General Election	333	333	5631	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	333	333	5631	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	37
+MAN	Manatee	10282	11/08/2016	2016 General Election	333	333	5631	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	333	333	5631	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	41
+MAN	Manatee	10282	11/08/2016	2016 General Election	333	333	5631	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	333	333	5631	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	40
+MAN	Manatee	10282	11/08/2016	2016 General Election	401	401	3517	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	997
+MAN	Manatee	10282	11/08/2016	2016 General Election	401	401	3517	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1086
+MAN	Manatee	10282	11/08/2016	2016 General Election	401	401	3517	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+MAN	Manatee	10282	11/08/2016	2016 General Election	401	401	3517	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	401	401	3517	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+MAN	Manatee	10282	11/08/2016	2016 General Election	401	401	3517	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	401	401	3517	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	18
+MAN	Manatee	10282	11/08/2016	2016 General Election	401	401	3517	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	401	401	3517	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	403	403	3928	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1353
+MAN	Manatee	10282	11/08/2016	2016 General Election	403	403	3928	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1298
+MAN	Manatee	10282	11/08/2016	2016 General Election	403	403	3928	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	61
+MAN	Manatee	10282	11/08/2016	2016 General Election	403	403	3928	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	403	403	3928	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+MAN	Manatee	10282	11/08/2016	2016 General Election	403	403	3928	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	403	403	3928	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	30
+MAN	Manatee	10282	11/08/2016	2016 General Election	403	403	3928	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	403	403	3928	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	20
+MAN	Manatee	10282	11/08/2016	2016 General Election	405	405	776	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	373
+MAN	Manatee	10282	11/08/2016	2016 General Election	405	405	776	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	210
+MAN	Manatee	10282	11/08/2016	2016 General Election	405	405	776	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+MAN	Manatee	10282	11/08/2016	2016 General Election	405	405	776	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	405	405	776	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	405	405	776	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	405	405	776	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	405	405	776	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	405	405	776	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	407	407	1053	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	467
+MAN	Manatee	10282	11/08/2016	2016 General Election	407	407	1053	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	336
+MAN	Manatee	10282	11/08/2016	2016 General Election	407	407	1053	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+MAN	Manatee	10282	11/08/2016	2016 General Election	407	407	1053	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	407	407	1053	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	407	407	1053	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	407	407	1053	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	407	407	1053	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	407	407	1053	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	409	409	3360	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1471
+MAN	Manatee	10282	11/08/2016	2016 General Election	409	409	3360	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	897
+MAN	Manatee	10282	11/08/2016	2016 General Election	409	409	3360	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+MAN	Manatee	10282	11/08/2016	2016 General Election	409	409	3360	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	409	409	3360	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+MAN	Manatee	10282	11/08/2016	2016 General Election	409	409	3360	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	409	409	3360	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	19
+MAN	Manatee	10282	11/08/2016	2016 General Election	409	409	3360	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	409	409	3360	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	411	411	3362	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1061
+MAN	Manatee	10282	11/08/2016	2016 General Election	411	411	3362	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1089
+MAN	Manatee	10282	11/08/2016	2016 General Election	411	411	3362	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	61
+MAN	Manatee	10282	11/08/2016	2016 General Election	411	411	3362	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	411	411	3362	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+MAN	Manatee	10282	11/08/2016	2016 General Election	411	411	3362	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	411	411	3362	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	411	411	3362	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	411	411	3362	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	413	413	3762	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1486
+MAN	Manatee	10282	11/08/2016	2016 General Election	413	413	3762	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1162
+MAN	Manatee	10282	11/08/2016	2016 General Election	413	413	3762	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+MAN	Manatee	10282	11/08/2016	2016 General Election	413	413	3762	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	413	413	3762	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+MAN	Manatee	10282	11/08/2016	2016 General Election	413	413	3762	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	413	413	3762	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	22
+MAN	Manatee	10282	11/08/2016	2016 General Election	413	413	3762	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	413	413	3762	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	415	415	5363	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1427
+MAN	Manatee	10282	11/08/2016	2016 General Election	415	415	5363	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1856
+MAN	Manatee	10282	11/08/2016	2016 General Election	415	415	5363	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	105
+MAN	Manatee	10282	11/08/2016	2016 General Election	415	415	5363	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	415	415	5363	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+MAN	Manatee	10282	11/08/2016	2016 General Election	415	415	5363	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	415	415	5363	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MAN	Manatee	10282	11/08/2016	2016 General Election	415	415	5363	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	415	415	5363	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	15
+MAN	Manatee	10282	11/08/2016	2016 General Election	417	417	5543	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2501
+MAN	Manatee	10282	11/08/2016	2016 General Election	417	417	5543	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1649
+MAN	Manatee	10282	11/08/2016	2016 General Election	417	417	5543	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	106
+MAN	Manatee	10282	11/08/2016	2016 General Election	417	417	5543	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	417	417	5543	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+MAN	Manatee	10282	11/08/2016	2016 General Election	417	417	5543	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	417	417	5543	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	46
+MAN	Manatee	10282	11/08/2016	2016 General Election	417	417	5543	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	417	417	5543	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	23
+MAN	Manatee	10282	11/08/2016	2016 General Election	419	419	4336	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1726
+MAN	Manatee	10282	11/08/2016	2016 General Election	419	419	4336	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1685
+MAN	Manatee	10282	11/08/2016	2016 General Election	419	419	4336	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	74
+MAN	Manatee	10282	11/08/2016	2016 General Election	419	419	4336	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	419	419	4336	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+MAN	Manatee	10282	11/08/2016	2016 General Election	419	419	4336	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	419	419	4336	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	34
+MAN	Manatee	10282	11/08/2016	2016 General Election	419	419	4336	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	419	419	4336	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	34
+MAN	Manatee	10282	11/08/2016	2016 General Election	421	421	2378	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1023
+MAN	Manatee	10282	11/08/2016	2016 General Election	421	421	2378	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	686
+MAN	Manatee	10282	11/08/2016	2016 General Election	421	421	2378	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+MAN	Manatee	10282	11/08/2016	2016 General Election	421	421	2378	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	421	421	2378	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+MAN	Manatee	10282	11/08/2016	2016 General Election	421	421	2378	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	421	421	2378	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MAN	Manatee	10282	11/08/2016	2016 General Election	421	421	2378	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	421	421	2378	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAN	Manatee	10282	11/08/2016	2016 General Election	501	501	6896	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	3224
+MAN	Manatee	10282	11/08/2016	2016 General Election	501	501	6896	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1993
+MAN	Manatee	10282	11/08/2016	2016 General Election	501	501	6896	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	162
+MAN	Manatee	10282	11/08/2016	2016 General Election	501	501	6896	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	501	501	6896	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	42
+MAN	Manatee	10282	11/08/2016	2016 General Election	501	501	6896	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	501	501	6896	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	48
+MAN	Manatee	10282	11/08/2016	2016 General Election	501	501	6896	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	501	501	6896	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	34
+MAN	Manatee	10282	11/08/2016	2016 General Election	503	503	4642	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2172
+MAN	Manatee	10282	11/08/2016	2016 General Election	503	503	4642	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1433
+MAN	Manatee	10282	11/08/2016	2016 General Election	503	503	4642	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	87
+MAN	Manatee	10282	11/08/2016	2016 General Election	503	503	4642	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	503	503	4642	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	503	503	4642	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	503	503	4642	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	44
+MAN	Manatee	10282	11/08/2016	2016 General Election	503	503	4642	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	503	503	4642	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	27
+MAN	Manatee	10282	11/08/2016	2016 General Election	505	505	4990	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2256
+MAN	Manatee	10282	11/08/2016	2016 General Election	505	505	4990	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1885
+MAN	Manatee	10282	11/08/2016	2016 General Election	505	505	4990	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+MAN	Manatee	10282	11/08/2016	2016 General Election	505	505	4990	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	505	505	4990	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+MAN	Manatee	10282	11/08/2016	2016 General Election	505	505	4990	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	505	505	4990	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	43
+MAN	Manatee	10282	11/08/2016	2016 General Election	505	505	4990	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	505	505	4990	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	39
+MAN	Manatee	10282	11/08/2016	2016 General Election	507	507	4214	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1640
+MAN	Manatee	10282	11/08/2016	2016 General Election	507	507	4214	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1551
+MAN	Manatee	10282	11/08/2016	2016 General Election	507	507	4214	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	86
+MAN	Manatee	10282	11/08/2016	2016 General Election	507	507	4214	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	507	507	4214	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+MAN	Manatee	10282	11/08/2016	2016 General Election	507	507	4214	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	507	507	4214	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	35
+MAN	Manatee	10282	11/08/2016	2016 General Election	507	507	4214	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	507	507	4214	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	22
+MAN	Manatee	10282	11/08/2016	2016 General Election	509	509	3626	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1890
+MAN	Manatee	10282	11/08/2016	2016 General Election	509	509	3626	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	838
+MAN	Manatee	10282	11/08/2016	2016 General Election	509	509	3626	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	66
+MAN	Manatee	10282	11/08/2016	2016 General Election	509	509	3626	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	509	509	3626	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	509	509	3626	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	509	509	3626	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	30
+MAN	Manatee	10282	11/08/2016	2016 General Election	509	509	3626	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	509	509	3626	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	14
+MAN	Manatee	10282	11/08/2016	2016 General Election	511	511	3977	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1988
+MAN	Manatee	10282	11/08/2016	2016 General Election	511	511	3977	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1175
+MAN	Manatee	10282	11/08/2016	2016 General Election	511	511	3977	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	66
+MAN	Manatee	10282	11/08/2016	2016 General Election	511	511	3977	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	511	511	3977	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	511	511	3977	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MAN	Manatee	10282	11/08/2016	2016 General Election	511	511	3977	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	36
+MAN	Manatee	10282	11/08/2016	2016 General Election	511	511	3977	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	511	511	3977	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	31
+MAN	Manatee	10282	11/08/2016	2016 General Election	513	513	2858	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1268
+MAN	Manatee	10282	11/08/2016	2016 General Election	513	513	2858	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1110
+MAN	Manatee	10282	11/08/2016	2016 General Election	513	513	2858	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+MAN	Manatee	10282	11/08/2016	2016 General Election	513	513	2858	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	513	513	2858	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	513	513	2858	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	513	513	2858	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	25
+MAN	Manatee	10282	11/08/2016	2016 General Election	513	513	2858	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	513	513	2858	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	29
+MAN	Manatee	10282	11/08/2016	2016 General Election	515	515	4503	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2249
+MAN	Manatee	10282	11/08/2016	2016 General Election	515	515	4503	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1355
+MAN	Manatee	10282	11/08/2016	2016 General Election	515	515	4503	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	75
+MAN	Manatee	10282	11/08/2016	2016 General Election	515	515	4503	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+MAN	Manatee	10282	11/08/2016	2016 General Election	515	515	4503	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+MAN	Manatee	10282	11/08/2016	2016 General Election	515	515	4503	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	515	515	4503	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	55
+MAN	Manatee	10282	11/08/2016	2016 General Election	515	515	4503	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	515	515	4503	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	26
+MAN	Manatee	10282	11/08/2016	2016 General Election	517	517	6078	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	2893
+MAN	Manatee	10282	11/08/2016	2016 General Election	517	517	6078	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2042
+MAN	Manatee	10282	11/08/2016	2016 General Election	517	517	6078	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	92
+MAN	Manatee	10282	11/08/2016	2016 General Election	517	517	6078	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	517	517	6078	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+MAN	Manatee	10282	11/08/2016	2016 General Election	517	517	6078	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	517	517	6078	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	74
+MAN	Manatee	10282	11/08/2016	2016 General Election	517	517	6078	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	517	517	6078	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	38
+MAN	Manatee	10282	11/08/2016	2016 General Election	519	519	8176	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	3898
+MAN	Manatee	10282	11/08/2016	2016 General Election	519	519	8176	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2618
+MAN	Manatee	10282	11/08/2016	2016 General Election	519	519	8176	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	155
+MAN	Manatee	10282	11/08/2016	2016 General Election	519	519	8176	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	16
+MAN	Manatee	10282	11/08/2016	2016 General Election	519	519	8176	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	39
+MAN	Manatee	10282	11/08/2016	2016 General Election	519	519	8176	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	519	519	8176	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	78
+MAN	Manatee	10282	11/08/2016	2016 General Election	519	519	8176	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	519	519	8176	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	66
+MAN	Manatee	10282	11/08/2016	2016 General Election	521	521	3448	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1857
+MAN	Manatee	10282	11/08/2016	2016 General Election	521	521	3448	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1051
+MAN	Manatee	10282	11/08/2016	2016 General Election	521	521	3448	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+MAN	Manatee	10282	11/08/2016	2016 General Election	521	521	3448	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	521	521	3448	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	521	521	3448	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	521	521	3448	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	44
+MAN	Manatee	10282	11/08/2016	2016 General Election	521	521	3448	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	521	521	3448	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	32
+MAN	Manatee	10282	11/08/2016	2016 General Election	523	523	2879	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1723
+MAN	Manatee	10282	11/08/2016	2016 General Election	523	523	2879	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	558
+MAN	Manatee	10282	11/08/2016	2016 General Election	523	523	2879	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+MAN	Manatee	10282	11/08/2016	2016 General Election	523	523	2879	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MAN	Manatee	10282	11/08/2016	2016 General Election	523	523	2879	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	523	523	2879	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	523	523	2879	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	30
+MAN	Manatee	10282	11/08/2016	2016 General Election	523	523	2879	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	523	523	2879	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	12
+MAN	Manatee	10282	11/08/2016	2016 General Election	525	525	674	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	418
+MAN	Manatee	10282	11/08/2016	2016 General Election	525	525	674	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	76
+MAN	Manatee	10282	11/08/2016	2016 General Election	525	525	674	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	525	525	674	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	525	525	674	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MAN	Manatee	10282	11/08/2016	2016 General Election	525	525	674	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	525	525	674	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAN	Manatee	10282	11/08/2016	2016 General Election	525	525	674	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	525	525	674	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	3
+MAN	Manatee	10282	11/08/2016	2016 General Election	527	527	1928	0	0	221981	President of the United States	 	100000	Trump / Pence	REP	0	65072	1145
+MAN	Manatee	10282	11/08/2016	2016 General Election	527	527	1928	0	0	221981	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	273
+MAN	Manatee	10282	11/08/2016	2016 General Election	527	527	1928	0	0	221981	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+MAN	Manatee	10282	11/08/2016	2016 General Election	527	527	1928	0	0	221981	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MAN	Manatee	10282	11/08/2016	2016 General Election	527	527	1928	0	0	221981	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MAN	Manatee	10282	11/08/2016	2016 General Election	527	527	1928	0	0	221981	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	527	527	1928	0	0	221981	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MAN	Manatee	10282	11/08/2016	2016 General Election	527	527	1928	0	0	221981	President of the United States	 	100000	OverVotes	 	0	901	0
+MAN	Manatee	10282	11/08/2016	2016 General Election	527	527	1928	0	0	221981	President of the United States	 	100000	UnderVotes	 	0	902	10

@@ -1,0 +1,72 @@
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	781
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	93
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	1	Ponce de Leon	1182	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	784
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	91
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	8
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	2	Pine Log	1165	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	642
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	77
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	3	New Hope	989	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	1077
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	105
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	4	Bethlehem	1579	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	12
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	390
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	30
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	5	Gritney	574	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	1667
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	126
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	7
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	6	Noma	2369	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	1307
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	180
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	6
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	2
+HOL	Holmes	10282	11/08/2016	2016 General Election	7	West Bonifay	2032	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	10
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Trump / Pence	REP	0	65072	835
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	151
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	WriteinVotes	 	0	900	5
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	10282	11/08/2016	2016 General Election	8	East Bonifay	1340	0	0	11022	President of the United States	 	100000	UnderVotes	 	0	902	5

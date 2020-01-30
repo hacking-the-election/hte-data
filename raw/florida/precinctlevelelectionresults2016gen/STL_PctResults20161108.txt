@@ -1,0 +1,576 @@
+STL	St. Lucie	10282	11/08/2016	2016 General Election	01	Lakewood Park Village Hall	5123	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	2304
+STL	St. Lucie	10282	11/08/2016	2016 General Election	01	Lakewood Park Village Hall	5123	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1273
+STL	St. Lucie	10282	11/08/2016	2016 General Election	01	Lakewood Park Village Hall	5123	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	88
+STL	St. Lucie	10282	11/08/2016	2016 General Election	01	Lakewood Park Village Hall	5123	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	01	Lakewood Park Village Hall	5123	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	29
+STL	St. Lucie	10282	11/08/2016	2016 General Election	01	Lakewood Park Village Hall	5123	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	01	Lakewood Park Village Hall	5123	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	27
+STL	St. Lucie	10282	11/08/2016	2016 General Election	01	Lakewood Park Village Hall	5123	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	01	Lakewood Park Village Hall	5123	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	27
+STL	St. Lucie	10282	11/08/2016	2016 General Election	06	Orange Blossom Bus Center	2122	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	591
+STL	St. Lucie	10282	11/08/2016	2016 General Election	06	Orange Blossom Bus Center	2122	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	759
+STL	St. Lucie	10282	11/08/2016	2016 General Election	06	Orange Blossom Bus Center	2122	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+STL	St. Lucie	10282	11/08/2016	2016 General Election	06	Orange Blossom Bus Center	2122	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	06	Orange Blossom Bus Center	2122	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+STL	St. Lucie	10282	11/08/2016	2016 General Election	06	Orange Blossom Bus Center	2122	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	06	Orange Blossom Bus Center	2122	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	19
+STL	St. Lucie	10282	11/08/2016	2016 General Election	06	Orange Blossom Bus Center	2122	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	06	Orange Blossom Bus Center	2122	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	07	Havert L Fenn Center	2193	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	471
+STL	St. Lucie	10282	11/08/2016	2016 General Election	07	Havert L Fenn Center	2193	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	983
+STL	St. Lucie	10282	11/08/2016	2016 General Election	07	Havert L Fenn Center	2193	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+STL	St. Lucie	10282	11/08/2016	2016 General Election	07	Havert L Fenn Center	2193	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	07	Havert L Fenn Center	2193	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	07	Havert L Fenn Center	2193	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	07	Havert L Fenn Center	2193	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	07	Havert L Fenn Center	2193	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	07	Havert L Fenn Center	2193	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	17
+STL	St. Lucie	10282	11/08/2016	2016 General Election	08	Midway Road Church of Christ	2945	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1426
+STL	St. Lucie	10282	11/08/2016	2016 General Election	08	Midway Road Church of Christ	2945	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	722
+STL	St. Lucie	10282	11/08/2016	2016 General Election	08	Midway Road Church of Christ	2945	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	51
+STL	St. Lucie	10282	11/08/2016	2016 General Election	08	Midway Road Church of Christ	2945	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	08	Midway Road Church of Christ	2945	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	08	Midway Road Church of Christ	2945	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	08	Midway Road Church of Christ	2945	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	24
+STL	St. Lucie	10282	11/08/2016	2016 General Election	08	Midway Road Church of Christ	2945	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	08	Midway Road Church of Christ	2945	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	23
+STL	St. Lucie	10282	11/08/2016	2016 General Election	09	National Navy SEAL Museum	2938	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1505
+STL	St. Lucie	10282	11/08/2016	2016 General Election	09	National Navy SEAL Museum	2938	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	846
+STL	St. Lucie	10282	11/08/2016	2016 General Election	09	National Navy SEAL Museum	2938	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+STL	St. Lucie	10282	11/08/2016	2016 General Election	09	National Navy SEAL Museum	2938	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	09	National Navy SEAL Museum	2938	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	09	National Navy SEAL Museum	2938	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	09	National Navy SEAL Museum	2938	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	27
+STL	St. Lucie	10282	11/08/2016	2016 General Election	09	National Navy SEAL Museum	2938	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	09	National Navy SEAL Museum	2938	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	19
+STL	St. Lucie	10282	11/08/2016	2016 General Election	10	Havert L Fenn Center	688	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	200
+STL	St. Lucie	10282	11/08/2016	2016 General Election	10	Havert L Fenn Center	688	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	215
+STL	St. Lucie	10282	11/08/2016	2016 General Election	10	Havert L Fenn Center	688	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+STL	St. Lucie	10282	11/08/2016	2016 General Election	10	Havert L Fenn Center	688	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	10	Havert L Fenn Center	688	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	10	Havert L Fenn Center	688	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	10	Havert L Fenn Center	688	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	10	Havert L Fenn Center	688	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	10	Havert L Fenn Center	688	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	11	Walton Road Baptist Church	2160	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	840
+STL	St. Lucie	10282	11/08/2016	2016 General Election	11	Walton Road Baptist Church	2160	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	685
+STL	St. Lucie	10282	11/08/2016	2016 General Election	11	Walton Road Baptist Church	2160	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+STL	St. Lucie	10282	11/08/2016	2016 General Election	11	Walton Road Baptist Church	2160	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	11	Walton Road Baptist Church	2160	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+STL	St. Lucie	10282	11/08/2016	2016 General Election	11	Walton Road Baptist Church	2160	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	11	Walton Road Baptist Church	2160	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	11	Walton Road Baptist Church	2160	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	11	Walton Road Baptist Church	2160	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	12	Fort Pierce Masonic Lodge	4819	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	2447
+STL	St. Lucie	10282	11/08/2016	2016 General Election	12	Fort Pierce Masonic Lodge	4819	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1126
+STL	St. Lucie	10282	11/08/2016	2016 General Election	12	Fort Pierce Masonic Lodge	4819	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	80
+STL	St. Lucie	10282	11/08/2016	2016 General Election	12	Fort Pierce Masonic Lodge	4819	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	12	Fort Pierce Masonic Lodge	4819	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	37
+STL	St. Lucie	10282	11/08/2016	2016 General Election	12	Fort Pierce Masonic Lodge	4819	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	12	Fort Pierce Masonic Lodge	4819	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	22
+STL	St. Lucie	10282	11/08/2016	2016 General Election	12	Fort Pierce Masonic Lodge	4819	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	12	Fort Pierce Masonic Lodge	4819	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	17
+STL	St. Lucie	10282	11/08/2016	2016 General Election	13	Havert L Fenn Center	3153	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1090
+STL	St. Lucie	10282	11/08/2016	2016 General Election	13	Havert L Fenn Center	3153	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1025
+STL	St. Lucie	10282	11/08/2016	2016 General Election	13	Havert L Fenn Center	3153	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	53
+STL	St. Lucie	10282	11/08/2016	2016 General Election	13	Havert L Fenn Center	3153	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	13	Havert L Fenn Center	3153	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+STL	St. Lucie	10282	11/08/2016	2016 General Election	13	Havert L Fenn Center	3153	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	13	Havert L Fenn Center	3153	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	20
+STL	St. Lucie	10282	11/08/2016	2016 General Election	13	Havert L Fenn Center	3153	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	13	Havert L Fenn Center	3153	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	14	Miracle Prayer Temple	2883	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	196
+STL	St. Lucie	10282	11/08/2016	2016 General Election	14	Miracle Prayer Temple	2883	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1766
+STL	St. Lucie	10282	11/08/2016	2016 General Election	14	Miracle Prayer Temple	2883	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	14	Miracle Prayer Temple	2883	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	14	Miracle Prayer Temple	2883	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	14	Miracle Prayer Temple	2883	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	14	Miracle Prayer Temple	2883	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	14	Miracle Prayer Temple	2883	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	14	Miracle Prayer Temple	2883	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	13
+STL	St. Lucie	10282	11/08/2016	2016 General Election	15	Holiday Out Recreation	3759	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1909
+STL	St. Lucie	10282	11/08/2016	2016 General Election	15	Holiday Out Recreation	3759	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1003
+STL	St. Lucie	10282	11/08/2016	2016 General Election	15	Holiday Out Recreation	3759	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+STL	St. Lucie	10282	11/08/2016	2016 General Election	15	Holiday Out Recreation	3759	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	15	Holiday Out Recreation	3759	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+STL	St. Lucie	10282	11/08/2016	2016 General Election	15	Holiday Out Recreation	3759	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	15	Holiday Out Recreation	3759	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	30
+STL	St. Lucie	10282	11/08/2016	2016 General Election	15	Holiday Out Recreation	3759	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	15	Holiday Out Recreation	3759	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	36
+STL	St. Lucie	10282	11/08/2016	2016 General Election	16	Chapel By the Sea	3470	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1782
+STL	St. Lucie	10282	11/08/2016	2016 General Election	16	Chapel By the Sea	3470	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	922
+STL	St. Lucie	10282	11/08/2016	2016 General Election	16	Chapel By the Sea	3470	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+STL	St. Lucie	10282	11/08/2016	2016 General Election	16	Chapel By the Sea	3470	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	16	Chapel By the Sea	3470	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	16	Chapel By the Sea	3470	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	16	Chapel By the Sea	3470	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	23
+STL	St. Lucie	10282	11/08/2016	2016 General Election	16	Chapel By the Sea	3470	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	16	Chapel By the Sea	3470	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	36
+STL	St. Lucie	10282	11/08/2016	2016 General Election	17	St. Paul A.M.E. Church	3076	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	45
+STL	St. Lucie	10282	11/08/2016	2016 General Election	17	St. Paul A.M.E. Church	3076	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1856
+STL	St. Lucie	10282	11/08/2016	2016 General Election	17	St. Paul A.M.E. Church	3076	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	17	St. Paul A.M.E. Church	3076	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	17	St. Paul A.M.E. Church	3076	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	17	St. Paul A.M.E. Church	3076	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	17	St. Paul A.M.E. Church	3076	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	17	St. Paul A.M.E. Church	3076	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	17	St. Paul A.M.E. Church	3076	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	18	Lincoln Park Recreation Center	1782	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	48
+STL	St. Lucie	10282	11/08/2016	2016 General Election	18	Lincoln Park Recreation Center	1782	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1019
+STL	St. Lucie	10282	11/08/2016	2016 General Election	18	Lincoln Park Recreation Center	1782	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	18	Lincoln Park Recreation Center	1782	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	18	Lincoln Park Recreation Center	1782	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	18	Lincoln Park Recreation Center	1782	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	18	Lincoln Park Recreation Center	1782	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	18	Lincoln Park Recreation Center	1782	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	18	Lincoln Park Recreation Center	1782	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	19	Havert L Fenn Center	2744	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	351
+STL	St. Lucie	10282	11/08/2016	2016 General Election	19	Havert L Fenn Center	2744	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1291
+STL	St. Lucie	10282	11/08/2016	2016 General Election	19	Havert L Fenn Center	2744	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+STL	St. Lucie	10282	11/08/2016	2016 General Election	19	Havert L Fenn Center	2744	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	19	Havert L Fenn Center	2744	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	19	Havert L Fenn Center	2744	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	19	Havert L Fenn Center	2744	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	19	Havert L Fenn Center	2744	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	19	Havert L Fenn Center	2744	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	20	Spanish Lakes Riverfront	1089	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	457
+STL	St. Lucie	10282	11/08/2016	2016 General Election	20	Spanish Lakes Riverfront	1089	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	300
+STL	St. Lucie	10282	11/08/2016	2016 General Election	20	Spanish Lakes Riverfront	1089	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+STL	St. Lucie	10282	11/08/2016	2016 General Election	20	Spanish Lakes Riverfront	1089	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	20	Spanish Lakes Riverfront	1089	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	20	Spanish Lakes Riverfront	1089	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	20	Spanish Lakes Riverfront	1089	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	20	Spanish Lakes Riverfront	1089	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	20	Spanish Lakes Riverfront	1089	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	21	Spanish Lakes Original	3153	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1104
+STL	St. Lucie	10282	11/08/2016	2016 General Election	21	Spanish Lakes Original	3153	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	937
+STL	St. Lucie	10282	11/08/2016	2016 General Election	21	Spanish Lakes Original	3153	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+STL	St. Lucie	10282	11/08/2016	2016 General Election	21	Spanish Lakes Original	3153	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	21	Spanish Lakes Original	3153	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	21	Spanish Lakes Original	3153	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	21	Spanish Lakes Original	3153	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	22
+STL	St. Lucie	10282	11/08/2016	2016 General Election	21	Spanish Lakes Original	3153	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	21	Spanish Lakes Original	3153	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	22	PSL Council on Aging	4069	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1601
+STL	St. Lucie	10282	11/08/2016	2016 General Election	22	PSL Council on Aging	4069	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1314
+STL	St. Lucie	10282	11/08/2016	2016 General Election	22	PSL Council on Aging	4069	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+STL	St. Lucie	10282	11/08/2016	2016 General Election	22	PSL Council on Aging	4069	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	22	PSL Council on Aging	4069	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+STL	St. Lucie	10282	11/08/2016	2016 General Election	22	PSL Council on Aging	4069	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	22	PSL Council on Aging	4069	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	25
+STL	St. Lucie	10282	11/08/2016	2016 General Election	22	PSL Council on Aging	4069	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	22	PSL Council on Aging	4069	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	23	St. Andrews Lutheran Church	3722	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1262
+STL	St. Lucie	10282	11/08/2016	2016 General Election	23	St. Andrews Lutheran Church	3722	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1259
+STL	St. Lucie	10282	11/08/2016	2016 General Election	23	St. Andrews Lutheran Church	3722	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+STL	St. Lucie	10282	11/08/2016	2016 General Election	23	St. Andrews Lutheran Church	3722	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+STL	St. Lucie	10282	11/08/2016	2016 General Election	23	St. Andrews Lutheran Church	3722	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+STL	St. Lucie	10282	11/08/2016	2016 General Election	23	St. Andrews Lutheran Church	3722	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	23	St. Andrews Lutheran Church	3722	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	23	St. Andrews Lutheran Church	3722	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	23	St. Andrews Lutheran Church	3722	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	14
+STL	St. Lucie	10282	11/08/2016	2016 General Election	24	Miracle Prayer Temple	1802	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	121
+STL	St. Lucie	10282	11/08/2016	2016 General Election	24	Miracle Prayer Temple	1802	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1092
+STL	St. Lucie	10282	11/08/2016	2016 General Election	24	Miracle Prayer Temple	1802	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	24	Miracle Prayer Temple	1802	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	24	Miracle Prayer Temple	1802	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+STL	St. Lucie	10282	11/08/2016	2016 General Election	24	Miracle Prayer Temple	1802	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	24	Miracle Prayer Temple	1802	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	24	Miracle Prayer Temple	1802	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	24	Miracle Prayer Temple	1802	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	25	Days Inn	3915	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1332
+STL	St. Lucie	10282	11/08/2016	2016 General Election	25	Days Inn	3915	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1426
+STL	St. Lucie	10282	11/08/2016	2016 General Election	25	Days Inn	3915	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	45
+STL	St. Lucie	10282	11/08/2016	2016 General Election	25	Days Inn	3915	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	25	Days Inn	3915	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+STL	St. Lucie	10282	11/08/2016	2016 General Election	25	Days Inn	3915	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	25	Days Inn	3915	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	27
+STL	St. Lucie	10282	11/08/2016	2016 General Election	25	Days Inn	3915	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	25	Days Inn	3915	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	26	Port St Lucie Community Center	4264	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1413
+STL	St. Lucie	10282	11/08/2016	2016 General Election	26	Port St Lucie Community Center	4264	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1446
+STL	St. Lucie	10282	11/08/2016	2016 General Election	26	Port St Lucie Community Center	4264	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	75
+STL	St. Lucie	10282	11/08/2016	2016 General Election	26	Port St Lucie Community Center	4264	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	26	Port St Lucie Community Center	4264	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	38
+STL	St. Lucie	10282	11/08/2016	2016 General Election	26	Port St Lucie Community Center	4264	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	26	Port St Lucie Community Center	4264	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	22
+STL	St. Lucie	10282	11/08/2016	2016 General Election	26	Port St Lucie Community Center	4264	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	26	Port St Lucie Community Center	4264	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	18
+STL	St. Lucie	10282	11/08/2016	2016 General Election	28	Orange Blossom Bus Center	1924	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1133
+STL	St. Lucie	10282	11/08/2016	2016 General Election	28	Orange Blossom Bus Center	1924	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	321
+STL	St. Lucie	10282	11/08/2016	2016 General Election	28	Orange Blossom Bus Center	1924	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+STL	St. Lucie	10282	11/08/2016	2016 General Election	28	Orange Blossom Bus Center	1924	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	28	Orange Blossom Bus Center	1924	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	28	Orange Blossom Bus Center	1924	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	28	Orange Blossom Bus Center	1924	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	28	Orange Blossom Bus Center	1924	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	28	Orange Blossom Bus Center	1924	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	29	Orange Blossom Bus Center	652	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	292
+STL	St. Lucie	10282	11/08/2016	2016 General Election	29	Orange Blossom Bus Center	652	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	162
+STL	St. Lucie	10282	11/08/2016	2016 General Election	29	Orange Blossom Bus Center	652	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	29	Orange Blossom Bus Center	652	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	29	Orange Blossom Bus Center	652	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	29	Orange Blossom Bus Center	652	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	29	Orange Blossom Bus Center	652	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	29	Orange Blossom Bus Center	652	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	29	Orange Blossom Bus Center	652	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	31	Spanish Lakes Fairway	1694	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	877
+STL	St. Lucie	10282	11/08/2016	2016 General Election	31	Spanish Lakes Fairway	1694	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	475
+STL	St. Lucie	10282	11/08/2016	2016 General Election	31	Spanish Lakes Fairway	1694	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	31	Spanish Lakes Fairway	1694	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	31	Spanish Lakes Fairway	1694	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	31	Spanish Lakes Fairway	1694	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	31	Spanish Lakes Fairway	1694	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	31	Spanish Lakes Fairway	1694	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	31	Spanish Lakes Fairway	1694	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	13
+STL	St. Lucie	10282	11/08/2016	2016 General Election	33	Orange Blossom Bus Center	367	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	161
+STL	St. Lucie	10282	11/08/2016	2016 General Election	33	Orange Blossom Bus Center	367	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	96
+STL	St. Lucie	10282	11/08/2016	2016 General Election	33	Orange Blossom Bus Center	367	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	33	Orange Blossom Bus Center	367	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	33	Orange Blossom Bus Center	367	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	33	Orange Blossom Bus Center	367	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	33	Orange Blossom Bus Center	367	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	33	Orange Blossom Bus Center	367	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	33	Orange Blossom Bus Center	367	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	35	F.U.M.C. Outreach Center	1994	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	654
+STL	St. Lucie	10282	11/08/2016	2016 General Election	35	F.U.M.C. Outreach Center	1994	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	676
+STL	St. Lucie	10282	11/08/2016	2016 General Election	35	F.U.M.C. Outreach Center	1994	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+STL	St. Lucie	10282	11/08/2016	2016 General Election	35	F.U.M.C. Outreach Center	1994	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	35	F.U.M.C. Outreach Center	1994	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	35	F.U.M.C. Outreach Center	1994	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	35	F.U.M.C. Outreach Center	1994	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	14
+STL	St. Lucie	10282	11/08/2016	2016 General Election	35	F.U.M.C. Outreach Center	1994	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	35	F.U.M.C. Outreach Center	1994	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	8
+STL	St. Lucie	10282	11/08/2016	2016 General Election	36	First Presbyterian Church	1848	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	640
+STL	St. Lucie	10282	11/08/2016	2016 General Election	36	First Presbyterian Church	1848	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	630
+STL	St. Lucie	10282	11/08/2016	2016 General Election	36	First Presbyterian Church	1848	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+STL	St. Lucie	10282	11/08/2016	2016 General Election	36	First Presbyterian Church	1848	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	36	First Presbyterian Church	1848	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	36	First Presbyterian Church	1848	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	36	First Presbyterian Church	1848	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	36	First Presbyterian Church	1848	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	36	First Presbyterian Church	1848	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	37	Family Life Worship Center	4937	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1485
+STL	St. Lucie	10282	11/08/2016	2016 General Election	37	Family Life Worship Center	4937	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1875
+STL	St. Lucie	10282	11/08/2016	2016 General Election	37	Family Life Worship Center	4937	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	71
+STL	St. Lucie	10282	11/08/2016	2016 General Election	37	Family Life Worship Center	4937	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	37	Family Life Worship Center	4937	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+STL	St. Lucie	10282	11/08/2016	2016 General Election	37	Family Life Worship Center	4937	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	37	Family Life Worship Center	4937	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	29
+STL	St. Lucie	10282	11/08/2016	2016 General Election	37	Family Life Worship Center	4937	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	37	Family Life Worship Center	4937	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	26
+STL	St. Lucie	10282	11/08/2016	2016 General Election	38	Spanish Lakes Golf Village	1610	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	581
+STL	St. Lucie	10282	11/08/2016	2016 General Election	38	Spanish Lakes Golf Village	1610	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	454
+STL	St. Lucie	10282	11/08/2016	2016 General Election	38	Spanish Lakes Golf Village	1610	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	38	Spanish Lakes Golf Village	1610	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	38	Spanish Lakes Golf Village	1610	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	38	Spanish Lakes Golf Village	1610	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	38	Spanish Lakes Golf Village	1610	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	38	Spanish Lakes Golf Village	1610	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	38	Spanish Lakes Golf Village	1610	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	12
+STL	St. Lucie	10282	11/08/2016	2016 General Election	39	Spanish Lakes Country Club	1913	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	812
+STL	St. Lucie	10282	11/08/2016	2016 General Election	39	Spanish Lakes Country Club	1913	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	647
+STL	St. Lucie	10282	11/08/2016	2016 General Election	39	Spanish Lakes Country Club	1913	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	39	Spanish Lakes Country Club	1913	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	39	Spanish Lakes Country Club	1913	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	39	Spanish Lakes Country Club	1913	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	39	Spanish Lakes Country Club	1913	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	39	Spanish Lakes Country Club	1913	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	39	Spanish Lakes Country Club	1913	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	40	Church of God	2127	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	587
+STL	St. Lucie	10282	11/08/2016	2016 General Election	40	Church of God	2127	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	675
+STL	St. Lucie	10282	11/08/2016	2016 General Election	40	Church of God	2127	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+STL	St. Lucie	10282	11/08/2016	2016 General Election	40	Church of God	2127	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	40	Church of God	2127	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+STL	St. Lucie	10282	11/08/2016	2016 General Election	40	Church of God	2127	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	40	Church of God	2127	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	40	Church of God	2127	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	40	Church of God	2127	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	41	Knights of Columbus Hall	4181	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1469
+STL	St. Lucie	10282	11/08/2016	2016 General Election	41	Knights of Columbus Hall	4181	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1381
+STL	St. Lucie	10282	11/08/2016	2016 General Election	41	Knights of Columbus Hall	4181	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	53
+STL	St. Lucie	10282	11/08/2016	2016 General Election	41	Knights of Columbus Hall	4181	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	41	Knights of Columbus Hall	4181	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+STL	St. Lucie	10282	11/08/2016	2016 General Election	41	Knights of Columbus Hall	4181	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	41	Knights of Columbus Hall	4181	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	28
+STL	St. Lucie	10282	11/08/2016	2016 General Election	41	Knights of Columbus Hall	4181	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	41	Knights of Columbus Hall	4181	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	21
+STL	St. Lucie	10282	11/08/2016	2016 General Election	42	First Congregational Church	4873	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	2326
+STL	St. Lucie	10282	11/08/2016	2016 General Election	42	First Congregational Church	4873	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1420
+STL	St. Lucie	10282	11/08/2016	2016 General Election	42	First Congregational Church	4873	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	74
+STL	St. Lucie	10282	11/08/2016	2016 General Election	42	First Congregational Church	4873	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	42	First Congregational Church	4873	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	42	First Congregational Church	4873	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	42	First Congregational Church	4873	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	30
+STL	St. Lucie	10282	11/08/2016	2016 General Election	42	First Congregational Church	4873	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	42	First Congregational Church	4873	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	37
+STL	St. Lucie	10282	11/08/2016	2016 General Election	43	The Island Club at P.G.A. Village	3580	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1972
+STL	St. Lucie	10282	11/08/2016	2016 General Election	43	The Island Club at P.G.A. Village	3580	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	925
+STL	St. Lucie	10282	11/08/2016	2016 General Election	43	The Island Club at P.G.A. Village	3580	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+STL	St. Lucie	10282	11/08/2016	2016 General Election	43	The Island Club at P.G.A. Village	3580	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	43	The Island Club at P.G.A. Village	3580	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	43	The Island Club at P.G.A. Village	3580	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	43	The Island Club at P.G.A. Village	3580	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	39
+STL	St. Lucie	10282	11/08/2016	2016 General Election	43	The Island Club at P.G.A. Village	3580	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	43	The Island Club at P.G.A. Village	3580	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	45	Pt St Lucie Christian Church	2606	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1066
+STL	St. Lucie	10282	11/08/2016	2016 General Election	45	Pt St Lucie Christian Church	2606	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	811
+STL	St. Lucie	10282	11/08/2016	2016 General Election	45	Pt St Lucie Christian Church	2606	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+STL	St. Lucie	10282	11/08/2016	2016 General Election	45	Pt St Lucie Christian Church	2606	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	45	Pt St Lucie Christian Church	2606	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+STL	St. Lucie	10282	11/08/2016	2016 General Election	45	Pt St Lucie Christian Church	2606	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	45	Pt St Lucie Christian Church	2606	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	8
+STL	St. Lucie	10282	11/08/2016	2016 General Election	45	Pt St Lucie Christian Church	2606	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	45	Pt St Lucie Christian Church	2606	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	46	Real Life Church	3581	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1124
+STL	St. Lucie	10282	11/08/2016	2016 General Election	46	Real Life Church	3581	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1294
+STL	St. Lucie	10282	11/08/2016	2016 General Election	46	Real Life Church	3581	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+STL	St. Lucie	10282	11/08/2016	2016 General Election	46	Real Life Church	3581	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	46	Real Life Church	3581	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+STL	St. Lucie	10282	11/08/2016	2016 General Election	46	Real Life Church	3581	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	46	Real Life Church	3581	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	46	Real Life Church	3581	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	46	Real Life Church	3581	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	18
+STL	St. Lucie	10282	11/08/2016	2016 General Election	47	Windmill Point I Clubhouse	3319	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1052
+STL	St. Lucie	10282	11/08/2016	2016 General Election	47	Windmill Point I Clubhouse	3319	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1196
+STL	St. Lucie	10282	11/08/2016	2016 General Election	47	Windmill Point I Clubhouse	3319	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+STL	St. Lucie	10282	11/08/2016	2016 General Election	47	Windmill Point I Clubhouse	3319	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	47	Windmill Point I Clubhouse	3319	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+STL	St. Lucie	10282	11/08/2016	2016 General Election	47	Windmill Point I Clubhouse	3319	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	47	Windmill Point I Clubhouse	3319	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	20
+STL	St. Lucie	10282	11/08/2016	2016 General Election	47	Windmill Point I Clubhouse	3319	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	47	Windmill Point I Clubhouse	3319	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	49	Sons of Italy	4849	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1716
+STL	St. Lucie	10282	11/08/2016	2016 General Election	49	Sons of Italy	4849	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1659
+STL	St. Lucie	10282	11/08/2016	2016 General Election	49	Sons of Italy	4849	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	73
+STL	St. Lucie	10282	11/08/2016	2016 General Election	49	Sons of Italy	4849	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	49	Sons of Italy	4849	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+STL	St. Lucie	10282	11/08/2016	2016 General Election	49	Sons of Italy	4849	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	49	Sons of Italy	4849	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	28
+STL	St. Lucie	10282	11/08/2016	2016 General Election	49	Sons of Italy	4849	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	49	Sons of Italy	4849	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	21
+STL	St. Lucie	10282	11/08/2016	2016 General Election	50	Robert E. Minsky Gym	7508	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	2250
+STL	St. Lucie	10282	11/08/2016	2016 General Election	50	Robert E. Minsky Gym	7508	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2804
+STL	St. Lucie	10282	11/08/2016	2016 General Election	50	Robert E. Minsky Gym	7508	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	134
+STL	St. Lucie	10282	11/08/2016	2016 General Election	50	Robert E. Minsky Gym	7508	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	50	Robert E. Minsky Gym	7508	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	36
+STL	St. Lucie	10282	11/08/2016	2016 General Election	50	Robert E. Minsky Gym	7508	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	50	Robert E. Minsky Gym	7508	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	37
+STL	St. Lucie	10282	11/08/2016	2016 General Election	50	Robert E. Minsky Gym	7508	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	50	Robert E. Minsky Gym	7508	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	27
+STL	St. Lucie	10282	11/08/2016	2016 General Election	51	Disabled American Vets Hall	3995	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1164
+STL	St. Lucie	10282	11/08/2016	2016 General Election	51	Disabled American Vets Hall	3995	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1387
+STL	St. Lucie	10282	11/08/2016	2016 General Election	51	Disabled American Vets Hall	3995	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+STL	St. Lucie	10282	11/08/2016	2016 General Election	51	Disabled American Vets Hall	3995	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	51	Disabled American Vets Hall	3995	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	51	Disabled American Vets Hall	3995	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	51	Disabled American Vets Hall	3995	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	25
+STL	St. Lucie	10282	11/08/2016	2016 General Election	51	Disabled American Vets Hall	3995	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	51	Disabled American Vets Hall	3995	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	21
+STL	St. Lucie	10282	11/08/2016	2016 General Election	52	Spanish Lakes Country Club	2044	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	869
+STL	St. Lucie	10282	11/08/2016	2016 General Election	52	Spanish Lakes Country Club	2044	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	520
+STL	St. Lucie	10282	11/08/2016	2016 General Election	52	Spanish Lakes Country Club	2044	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+STL	St. Lucie	10282	11/08/2016	2016 General Election	52	Spanish Lakes Country Club	2044	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	52	Spanish Lakes Country Club	2044	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	52	Spanish Lakes Country Club	2044	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	52	Spanish Lakes Country Club	2044	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	52	Spanish Lakes Country Club	2044	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	52	Spanish Lakes Country Club	2044	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	12
+STL	St. Lucie	10282	11/08/2016	2016 General Election	53	PSL Police Athletic League	3879	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1277
+STL	St. Lucie	10282	11/08/2016	2016 General Election	53	PSL Police Athletic League	3879	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1372
+STL	St. Lucie	10282	11/08/2016	2016 General Election	53	PSL Police Athletic League	3879	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	56
+STL	St. Lucie	10282	11/08/2016	2016 General Election	53	PSL Police Athletic League	3879	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+STL	St. Lucie	10282	11/08/2016	2016 General Election	53	PSL Police Athletic League	3879	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+STL	St. Lucie	10282	11/08/2016	2016 General Election	53	PSL Police Athletic League	3879	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	53	PSL Police Athletic League	3879	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	23
+STL	St. Lucie	10282	11/08/2016	2016 General Election	53	PSL Police Athletic League	3879	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	53	PSL Police Athletic League	3879	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	20
+STL	St. Lucie	10282	11/08/2016	2016 General Election	56	F.U.M.C. Outreach Center	3126	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1080
+STL	St. Lucie	10282	11/08/2016	2016 General Election	56	F.U.M.C. Outreach Center	3126	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	860
+STL	St. Lucie	10282	11/08/2016	2016 General Election	56	F.U.M.C. Outreach Center	3126	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+STL	St. Lucie	10282	11/08/2016	2016 General Election	56	F.U.M.C. Outreach Center	3126	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	56	F.U.M.C. Outreach Center	3126	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+STL	St. Lucie	10282	11/08/2016	2016 General Election	56	F.U.M.C. Outreach Center	3126	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	56	F.U.M.C. Outreach Center	3126	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	20
+STL	St. Lucie	10282	11/08/2016	2016 General Election	56	F.U.M.C. Outreach Center	3126	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	56	F.U.M.C. Outreach Center	3126	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	13
+STL	St. Lucie	10282	11/08/2016	2016 General Election	60	St. Lucie School	531	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	273
+STL	St. Lucie	10282	11/08/2016	2016 General Election	60	St. Lucie School	531	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	122
+STL	St. Lucie	10282	11/08/2016	2016 General Election	60	St. Lucie School	531	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	60	St. Lucie School	531	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	60	St. Lucie School	531	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	60	St. Lucie School	531	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	60	St. Lucie School	531	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	60	St. Lucie School	531	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	60	St. Lucie School	531	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	63	St. Lucie School	240	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	67
+STL	St. Lucie	10282	11/08/2016	2016 General Election	63	St. Lucie School	240	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	61
+STL	St. Lucie	10282	11/08/2016	2016 General Election	63	St. Lucie School	240	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	63	St. Lucie School	240	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	63	St. Lucie School	240	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	63	St. Lucie School	240	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	63	St. Lucie School	240	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	63	St. Lucie School	240	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	63	St. Lucie School	240	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	65	Harbour Ridge Clubhouse	907	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	564
+STL	St. Lucie	10282	11/08/2016	2016 General Election	65	Harbour Ridge Clubhouse	907	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	220
+STL	St. Lucie	10282	11/08/2016	2016 General Election	65	Harbour Ridge Clubhouse	907	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	65	Harbour Ridge Clubhouse	907	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	65	Harbour Ridge Clubhouse	907	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	65	Harbour Ridge Clubhouse	907	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	65	Harbour Ridge Clubhouse	907	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	65	Harbour Ridge Clubhouse	907	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	65	Harbour Ridge Clubhouse	907	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	18
+STL	St. Lucie	10282	11/08/2016	2016 General Election	66	Fire Station #13	1324	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	598
+STL	St. Lucie	10282	11/08/2016	2016 General Election	66	Fire Station #13	1324	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	404
+STL	St. Lucie	10282	11/08/2016	2016 General Election	66	Fire Station #13	1324	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	66	Fire Station #13	1324	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	66	Fire Station #13	1324	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	66	Fire Station #13	1324	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	66	Fire Station #13	1324	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	66	Fire Station #13	1324	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	66	Fire Station #13	1324	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	67	Grace Lutheran Church	2943	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1293
+STL	St. Lucie	10282	11/08/2016	2016 General Election	67	Grace Lutheran Church	2943	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	970
+STL	St. Lucie	10282	11/08/2016	2016 General Election	67	Grace Lutheran Church	2943	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+STL	St. Lucie	10282	11/08/2016	2016 General Election	67	Grace Lutheran Church	2943	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	67	Grace Lutheran Church	2943	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+STL	St. Lucie	10282	11/08/2016	2016 General Election	67	Grace Lutheran Church	2943	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	67	Grace Lutheran Church	2943	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	67	Grace Lutheran Church	2943	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	67	Grace Lutheran Church	2943	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	19
+STL	St. Lucie	10282	11/08/2016	2016 General Election	68	The Lighthouse Chapel	3695	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1134
+STL	St. Lucie	10282	11/08/2016	2016 General Election	68	The Lighthouse Chapel	3695	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1465
+STL	St. Lucie	10282	11/08/2016	2016 General Election	68	The Lighthouse Chapel	3695	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+STL	St. Lucie	10282	11/08/2016	2016 General Election	68	The Lighthouse Chapel	3695	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	68	The Lighthouse Chapel	3695	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	68	The Lighthouse Chapel	3695	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	68	The Lighthouse Chapel	3695	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	68	The Lighthouse Chapel	3695	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	68	The Lighthouse Chapel	3695	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	71	Church of the Jordan	5809	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1923
+STL	St. Lucie	10282	11/08/2016	2016 General Election	71	Church of the Jordan	5809	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2055
+STL	St. Lucie	10282	11/08/2016	2016 General Election	71	Church of the Jordan	5809	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	70
+STL	St. Lucie	10282	11/08/2016	2016 General Election	71	Church of the Jordan	5809	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	71	Church of the Jordan	5809	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+STL	St. Lucie	10282	11/08/2016	2016 General Election	71	Church of the Jordan	5809	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	71	Church of the Jordan	5809	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	42
+STL	St. Lucie	10282	11/08/2016	2016 General Election	71	Church of the Jordan	5809	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	71	Church of the Jordan	5809	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	19
+STL	St. Lucie	10282	11/08/2016	2016 General Election	73	Harbour Place	6233	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1899
+STL	St. Lucie	10282	11/08/2016	2016 General Election	73	Harbour Place	6233	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2132
+STL	St. Lucie	10282	11/08/2016	2016 General Election	73	Harbour Place	6233	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	89
+STL	St. Lucie	10282	11/08/2016	2016 General Election	73	Harbour Place	6233	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+STL	St. Lucie	10282	11/08/2016	2016 General Election	73	Harbour Place	6233	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	41
+STL	St. Lucie	10282	11/08/2016	2016 General Election	73	Harbour Place	6233	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	73	Harbour Place	6233	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	61
+STL	St. Lucie	10282	11/08/2016	2016 General Election	73	Harbour Place	6233	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	73	Harbour Place	6233	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	35
+STL	St. Lucie	10282	11/08/2016	2016 General Election	74	Savanna Club	2413	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1237
+STL	St. Lucie	10282	11/08/2016	2016 General Election	74	Savanna Club	2413	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	771
+STL	St. Lucie	10282	11/08/2016	2016 General Election	74	Savanna Club	2413	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+STL	St. Lucie	10282	11/08/2016	2016 General Election	74	Savanna Club	2413	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	74	Savanna Club	2413	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	74	Savanna Club	2413	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	74	Savanna Club	2413	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	74	Savanna Club	2413	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	74	Savanna Club	2413	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	13
+STL	St. Lucie	10282	11/08/2016	2016 General Election	75	St. Andrews Lutheran Church	2336	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	724
+STL	St. Lucie	10282	11/08/2016	2016 General Election	75	St. Andrews Lutheran Church	2336	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	828
+STL	St. Lucie	10282	11/08/2016	2016 General Election	75	St. Andrews Lutheran Church	2336	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+STL	St. Lucie	10282	11/08/2016	2016 General Election	75	St. Andrews Lutheran Church	2336	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	75	St. Andrews Lutheran Church	2336	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+STL	St. Lucie	10282	11/08/2016	2016 General Election	75	St. Andrews Lutheran Church	2336	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	75	St. Andrews Lutheran Church	2336	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	18
+STL	St. Lucie	10282	11/08/2016	2016 General Election	75	St. Andrews Lutheran Church	2336	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	75	St. Andrews Lutheran Church	2336	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	12
+STL	St. Lucie	10282	11/08/2016	2016 General Election	82	River Place on the St. Lucie	3260	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1329
+STL	St. Lucie	10282	11/08/2016	2016 General Election	82	River Place on the St. Lucie	3260	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1154
+STL	St. Lucie	10282	11/08/2016	2016 General Election	82	River Place on the St. Lucie	3260	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+STL	St. Lucie	10282	11/08/2016	2016 General Election	82	River Place on the St. Lucie	3260	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	82	River Place on the St. Lucie	3260	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+STL	St. Lucie	10282	11/08/2016	2016 General Election	82	River Place on the St. Lucie	3260	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	82	River Place on the St. Lucie	3260	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	23
+STL	St. Lucie	10282	11/08/2016	2016 General Election	82	River Place on the St. Lucie	3260	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	82	River Place on the St. Lucie	3260	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	15
+STL	St. Lucie	10282	11/08/2016	2016 General Election	83	Faith Congregational Church	7076	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	2112
+STL	St. Lucie	10282	11/08/2016	2016 General Election	83	Faith Congregational Church	7076	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2745
+STL	St. Lucie	10282	11/08/2016	2016 General Election	83	Faith Congregational Church	7076	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	95
+STL	St. Lucie	10282	11/08/2016	2016 General Election	83	Faith Congregational Church	7076	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	83	Faith Congregational Church	7076	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+STL	St. Lucie	10282	11/08/2016	2016 General Election	83	Faith Congregational Church	7076	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	83	Faith Congregational Church	7076	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	34
+STL	St. Lucie	10282	11/08/2016	2016 General Election	83	Faith Congregational Church	7076	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	83	Faith Congregational Church	7076	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	27
+STL	St. Lucie	10282	11/08/2016	2016 General Election	84	Parks Edge POA Inc	4922	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1663
+STL	St. Lucie	10282	11/08/2016	2016 General Election	84	Parks Edge POA Inc	4922	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1778
+STL	St. Lucie	10282	11/08/2016	2016 General Election	84	Parks Edge POA Inc	4922	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	71
+STL	St. Lucie	10282	11/08/2016	2016 General Election	84	Parks Edge POA Inc	4922	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	84	Parks Edge POA Inc	4922	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+STL	St. Lucie	10282	11/08/2016	2016 General Election	84	Parks Edge POA Inc	4922	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	84	Parks Edge POA Inc	4922	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	26
+STL	St. Lucie	10282	11/08/2016	2016 General Election	84	Parks Edge POA Inc	4922	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	84	Parks Edge POA Inc	4922	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	13
+STL	St. Lucie	10282	11/08/2016	2016 General Election	85	IRSC Schreiber Conference Center	10868	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	4315
+STL	St. Lucie	10282	11/08/2016	2016 General Election	85	IRSC Schreiber Conference Center	10868	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	4085
+STL	St. Lucie	10282	11/08/2016	2016 General Election	85	IRSC Schreiber Conference Center	10868	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	102
+STL	St. Lucie	10282	11/08/2016	2016 General Election	85	IRSC Schreiber Conference Center	10868	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+STL	St. Lucie	10282	11/08/2016	2016 General Election	85	IRSC Schreiber Conference Center	10868	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	32
+STL	St. Lucie	10282	11/08/2016	2016 General Election	85	IRSC Schreiber Conference Center	10868	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+STL	St. Lucie	10282	11/08/2016	2016 General Election	85	IRSC Schreiber Conference Center	10868	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	68
+STL	St. Lucie	10282	11/08/2016	2016 General Election	85	IRSC Schreiber Conference Center	10868	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	6
+STL	St. Lucie	10282	11/08/2016	2016 General Election	85	IRSC Schreiber Conference Center	10868	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	69
+STL	St. Lucie	10282	11/08/2016	2016 General Election	86	Sunlight Community Church	2773	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	1272
+STL	St. Lucie	10282	11/08/2016	2016 General Election	86	Sunlight Community Church	2773	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	861
+STL	St. Lucie	10282	11/08/2016	2016 General Election	86	Sunlight Community Church	2773	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+STL	St. Lucie	10282	11/08/2016	2016 General Election	86	Sunlight Community Church	2773	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	86	Sunlight Community Church	2773	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+STL	St. Lucie	10282	11/08/2016	2016 General Election	86	Sunlight Community Church	2773	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	86	Sunlight Community Church	2773	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	20
+STL	St. Lucie	10282	11/08/2016	2016 General Election	86	Sunlight Community Church	2773	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	86	Sunlight Community Church	2773	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	16
+STL	St. Lucie	10282	11/08/2016	2016 General Election	89	Tradition Town Hall	6256	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	2638
+STL	St. Lucie	10282	11/08/2016	2016 General Election	89	Tradition Town Hall	6256	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2280
+STL	St. Lucie	10282	11/08/2016	2016 General Election	89	Tradition Town Hall	6256	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	79
+STL	St. Lucie	10282	11/08/2016	2016 General Election	89	Tradition Town Hall	6256	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+STL	St. Lucie	10282	11/08/2016	2016 General Election	89	Tradition Town Hall	6256	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+STL	St. Lucie	10282	11/08/2016	2016 General Election	89	Tradition Town Hall	6256	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+STL	St. Lucie	10282	11/08/2016	2016 General Election	89	Tradition Town Hall	6256	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	47
+STL	St. Lucie	10282	11/08/2016	2016 General Election	89	Tradition Town Hall	6256	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	89	Tradition Town Hall	6256	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	35
+STL	St. Lucie	10282	11/08/2016	2016 General Election	91	Orange Blossom Bus Center	117	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	64
+STL	St. Lucie	10282	11/08/2016	2016 General Election	91	Orange Blossom Bus Center	117	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	13
+STL	St. Lucie	10282	11/08/2016	2016 General Election	91	Orange Blossom Bus Center	117	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	91	Orange Blossom Bus Center	117	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	91	Orange Blossom Bus Center	117	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	91	Orange Blossom Bus Center	117	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	91	Orange Blossom Bus Center	117	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	91	Orange Blossom Bus Center	117	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	91	Orange Blossom Bus Center	117	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	2
+STL	St. Lucie	10282	11/08/2016	2016 General Election	92	Orange Blossom Bus Center	178	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	95
+STL	St. Lucie	10282	11/08/2016	2016 General Election	92	Orange Blossom Bus Center	178	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	31
+STL	St. Lucie	10282	11/08/2016	2016 General Election	92	Orange Blossom Bus Center	178	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	92	Orange Blossom Bus Center	178	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	92	Orange Blossom Bus Center	178	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	92	Orange Blossom Bus Center	178	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	92	Orange Blossom Bus Center	178	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	92	Orange Blossom Bus Center	178	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	92	Orange Blossom Bus Center	178	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	93	Orange Blossom Bus Center	6	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	4
+STL	St. Lucie	10282	11/08/2016	2016 General Election	93	Orange Blossom Bus Center	6	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1
+STL	St. Lucie	10282	11/08/2016	2016 General Election	93	Orange Blossom Bus Center	6	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	93	Orange Blossom Bus Center	6	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	93	Orange Blossom Bus Center	6	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	93	Orange Blossom Bus Center	6	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	93	Orange Blossom Bus Center	6	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	93	Orange Blossom Bus Center	6	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	93	Orange Blossom Bus Center	6	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	94	Spanish Lakes Fairway	5	0	0	188498	President of the United States	 	100000	Trump / Pence	REP	0	65072	3
+STL	St. Lucie	10282	11/08/2016	2016 General Election	94	Spanish Lakes Fairway	5	0	0	188498	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	94	Spanish Lakes Fairway	5	0	0	188498	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	94	Spanish Lakes Fairway	5	0	0	188498	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	94	Spanish Lakes Fairway	5	0	0	188498	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	94	Spanish Lakes Fairway	5	0	0	188498	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	94	Spanish Lakes Fairway	5	0	0	188498	President of the United States	 	100000	WriteinVotes	 	0	900	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	94	Spanish Lakes Fairway	5	0	0	188498	President of the United States	 	100000	OverVotes	 	0	901	0
+STL	St. Lucie	10282	11/08/2016	2016 General Election	94	Spanish Lakes Fairway	5	0	0	188498	President of the United States	 	100000	UnderVotes	 	0	902	0

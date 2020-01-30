@@ -1,0 +1,72 @@
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	72
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	190
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	1	ROCK BLUFF 01	355	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	100
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	79
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	2	ANNEX 02	288	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	640
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	103
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	3	BRISTOL 03	1071	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	8
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	670
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	74
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	4	LAKE MYSTIC 04	992	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	388
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	75
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	5
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	5	HOSFORD 05	649	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	6
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	438
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	78
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	6	TELOGIA 06	729	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	110
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	13
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	7	SUMATRA 07	173	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	3
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Trump / Pence	REP	0	65072	125
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	39
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	10282	11/08/2016	2016 General Election	8	ORANGE 08	238	0	0	4477	President of the United States	 	100000	UnderVotes	 	0	902	2

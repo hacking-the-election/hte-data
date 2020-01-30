@@ -1,0 +1,117 @@
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	934
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	399
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	12
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	01	Bronson Ag Bldg	2073	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	7
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1398
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	495
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	17
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	02	Faith Baptist Tabernacle	2626	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	13
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1551
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	691
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	11
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	5
+LEV	Levy	10282	11/08/2016	2016 General Election	03	Bronson Dogan Cobb Bldg	3348	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	13
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	635
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	303
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	6
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	04	Cedar Key City Hall	1288	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	4
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1758
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	377
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	12
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	05	Willow Sink	2945	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	11
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	319
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	51
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	06	Gulf Hammock Church of God	494	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	1
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1081
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	859
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	5
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	7
+LEV	Levy	10282	11/08/2016	2016 General Election	07	Williston Community Center	2749	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	2
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1699
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	451
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	9
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	08	Morriston Baptist Church	2932	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	5
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1347
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	395
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	8
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	6
+LEV	Levy	10282	11/08/2016	2016 General Election	09	Inglis Community Center	2409	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	6
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	608
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	96
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	10	Pine Grove Baptist Church	909	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	1
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	588
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	307
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	2
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	1
+LEV	Levy	10282	11/08/2016	2016 General Election	11	Miracle Vision Tabernacle	1154	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	3
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	1017
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	263
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	12
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	0
+LEV	Levy	10282	11/08/2016	2016 General Election	12	Fanning Springs City Hall	1920	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	9
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Trump / Pence	REP	0	65072	840
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	414
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	WriteinVotes	 	0	900	8
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	OverVotes	 	0	901	2
+LEV	Levy	10282	11/08/2016	2016 General Election	13	Chiefland Tommy Usher Center	1985	0	0	26224	President of the United States	 	100000	UnderVotes	 	0	902	5

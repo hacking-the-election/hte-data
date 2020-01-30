@@ -1,0 +1,603 @@
+CHA	Charlotte	10282	11/08/2016	2016 General Election	1	CLEVELAND METHODIST 0001	465	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	206
+CHA	Charlotte	10282	11/08/2016	2016 General Election	1	CLEVELAND METHODIST 0001	465	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	96
+CHA	Charlotte	10282	11/08/2016	2016 General Election	1	CLEVELAND METHODIST 0001	465	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	1	CLEVELAND METHODIST 0001	465	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	1	CLEVELAND METHODIST 0001	465	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	1	CLEVELAND METHODIST 0001	465	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	1	CLEVELAND METHODIST 0001	465	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	1	CLEVELAND METHODIST 0001	465	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	1	CLEVELAND METHODIST 0001	465	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	2	EAST ELEMENTARY 0002	660	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	334
+CHA	Charlotte	10282	11/08/2016	2016 General Election	2	EAST ELEMENTARY 0002	660	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	177
+CHA	Charlotte	10282	11/08/2016	2016 General Election	2	EAST ELEMENTARY 0002	660	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	2	EAST ELEMENTARY 0002	660	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	2	EAST ELEMENTARY 0002	660	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	2	EAST ELEMENTARY 0002	660	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	2	EAST ELEMENTARY 0002	660	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	2	EAST ELEMENTARY 0002	660	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	2	EAST ELEMENTARY 0002	660	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	3	EVENT CENTER 0003	656	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	179
+CHA	Charlotte	10282	11/08/2016	2016 General Election	3	EVENT CENTER 0003	656	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	253
+CHA	Charlotte	10282	11/08/2016	2016 General Election	3	EVENT CENTER 0003	656	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	3	EVENT CENTER 0003	656	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	3	EVENT CENTER 0003	656	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	3	EVENT CENTER 0003	656	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	3	EVENT CENTER 0003	656	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	3	EVENT CENTER 0003	656	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	3	EVENT CENTER 0003	656	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	4	EVENT CENTER 0003	372	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	196
+CHA	Charlotte	10282	11/08/2016	2016 General Election	4	EVENT CENTER 0003	372	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	98
+CHA	Charlotte	10282	11/08/2016	2016 General Election	4	EVENT CENTER 0003	372	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	4	EVENT CENTER 0003	372	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	4	EVENT CENTER 0003	372	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	4	EVENT CENTER 0003	372	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	4	EVENT CENTER 0003	372	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	4	EVENT CENTER 0003	372	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	4	EVENT CENTER 0003	372	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	5	PEACE RIVER ELEM 0020	2006	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	834
+CHA	Charlotte	10282	11/08/2016	2016 General Election	5	PEACE RIVER ELEM 0020	2006	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	532
+CHA	Charlotte	10282	11/08/2016	2016 General Election	5	PEACE RIVER ELEM 0020	2006	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+CHA	Charlotte	10282	11/08/2016	2016 General Election	5	PEACE RIVER ELEM 0020	2006	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	5	PEACE RIVER ELEM 0020	2006	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	5	PEACE RIVER ELEM 0020	2006	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	5	PEACE RIVER ELEM 0020	2006	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	5	PEACE RIVER ELEM 0020	2006	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	5	PEACE RIVER ELEM 0020	2006	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	6	FAIRGROUNDS 0018	2574	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1341
+CHA	Charlotte	10282	11/08/2016	2016 General Election	6	FAIRGROUNDS 0018	2574	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	728
+CHA	Charlotte	10282	11/08/2016	2016 General Election	6	FAIRGROUNDS 0018	2574	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+CHA	Charlotte	10282	11/08/2016	2016 General Election	6	FAIRGROUNDS 0018	2574	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	6	FAIRGROUNDS 0018	2574	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	6	FAIRGROUNDS 0018	2574	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	6	FAIRGROUNDS 0018	2574	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	23
+CHA	Charlotte	10282	11/08/2016	2016 General Election	6	FAIRGROUNDS 0018	2574	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	6	FAIRGROUNDS 0018	2574	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	14
+CHA	Charlotte	10282	11/08/2016	2016 General Election	7	AMERICAN LEGION 0024	2608	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1313
+CHA	Charlotte	10282	11/08/2016	2016 General Election	7	AMERICAN LEGION 0024	2608	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	667
+CHA	Charlotte	10282	11/08/2016	2016 General Election	7	AMERICAN LEGION 0024	2608	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+CHA	Charlotte	10282	11/08/2016	2016 General Election	7	AMERICAN LEGION 0024	2608	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	7	AMERICAN LEGION 0024	2608	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	7	AMERICAN LEGION 0024	2608	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	7	AMERICAN LEGION 0024	2608	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	19
+CHA	Charlotte	10282	11/08/2016	2016 General Election	7	AMERICAN LEGION 0024	2608	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	7	AMERICAN LEGION 0024	2608	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	15
+CHA	Charlotte	10282	11/08/2016	2016 General Election	8	LEMON BAY HIGH 0028	1114	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	533
+CHA	Charlotte	10282	11/08/2016	2016 General Election	8	LEMON BAY HIGH 0028	1114	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	293
+CHA	Charlotte	10282	11/08/2016	2016 General Election	8	LEMON BAY HIGH 0028	1114	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+CHA	Charlotte	10282	11/08/2016	2016 General Election	8	LEMON BAY HIGH 0028	1114	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	8	LEMON BAY HIGH 0028	1114	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	8	LEMON BAY HIGH 0028	1114	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	8	LEMON BAY HIGH 0028	1114	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	8	LEMON BAY HIGH 0028	1114	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	8	LEMON BAY HIGH 0028	1114	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	9	PC BEACH COMPLEX 0022	1115	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	464
+CHA	Charlotte	10282	11/08/2016	2016 General Election	9	PC BEACH COMPLEX 0022	1115	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	306
+CHA	Charlotte	10282	11/08/2016	2016 General Election	9	PC BEACH COMPLEX 0022	1115	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+CHA	Charlotte	10282	11/08/2016	2016 General Election	9	PC BEACH COMPLEX 0022	1115	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	9	PC BEACH COMPLEX 0022	1115	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	9	PC BEACH COMPLEX 0022	1115	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	9	PC BEACH COMPLEX 0022	1115	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	16
+CHA	Charlotte	10282	11/08/2016	2016 General Election	9	PC BEACH COMPLEX 0022	1115	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	9	PC BEACH COMPLEX 0022	1115	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	10	PC CULTURAL CENTER 0014	1155	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	390
+CHA	Charlotte	10282	11/08/2016	2016 General Election	10	PC CULTURAL CENTER 0014	1155	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	319
+CHA	Charlotte	10282	11/08/2016	2016 General Election	10	PC CULTURAL CENTER 0014	1155	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+CHA	Charlotte	10282	11/08/2016	2016 General Election	10	PC CULTURAL CENTER 0014	1155	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	10	PC CULTURAL CENTER 0014	1155	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	10	PC CULTURAL CENTER 0014	1155	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	10	PC CULTURAL CENTER 0014	1155	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	10	PC CULTURAL CENTER 0014	1155	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	10	PC CULTURAL CENTER 0014	1155	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	11
+CHA	Charlotte	10282	11/08/2016	2016 General Election	11	MYAKKA RIVER ELEM 0026	1865	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	976
+CHA	Charlotte	10282	11/08/2016	2016 General Election	11	MYAKKA RIVER ELEM 0026	1865	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	362
+CHA	Charlotte	10282	11/08/2016	2016 General Election	11	MYAKKA RIVER ELEM 0026	1865	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+CHA	Charlotte	10282	11/08/2016	2016 General Election	11	MYAKKA RIVER ELEM 0026	1865	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	11	MYAKKA RIVER ELEM 0026	1865	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	11	MYAKKA RIVER ELEM 0026	1865	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	11	MYAKKA RIVER ELEM 0026	1865	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	11	MYAKKA RIVER ELEM 0026	1865	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	11	MYAKKA RIVER ELEM 0026	1865	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	12	DEEP CREEK ELEM 0021	2500	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1122
+CHA	Charlotte	10282	11/08/2016	2016 General Election	12	DEEP CREEK ELEM 0021	2500	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	663
+CHA	Charlotte	10282	11/08/2016	2016 General Election	12	DEEP CREEK ELEM 0021	2500	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+CHA	Charlotte	10282	11/08/2016	2016 General Election	12	DEEP CREEK ELEM 0021	2500	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	12	DEEP CREEK ELEM 0021	2500	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	12	DEEP CREEK ELEM 0021	2500	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	12	DEEP CREEK ELEM 0021	2500	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	25
+CHA	Charlotte	10282	11/08/2016	2016 General Election	12	DEEP CREEK ELEM 0021	2500	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	11
+CHA	Charlotte	10282	11/08/2016	2016 General Election	12	DEEP CREEK ELEM 0021	2500	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	15
+CHA	Charlotte	10282	11/08/2016	2016 General Election	13	EAST ELEMENTARY 0002	1752	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	937
+CHA	Charlotte	10282	11/08/2016	2016 General Election	13	EAST ELEMENTARY 0002	1752	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	346
+CHA	Charlotte	10282	11/08/2016	2016 General Election	13	EAST ELEMENTARY 0002	1752	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+CHA	Charlotte	10282	11/08/2016	2016 General Election	13	EAST ELEMENTARY 0002	1752	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	13	EAST ELEMENTARY 0002	1752	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	13	EAST ELEMENTARY 0002	1752	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	13	EAST ELEMENTARY 0002	1752	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	13	EAST ELEMENTARY 0002	1752	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	13	EAST ELEMENTARY 0002	1752	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	14	ALLIGATOR PARK 0009	1936	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	925
+CHA	Charlotte	10282	11/08/2016	2016 General Election	14	ALLIGATOR PARK 0009	1936	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	465
+CHA	Charlotte	10282	11/08/2016	2016 General Election	14	ALLIGATOR PARK 0009	1936	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+CHA	Charlotte	10282	11/08/2016	2016 General Election	14	ALLIGATOR PARK 0009	1936	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	14	ALLIGATOR PARK 0009	1936	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+CHA	Charlotte	10282	11/08/2016	2016 General Election	14	ALLIGATOR PARK 0009	1936	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	14	ALLIGATOR PARK 0009	1936	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	14	ALLIGATOR PARK 0009	1936	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	14	ALLIGATOR PARK 0009	1936	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	15	HOLY TRINITY LUTH CH 0012	2424	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1083
+CHA	Charlotte	10282	11/08/2016	2016 General Election	15	HOLY TRINITY LUTH CH 0012	2424	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	589
+CHA	Charlotte	10282	11/08/2016	2016 General Election	15	HOLY TRINITY LUTH CH 0012	2424	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	41
+CHA	Charlotte	10282	11/08/2016	2016 General Election	15	HOLY TRINITY LUTH CH 0012	2424	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	15	HOLY TRINITY LUTH CH 0012	2424	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+CHA	Charlotte	10282	11/08/2016	2016 General Election	15	HOLY TRINITY LUTH CH 0012	2424	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	15	HOLY TRINITY LUTH CH 0012	2424	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	15	HOLY TRINITY LUTH CH 0012	2424	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	15	HOLY TRINITY LUTH CH 0012	2424	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	16	PC CULTURAL CENTER 0014	1272	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	385
+CHA	Charlotte	10282	11/08/2016	2016 General Election	16	PC CULTURAL CENTER 0014	1272	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	331
+CHA	Charlotte	10282	11/08/2016	2016 General Election	16	PC CULTURAL CENTER 0014	1272	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+CHA	Charlotte	10282	11/08/2016	2016 General Election	16	PC CULTURAL CENTER 0014	1272	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	16	PC CULTURAL CENTER 0014	1272	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+CHA	Charlotte	10282	11/08/2016	2016 General Election	16	PC CULTURAL CENTER 0014	1272	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	16	PC CULTURAL CENTER 0014	1272	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	16	PC CULTURAL CENTER 0014	1272	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	16	PC CULTURAL CENTER 0014	1272	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	17	PC CULTURAL CENTER 0014	1913	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	640
+CHA	Charlotte	10282	11/08/2016	2016 General Election	17	PC CULTURAL CENTER 0014	1913	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	578
+CHA	Charlotte	10282	11/08/2016	2016 General Election	17	PC CULTURAL CENTER 0014	1913	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+CHA	Charlotte	10282	11/08/2016	2016 General Election	17	PC CULTURAL CENTER 0014	1913	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	17	PC CULTURAL CENTER 0014	1913	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	17	PC CULTURAL CENTER 0014	1913	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	17	PC CULTURAL CENTER 0014	1913	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	17	PC CULTURAL CENTER 0014	1913	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	25
+CHA	Charlotte	10282	11/08/2016	2016 General Election	17	PC CULTURAL CENTER 0014	1913	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	18	LEMON BAY HIGH 0028	1813	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	839
+CHA	Charlotte	10282	11/08/2016	2016 General Election	18	LEMON BAY HIGH 0028	1813	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	432
+CHA	Charlotte	10282	11/08/2016	2016 General Election	18	LEMON BAY HIGH 0028	1813	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+CHA	Charlotte	10282	11/08/2016	2016 General Election	18	LEMON BAY HIGH 0028	1813	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	18	LEMON BAY HIGH 0028	1813	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	18	LEMON BAY HIGH 0028	1813	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	18	LEMON BAY HIGH 0028	1813	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	18	LEMON BAY HIGH 0028	1813	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	18	LEMON BAY HIGH 0028	1813	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	19	EVENT CENTER 0003	805	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	338
+CHA	Charlotte	10282	11/08/2016	2016 General Election	19	EVENT CENTER 0003	805	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	225
+CHA	Charlotte	10282	11/08/2016	2016 General Election	19	EVENT CENTER 0003	805	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+CHA	Charlotte	10282	11/08/2016	2016 General Election	19	EVENT CENTER 0003	805	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	19	EVENT CENTER 0003	805	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	19	EVENT CENTER 0003	805	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	19	EVENT CENTER 0003	805	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	19	EVENT CENTER 0003	805	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	19	EVENT CENTER 0003	805	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	20	PC BEACH COMPLEX 0022	1948	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	810
+CHA	Charlotte	10282	11/08/2016	2016 General Election	20	PC BEACH COMPLEX 0022	1948	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	440
+CHA	Charlotte	10282	11/08/2016	2016 General Election	20	PC BEACH COMPLEX 0022	1948	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+CHA	Charlotte	10282	11/08/2016	2016 General Election	20	PC BEACH COMPLEX 0022	1948	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	20	PC BEACH COMPLEX 0022	1948	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+CHA	Charlotte	10282	11/08/2016	2016 General Election	20	PC BEACH COMPLEX 0022	1948	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	20	PC BEACH COMPLEX 0022	1948	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	15
+CHA	Charlotte	10282	11/08/2016	2016 General Election	20	PC BEACH COMPLEX 0022	1948	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	20	PC BEACH COMPLEX 0022	1948	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	21	MEADOW PARK ELEM 0013	1195	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	506
+CHA	Charlotte	10282	11/08/2016	2016 General Election	21	MEADOW PARK ELEM 0013	1195	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	322
+CHA	Charlotte	10282	11/08/2016	2016 General Election	21	MEADOW PARK ELEM 0013	1195	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	21	MEADOW PARK ELEM 0013	1195	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	21	MEADOW PARK ELEM 0013	1195	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	21	MEADOW PARK ELEM 0013	1195	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	21	MEADOW PARK ELEM 0013	1195	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	21	MEADOW PARK ELEM 0013	1195	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	21	MEADOW PARK ELEM 0013	1195	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	22	PC MIDDLE SCHOOL 0015	3653	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1470
+CHA	Charlotte	10282	11/08/2016	2016 General Election	22	PC MIDDLE SCHOOL 0015	3653	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1005
+CHA	Charlotte	10282	11/08/2016	2016 General Election	22	PC MIDDLE SCHOOL 0015	3653	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	55
+CHA	Charlotte	10282	11/08/2016	2016 General Election	22	PC MIDDLE SCHOOL 0015	3653	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	22	PC MIDDLE SCHOOL 0015	3653	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	29
+CHA	Charlotte	10282	11/08/2016	2016 General Election	22	PC MIDDLE SCHOOL 0015	3653	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	22	PC MIDDLE SCHOOL 0015	3653	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	23
+CHA	Charlotte	10282	11/08/2016	2016 General Election	22	PC MIDDLE SCHOOL 0015	3653	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	22	PC MIDDLE SCHOOL 0015	3653	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	23	ENGLEWOOD BCH VILLAS 0029	1060	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	547
+CHA	Charlotte	10282	11/08/2016	2016 General Election	23	ENGLEWOOD BCH VILLAS 0029	1060	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	292
+CHA	Charlotte	10282	11/08/2016	2016 General Election	23	ENGLEWOOD BCH VILLAS 0029	1060	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+CHA	Charlotte	10282	11/08/2016	2016 General Election	23	ENGLEWOOD BCH VILLAS 0029	1060	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	23	ENGLEWOOD BCH VILLAS 0029	1060	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	23	ENGLEWOOD BCH VILLAS 0029	1060	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	23	ENGLEWOOD BCH VILLAS 0029	1060	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	23	ENGLEWOOD BCH VILLAS 0029	1060	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	23	ENGLEWOOD BCH VILLAS 0029	1060	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	24	PEACE RIVER ELEM 0020	1798	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	724
+CHA	Charlotte	10282	11/08/2016	2016 General Election	24	PEACE RIVER ELEM 0020	1798	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	484
+CHA	Charlotte	10282	11/08/2016	2016 General Election	24	PEACE RIVER ELEM 0020	1798	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+CHA	Charlotte	10282	11/08/2016	2016 General Election	24	PEACE RIVER ELEM 0020	1798	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	24	PEACE RIVER ELEM 0020	1798	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	24	PEACE RIVER ELEM 0020	1798	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	24	PEACE RIVER ELEM 0020	1798	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	24	PEACE RIVER ELEM 0020	1798	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	24	PEACE RIVER ELEM 0020	1798	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	25	MID CO REG LIBRARY 0023	1873	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	801
+CHA	Charlotte	10282	11/08/2016	2016 General Election	25	MID CO REG LIBRARY 0023	1873	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	500
+CHA	Charlotte	10282	11/08/2016	2016 General Election	25	MID CO REG LIBRARY 0023	1873	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+CHA	Charlotte	10282	11/08/2016	2016 General Election	25	MID CO REG LIBRARY 0023	1873	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	25	MID CO REG LIBRARY 0023	1873	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+CHA	Charlotte	10282	11/08/2016	2016 General Election	25	MID CO REG LIBRARY 0023	1873	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	25	MID CO REG LIBRARY 0023	1873	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	25	MID CO REG LIBRARY 0023	1873	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	25	MID CO REG LIBRARY 0023	1873	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	26	MURDOCK MIDDLE 0019	1085	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	418
+CHA	Charlotte	10282	11/08/2016	2016 General Election	26	MURDOCK MIDDLE 0019	1085	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	300
+CHA	Charlotte	10282	11/08/2016	2016 General Election	26	MURDOCK MIDDLE 0019	1085	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	26	MURDOCK MIDDLE 0019	1085	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	26	MURDOCK MIDDLE 0019	1085	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	26	MURDOCK MIDDLE 0019	1085	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	26	MURDOCK MIDDLE 0019	1085	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	26	MURDOCK MIDDLE 0019	1085	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	26	MURDOCK MIDDLE 0019	1085	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	27	LEMON BAY HIGH 0028	3102	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1475
+CHA	Charlotte	10282	11/08/2016	2016 General Election	27	LEMON BAY HIGH 0028	3102	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	817
+CHA	Charlotte	10282	11/08/2016	2016 General Election	27	LEMON BAY HIGH 0028	3102	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	53
+CHA	Charlotte	10282	11/08/2016	2016 General Election	27	LEMON BAY HIGH 0028	3102	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	27	LEMON BAY HIGH 0028	3102	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	27	LEMON BAY HIGH 0028	3102	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	27	LEMON BAY HIGH 0028	3102	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	20
+CHA	Charlotte	10282	11/08/2016	2016 General Election	27	LEMON BAY HIGH 0028	3102	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	18
+CHA	Charlotte	10282	11/08/2016	2016 General Election	27	LEMON BAY HIGH 0028	3102	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	20
+CHA	Charlotte	10282	11/08/2016	2016 General Election	28	EVENT CENTER 0003	2056	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1149
+CHA	Charlotte	10282	11/08/2016	2016 General Election	28	EVENT CENTER 0003	2056	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	505
+CHA	Charlotte	10282	11/08/2016	2016 General Election	28	EVENT CENTER 0003	2056	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+CHA	Charlotte	10282	11/08/2016	2016 General Election	28	EVENT CENTER 0003	2056	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	28	EVENT CENTER 0003	2056	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	28	EVENT CENTER 0003	2056	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	28	EVENT CENTER 0003	2056	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	18
+CHA	Charlotte	10282	11/08/2016	2016 General Election	28	EVENT CENTER 0003	2056	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	28	EVENT CENTER 0003	2056	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	29	PG ISLES CIVIC ASSN. 0010	3410	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1954
+CHA	Charlotte	10282	11/08/2016	2016 General Election	29	PG ISLES CIVIC ASSN. 0010	3410	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	849
+CHA	Charlotte	10282	11/08/2016	2016 General Election	29	PG ISLES CIVIC ASSN. 0010	3410	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	41
+CHA	Charlotte	10282	11/08/2016	2016 General Election	29	PG ISLES CIVIC ASSN. 0010	3410	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	29	PG ISLES CIVIC ASSN. 0010	3410	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	29	PG ISLES CIVIC ASSN. 0010	3410	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	29	PG ISLES CIVIC ASSN. 0010	3410	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	24
+CHA	Charlotte	10282	11/08/2016	2016 General Election	29	PG ISLES CIVIC ASSN. 0010	3410	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	29	PG ISLES CIVIC ASSN. 0010	3410	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	20
+CHA	Charlotte	10282	11/08/2016	2016 General Election	30	CLEVELAND METHODIST 0001	1022	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	507
+CHA	Charlotte	10282	11/08/2016	2016 General Election	30	CLEVELAND METHODIST 0001	1022	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	212
+CHA	Charlotte	10282	11/08/2016	2016 General Election	30	CLEVELAND METHODIST 0001	1022	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+CHA	Charlotte	10282	11/08/2016	2016 General Election	30	CLEVELAND METHODIST 0001	1022	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	30	CLEVELAND METHODIST 0001	1022	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	30	CLEVELAND METHODIST 0001	1022	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	30	CLEVELAND METHODIST 0001	1022	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	30	CLEVELAND METHODIST 0001	1022	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	30	CLEVELAND METHODIST 0001	1022	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	31	CLEVELAND BAPTIST 0008	2610	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1371
+CHA	Charlotte	10282	11/08/2016	2016 General Election	31	CLEVELAND BAPTIST 0008	2610	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	487
+CHA	Charlotte	10282	11/08/2016	2016 General Election	31	CLEVELAND BAPTIST 0008	2610	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+CHA	Charlotte	10282	11/08/2016	2016 General Election	31	CLEVELAND BAPTIST 0008	2610	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	31	CLEVELAND BAPTIST 0008	2610	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+CHA	Charlotte	10282	11/08/2016	2016 General Election	31	CLEVELAND BAPTIST 0008	2610	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	31	CLEVELAND BAPTIST 0008	2610	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	20
+CHA	Charlotte	10282	11/08/2016	2016 General Election	31	CLEVELAND BAPTIST 0008	2610	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	31	CLEVELAND BAPTIST 0008	2610	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	11
+CHA	Charlotte	10282	11/08/2016	2016 General Election	32	EAST ELEMENTARY 0002	434	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	242
+CHA	Charlotte	10282	11/08/2016	2016 General Election	32	EAST ELEMENTARY 0002	434	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	44
+CHA	Charlotte	10282	11/08/2016	2016 General Election	32	EAST ELEMENTARY 0002	434	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	32	EAST ELEMENTARY 0002	434	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	32	EAST ELEMENTARY 0002	434	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	32	EAST ELEMENTARY 0002	434	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	32	EAST ELEMENTARY 0002	434	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	32	EAST ELEMENTARY 0002	434	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	32	EAST ELEMENTARY 0002	434	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	33	MYAKKA RIVER ELEM 0026	1720	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	774
+CHA	Charlotte	10282	11/08/2016	2016 General Election	33	MYAKKA RIVER ELEM 0026	1720	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	421
+CHA	Charlotte	10282	11/08/2016	2016 General Election	33	MYAKKA RIVER ELEM 0026	1720	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+CHA	Charlotte	10282	11/08/2016	2016 General Election	33	MYAKKA RIVER ELEM 0026	1720	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	33	MYAKKA RIVER ELEM 0026	1720	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	33	MYAKKA RIVER ELEM 0026	1720	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	33	MYAKKA RIVER ELEM 0026	1720	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	33	MYAKKA RIVER ELEM 0026	1720	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	33	MYAKKA RIVER ELEM 0026	1720	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	34	ISLES YACHT CLUB 0004	1604	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	919
+CHA	Charlotte	10282	11/08/2016	2016 General Election	34	ISLES YACHT CLUB 0004	1604	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	425
+CHA	Charlotte	10282	11/08/2016	2016 General Election	34	ISLES YACHT CLUB 0004	1604	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+CHA	Charlotte	10282	11/08/2016	2016 General Election	34	ISLES YACHT CLUB 0004	1604	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	34	ISLES YACHT CLUB 0004	1604	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	34	ISLES YACHT CLUB 0004	1604	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	34	ISLES YACHT CLUB 0004	1604	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	34	ISLES YACHT CLUB 0004	1604	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	34	ISLES YACHT CLUB 0004	1604	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	14
+CHA	Charlotte	10282	11/08/2016	2016 General Election	35	PG ISLES CIVIC ASSN. 0010	1016	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	481
+CHA	Charlotte	10282	11/08/2016	2016 General Election	35	PG ISLES CIVIC ASSN. 0010	1016	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	267
+CHA	Charlotte	10282	11/08/2016	2016 General Election	35	PG ISLES CIVIC ASSN. 0010	1016	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+CHA	Charlotte	10282	11/08/2016	2016 General Election	35	PG ISLES CIVIC ASSN. 0010	1016	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	35	PG ISLES CIVIC ASSN. 0010	1016	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	35	PG ISLES CIVIC ASSN. 0010	1016	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	35	PG ISLES CIVIC ASSN. 0010	1016	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	35	PG ISLES CIVIC ASSN. 0010	1016	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	35	PG ISLES CIVIC ASSN. 0010	1016	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	36	PEACE RIVER ELEM 0020	2126	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	811
+CHA	Charlotte	10282	11/08/2016	2016 General Election	36	PEACE RIVER ELEM 0020	2126	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	648
+CHA	Charlotte	10282	11/08/2016	2016 General Election	36	PEACE RIVER ELEM 0020	2126	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+CHA	Charlotte	10282	11/08/2016	2016 General Election	36	PEACE RIVER ELEM 0020	2126	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	36	PEACE RIVER ELEM 0020	2126	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+CHA	Charlotte	10282	11/08/2016	2016 General Election	36	PEACE RIVER ELEM 0020	2126	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	36	PEACE RIVER ELEM 0020	2126	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	16
+CHA	Charlotte	10282	11/08/2016	2016 General Election	36	PEACE RIVER ELEM 0020	2126	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	36	PEACE RIVER ELEM 0020	2126	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	38	PC MIDDLE SCHOOL 0015	2279	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	866
+CHA	Charlotte	10282	11/08/2016	2016 General Election	38	PC MIDDLE SCHOOL 0015	2279	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	701
+CHA	Charlotte	10282	11/08/2016	2016 General Election	38	PC MIDDLE SCHOOL 0015	2279	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	32
+CHA	Charlotte	10282	11/08/2016	2016 General Election	38	PC MIDDLE SCHOOL 0015	2279	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	38	PC MIDDLE SCHOOL 0015	2279	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	38	PC MIDDLE SCHOOL 0015	2279	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	38	PC MIDDLE SCHOOL 0015	2279	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	38	PC MIDDLE SCHOOL 0015	2279	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	38	PC MIDDLE SCHOOL 0015	2279	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	39	MID CO REG LIBRARY 0023	2420	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	958
+CHA	Charlotte	10282	11/08/2016	2016 General Election	39	MID CO REG LIBRARY 0023	2420	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	662
+CHA	Charlotte	10282	11/08/2016	2016 General Election	39	MID CO REG LIBRARY 0023	2420	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+CHA	Charlotte	10282	11/08/2016	2016 General Election	39	MID CO REG LIBRARY 0023	2420	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	39	MID CO REG LIBRARY 0023	2420	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+CHA	Charlotte	10282	11/08/2016	2016 General Election	39	MID CO REG LIBRARY 0023	2420	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	39	MID CO REG LIBRARY 0023	2420	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	14
+CHA	Charlotte	10282	11/08/2016	2016 General Election	39	MID CO REG LIBRARY 0023	2420	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	39	MID CO REG LIBRARY 0023	2420	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	41	ISLES YACHT CLUB 0004	1862	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1088
+CHA	Charlotte	10282	11/08/2016	2016 General Election	41	ISLES YACHT CLUB 0004	1862	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	473
+CHA	Charlotte	10282	11/08/2016	2016 General Election	41	ISLES YACHT CLUB 0004	1862	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	32
+CHA	Charlotte	10282	11/08/2016	2016 General Election	41	ISLES YACHT CLUB 0004	1862	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	41	ISLES YACHT CLUB 0004	1862	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	41	ISLES YACHT CLUB 0004	1862	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	41	ISLES YACHT CLUB 0004	1862	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	17
+CHA	Charlotte	10282	11/08/2016	2016 General Election	41	ISLES YACHT CLUB 0004	1862	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	41	ISLES YACHT CLUB 0004	1862	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	20
+CHA	Charlotte	10282	11/08/2016	2016 General Election	42	S. PG HEIGHTS CIVIC 0006	3177	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1673
+CHA	Charlotte	10282	11/08/2016	2016 General Election	42	S. PG HEIGHTS CIVIC 0006	3177	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	708
+CHA	Charlotte	10282	11/08/2016	2016 General Election	42	S. PG HEIGHTS CIVIC 0006	3177	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+CHA	Charlotte	10282	11/08/2016	2016 General Election	42	S. PG HEIGHTS CIVIC 0006	3177	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	42	S. PG HEIGHTS CIVIC 0006	3177	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+CHA	Charlotte	10282	11/08/2016	2016 General Election	42	S. PG HEIGHTS CIVIC 0006	3177	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	42	S. PG HEIGHTS CIVIC 0006	3177	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	19
+CHA	Charlotte	10282	11/08/2016	2016 General Election	42	S. PG HEIGHTS CIVIC 0006	3177	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	42	S. PG HEIGHTS CIVIC 0006	3177	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	43	MEADOW PARK ELEM 0013	2568	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1054
+CHA	Charlotte	10282	11/08/2016	2016 General Election	43	MEADOW PARK ELEM 0013	2568	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	711
+CHA	Charlotte	10282	11/08/2016	2016 General Election	43	MEADOW PARK ELEM 0013	2568	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+CHA	Charlotte	10282	11/08/2016	2016 General Election	43	MEADOW PARK ELEM 0013	2568	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	43	MEADOW PARK ELEM 0013	2568	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	43	MEADOW PARK ELEM 0013	2568	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	43	MEADOW PARK ELEM 0013	2568	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	43	MEADOW PARK ELEM 0013	2568	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	43	MEADOW PARK ELEM 0013	2568	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	15
+CHA	Charlotte	10282	11/08/2016	2016 General Election	44	MEADOW PARK ELEM 0013	3710	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1788
+CHA	Charlotte	10282	11/08/2016	2016 General Election	44	MEADOW PARK ELEM 0013	3710	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	964
+CHA	Charlotte	10282	11/08/2016	2016 General Election	44	MEADOW PARK ELEM 0013	3710	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	53
+CHA	Charlotte	10282	11/08/2016	2016 General Election	44	MEADOW PARK ELEM 0013	3710	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	44	MEADOW PARK ELEM 0013	3710	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+CHA	Charlotte	10282	11/08/2016	2016 General Election	44	MEADOW PARK ELEM 0013	3710	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	44	MEADOW PARK ELEM 0013	3710	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	27
+CHA	Charlotte	10282	11/08/2016	2016 General Election	44	MEADOW PARK ELEM 0013	3710	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	44	MEADOW PARK ELEM 0013	3710	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	45	TRINGALI REC GYM 0027	2606	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1220
+CHA	Charlotte	10282	11/08/2016	2016 General Election	45	TRINGALI REC GYM 0027	2606	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	663
+CHA	Charlotte	10282	11/08/2016	2016 General Election	45	TRINGALI REC GYM 0027	2606	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+CHA	Charlotte	10282	11/08/2016	2016 General Election	45	TRINGALI REC GYM 0027	2606	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	45	TRINGALI REC GYM 0027	2606	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+CHA	Charlotte	10282	11/08/2016	2016 General Election	45	TRINGALI REC GYM 0027	2606	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	45	TRINGALI REC GYM 0027	2606	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	45	TRINGALI REC GYM 0027	2606	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	45	TRINGALI REC GYM 0027	2606	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	46	HOLY TRINITY GREEK 0016	2974	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1512
+CHA	Charlotte	10282	11/08/2016	2016 General Election	46	HOLY TRINITY GREEK 0016	2974	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	855
+CHA	Charlotte	10282	11/08/2016	2016 General Election	46	HOLY TRINITY GREEK 0016	2974	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+CHA	Charlotte	10282	11/08/2016	2016 General Election	46	HOLY TRINITY GREEK 0016	2974	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	46	HOLY TRINITY GREEK 0016	2974	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	46	HOLY TRINITY GREEK 0016	2974	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	46	HOLY TRINITY GREEK 0016	2974	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	22
+CHA	Charlotte	10282	11/08/2016	2016 General Election	46	HOLY TRINITY GREEK 0016	2974	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	46	HOLY TRINITY GREEK 0016	2974	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	17
+CHA	Charlotte	10282	11/08/2016	2016 General Election	47	LA AINGER MIDDLE 0025	5219	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	2770
+CHA	Charlotte	10282	11/08/2016	2016 General Election	47	LA AINGER MIDDLE 0025	5219	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1401
+CHA	Charlotte	10282	11/08/2016	2016 General Election	47	LA AINGER MIDDLE 0025	5219	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	62
+CHA	Charlotte	10282	11/08/2016	2016 General Election	47	LA AINGER MIDDLE 0025	5219	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	47	LA AINGER MIDDLE 0025	5219	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+CHA	Charlotte	10282	11/08/2016	2016 General Election	47	LA AINGER MIDDLE 0025	5219	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	47	LA AINGER MIDDLE 0025	5219	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	27
+CHA	Charlotte	10282	11/08/2016	2016 General Election	47	LA AINGER MIDDLE 0025	5219	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	47	LA AINGER MIDDLE 0025	5219	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	31
+CHA	Charlotte	10282	11/08/2016	2016 General Election	48	DEEP CREEK ELEM 0021	2464	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	999
+CHA	Charlotte	10282	11/08/2016	2016 General Election	48	DEEP CREEK ELEM 0021	2464	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	747
+CHA	Charlotte	10282	11/08/2016	2016 General Election	48	DEEP CREEK ELEM 0021	2464	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	32
+CHA	Charlotte	10282	11/08/2016	2016 General Election	48	DEEP CREEK ELEM 0021	2464	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	48	DEEP CREEK ELEM 0021	2464	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	48	DEEP CREEK ELEM 0021	2464	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	48	DEEP CREEK ELEM 0021	2464	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	48	DEEP CREEK ELEM 0021	2464	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	48	DEEP CREEK ELEM 0021	2464	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	11
+CHA	Charlotte	10282	11/08/2016	2016 General Election	49	DEEP CREEK ELEM 0021	1245	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	541
+CHA	Charlotte	10282	11/08/2016	2016 General Election	49	DEEP CREEK ELEM 0021	1245	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	350
+CHA	Charlotte	10282	11/08/2016	2016 General Election	49	DEEP CREEK ELEM 0021	1245	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+CHA	Charlotte	10282	11/08/2016	2016 General Election	49	DEEP CREEK ELEM 0021	1245	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	49	DEEP CREEK ELEM 0021	1245	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	49	DEEP CREEK ELEM 0021	1245	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	49	DEEP CREEK ELEM 0021	1245	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	49	DEEP CREEK ELEM 0021	1245	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	49	DEEP CREEK ELEM 0021	1245	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	52	MURDOCK MIDDLE 0019	3274	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1335
+CHA	Charlotte	10282	11/08/2016	2016 General Election	52	MURDOCK MIDDLE 0019	3274	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	888
+CHA	Charlotte	10282	11/08/2016	2016 General Election	52	MURDOCK MIDDLE 0019	3274	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+CHA	Charlotte	10282	11/08/2016	2016 General Election	52	MURDOCK MIDDLE 0019	3274	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	52	MURDOCK MIDDLE 0019	3274	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+CHA	Charlotte	10282	11/08/2016	2016 General Election	52	MURDOCK MIDDLE 0019	3274	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	52	MURDOCK MIDDLE 0019	3274	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	19
+CHA	Charlotte	10282	11/08/2016	2016 General Election	52	MURDOCK MIDDLE 0019	3274	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	13
+CHA	Charlotte	10282	11/08/2016	2016 General Election	52	MURDOCK MIDDLE 0019	3274	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	15
+CHA	Charlotte	10282	11/08/2016	2016 General Election	53	TRINGALI REC GYM 0027	2027	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	935
+CHA	Charlotte	10282	11/08/2016	2016 General Election	53	TRINGALI REC GYM 0027	2027	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	432
+CHA	Charlotte	10282	11/08/2016	2016 General Election	53	TRINGALI REC GYM 0027	2027	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+CHA	Charlotte	10282	11/08/2016	2016 General Election	53	TRINGALI REC GYM 0027	2027	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	53	TRINGALI REC GYM 0027	2027	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	53	TRINGALI REC GYM 0027	2027	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	53	TRINGALI REC GYM 0027	2027	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	11
+CHA	Charlotte	10282	11/08/2016	2016 General Election	53	TRINGALI REC GYM 0027	2027	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	53	TRINGALI REC GYM 0027	2027	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	54	MID CO REG LIBRARY 0023	1190	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	581
+CHA	Charlotte	10282	11/08/2016	2016 General Election	54	MID CO REG LIBRARY 0023	1190	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	354
+CHA	Charlotte	10282	11/08/2016	2016 General Election	54	MID CO REG LIBRARY 0023	1190	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+CHA	Charlotte	10282	11/08/2016	2016 General Election	54	MID CO REG LIBRARY 0023	1190	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	54	MID CO REG LIBRARY 0023	1190	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	54	MID CO REG LIBRARY 0023	1190	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	54	MID CO REG LIBRARY 0023	1190	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	54	MID CO REG LIBRARY 0023	1190	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	54	MID CO REG LIBRARY 0023	1190	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	55	AMERICAN LEGION 0024	2707	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1436
+CHA	Charlotte	10282	11/08/2016	2016 General Election	55	AMERICAN LEGION 0024	2707	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	694
+CHA	Charlotte	10282	11/08/2016	2016 General Election	55	AMERICAN LEGION 0024	2707	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+CHA	Charlotte	10282	11/08/2016	2016 General Election	55	AMERICAN LEGION 0024	2707	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	55	AMERICAN LEGION 0024	2707	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	55	AMERICAN LEGION 0024	2707	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	55	AMERICAN LEGION 0024	2707	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	23
+CHA	Charlotte	10282	11/08/2016	2016 General Election	55	AMERICAN LEGION 0024	2707	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	55	AMERICAN LEGION 0024	2707	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	23
+CHA	Charlotte	10282	11/08/2016	2016 General Election	56	HAROLD AVE REC 0017	1917	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	720
+CHA	Charlotte	10282	11/08/2016	2016 General Election	56	HAROLD AVE REC 0017	1917	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	614
+CHA	Charlotte	10282	11/08/2016	2016 General Election	56	HAROLD AVE REC 0017	1917	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+CHA	Charlotte	10282	11/08/2016	2016 General Election	56	HAROLD AVE REC 0017	1917	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	56	HAROLD AVE REC 0017	1917	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	56	HAROLD AVE REC 0017	1917	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	56	HAROLD AVE REC 0017	1917	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	14
+CHA	Charlotte	10282	11/08/2016	2016 General Election	56	HAROLD AVE REC 0017	1917	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	56	HAROLD AVE REC 0017	1917	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	11
+CHA	Charlotte	10282	11/08/2016	2016 General Election	57	PC BEACH COMPLEX 0022	575	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	334
+CHA	Charlotte	10282	11/08/2016	2016 General Election	57	PC BEACH COMPLEX 0022	575	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	137
+CHA	Charlotte	10282	11/08/2016	2016 General Election	57	PC BEACH COMPLEX 0022	575	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	57	PC BEACH COMPLEX 0022	575	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	57	PC BEACH COMPLEX 0022	575	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	57	PC BEACH COMPLEX 0022	575	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	57	PC BEACH COMPLEX 0022	575	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	57	PC BEACH COMPLEX 0022	575	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	57	PC BEACH COMPLEX 0022	575	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	58	FAIRGROUNDS 0018	2691	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1252
+CHA	Charlotte	10282	11/08/2016	2016 General Election	58	FAIRGROUNDS 0018	2691	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	681
+CHA	Charlotte	10282	11/08/2016	2016 General Election	58	FAIRGROUNDS 0018	2691	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+CHA	Charlotte	10282	11/08/2016	2016 General Election	58	FAIRGROUNDS 0018	2691	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	58	FAIRGROUNDS 0018	2691	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	58	FAIRGROUNDS 0018	2691	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	58	FAIRGROUNDS 0018	2691	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	58	FAIRGROUNDS 0018	2691	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	7
+CHA	Charlotte	10282	11/08/2016	2016 General Election	58	FAIRGROUNDS 0018	2691	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	60	S. CO. REGIONAL PARK 0005	574	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	288
+CHA	Charlotte	10282	11/08/2016	2016 General Election	60	S. CO. REGIONAL PARK 0005	574	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	149
+CHA	Charlotte	10282	11/08/2016	2016 General Election	60	S. CO. REGIONAL PARK 0005	574	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	60	S. CO. REGIONAL PARK 0005	574	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	60	S. CO. REGIONAL PARK 0005	574	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	60	S. CO. REGIONAL PARK 0005	574	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	60	S. CO. REGIONAL PARK 0005	574	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	60	S. CO. REGIONAL PARK 0005	574	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	60	S. CO. REGIONAL PARK 0005	574	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	61	MYAKKA RIVER ELEM 0026	1447	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	750
+CHA	Charlotte	10282	11/08/2016	2016 General Election	61	MYAKKA RIVER ELEM 0026	1447	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	314
+CHA	Charlotte	10282	11/08/2016	2016 General Election	61	MYAKKA RIVER ELEM 0026	1447	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	61	MYAKKA RIVER ELEM 0026	1447	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	61	MYAKKA RIVER ELEM 0026	1447	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	61	MYAKKA RIVER ELEM 0026	1447	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	61	MYAKKA RIVER ELEM 0026	1447	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	16
+CHA	Charlotte	10282	11/08/2016	2016 General Election	61	MYAKKA RIVER ELEM 0026	1447	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	61	MYAKKA RIVER ELEM 0026	1447	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	8
+CHA	Charlotte	10282	11/08/2016	2016 General Election	63	HOLY TRINITY GREEK 0016	5025	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	2204
+CHA	Charlotte	10282	11/08/2016	2016 General Election	63	HOLY TRINITY GREEK 0016	5025	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1487
+CHA	Charlotte	10282	11/08/2016	2016 General Election	63	HOLY TRINITY GREEK 0016	5025	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	84
+CHA	Charlotte	10282	11/08/2016	2016 General Election	63	HOLY TRINITY GREEK 0016	5025	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	63	HOLY TRINITY GREEK 0016	5025	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+CHA	Charlotte	10282	11/08/2016	2016 General Election	63	HOLY TRINITY GREEK 0016	5025	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	63	HOLY TRINITY GREEK 0016	5025	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	35
+CHA	Charlotte	10282	11/08/2016	2016 General Election	63	HOLY TRINITY GREEK 0016	5025	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	17
+CHA	Charlotte	10282	11/08/2016	2016 General Election	63	HOLY TRINITY GREEK 0016	5025	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	27
+CHA	Charlotte	10282	11/08/2016	2016 General Election	64	CONG. UNITED CHURCH 0011	3253	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1951
+CHA	Charlotte	10282	11/08/2016	2016 General Election	64	CONG. UNITED CHURCH 0011	3253	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	823
+CHA	Charlotte	10282	11/08/2016	2016 General Election	64	CONG. UNITED CHURCH 0011	3253	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	41
+CHA	Charlotte	10282	11/08/2016	2016 General Election	64	CONG. UNITED CHURCH 0011	3253	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	64	CONG. UNITED CHURCH 0011	3253	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	64	CONG. UNITED CHURCH 0011	3253	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	64	CONG. UNITED CHURCH 0011	3253	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	23
+CHA	Charlotte	10282	11/08/2016	2016 General Election	64	CONG. UNITED CHURCH 0011	3253	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	64	CONG. UNITED CHURCH 0011	3253	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	26
+CHA	Charlotte	10282	11/08/2016	2016 General Election	66	S. CO. REGIONAL PARK 0005	955	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	354
+CHA	Charlotte	10282	11/08/2016	2016 General Election	66	S. CO. REGIONAL PARK 0005	955	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	249
+CHA	Charlotte	10282	11/08/2016	2016 General Election	66	S. CO. REGIONAL PARK 0005	955	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	66	S. CO. REGIONAL PARK 0005	955	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	66	S. CO. REGIONAL PARK 0005	955	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	66	S. CO. REGIONAL PARK 0005	955	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	66	S. CO. REGIONAL PARK 0005	955	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	66	S. CO. REGIONAL PARK 0005	955	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	66	S. CO. REGIONAL PARK 0005	955	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	67	S. PG HEIGHTS CIVIC 0006	299	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	120
+CHA	Charlotte	10282	11/08/2016	2016 General Election	67	S. PG HEIGHTS CIVIC 0006	299	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	63
+CHA	Charlotte	10282	11/08/2016	2016 General Election	67	S. PG HEIGHTS CIVIC 0006	299	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	67	S. PG HEIGHTS CIVIC 0006	299	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	67	S. PG HEIGHTS CIVIC 0006	299	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	67	S. PG HEIGHTS CIVIC 0006	299	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	67	S. PG HEIGHTS CIVIC 0006	299	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	67	S. PG HEIGHTS CIVIC 0006	299	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	67	S. PG HEIGHTS CIVIC 0006	299	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	68	BURNT STORE PRESB. 0007	1158	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	694
+CHA	Charlotte	10282	11/08/2016	2016 General Election	68	BURNT STORE PRESB. 0007	1158	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	245
+CHA	Charlotte	10282	11/08/2016	2016 General Election	68	BURNT STORE PRESB. 0007	1158	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	68	BURNT STORE PRESB. 0007	1158	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	68	BURNT STORE PRESB. 0007	1158	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CHA	Charlotte	10282	11/08/2016	2016 General Election	68	BURNT STORE PRESB. 0007	1158	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	68	BURNT STORE PRESB. 0007	1158	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	68	BURNT STORE PRESB. 0007	1158	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	68	BURNT STORE PRESB. 0007	1158	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	69	BURNT STORE PRESB. 0007	566	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	275
+CHA	Charlotte	10282	11/08/2016	2016 General Election	69	BURNT STORE PRESB. 0007	566	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	146
+CHA	Charlotte	10282	11/08/2016	2016 General Election	69	BURNT STORE PRESB. 0007	566	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	69	BURNT STORE PRESB. 0007	566	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	69	BURNT STORE PRESB. 0007	566	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	69	BURNT STORE PRESB. 0007	566	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	69	BURNT STORE PRESB. 0007	566	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	69	BURNT STORE PRESB. 0007	566	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	69	BURNT STORE PRESB. 0007	566	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	75	PC MIDDLE SCHOOL 0015	2841	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1206
+CHA	Charlotte	10282	11/08/2016	2016 General Election	75	PC MIDDLE SCHOOL 0015	2841	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	912
+CHA	Charlotte	10282	11/08/2016	2016 General Election	75	PC MIDDLE SCHOOL 0015	2841	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	45
+CHA	Charlotte	10282	11/08/2016	2016 General Election	75	PC MIDDLE SCHOOL 0015	2841	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	75	PC MIDDLE SCHOOL 0015	2841	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	75	PC MIDDLE SCHOOL 0015	2841	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	75	PC MIDDLE SCHOOL 0015	2841	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	15
+CHA	Charlotte	10282	11/08/2016	2016 General Election	75	PC MIDDLE SCHOOL 0015	2841	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	75	PC MIDDLE SCHOOL 0015	2841	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	11
+CHA	Charlotte	10282	11/08/2016	2016 General Election	76	PC CULTURAL CENTER 0014	764	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	259
+CHA	Charlotte	10282	11/08/2016	2016 General Election	76	PC CULTURAL CENTER 0014	764	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	196
+CHA	Charlotte	10282	11/08/2016	2016 General Election	76	PC CULTURAL CENTER 0014	764	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+CHA	Charlotte	10282	11/08/2016	2016 General Election	76	PC CULTURAL CENTER 0014	764	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	76	PC CULTURAL CENTER 0014	764	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CHA	Charlotte	10282	11/08/2016	2016 General Election	76	PC CULTURAL CENTER 0014	764	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	76	PC CULTURAL CENTER 0014	764	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	76	PC CULTURAL CENTER 0014	764	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	76	PC CULTURAL CENTER 0014	764	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	77	LA AINGER MIDDLE 0025	3412	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	1914
+CHA	Charlotte	10282	11/08/2016	2016 General Election	77	LA AINGER MIDDLE 0025	3412	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	791
+CHA	Charlotte	10282	11/08/2016	2016 General Election	77	LA AINGER MIDDLE 0025	3412	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+CHA	Charlotte	10282	11/08/2016	2016 General Election	77	LA AINGER MIDDLE 0025	3412	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CHA	Charlotte	10282	11/08/2016	2016 General Election	77	LA AINGER MIDDLE 0025	3412	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+CHA	Charlotte	10282	11/08/2016	2016 General Election	77	LA AINGER MIDDLE 0025	3412	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	77	LA AINGER MIDDLE 0025	3412	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	20
+CHA	Charlotte	10282	11/08/2016	2016 General Election	77	LA AINGER MIDDLE 0025	3412	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	6
+CHA	Charlotte	10282	11/08/2016	2016 General Election	77	LA AINGER MIDDLE 0025	3412	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	17
+CHA	Charlotte	10282	11/08/2016	2016 General Election	78	AMERICAN LEGION 0024	351	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	195
+CHA	Charlotte	10282	11/08/2016	2016 General Election	78	AMERICAN LEGION 0024	351	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	82
+CHA	Charlotte	10282	11/08/2016	2016 General Election	78	AMERICAN LEGION 0024	351	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+CHA	Charlotte	10282	11/08/2016	2016 General Election	78	AMERICAN LEGION 0024	351	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	78	AMERICAN LEGION 0024	351	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CHA	Charlotte	10282	11/08/2016	2016 General Election	78	AMERICAN LEGION 0024	351	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	78	AMERICAN LEGION 0024	351	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	10
+CHA	Charlotte	10282	11/08/2016	2016 General Election	78	AMERICAN LEGION 0024	351	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	78	AMERICAN LEGION 0024	351	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	80	TRINGALI REC GYM 0027	2056	0	0	125714	President of the United States	 	100000	Trump / Pence	REP	0	65072	952
+CHA	Charlotte	10282	11/08/2016	2016 General Election	80	TRINGALI REC GYM 0027	2056	0	0	125714	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	475
+CHA	Charlotte	10282	11/08/2016	2016 General Election	80	TRINGALI REC GYM 0027	2056	0	0	125714	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+CHA	Charlotte	10282	11/08/2016	2016 General Election	80	TRINGALI REC GYM 0027	2056	0	0	125714	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	80	TRINGALI REC GYM 0027	2056	0	0	125714	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+CHA	Charlotte	10282	11/08/2016	2016 General Election	80	TRINGALI REC GYM 0027	2056	0	0	125714	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CHA	Charlotte	10282	11/08/2016	2016 General Election	80	TRINGALI REC GYM 0027	2056	0	0	125714	President of the United States	 	100000	WriteinVotes	 	0	900	17
+CHA	Charlotte	10282	11/08/2016	2016 General Election	80	TRINGALI REC GYM 0027	2056	0	0	125714	President of the United States	 	100000	OverVotes	 	0	901	5
+CHA	Charlotte	10282	11/08/2016	2016 General Election	80	TRINGALI REC GYM 0027	2056	0	0	125714	President of the United States	 	100000	UnderVotes	 	0	902	7

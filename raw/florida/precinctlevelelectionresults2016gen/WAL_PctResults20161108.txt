@@ -1,0 +1,151 @@
+WAL	Walton	10282	11/08/2016	2016 General Election	110	110 Paxton	1226	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	728
+WAL	Walton	10282	11/08/2016	2016 General Election	110	110 Paxton	1226	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	95
+WAL	Walton	10282	11/08/2016	2016 General Election	110	110 Paxton	1226	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+WAL	Walton	10282	11/08/2016	2016 General Election	110	110 Paxton	1226	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+WAL	Walton	10282	11/08/2016	2016 General Election	110	110 Paxton	1226	0	0	45007	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAL	Walton	10282	11/08/2016	2016 General Election	110	110 Paxton	1226	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAL	Walton	10282	11/08/2016	2016 General Election	110	110 Paxton	1226	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	1
+WAL	Walton	10282	11/08/2016	2016 General Election	120	120 New Harmony	770	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	481
+WAL	Walton	10282	11/08/2016	2016 General Election	120	120 New Harmony	770	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	50
+WAL	Walton	10282	11/08/2016	2016 General Election	120	120 New Harmony	770	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+WAL	Walton	10282	11/08/2016	2016 General Election	120	120 New Harmony	770	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+WAL	Walton	10282	11/08/2016	2016 General Election	120	120 New Harmony	770	0	0	45007	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAL	Walton	10282	11/08/2016	2016 General Election	120	120 New Harmony	770	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAL	Walton	10282	11/08/2016	2016 General Election	120	120 New Harmony	770	0	0	45007	President of the United States	 	100000	OverVotes	 	0	901	1
+WAL	Walton	10282	11/08/2016	2016 General Election	120	120 New Harmony	770	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	1
+WAL	Walton	10282	11/08/2016	2016 General Election	130	130 Mossy Head	1617	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	949
+WAL	Walton	10282	11/08/2016	2016 General Election	130	130 Mossy Head	1617	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	128
+WAL	Walton	10282	11/08/2016	2016 General Election	130	130 Mossy Head	1617	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+WAL	Walton	10282	11/08/2016	2016 General Election	130	130 Mossy Head	1617	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+WAL	Walton	10282	11/08/2016	2016 General Election	130	130 Mossy Head	1617	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAL	Walton	10282	11/08/2016	2016 General Election	130	130 Mossy Head	1617	0	0	45007	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAL	Walton	10282	11/08/2016	2016 General Election	130	130 Mossy Head	1617	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	7
+WAL	Walton	10282	11/08/2016	2016 General Election	130	130 Mossy Head	1617	0	0	45007	President of the United States	 	100000	OverVotes	 	0	901	2
+WAL	Walton	10282	11/08/2016	2016 General Election	130	130 Mossy Head	1617	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	7
+WAL	Walton	10282	11/08/2016	2016 General Election	210	210 Gaskin	431	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	292
+WAL	Walton	10282	11/08/2016	2016 General Election	210	210 Gaskin	431	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	38
+WAL	Walton	10282	11/08/2016	2016 General Election	210	210 Gaskin	431	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+WAL	Walton	10282	11/08/2016	2016 General Election	210	210 Gaskin	431	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAL	Walton	10282	11/08/2016	2016 General Election	220	220 Liberty	572	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	379
+WAL	Walton	10282	11/08/2016	2016 General Election	220	220 Liberty	572	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	44
+WAL	Walton	10282	11/08/2016	2016 General Election	220	220 Liberty	572	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+WAL	Walton	10282	11/08/2016	2016 General Election	220	220 Liberty	572	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAL	Walton	10282	11/08/2016	2016 General Election	220	220 Liberty	572	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	1
+WAL	Walton	10282	11/08/2016	2016 General Election	230	230 Glendale	941	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	636
+WAL	Walton	10282	11/08/2016	2016 General Election	230	230 Glendale	941	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	66
+WAL	Walton	10282	11/08/2016	2016 General Election	230	230 Glendale	941	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+WAL	Walton	10282	11/08/2016	2016 General Election	230	230 Glendale	941	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+WAL	Walton	10282	11/08/2016	2016 General Election	230	230 Glendale	941	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+WAL	Walton	10282	11/08/2016	2016 General Election	230	230 Glendale	941	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	4
+WAL	Walton	10282	11/08/2016	2016 General Election	230	230 Glendale	941	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	7
+WAL	Walton	10282	11/08/2016	2016 General Election	240	240 Darlington	405	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	265
+WAL	Walton	10282	11/08/2016	2016 General Election	240	240 Darlington	405	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	26
+WAL	Walton	10282	11/08/2016	2016 General Election	240	240 Darlington	405	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+WAL	Walton	10282	11/08/2016	2016 General Election	240	240 Darlington	405	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAL	Walton	10282	11/08/2016	2016 General Election	240	240 Darlington	405	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	1
+WAL	Walton	10282	11/08/2016	2016 General Election	310	310 North DeFuniak 	5046	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	2472
+WAL	Walton	10282	11/08/2016	2016 General Election	310	310 North DeFuniak 	5046	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	691
+WAL	Walton	10282	11/08/2016	2016 General Election	310	310 North DeFuniak 	5046	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	79
+WAL	Walton	10282	11/08/2016	2016 General Election	310	310 North DeFuniak 	5046	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+WAL	Walton	10282	11/08/2016	2016 General Election	310	310 North DeFuniak 	5046	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+WAL	Walton	10282	11/08/2016	2016 General Election	310	310 North DeFuniak 	5046	0	0	45007	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+WAL	Walton	10282	11/08/2016	2016 General Election	310	310 North DeFuniak 	5046	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	25
+WAL	Walton	10282	11/08/2016	2016 General Election	310	310 North DeFuniak 	5046	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	18
+WAL	Walton	10282	11/08/2016	2016 General Election	320	320 Chautauqua	1921	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	1003
+WAL	Walton	10282	11/08/2016	2016 General Election	320	320 Chautauqua	1921	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	318
+WAL	Walton	10282	11/08/2016	2016 General Election	320	320 Chautauqua	1921	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+WAL	Walton	10282	11/08/2016	2016 General Election	320	320 Chautauqua	1921	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+WAL	Walton	10282	11/08/2016	2016 General Election	320	320 Chautauqua	1921	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAL	Walton	10282	11/08/2016	2016 General Election	320	320 Chautauqua	1921	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	8
+WAL	Walton	10282	11/08/2016	2016 General Election	320	320 Chautauqua	1921	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	11
+WAL	Walton	10282	11/08/2016	2016 General Election	330	330 West DeFuniak	1524	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	838
+WAL	Walton	10282	11/08/2016	2016 General Election	330	330 West DeFuniak	1524	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	169
+WAL	Walton	10282	11/08/2016	2016 General Election	330	330 West DeFuniak	1524	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+WAL	Walton	10282	11/08/2016	2016 General Election	330	330 West DeFuniak	1524	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+WAL	Walton	10282	11/08/2016	2016 General Election	330	330 West DeFuniak	1524	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAL	Walton	10282	11/08/2016	2016 General Election	330	330 West DeFuniak	1524	0	0	45007	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAL	Walton	10282	11/08/2016	2016 General Election	330	330 West DeFuniak	1524	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	5
+WAL	Walton	10282	11/08/2016	2016 General Election	330	330 West DeFuniak	1524	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	6
+WAL	Walton	10282	11/08/2016	2016 General Election	340	340 Argyle	1037	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	458
+WAL	Walton	10282	11/08/2016	2016 General Election	340	340 Argyle	1037	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	210
+WAL	Walton	10282	11/08/2016	2016 General Election	340	340 Argyle	1037	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+WAL	Walton	10282	11/08/2016	2016 General Election	340	340 Argyle	1037	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAL	Walton	10282	11/08/2016	2016 General Election	340	340 Argyle	1037	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+WAL	Walton	10282	11/08/2016	2016 General Election	340	340 Argyle	1037	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAL	Walton	10282	11/08/2016	2016 General Election	340	340 Argyle	1037	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	2
+WAL	Walton	10282	11/08/2016	2016 General Election	350	350 Eucheeanna	743	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	432
+WAL	Walton	10282	11/08/2016	2016 General Election	350	350 Eucheeanna	743	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	85
+WAL	Walton	10282	11/08/2016	2016 General Election	350	350 Eucheeanna	743	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+WAL	Walton	10282	11/08/2016	2016 General Election	350	350 Eucheeanna	743	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAL	Walton	10282	11/08/2016	2016 General Election	350	350 Eucheeanna	743	0	0	45007	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+WAL	Walton	10282	11/08/2016	2016 General Election	350	350 Eucheeanna	743	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	5
+WAL	Walton	10282	11/08/2016	2016 General Election	350	350 Eucheeanna	743	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	6
+WAL	Walton	10282	11/08/2016	2016 General Election	360	360 Valley View	751	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	391
+WAL	Walton	10282	11/08/2016	2016 General Election	360	360 Valley View	751	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	80
+WAL	Walton	10282	11/08/2016	2016 General Election	360	360 Valley View	751	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+WAL	Walton	10282	11/08/2016	2016 General Election	360	360 Valley View	751	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+WAL	Walton	10282	11/08/2016	2016 General Election	360	360 Valley View	751	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAL	Walton	10282	11/08/2016	2016 General Election	360	360 Valley View	751	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	4
+WAL	Walton	10282	11/08/2016	2016 General Election	360	360 Valley View	751	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	4
+WAL	Walton	10282	11/08/2016	2016 General Election	410	410 Choctaw Beach	1202	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	768
+WAL	Walton	10282	11/08/2016	2016 General Election	410	410 Choctaw Beach	1202	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	130
+WAL	Walton	10282	11/08/2016	2016 General Election	410	410 Choctaw Beach	1202	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+WAL	Walton	10282	11/08/2016	2016 General Election	410	410 Choctaw Beach	1202	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAL	Walton	10282	11/08/2016	2016 General Election	410	410 Choctaw Beach	1202	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAL	Walton	10282	11/08/2016	2016 General Election	410	410 Choctaw Beach	1202	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	6
+WAL	Walton	10282	11/08/2016	2016 General Election	420	420 Portland	697	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	381
+WAL	Walton	10282	11/08/2016	2016 General Election	420	420 Portland	697	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	68
+WAL	Walton	10282	11/08/2016	2016 General Election	420	420 Portland	697	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+WAL	Walton	10282	11/08/2016	2016 General Election	420	420 Portland	697	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAL	Walton	10282	11/08/2016	2016 General Election	430	430 Freeport	4531	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	2616
+WAL	Walton	10282	11/08/2016	2016 General Election	430	430 Freeport	4531	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	673
+WAL	Walton	10282	11/08/2016	2016 General Election	430	430 Freeport	4531	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	75
+WAL	Walton	10282	11/08/2016	2016 General Election	430	430 Freeport	4531	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+WAL	Walton	10282	11/08/2016	2016 General Election	430	430 Freeport	4531	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+WAL	Walton	10282	11/08/2016	2016 General Election	430	430 Freeport	4531	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	27
+WAL	Walton	10282	11/08/2016	2016 General Election	430	430 Freeport	4531	0	0	45007	President of the United States	 	100000	OverVotes	 	0	901	1
+WAL	Walton	10282	11/08/2016	2016 General Election	430	430 Freeport	4531	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	9
+WAL	Walton	10282	11/08/2016	2016 General Election	431	430 Freeport	0	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	1
+WAL	Walton	10282	11/08/2016	2016 General Election	440	440 Bruce	838	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	520
+WAL	Walton	10282	11/08/2016	2016 General Election	440	440 Bruce	838	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	75
+WAL	Walton	10282	11/08/2016	2016 General Election	440	440 Bruce	838	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+WAL	Walton	10282	11/08/2016	2016 General Election	440	440 Bruce	838	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAL	Walton	10282	11/08/2016	2016 General Election	440	440 Bruce	838	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAL	Walton	10282	11/08/2016	2016 General Election	441	440 Bruce	13	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	8
+WAL	Walton	10282	11/08/2016	2016 General Election	441	440 Bruce	13	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2
+WAL	Walton	10282	11/08/2016	2016 General Election	510	510 Miramar Beach	8979	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	5021
+WAL	Walton	10282	11/08/2016	2016 General Election	510	510 Miramar Beach	8979	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1263
+WAL	Walton	10282	11/08/2016	2016 General Election	510	510 Miramar Beach	8979	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	137
+WAL	Walton	10282	11/08/2016	2016 General Election	510	510 Miramar Beach	8979	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+WAL	Walton	10282	11/08/2016	2016 General Election	510	510 Miramar Beach	8979	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+WAL	Walton	10282	11/08/2016	2016 General Election	510	510 Miramar Beach	8979	0	0	45007	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+WAL	Walton	10282	11/08/2016	2016 General Election	510	510 Miramar Beach	8979	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	57
+WAL	Walton	10282	11/08/2016	2016 General Election	510	510 Miramar Beach	8979	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	44
+WAL	Walton	10282	11/08/2016	2016 General Election	520	520 Santa Rosa Beach	7817	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	4275
+WAL	Walton	10282	11/08/2016	2016 General Election	520	520 Santa Rosa Beach	7817	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1408
+WAL	Walton	10282	11/08/2016	2016 General Election	520	520 Santa Rosa Beach	7817	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	164
+WAL	Walton	10282	11/08/2016	2016 General Election	520	520 Santa Rosa Beach	7817	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+WAL	Walton	10282	11/08/2016	2016 General Election	520	520 Santa Rosa Beach	7817	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+WAL	Walton	10282	11/08/2016	2016 General Election	520	520 Santa Rosa Beach	7817	0	0	45007	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+WAL	Walton	10282	11/08/2016	2016 General Election	520	520 Santa Rosa Beach	7817	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	47
+WAL	Walton	10282	11/08/2016	2016 General Election	520	520 Santa Rosa Beach	7817	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	38
+WAL	Walton	10282	11/08/2016	2016 General Election	530	530 Point Washington	3621	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	1796
+WAL	Walton	10282	11/08/2016	2016 General Election	530	530 Point Washington	3621	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	868
+WAL	Walton	10282	11/08/2016	2016 General Election	530	530 Point Washington	3621	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	96
+WAL	Walton	10282	11/08/2016	2016 General Election	530	530 Point Washington	3621	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+WAL	Walton	10282	11/08/2016	2016 General Election	530	530 Point Washington	3621	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+WAL	Walton	10282	11/08/2016	2016 General Election	530	530 Point Washington	3621	0	0	45007	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAL	Walton	10282	11/08/2016	2016 General Election	530	530 Point Washington	3621	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	35
+WAL	Walton	10282	11/08/2016	2016 General Election	530	530 Point Washington	3621	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	11
+WAL	Walton	10282	11/08/2016	2016 General Election	540	540 Rosemary Beach	84	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	63
+WAL	Walton	10282	11/08/2016	2016 General Election	540	540 Rosemary Beach	84	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	7
+WAL	Walton	10282	11/08/2016	2016 General Election	540	540 Rosemary Beach	84	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+WAL	Walton	10282	11/08/2016	2016 General Election	540	540 Rosemary Beach	84	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAL	Walton	10282	11/08/2016	2016 General Election	540	540 Rosemary Beach	84	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAL	Walton	10282	11/08/2016	2016 General Election	541	540 Rosemary Beach	1879	0	0	45007	President of the United States	 	100000	Trump / Pence	REP	0	65072	983
+WAL	Walton	10282	11/08/2016	2016 General Election	541	540 Rosemary Beach	1879	0	0	45007	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	382
+WAL	Walton	10282	11/08/2016	2016 General Election	541	540 Rosemary Beach	1879	0	0	45007	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	45
+WAL	Walton	10282	11/08/2016	2016 General Election	541	540 Rosemary Beach	1879	0	0	45007	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+WAL	Walton	10282	11/08/2016	2016 General Election	541	540 Rosemary Beach	1879	0	0	45007	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+WAL	Walton	10282	11/08/2016	2016 General Election	541	540 Rosemary Beach	1879	0	0	45007	President of the United States	 	100000	WriteinVotes	 	0	900	21
+WAL	Walton	10282	11/08/2016	2016 General Election	541	540 Rosemary Beach	1879	0	0	45007	President of the United States	 	100000	UnderVotes	 	0	902	8

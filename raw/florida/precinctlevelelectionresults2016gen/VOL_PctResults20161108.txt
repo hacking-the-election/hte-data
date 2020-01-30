@@ -1,0 +1,1125 @@
+VOL	Volusia	10282	11/08/2016	2016 General Election	101	PCT 101	970	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	532
+VOL	Volusia	10282	11/08/2016	2016 General Election	101	PCT 101	970	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	196
+VOL	Volusia	10282	11/08/2016	2016 General Election	101	PCT 101	970	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	101	PCT 101	970	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	101	PCT 101	970	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	101	PCT 101	970	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	101	PCT 101	970	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	101	PCT 101	970	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	101	PCT 101	970	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	105	PCT 105	802	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	360
+VOL	Volusia	10282	11/08/2016	2016 General Election	105	PCT 105	802	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	189
+VOL	Volusia	10282	11/08/2016	2016 General Election	105	PCT 105	802	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	105	PCT 105	802	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	105	PCT 105	802	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	105	PCT 105	802	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	105	PCT 105	802	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	105	PCT 105	802	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	105	PCT 105	802	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	107	PCT 107	1453	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	835
+VOL	Volusia	10282	11/08/2016	2016 General Election	107	PCT 107	1453	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	244
+VOL	Volusia	10282	11/08/2016	2016 General Election	107	PCT 107	1453	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	107	PCT 107	1453	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	107	PCT 107	1453	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	107	PCT 107	1453	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	107	PCT 107	1453	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	107	PCT 107	1453	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	107	PCT 107	1453	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	201	PCT 201	4733	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2320
+VOL	Volusia	10282	11/08/2016	2016 General Election	201	PCT 201	4733	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1189
+VOL	Volusia	10282	11/08/2016	2016 General Election	201	PCT 201	4733	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	92
+VOL	Volusia	10282	11/08/2016	2016 General Election	201	PCT 201	4733	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	201	PCT 201	4733	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	33
+VOL	Volusia	10282	11/08/2016	2016 General Election	201	PCT 201	4733	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	201	PCT 201	4733	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	32
+VOL	Volusia	10282	11/08/2016	2016 General Election	201	PCT 201	4733	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	201	PCT 201	4733	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	202	PCT 202	3523	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1618
+VOL	Volusia	10282	11/08/2016	2016 General Election	202	PCT 202	3523	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1002
+VOL	Volusia	10282	11/08/2016	2016 General Election	202	PCT 202	3523	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	51
+VOL	Volusia	10282	11/08/2016	2016 General Election	202	PCT 202	3523	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	202	PCT 202	3523	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	202	PCT 202	3523	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	202	PCT 202	3523	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	202	PCT 202	3523	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	202	PCT 202	3523	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	203	PCT 203	546	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	307
+VOL	Volusia	10282	11/08/2016	2016 General Election	203	PCT 203	546	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	112
+VOL	Volusia	10282	11/08/2016	2016 General Election	203	PCT 203	546	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	203	PCT 203	546	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	203	PCT 203	546	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	203	PCT 203	546	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	203	PCT 203	546	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	203	PCT 203	546	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	203	PCT 203	546	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	204	PCT 204	819	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	397
+VOL	Volusia	10282	11/08/2016	2016 General Election	204	PCT 204	819	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	182
+VOL	Volusia	10282	11/08/2016	2016 General Election	204	PCT 204	819	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	204	PCT 204	819	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	204	PCT 204	819	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	204	PCT 204	819	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	204	PCT 204	819	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	204	PCT 204	819	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	204	PCT 204	819	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	205	PCT 205	1774	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	791
+VOL	Volusia	10282	11/08/2016	2016 General Election	205	PCT 205	1774	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	431
+VOL	Volusia	10282	11/08/2016	2016 General Election	205	PCT 205	1774	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	51
+VOL	Volusia	10282	11/08/2016	2016 General Election	205	PCT 205	1774	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	205	PCT 205	1774	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	205	PCT 205	1774	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	205	PCT 205	1774	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	205	PCT 205	1774	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	205	PCT 205	1774	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	206	PCT 206	2776	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1173
+VOL	Volusia	10282	11/08/2016	2016 General Election	206	PCT 206	2776	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	748
+VOL	Volusia	10282	11/08/2016	2016 General Election	206	PCT 206	2776	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+VOL	Volusia	10282	11/08/2016	2016 General Election	206	PCT 206	2776	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	206	PCT 206	2776	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	206	PCT 206	2776	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	206	PCT 206	2776	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	206	PCT 206	2776	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	206	PCT 206	2776	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	207	PCT 207	2562	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1253
+VOL	Volusia	10282	11/08/2016	2016 General Election	207	PCT 207	2562	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	621
+VOL	Volusia	10282	11/08/2016	2016 General Election	207	PCT 207	2562	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+VOL	Volusia	10282	11/08/2016	2016 General Election	207	PCT 207	2562	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	207	PCT 207	2562	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	207	PCT 207	2562	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	207	PCT 207	2562	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	207	PCT 207	2562	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	207	PCT 207	2562	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	208	PCT 208	4714	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2075
+VOL	Volusia	10282	11/08/2016	2016 General Election	208	PCT 208	4714	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1185
+VOL	Volusia	10282	11/08/2016	2016 General Election	208	PCT 208	4714	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	98
+VOL	Volusia	10282	11/08/2016	2016 General Election	208	PCT 208	4714	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	208	PCT 208	4714	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	42
+VOL	Volusia	10282	11/08/2016	2016 General Election	208	PCT 208	4714	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	208	PCT 208	4714	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	32
+VOL	Volusia	10282	11/08/2016	2016 General Election	208	PCT 208	4714	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	208	PCT 208	4714	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	25
+VOL	Volusia	10282	11/08/2016	2016 General Election	212	PCT 212	3419	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1255
+VOL	Volusia	10282	11/08/2016	2016 General Election	212	PCT 212	3419	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1181
+VOL	Volusia	10282	11/08/2016	2016 General Election	212	PCT 212	3419	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	74
+VOL	Volusia	10282	11/08/2016	2016 General Election	212	PCT 212	3419	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	212	PCT 212	3419	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	212	PCT 212	3419	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	212	PCT 212	3419	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	24
+VOL	Volusia	10282	11/08/2016	2016 General Election	212	PCT 212	3419	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	212	PCT 212	3419	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	215	PCT 215	3907	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1858
+VOL	Volusia	10282	11/08/2016	2016 General Election	215	PCT 215	3907	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1277
+VOL	Volusia	10282	11/08/2016	2016 General Election	215	PCT 215	3907	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	90
+VOL	Volusia	10282	11/08/2016	2016 General Election	215	PCT 215	3907	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	215	PCT 215	3907	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	215	PCT 215	3907	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	215	PCT 215	3907	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	44
+VOL	Volusia	10282	11/08/2016	2016 General Election	215	PCT 215	3907	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	215	PCT 215	3907	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	30
+VOL	Volusia	10282	11/08/2016	2016 General Election	216	PCT 216	5061	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1649
+VOL	Volusia	10282	11/08/2016	2016 General Election	216	PCT 216	5061	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1857
+VOL	Volusia	10282	11/08/2016	2016 General Election	216	PCT 216	5061	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	74
+VOL	Volusia	10282	11/08/2016	2016 General Election	216	PCT 216	5061	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	216	PCT 216	5061	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	216	PCT 216	5061	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	216	PCT 216	5061	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	40
+VOL	Volusia	10282	11/08/2016	2016 General Election	216	PCT 216	5061	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	216	PCT 216	5061	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	217	PCT 217	3174	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	578
+VOL	Volusia	10282	11/08/2016	2016 General Election	217	PCT 217	3174	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1398
+VOL	Volusia	10282	11/08/2016	2016 General Election	217	PCT 217	3174	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	53
+VOL	Volusia	10282	11/08/2016	2016 General Election	217	PCT 217	3174	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	217	PCT 217	3174	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	217	PCT 217	3174	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	217	PCT 217	3174	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	217	PCT 217	3174	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	217	PCT 217	3174	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	218	PCT 218	4360	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1431
+VOL	Volusia	10282	11/08/2016	2016 General Election	218	PCT 218	4360	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1514
+VOL	Volusia	10282	11/08/2016	2016 General Election	218	PCT 218	4360	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	90
+VOL	Volusia	10282	11/08/2016	2016 General Election	218	PCT 218	4360	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	218	PCT 218	4360	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+VOL	Volusia	10282	11/08/2016	2016 General Election	218	PCT 218	4360	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	218	PCT 218	4360	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	27
+VOL	Volusia	10282	11/08/2016	2016 General Election	218	PCT 218	4360	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	218	PCT 218	4360	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	220	PCT 220	573	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	220	PCT 220	573	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	324
+VOL	Volusia	10282	11/08/2016	2016 General Election	220	PCT 220	573	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	220	PCT 220	573	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	220	PCT 220	573	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	220	PCT 220	573	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	220	PCT 220	573	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	220	PCT 220	573	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	220	PCT 220	573	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	222	PCT 222	2557	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1240
+VOL	Volusia	10282	11/08/2016	2016 General Election	222	PCT 222	2557	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	630
+VOL	Volusia	10282	11/08/2016	2016 General Election	222	PCT 222	2557	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+VOL	Volusia	10282	11/08/2016	2016 General Election	222	PCT 222	2557	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	222	PCT 222	2557	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	222	PCT 222	2557	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	222	PCT 222	2557	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	222	PCT 222	2557	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	222	PCT 222	2557	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	223	PCT 223	443	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	187
+VOL	Volusia	10282	11/08/2016	2016 General Election	223	PCT 223	443	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	133
+VOL	Volusia	10282	11/08/2016	2016 General Election	223	PCT 223	443	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	223	PCT 223	443	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	223	PCT 223	443	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	223	PCT 223	443	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	223	PCT 223	443	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	223	PCT 223	443	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	223	PCT 223	443	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	224	PCT 224	3268	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1556
+VOL	Volusia	10282	11/08/2016	2016 General Election	224	PCT 224	3268	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	934
+VOL	Volusia	10282	11/08/2016	2016 General Election	224	PCT 224	3268	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+VOL	Volusia	10282	11/08/2016	2016 General Election	224	PCT 224	3268	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	224	PCT 224	3268	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	224	PCT 224	3268	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	224	PCT 224	3268	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	37
+VOL	Volusia	10282	11/08/2016	2016 General Election	224	PCT 224	3268	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	224	PCT 224	3268	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	24
+VOL	Volusia	10282	11/08/2016	2016 General Election	301	PCT 301	4142	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1761
+VOL	Volusia	10282	11/08/2016	2016 General Election	301	PCT 301	4142	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	917
+VOL	Volusia	10282	11/08/2016	2016 General Election	301	PCT 301	4142	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	83
+VOL	Volusia	10282	11/08/2016	2016 General Election	301	PCT 301	4142	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	301	PCT 301	4142	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+VOL	Volusia	10282	11/08/2016	2016 General Election	301	PCT 301	4142	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	301	PCT 301	4142	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	301	PCT 301	4142	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	301	PCT 301	4142	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	303	PCT 303	3206	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1309
+VOL	Volusia	10282	11/08/2016	2016 General Election	303	PCT 303	3206	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	922
+VOL	Volusia	10282	11/08/2016	2016 General Election	303	PCT 303	3206	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+VOL	Volusia	10282	11/08/2016	2016 General Election	303	PCT 303	3206	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	303	PCT 303	3206	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	303	PCT 303	3206	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	303	PCT 303	3206	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	303	PCT 303	3206	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	303	PCT 303	3206	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	304	PCT 304	3666	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1703
+VOL	Volusia	10282	11/08/2016	2016 General Election	304	PCT 304	3666	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1060
+VOL	Volusia	10282	11/08/2016	2016 General Election	304	PCT 304	3666	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+VOL	Volusia	10282	11/08/2016	2016 General Election	304	PCT 304	3666	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	304	PCT 304	3666	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	304	PCT 304	3666	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	304	PCT 304	3666	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	304	PCT 304	3666	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	304	PCT 304	3666	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	305	PCT 305	4107	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1949
+VOL	Volusia	10282	11/08/2016	2016 General Election	305	PCT 305	4107	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1025
+VOL	Volusia	10282	11/08/2016	2016 General Election	305	PCT 305	4107	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	104
+VOL	Volusia	10282	11/08/2016	2016 General Election	305	PCT 305	4107	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	305	PCT 305	4107	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	305	PCT 305	4107	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	305	PCT 305	4107	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	31
+VOL	Volusia	10282	11/08/2016	2016 General Election	305	PCT 305	4107	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	305	PCT 305	4107	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	306	PCT 306	4311	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2243
+VOL	Volusia	10282	11/08/2016	2016 General Election	306	PCT 306	4311	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1149
+VOL	Volusia	10282	11/08/2016	2016 General Election	306	PCT 306	4311	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	66
+VOL	Volusia	10282	11/08/2016	2016 General Election	306	PCT 306	4311	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	306	PCT 306	4311	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	306	PCT 306	4311	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	306	PCT 306	4311	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	306	PCT 306	4311	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	306	PCT 306	4311	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	28
+VOL	Volusia	10282	11/08/2016	2016 General Election	307	PCT 307	3049	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1362
+VOL	Volusia	10282	11/08/2016	2016 General Election	307	PCT 307	3049	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	704
+VOL	Volusia	10282	11/08/2016	2016 General Election	307	PCT 307	3049	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+VOL	Volusia	10282	11/08/2016	2016 General Election	307	PCT 307	3049	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	307	PCT 307	3049	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	307	PCT 307	3049	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	307	PCT 307	3049	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	307	PCT 307	3049	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	307	PCT 307	3049	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	308	PCT 308	2957	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1235
+VOL	Volusia	10282	11/08/2016	2016 General Election	308	PCT 308	2957	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	772
+VOL	Volusia	10282	11/08/2016	2016 General Election	308	PCT 308	2957	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+VOL	Volusia	10282	11/08/2016	2016 General Election	308	PCT 308	2957	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	308	PCT 308	2957	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	308	PCT 308	2957	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	308	PCT 308	2957	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	308	PCT 308	2957	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	308	PCT 308	2957	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	309	PCT 309	4281	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1424
+VOL	Volusia	10282	11/08/2016	2016 General Election	309	PCT 309	4281	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1347
+VOL	Volusia	10282	11/08/2016	2016 General Election	309	PCT 309	4281	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+VOL	Volusia	10282	11/08/2016	2016 General Election	309	PCT 309	4281	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	309	PCT 309	4281	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	309	PCT 309	4281	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	309	PCT 309	4281	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	309	PCT 309	4281	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	309	PCT 309	4281	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	401	PCT 401	5047	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1663
+VOL	Volusia	10282	11/08/2016	2016 General Election	401	PCT 401	5047	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1752
+VOL	Volusia	10282	11/08/2016	2016 General Election	401	PCT 401	5047	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	62
+VOL	Volusia	10282	11/08/2016	2016 General Election	401	PCT 401	5047	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	401	PCT 401	5047	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	401	PCT 401	5047	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	401	PCT 401	5047	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	30
+VOL	Volusia	10282	11/08/2016	2016 General Election	401	PCT 401	5047	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	401	PCT 401	5047	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	403	PCT 403	3682	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1094
+VOL	Volusia	10282	11/08/2016	2016 General Election	403	PCT 403	3682	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1256
+VOL	Volusia	10282	11/08/2016	2016 General Election	403	PCT 403	3682	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	55
+VOL	Volusia	10282	11/08/2016	2016 General Election	403	PCT 403	3682	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	403	PCT 403	3682	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	403	PCT 403	3682	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	403	PCT 403	3682	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	403	PCT 403	3682	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	403	PCT 403	3682	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	404	PCT 404	1472	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	865
+VOL	Volusia	10282	11/08/2016	2016 General Election	404	PCT 404	1472	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	220
+VOL	Volusia	10282	11/08/2016	2016 General Election	404	PCT 404	1472	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+VOL	Volusia	10282	11/08/2016	2016 General Election	404	PCT 404	1472	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	404	PCT 404	1472	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	404	PCT 404	1472	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	404	PCT 404	1472	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	404	PCT 404	1472	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	404	PCT 404	1472	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	405	PCT 405	2760	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	793
+VOL	Volusia	10282	11/08/2016	2016 General Election	405	PCT 405	2760	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	918
+VOL	Volusia	10282	11/08/2016	2016 General Election	405	PCT 405	2760	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	45
+VOL	Volusia	10282	11/08/2016	2016 General Election	405	PCT 405	2760	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	405	PCT 405	2760	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	405	PCT 405	2760	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	405	PCT 405	2760	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	405	PCT 405	2760	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	405	PCT 405	2760	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	406	PCT 406	5320	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1802
+VOL	Volusia	10282	11/08/2016	2016 General Election	406	PCT 406	5320	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1825
+VOL	Volusia	10282	11/08/2016	2016 General Election	406	PCT 406	5320	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	92
+VOL	Volusia	10282	11/08/2016	2016 General Election	406	PCT 406	5320	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	406	PCT 406	5320	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	34
+VOL	Volusia	10282	11/08/2016	2016 General Election	406	PCT 406	5320	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	406	PCT 406	5320	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	37
+VOL	Volusia	10282	11/08/2016	2016 General Election	406	PCT 406	5320	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	406	PCT 406	5320	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	407	PCT 407	3864	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1032
+VOL	Volusia	10282	11/08/2016	2016 General Election	407	PCT 407	3864	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1242
+VOL	Volusia	10282	11/08/2016	2016 General Election	407	PCT 407	3864	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	68
+VOL	Volusia	10282	11/08/2016	2016 General Election	407	PCT 407	3864	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	407	PCT 407	3864	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	407	PCT 407	3864	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	407	PCT 407	3864	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	29
+VOL	Volusia	10282	11/08/2016	2016 General Election	407	PCT 407	3864	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	407	PCT 407	3864	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	410	PCT 410	3630	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1065
+VOL	Volusia	10282	11/08/2016	2016 General Election	410	PCT 410	3630	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1243
+VOL	Volusia	10282	11/08/2016	2016 General Election	410	PCT 410	3630	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	68
+VOL	Volusia	10282	11/08/2016	2016 General Election	410	PCT 410	3630	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	410	PCT 410	3630	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+VOL	Volusia	10282	11/08/2016	2016 General Election	410	PCT 410	3630	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	410	PCT 410	3630	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	410	PCT 410	3630	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	410	PCT 410	3630	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	411	PCT 411	3306	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1158
+VOL	Volusia	10282	11/08/2016	2016 General Election	411	PCT 411	3306	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1001
+VOL	Volusia	10282	11/08/2016	2016 General Election	411	PCT 411	3306	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	55
+VOL	Volusia	10282	11/08/2016	2016 General Election	411	PCT 411	3306	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	411	PCT 411	3306	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	411	PCT 411	3306	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	411	PCT 411	3306	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	411	PCT 411	3306	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	411	PCT 411	3306	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	412	PCT 412	1766	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	948
+VOL	Volusia	10282	11/08/2016	2016 General Election	412	PCT 412	1766	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	340
+VOL	Volusia	10282	11/08/2016	2016 General Election	412	PCT 412	1766	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+VOL	Volusia	10282	11/08/2016	2016 General Election	412	PCT 412	1766	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	412	PCT 412	1766	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	412	PCT 412	1766	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	412	PCT 412	1766	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	412	PCT 412	1766	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	412	PCT 412	1766	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	413	PCT 413	2705	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	937
+VOL	Volusia	10282	11/08/2016	2016 General Election	413	PCT 413	2705	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	900
+VOL	Volusia	10282	11/08/2016	2016 General Election	413	PCT 413	2705	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+VOL	Volusia	10282	11/08/2016	2016 General Election	413	PCT 413	2705	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	413	PCT 413	2705	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	413	PCT 413	2705	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	413	PCT 413	2705	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	413	PCT 413	2705	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	413	PCT 413	2705	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	414	PCT 414	3081	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1026
+VOL	Volusia	10282	11/08/2016	2016 General Election	414	PCT 414	3081	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	986
+VOL	Volusia	10282	11/08/2016	2016 General Election	414	PCT 414	3081	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+VOL	Volusia	10282	11/08/2016	2016 General Election	414	PCT 414	3081	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	414	PCT 414	3081	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	414	PCT 414	3081	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	414	PCT 414	3081	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	414	PCT 414	3081	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	414	PCT 414	3081	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	415	PCT 415	3588	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1054
+VOL	Volusia	10282	11/08/2016	2016 General Election	415	PCT 415	3588	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1221
+VOL	Volusia	10282	11/08/2016	2016 General Election	415	PCT 415	3588	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+VOL	Volusia	10282	11/08/2016	2016 General Election	415	PCT 415	3588	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	415	PCT 415	3588	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	415	PCT 415	3588	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	415	PCT 415	3588	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	415	PCT 415	3588	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	415	PCT 415	3588	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	416	PCT 416	4808	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1375
+VOL	Volusia	10282	11/08/2016	2016 General Election	416	PCT 416	4808	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1794
+VOL	Volusia	10282	11/08/2016	2016 General Election	416	PCT 416	4808	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+VOL	Volusia	10282	11/08/2016	2016 General Election	416	PCT 416	4808	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	416	PCT 416	4808	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+VOL	Volusia	10282	11/08/2016	2016 General Election	416	PCT 416	4808	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	416	PCT 416	4808	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	32
+VOL	Volusia	10282	11/08/2016	2016 General Election	416	PCT 416	4808	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	416	PCT 416	4808	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	417	PCT 417	1832	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	514
+VOL	Volusia	10282	11/08/2016	2016 General Election	417	PCT 417	1832	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	642
+VOL	Volusia	10282	11/08/2016	2016 General Election	417	PCT 417	1832	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+VOL	Volusia	10282	11/08/2016	2016 General Election	417	PCT 417	1832	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	417	PCT 417	1832	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	417	PCT 417	1832	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	417	PCT 417	1832	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	417	PCT 417	1832	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	417	PCT 417	1832	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	419	PCT 419	1618	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	482
+VOL	Volusia	10282	11/08/2016	2016 General Election	419	PCT 419	1618	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	586
+VOL	Volusia	10282	11/08/2016	2016 General Election	419	PCT 419	1618	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	419	PCT 419	1618	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	419	PCT 419	1618	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	419	PCT 419	1618	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	419	PCT 419	1618	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	419	PCT 419	1618	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	419	PCT 419	1618	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	420	PCT 420	3692	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1333
+VOL	Volusia	10282	11/08/2016	2016 General Election	420	PCT 420	3692	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1146
+VOL	Volusia	10282	11/08/2016	2016 General Election	420	PCT 420	3692	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	61
+VOL	Volusia	10282	11/08/2016	2016 General Election	420	PCT 420	3692	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	420	PCT 420	3692	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	420	PCT 420	3692	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	420	PCT 420	3692	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	420	PCT 420	3692	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	420	PCT 420	3692	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	421	PCT 421	2568	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1243
+VOL	Volusia	10282	11/08/2016	2016 General Election	421	PCT 421	2568	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	617
+VOL	Volusia	10282	11/08/2016	2016 General Election	421	PCT 421	2568	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	51
+VOL	Volusia	10282	11/08/2016	2016 General Election	421	PCT 421	2568	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	421	PCT 421	2568	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	421	PCT 421	2568	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	421	PCT 421	2568	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	421	PCT 421	2568	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	421	PCT 421	2568	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	422	PCT 422	3002	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	853
+VOL	Volusia	10282	11/08/2016	2016 General Election	422	PCT 422	3002	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1021
+VOL	Volusia	10282	11/08/2016	2016 General Election	422	PCT 422	3002	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+VOL	Volusia	10282	11/08/2016	2016 General Election	422	PCT 422	3002	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	422	PCT 422	3002	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	422	PCT 422	3002	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	422	PCT 422	3002	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	422	PCT 422	3002	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	422	PCT 422	3002	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	423	PCT 423	2682	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	803
+VOL	Volusia	10282	11/08/2016	2016 General Election	423	PCT 423	2682	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	860
+VOL	Volusia	10282	11/08/2016	2016 General Election	423	PCT 423	2682	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	41
+VOL	Volusia	10282	11/08/2016	2016 General Election	423	PCT 423	2682	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	423	PCT 423	2682	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	423	PCT 423	2682	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	423	PCT 423	2682	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	423	PCT 423	2682	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	423	PCT 423	2682	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	427	PCT 427	3105	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	915
+VOL	Volusia	10282	11/08/2016	2016 General Election	427	PCT 427	3105	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1019
+VOL	Volusia	10282	11/08/2016	2016 General Election	427	PCT 427	3105	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+VOL	Volusia	10282	11/08/2016	2016 General Election	427	PCT 427	3105	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	427	PCT 427	3105	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	427	PCT 427	3105	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	427	PCT 427	3105	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	427	PCT 427	3105	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	427	PCT 427	3105	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	429	PCT 429	1795	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	470
+VOL	Volusia	10282	11/08/2016	2016 General Election	429	PCT 429	1795	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	625
+VOL	Volusia	10282	11/08/2016	2016 General Election	429	PCT 429	1795	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+VOL	Volusia	10282	11/08/2016	2016 General Election	429	PCT 429	1795	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	429	PCT 429	1795	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	429	PCT 429	1795	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	429	PCT 429	1795	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	429	PCT 429	1795	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	429	PCT 429	1795	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	501	PCT 501	2736	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1419
+VOL	Volusia	10282	11/08/2016	2016 General Election	501	PCT 501	2736	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	691
+VOL	Volusia	10282	11/08/2016	2016 General Election	501	PCT 501	2736	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+VOL	Volusia	10282	11/08/2016	2016 General Election	501	PCT 501	2736	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	501	PCT 501	2736	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	501	PCT 501	2736	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	501	PCT 501	2736	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	501	PCT 501	2736	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	501	PCT 501	2736	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	502	PCT 502	4876	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2195
+VOL	Volusia	10282	11/08/2016	2016 General Election	502	PCT 502	4876	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1441
+VOL	Volusia	10282	11/08/2016	2016 General Election	502	PCT 502	4876	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	67
+VOL	Volusia	10282	11/08/2016	2016 General Election	502	PCT 502	4876	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	502	PCT 502	4876	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	40
+VOL	Volusia	10282	11/08/2016	2016 General Election	502	PCT 502	4876	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	502	PCT 502	4876	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	28
+VOL	Volusia	10282	11/08/2016	2016 General Election	502	PCT 502	4876	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	502	PCT 502	4876	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	503	PCT 503	1122	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	607
+VOL	Volusia	10282	11/08/2016	2016 General Election	503	PCT 503	1122	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	302
+VOL	Volusia	10282	11/08/2016	2016 General Election	503	PCT 503	1122	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+VOL	Volusia	10282	11/08/2016	2016 General Election	503	PCT 503	1122	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	503	PCT 503	1122	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	503	PCT 503	1122	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	503	PCT 503	1122	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	503	PCT 503	1122	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	503	PCT 503	1122	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	504	PCT 504	2378	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	980
+VOL	Volusia	10282	11/08/2016	2016 General Election	504	PCT 504	2378	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	717
+VOL	Volusia	10282	11/08/2016	2016 General Election	504	PCT 504	2378	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+VOL	Volusia	10282	11/08/2016	2016 General Election	504	PCT 504	2378	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	504	PCT 504	2378	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	504	PCT 504	2378	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	504	PCT 504	2378	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	504	PCT 504	2378	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	504	PCT 504	2378	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	506	PCT 506	2812	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1269
+VOL	Volusia	10282	11/08/2016	2016 General Election	506	PCT 506	2812	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	872
+VOL	Volusia	10282	11/08/2016	2016 General Election	506	PCT 506	2812	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	62
+VOL	Volusia	10282	11/08/2016	2016 General Election	506	PCT 506	2812	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	506	PCT 506	2812	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	506	PCT 506	2812	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	506	PCT 506	2812	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	506	PCT 506	2812	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	506	PCT 506	2812	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	508	PCT 508	2231	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1071
+VOL	Volusia	10282	11/08/2016	2016 General Election	508	PCT 508	2231	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	592
+VOL	Volusia	10282	11/08/2016	2016 General Election	508	PCT 508	2231	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+VOL	Volusia	10282	11/08/2016	2016 General Election	508	PCT 508	2231	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	508	PCT 508	2231	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	508	PCT 508	2231	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	508	PCT 508	2231	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	508	PCT 508	2231	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	508	PCT 508	2231	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	509	PCT 509	1197	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	580
+VOL	Volusia	10282	11/08/2016	2016 General Election	509	PCT 509	1197	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	245
+VOL	Volusia	10282	11/08/2016	2016 General Election	509	PCT 509	1197	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	509	PCT 509	1197	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	509	PCT 509	1197	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	509	PCT 509	1197	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	509	PCT 509	1197	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	509	PCT 509	1197	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	509	PCT 509	1197	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	510	PCT 510	4153	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2170
+VOL	Volusia	10282	11/08/2016	2016 General Election	510	PCT 510	4153	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1160
+VOL	Volusia	10282	11/08/2016	2016 General Election	510	PCT 510	4153	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+VOL	Volusia	10282	11/08/2016	2016 General Election	510	PCT 510	4153	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	510	PCT 510	4153	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	510	PCT 510	4153	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	510	PCT 510	4153	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	39
+VOL	Volusia	10282	11/08/2016	2016 General Election	510	PCT 510	4153	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	510	PCT 510	4153	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	511	PCT 511	968	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	532
+VOL	Volusia	10282	11/08/2016	2016 General Election	511	PCT 511	968	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	167
+VOL	Volusia	10282	11/08/2016	2016 General Election	511	PCT 511	968	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	511	PCT 511	968	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	511	PCT 511	968	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	511	PCT 511	968	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	511	PCT 511	968	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	511	PCT 511	968	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	511	PCT 511	968	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	512	PCT 512	4196	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1884
+VOL	Volusia	10282	11/08/2016	2016 General Election	512	PCT 512	4196	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1348
+VOL	Volusia	10282	11/08/2016	2016 General Election	512	PCT 512	4196	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	77
+VOL	Volusia	10282	11/08/2016	2016 General Election	512	PCT 512	4196	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	512	PCT 512	4196	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	512	PCT 512	4196	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	512	PCT 512	4196	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	25
+VOL	Volusia	10282	11/08/2016	2016 General Election	512	PCT 512	4196	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	512	PCT 512	4196	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	515	PCT 515	3113	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1102
+VOL	Volusia	10282	11/08/2016	2016 General Election	515	PCT 515	3113	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	976
+VOL	Volusia	10282	11/08/2016	2016 General Election	515	PCT 515	3113	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	68
+VOL	Volusia	10282	11/08/2016	2016 General Election	515	PCT 515	3113	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	515	PCT 515	3113	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	515	PCT 515	3113	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	515	PCT 515	3113	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	515	PCT 515	3113	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	515	PCT 515	3113	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	516	PCT 516	2470	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1186
+VOL	Volusia	10282	11/08/2016	2016 General Election	516	PCT 516	2470	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	734
+VOL	Volusia	10282	11/08/2016	2016 General Election	516	PCT 516	2470	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	64
+VOL	Volusia	10282	11/08/2016	2016 General Election	516	PCT 516	2470	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	516	PCT 516	2470	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	516	PCT 516	2470	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	516	PCT 516	2470	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	24
+VOL	Volusia	10282	11/08/2016	2016 General Election	516	PCT 516	2470	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	516	PCT 516	2470	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	517	PCT 517	2423	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1000
+VOL	Volusia	10282	11/08/2016	2016 General Election	517	PCT 517	2423	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	676
+VOL	Volusia	10282	11/08/2016	2016 General Election	517	PCT 517	2423	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+VOL	Volusia	10282	11/08/2016	2016 General Election	517	PCT 517	2423	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	517	PCT 517	2423	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	517	PCT 517	2423	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	517	PCT 517	2423	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	517	PCT 517	2423	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	517	PCT 517	2423	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	519	PCT 519	1546	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	535
+VOL	Volusia	10282	11/08/2016	2016 General Election	519	PCT 519	1546	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	514
+VOL	Volusia	10282	11/08/2016	2016 General Election	519	PCT 519	1546	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	519	PCT 519	1546	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	519	PCT 519	1546	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	519	PCT 519	1546	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	519	PCT 519	1546	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	519	PCT 519	1546	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	519	PCT 519	1546	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	521	PCT 521	4030	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1855
+VOL	Volusia	10282	11/08/2016	2016 General Election	521	PCT 521	4030	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1171
+VOL	Volusia	10282	11/08/2016	2016 General Election	521	PCT 521	4030	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+VOL	Volusia	10282	11/08/2016	2016 General Election	521	PCT 521	4030	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	521	PCT 521	4030	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	521	PCT 521	4030	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	521	PCT 521	4030	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	28
+VOL	Volusia	10282	11/08/2016	2016 General Election	521	PCT 521	4030	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	521	PCT 521	4030	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	25
+VOL	Volusia	10282	11/08/2016	2016 General Election	522	PCT 522	3844	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1640
+VOL	Volusia	10282	11/08/2016	2016 General Election	522	PCT 522	3844	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1092
+VOL	Volusia	10282	11/08/2016	2016 General Election	522	PCT 522	3844	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	75
+VOL	Volusia	10282	11/08/2016	2016 General Election	522	PCT 522	3844	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	522	PCT 522	3844	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+VOL	Volusia	10282	11/08/2016	2016 General Election	522	PCT 522	3844	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	522	PCT 522	3844	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	522	PCT 522	3844	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	522	PCT 522	3844	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	523	PCT 523	2686	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	962
+VOL	Volusia	10282	11/08/2016	2016 General Election	523	PCT 523	2686	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	667
+VOL	Volusia	10282	11/08/2016	2016 General Election	523	PCT 523	2686	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+VOL	Volusia	10282	11/08/2016	2016 General Election	523	PCT 523	2686	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	523	PCT 523	2686	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	523	PCT 523	2686	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	523	PCT 523	2686	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	523	PCT 523	2686	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	523	PCT 523	2686	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	526	PCT 526	1977	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	603
+VOL	Volusia	10282	11/08/2016	2016 General Election	526	PCT 526	1977	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	575
+VOL	Volusia	10282	11/08/2016	2016 General Election	526	PCT 526	1977	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+VOL	Volusia	10282	11/08/2016	2016 General Election	526	PCT 526	1977	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	526	PCT 526	1977	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	526	PCT 526	1977	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	526	PCT 526	1977	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	526	PCT 526	1977	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	526	PCT 526	1977	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	527	PCT 527	1885	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	655
+VOL	Volusia	10282	11/08/2016	2016 General Election	527	PCT 527	1885	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	557
+VOL	Volusia	10282	11/08/2016	2016 General Election	527	PCT 527	1885	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+VOL	Volusia	10282	11/08/2016	2016 General Election	527	PCT 527	1885	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	527	PCT 527	1885	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	527	PCT 527	1885	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	527	PCT 527	1885	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	527	PCT 527	1885	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	527	PCT 527	1885	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	528	PCT 528	1930	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	573
+VOL	Volusia	10282	11/08/2016	2016 General Election	528	PCT 528	1930	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	569
+VOL	Volusia	10282	11/08/2016	2016 General Election	528	PCT 528	1930	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+VOL	Volusia	10282	11/08/2016	2016 General Election	528	PCT 528	1930	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	528	PCT 528	1930	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	528	PCT 528	1930	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	528	PCT 528	1930	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	528	PCT 528	1930	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	528	PCT 528	1930	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	529	PCT 529	1874	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	647
+VOL	Volusia	10282	11/08/2016	2016 General Election	529	PCT 529	1874	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	522
+VOL	Volusia	10282	11/08/2016	2016 General Election	529	PCT 529	1874	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+VOL	Volusia	10282	11/08/2016	2016 General Election	529	PCT 529	1874	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	529	PCT 529	1874	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	529	PCT 529	1874	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	529	PCT 529	1874	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	529	PCT 529	1874	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	529	PCT 529	1874	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	530	PCT 530	2385	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	710
+VOL	Volusia	10282	11/08/2016	2016 General Election	530	PCT 530	2385	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	694
+VOL	Volusia	10282	11/08/2016	2016 General Election	530	PCT 530	2385	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+VOL	Volusia	10282	11/08/2016	2016 General Election	530	PCT 530	2385	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	530	PCT 530	2385	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	530	PCT 530	2385	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	530	PCT 530	2385	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	530	PCT 530	2385	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	530	PCT 530	2385	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	532	PCT 532	2429	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1406
+VOL	Volusia	10282	11/08/2016	2016 General Election	532	PCT 532	2429	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	650
+VOL	Volusia	10282	11/08/2016	2016 General Election	532	PCT 532	2429	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+VOL	Volusia	10282	11/08/2016	2016 General Election	532	PCT 532	2429	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	532	PCT 532	2429	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	532	PCT 532	2429	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	532	PCT 532	2429	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	532	PCT 532	2429	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	532	PCT 532	2429	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	602	PCT 602	4502	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1749
+VOL	Volusia	10282	11/08/2016	2016 General Election	602	PCT 602	4502	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1411
+VOL	Volusia	10282	11/08/2016	2016 General Election	602	PCT 602	4502	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	95
+VOL	Volusia	10282	11/08/2016	2016 General Election	602	PCT 602	4502	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	602	PCT 602	4502	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	602	PCT 602	4502	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	602	PCT 602	4502	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	602	PCT 602	4502	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	602	PCT 602	4502	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	603	PCT 603	3436	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	502
+VOL	Volusia	10282	11/08/2016	2016 General Election	603	PCT 603	3436	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1735
+VOL	Volusia	10282	11/08/2016	2016 General Election	603	PCT 603	3436	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+VOL	Volusia	10282	11/08/2016	2016 General Election	603	PCT 603	3436	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	603	PCT 603	3436	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	603	PCT 603	3436	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	603	PCT 603	3436	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	34
+VOL	Volusia	10282	11/08/2016	2016 General Election	603	PCT 603	3436	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	603	PCT 603	3436	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	607	PCT 607	4398	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1667
+VOL	Volusia	10282	11/08/2016	2016 General Election	607	PCT 607	4398	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1302
+VOL	Volusia	10282	11/08/2016	2016 General Election	607	PCT 607	4398	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	73
+VOL	Volusia	10282	11/08/2016	2016 General Election	607	PCT 607	4398	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	607	PCT 607	4398	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+VOL	Volusia	10282	11/08/2016	2016 General Election	607	PCT 607	4398	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	607	PCT 607	4398	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	33
+VOL	Volusia	10282	11/08/2016	2016 General Election	607	PCT 607	4398	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	607	PCT 607	4398	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	614	PCT 614	4136	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	476
+VOL	Volusia	10282	11/08/2016	2016 General Election	614	PCT 614	4136	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1898
+VOL	Volusia	10282	11/08/2016	2016 General Election	614	PCT 614	4136	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+VOL	Volusia	10282	11/08/2016	2016 General Election	614	PCT 614	4136	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	614	PCT 614	4136	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	614	PCT 614	4136	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	614	PCT 614	4136	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	614	PCT 614	4136	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	614	PCT 614	4136	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	619	PCT 619	2266	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	212
+VOL	Volusia	10282	11/08/2016	2016 General Election	619	PCT 619	2266	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1082
+VOL	Volusia	10282	11/08/2016	2016 General Election	619	PCT 619	2266	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	619	PCT 619	2266	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	619	PCT 619	2266	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	619	PCT 619	2266	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	619	PCT 619	2266	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	619	PCT 619	2266	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	619	PCT 619	2266	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	620	PCT 620	2365	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	27
+VOL	Volusia	10282	11/08/2016	2016 General Election	620	PCT 620	2365	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1390
+VOL	Volusia	10282	11/08/2016	2016 General Election	620	PCT 620	2365	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	620	PCT 620	2365	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	620	PCT 620	2365	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	620	PCT 620	2365	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	620	PCT 620	2365	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	620	PCT 620	2365	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	620	PCT 620	2365	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	621	PCT 621	2157	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	132
+VOL	Volusia	10282	11/08/2016	2016 General Election	621	PCT 621	2157	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1001
+VOL	Volusia	10282	11/08/2016	2016 General Election	621	PCT 621	2157	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	621	PCT 621	2157	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	621	PCT 621	2157	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	621	PCT 621	2157	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	621	PCT 621	2157	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	621	PCT 621	2157	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	621	PCT 621	2157	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	622	PCT 622	911	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	216
+VOL	Volusia	10282	11/08/2016	2016 General Election	622	PCT 622	911	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	241
+VOL	Volusia	10282	11/08/2016	2016 General Election	622	PCT 622	911	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	622	PCT 622	911	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	622	PCT 622	911	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	622	PCT 622	911	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	622	PCT 622	911	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	622	PCT 622	911	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	622	PCT 622	911	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	623	PCT 623	2649	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	795
+VOL	Volusia	10282	11/08/2016	2016 General Election	623	PCT 623	2649	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	720
+VOL	Volusia	10282	11/08/2016	2016 General Election	623	PCT 623	2649	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+VOL	Volusia	10282	11/08/2016	2016 General Election	623	PCT 623	2649	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	623	PCT 623	2649	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	623	PCT 623	2649	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	623	PCT 623	2649	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	623	PCT 623	2649	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	623	PCT 623	2649	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	625	PCT 625	1711	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	761
+VOL	Volusia	10282	11/08/2016	2016 General Election	625	PCT 625	1711	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	451
+VOL	Volusia	10282	11/08/2016	2016 General Election	625	PCT 625	1711	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+VOL	Volusia	10282	11/08/2016	2016 General Election	625	PCT 625	1711	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	625	PCT 625	1711	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	625	PCT 625	1711	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	625	PCT 625	1711	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	625	PCT 625	1711	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	625	PCT 625	1711	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	626	PCT 626	1629	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	447
+VOL	Volusia	10282	11/08/2016	2016 General Election	626	PCT 626	1629	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	519
+VOL	Volusia	10282	11/08/2016	2016 General Election	626	PCT 626	1629	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	626	PCT 626	1629	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	626	PCT 626	1629	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	626	PCT 626	1629	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	626	PCT 626	1629	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	626	PCT 626	1629	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	626	PCT 626	1629	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	628	PCT 628	4034	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	404
+VOL	Volusia	10282	11/08/2016	2016 General Election	628	PCT 628	4034	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1887
+VOL	Volusia	10282	11/08/2016	2016 General Election	628	PCT 628	4034	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+VOL	Volusia	10282	11/08/2016	2016 General Election	628	PCT 628	4034	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	628	PCT 628	4034	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	628	PCT 628	4034	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	628	PCT 628	4034	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	628	PCT 628	4034	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	628	PCT 628	4034	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	633	PCT 633	4361	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1009
+VOL	Volusia	10282	11/08/2016	2016 General Election	633	PCT 633	4361	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1528
+VOL	Volusia	10282	11/08/2016	2016 General Election	633	PCT 633	4361	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	64
+VOL	Volusia	10282	11/08/2016	2016 General Election	633	PCT 633	4361	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	633	PCT 633	4361	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	633	PCT 633	4361	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	633	PCT 633	4361	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	32
+VOL	Volusia	10282	11/08/2016	2016 General Election	633	PCT 633	4361	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	633	PCT 633	4361	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	638	PCT 638	2323	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	967
+VOL	Volusia	10282	11/08/2016	2016 General Election	638	PCT 638	2323	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	663
+VOL	Volusia	10282	11/08/2016	2016 General Election	638	PCT 638	2323	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+VOL	Volusia	10282	11/08/2016	2016 General Election	638	PCT 638	2323	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	638	PCT 638	2323	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	638	PCT 638	2323	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	638	PCT 638	2323	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	638	PCT 638	2323	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	638	PCT 638	2323	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	641	PCT 641	4717	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1819
+VOL	Volusia	10282	11/08/2016	2016 General Election	641	PCT 641	4717	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1440
+VOL	Volusia	10282	11/08/2016	2016 General Election	641	PCT 641	4717	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	79
+VOL	Volusia	10282	11/08/2016	2016 General Election	641	PCT 641	4717	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	641	PCT 641	4717	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	29
+VOL	Volusia	10282	11/08/2016	2016 General Election	641	PCT 641	4717	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	641	PCT 641	4717	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	34
+VOL	Volusia	10282	11/08/2016	2016 General Election	641	PCT 641	4717	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	641	PCT 641	4717	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	701	PCT 701	4517	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1788
+VOL	Volusia	10282	11/08/2016	2016 General Election	701	PCT 701	4517	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1269
+VOL	Volusia	10282	11/08/2016	2016 General Election	701	PCT 701	4517	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	80
+VOL	Volusia	10282	11/08/2016	2016 General Election	701	PCT 701	4517	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	701	PCT 701	4517	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	701	PCT 701	4517	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	701	PCT 701	4517	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	701	PCT 701	4517	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	701	PCT 701	4517	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	703	PCT 703	3936	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1442
+VOL	Volusia	10282	11/08/2016	2016 General Election	703	PCT 703	3936	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1213
+VOL	Volusia	10282	11/08/2016	2016 General Election	703	PCT 703	3936	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	79
+VOL	Volusia	10282	11/08/2016	2016 General Election	703	PCT 703	3936	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	703	PCT 703	3936	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	703	PCT 703	3936	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	703	PCT 703	3936	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	28
+VOL	Volusia	10282	11/08/2016	2016 General Election	703	PCT 703	3936	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	703	PCT 703	3936	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	705	PCT 705	1465	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	708
+VOL	Volusia	10282	11/08/2016	2016 General Election	705	PCT 705	1465	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	368
+VOL	Volusia	10282	11/08/2016	2016 General Election	705	PCT 705	1465	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+VOL	Volusia	10282	11/08/2016	2016 General Election	705	PCT 705	1465	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	705	PCT 705	1465	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	705	PCT 705	1465	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	705	PCT 705	1465	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	705	PCT 705	1465	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	705	PCT 705	1465	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	706	PCT 706	4366	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2175
+VOL	Volusia	10282	11/08/2016	2016 General Election	706	PCT 706	4366	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1086
+VOL	Volusia	10282	11/08/2016	2016 General Election	706	PCT 706	4366	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+VOL	Volusia	10282	11/08/2016	2016 General Election	706	PCT 706	4366	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	706	PCT 706	4366	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	706	PCT 706	4366	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	706	PCT 706	4366	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	33
+VOL	Volusia	10282	11/08/2016	2016 General Election	706	PCT 706	4366	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	706	PCT 706	4366	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	24
+VOL	Volusia	10282	11/08/2016	2016 General Election	709	PCT 709	3535	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1460
+VOL	Volusia	10282	11/08/2016	2016 General Election	709	PCT 709	3535	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	893
+VOL	Volusia	10282	11/08/2016	2016 General Election	709	PCT 709	3535	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	55
+VOL	Volusia	10282	11/08/2016	2016 General Election	709	PCT 709	3535	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	709	PCT 709	3535	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	709	PCT 709	3535	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	709	PCT 709	3535	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	709	PCT 709	3535	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	709	PCT 709	3535	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	711	PCT 711	4293	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1773
+VOL	Volusia	10282	11/08/2016	2016 General Election	711	PCT 711	4293	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1175
+VOL	Volusia	10282	11/08/2016	2016 General Election	711	PCT 711	4293	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	73
+VOL	Volusia	10282	11/08/2016	2016 General Election	711	PCT 711	4293	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	711	PCT 711	4293	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	711	PCT 711	4293	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	711	PCT 711	4293	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	36
+VOL	Volusia	10282	11/08/2016	2016 General Election	711	PCT 711	4293	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	711	PCT 711	4293	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	712	PCT 712	2159	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	823
+VOL	Volusia	10282	11/08/2016	2016 General Election	712	PCT 712	2159	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	627
+VOL	Volusia	10282	11/08/2016	2016 General Election	712	PCT 712	2159	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+VOL	Volusia	10282	11/08/2016	2016 General Election	712	PCT 712	2159	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	712	PCT 712	2159	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	712	PCT 712	2159	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	712	PCT 712	2159	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	712	PCT 712	2159	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	712	PCT 712	2159	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	714	PCT 714	3694	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1444
+VOL	Volusia	10282	11/08/2016	2016 General Election	714	PCT 714	3694	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1125
+VOL	Volusia	10282	11/08/2016	2016 General Election	714	PCT 714	3694	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+VOL	Volusia	10282	11/08/2016	2016 General Election	714	PCT 714	3694	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	714	PCT 714	3694	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	714	PCT 714	3694	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	714	PCT 714	3694	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	714	PCT 714	3694	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	714	PCT 714	3694	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	716	PCT 716	2814	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1633
+VOL	Volusia	10282	11/08/2016	2016 General Election	716	PCT 716	2814	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	537
+VOL	Volusia	10282	11/08/2016	2016 General Election	716	PCT 716	2814	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+VOL	Volusia	10282	11/08/2016	2016 General Election	716	PCT 716	2814	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	716	PCT 716	2814	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	716	PCT 716	2814	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	716	PCT 716	2814	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	716	PCT 716	2814	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	716	PCT 716	2814	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	717	PCT 717	1970	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	812
+VOL	Volusia	10282	11/08/2016	2016 General Election	717	PCT 717	1970	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	581
+VOL	Volusia	10282	11/08/2016	2016 General Election	717	PCT 717	1970	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+VOL	Volusia	10282	11/08/2016	2016 General Election	717	PCT 717	1970	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	717	PCT 717	1970	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	717	PCT 717	1970	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	717	PCT 717	1970	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	717	PCT 717	1970	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	717	PCT 717	1970	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	718	PCT 718	3862	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1585
+VOL	Volusia	10282	11/08/2016	2016 General Election	718	PCT 718	3862	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1123
+VOL	Volusia	10282	11/08/2016	2016 General Election	718	PCT 718	3862	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	78
+VOL	Volusia	10282	11/08/2016	2016 General Election	718	PCT 718	3862	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	718	PCT 718	3862	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	718	PCT 718	3862	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	718	PCT 718	3862	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	32
+VOL	Volusia	10282	11/08/2016	2016 General Election	718	PCT 718	3862	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	718	PCT 718	3862	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	719	PCT 719	2141	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	918
+VOL	Volusia	10282	11/08/2016	2016 General Election	719	PCT 719	2141	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	546
+VOL	Volusia	10282	11/08/2016	2016 General Election	719	PCT 719	2141	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+VOL	Volusia	10282	11/08/2016	2016 General Election	719	PCT 719	2141	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	719	PCT 719	2141	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	719	PCT 719	2141	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	719	PCT 719	2141	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	719	PCT 719	2141	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	719	PCT 719	2141	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	720	PCT 720	986	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	391
+VOL	Volusia	10282	11/08/2016	2016 General Election	720	PCT 720	986	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	228
+VOL	Volusia	10282	11/08/2016	2016 General Election	720	PCT 720	986	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	720	PCT 720	986	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	720	PCT 720	986	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	720	PCT 720	986	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	720	PCT 720	986	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	720	PCT 720	986	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	720	PCT 720	986	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	722	PCT 722	2893	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1120
+VOL	Volusia	10282	11/08/2016	2016 General Election	722	PCT 722	2893	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	684
+VOL	Volusia	10282	11/08/2016	2016 General Election	722	PCT 722	2893	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+VOL	Volusia	10282	11/08/2016	2016 General Election	722	PCT 722	2893	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	722	PCT 722	2893	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	722	PCT 722	2893	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	722	PCT 722	2893	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	722	PCT 722	2893	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	722	PCT 722	2893	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	725	PCT 725	2194	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1027
+VOL	Volusia	10282	11/08/2016	2016 General Election	725	PCT 725	2194	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	652
+VOL	Volusia	10282	11/08/2016	2016 General Election	725	PCT 725	2194	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+VOL	Volusia	10282	11/08/2016	2016 General Election	725	PCT 725	2194	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	725	PCT 725	2194	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	725	PCT 725	2194	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	725	PCT 725	2194	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	725	PCT 725	2194	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	725	PCT 725	2194	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	726	PCT 726	3042	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1682
+VOL	Volusia	10282	11/08/2016	2016 General Election	726	PCT 726	3042	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	759
+VOL	Volusia	10282	11/08/2016	2016 General Election	726	PCT 726	3042	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+VOL	Volusia	10282	11/08/2016	2016 General Election	726	PCT 726	3042	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	726	PCT 726	3042	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	726	PCT 726	3042	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	726	PCT 726	3042	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	29
+VOL	Volusia	10282	11/08/2016	2016 General Election	726	PCT 726	3042	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	726	PCT 726	3042	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	728	PCT 728	4188	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1987
+VOL	Volusia	10282	11/08/2016	2016 General Election	728	PCT 728	4188	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1118
+VOL	Volusia	10282	11/08/2016	2016 General Election	728	PCT 728	4188	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	92
+VOL	Volusia	10282	11/08/2016	2016 General Election	728	PCT 728	4188	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	728	PCT 728	4188	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	32
+VOL	Volusia	10282	11/08/2016	2016 General Election	728	PCT 728	4188	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	728	PCT 728	4188	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	39
+VOL	Volusia	10282	11/08/2016	2016 General Election	728	PCT 728	4188	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	728	PCT 728	4188	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	30
+VOL	Volusia	10282	11/08/2016	2016 General Election	729	PCT 729	4443	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2102
+VOL	Volusia	10282	11/08/2016	2016 General Election	729	PCT 729	4443	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1252
+VOL	Volusia	10282	11/08/2016	2016 General Election	729	PCT 729	4443	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	84
+VOL	Volusia	10282	11/08/2016	2016 General Election	729	PCT 729	4443	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	729	PCT 729	4443	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	729	PCT 729	4443	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	729	PCT 729	4443	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	35
+VOL	Volusia	10282	11/08/2016	2016 General Election	729	PCT 729	4443	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	729	PCT 729	4443	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	732	PCT 732	4273	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2117
+VOL	Volusia	10282	11/08/2016	2016 General Election	732	PCT 732	4273	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1199
+VOL	Volusia	10282	11/08/2016	2016 General Election	732	PCT 732	4273	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	67
+VOL	Volusia	10282	11/08/2016	2016 General Election	732	PCT 732	4273	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	732	PCT 732	4273	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	732	PCT 732	4273	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	732	PCT 732	4273	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	28
+VOL	Volusia	10282	11/08/2016	2016 General Election	732	PCT 732	4273	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	732	PCT 732	4273	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	733	PCT 733	2582	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1223
+VOL	Volusia	10282	11/08/2016	2016 General Election	733	PCT 733	2582	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	704
+VOL	Volusia	10282	11/08/2016	2016 General Election	733	PCT 733	2582	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+VOL	Volusia	10282	11/08/2016	2016 General Election	733	PCT 733	2582	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	733	PCT 733	2582	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	733	PCT 733	2582	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	733	PCT 733	2582	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	733	PCT 733	2582	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	733	PCT 733	2582	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	803	PCT 803	1651	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	896
+VOL	Volusia	10282	11/08/2016	2016 General Election	803	PCT 803	1651	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	449
+VOL	Volusia	10282	11/08/2016	2016 General Election	803	PCT 803	1651	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	803	PCT 803	1651	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	803	PCT 803	1651	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	803	PCT 803	1651	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	803	PCT 803	1651	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	803	PCT 803	1651	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	803	PCT 803	1651	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	804	PCT 804	3420	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1635
+VOL	Volusia	10282	11/08/2016	2016 General Election	804	PCT 804	3420	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	971
+VOL	Volusia	10282	11/08/2016	2016 General Election	804	PCT 804	3420	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	76
+VOL	Volusia	10282	11/08/2016	2016 General Election	804	PCT 804	3420	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	804	PCT 804	3420	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+VOL	Volusia	10282	11/08/2016	2016 General Election	804	PCT 804	3420	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	804	PCT 804	3420	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	31
+VOL	Volusia	10282	11/08/2016	2016 General Election	804	PCT 804	3420	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	804	PCT 804	3420	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	805	PCT 805	4444	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2066
+VOL	Volusia	10282	11/08/2016	2016 General Election	805	PCT 805	4444	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1364
+VOL	Volusia	10282	11/08/2016	2016 General Election	805	PCT 805	4444	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	73
+VOL	Volusia	10282	11/08/2016	2016 General Election	805	PCT 805	4444	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	805	PCT 805	4444	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+VOL	Volusia	10282	11/08/2016	2016 General Election	805	PCT 805	4444	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	805	PCT 805	4444	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	41
+VOL	Volusia	10282	11/08/2016	2016 General Election	805	PCT 805	4444	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	805	PCT 805	4444	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	31
+VOL	Volusia	10282	11/08/2016	2016 General Election	807	PCT 807	1870	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	820
+VOL	Volusia	10282	11/08/2016	2016 General Election	807	PCT 807	1870	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	481
+VOL	Volusia	10282	11/08/2016	2016 General Election	807	PCT 807	1870	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+VOL	Volusia	10282	11/08/2016	2016 General Election	807	PCT 807	1870	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	807	PCT 807	1870	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	807	PCT 807	1870	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	807	PCT 807	1870	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	807	PCT 807	1870	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	807	PCT 807	1870	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	10
+VOL	Volusia	10282	11/08/2016	2016 General Election	808	PCT 808	5444	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	2429
+VOL	Volusia	10282	11/08/2016	2016 General Election	808	PCT 808	5444	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1766
+VOL	Volusia	10282	11/08/2016	2016 General Election	808	PCT 808	5444	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	74
+VOL	Volusia	10282	11/08/2016	2016 General Election	808	PCT 808	5444	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	808	PCT 808	5444	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	808	PCT 808	5444	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	808	PCT 808	5444	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	50
+VOL	Volusia	10282	11/08/2016	2016 General Election	808	PCT 808	5444	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	808	PCT 808	5444	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	24
+VOL	Volusia	10282	11/08/2016	2016 General Election	809	PCT 809	790	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	304
+VOL	Volusia	10282	11/08/2016	2016 General Election	809	PCT 809	790	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	252
+VOL	Volusia	10282	11/08/2016	2016 General Election	809	PCT 809	790	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	809	PCT 809	790	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	809	PCT 809	790	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	809	PCT 809	790	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	809	PCT 809	790	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	809	PCT 809	790	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	809	PCT 809	790	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	810	PCT 810	1823	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	669
+VOL	Volusia	10282	11/08/2016	2016 General Election	810	PCT 810	1823	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	568
+VOL	Volusia	10282	11/08/2016	2016 General Election	810	PCT 810	1823	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+VOL	Volusia	10282	11/08/2016	2016 General Election	810	PCT 810	1823	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	810	PCT 810	1823	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	810	PCT 810	1823	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	810	PCT 810	1823	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	810	PCT 810	1823	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	810	PCT 810	1823	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	812	PCT 812	2792	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1189
+VOL	Volusia	10282	11/08/2016	2016 General Election	812	PCT 812	2792	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	941
+VOL	Volusia	10282	11/08/2016	2016 General Election	812	PCT 812	2792	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+VOL	Volusia	10282	11/08/2016	2016 General Election	812	PCT 812	2792	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	812	PCT 812	2792	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	812	PCT 812	2792	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	812	PCT 812	2792	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	37
+VOL	Volusia	10282	11/08/2016	2016 General Election	812	PCT 812	2792	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	812	PCT 812	2792	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	25
+VOL	Volusia	10282	11/08/2016	2016 General Election	813	PCT 813	1938	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	939
+VOL	Volusia	10282	11/08/2016	2016 General Election	813	PCT 813	1938	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	594
+VOL	Volusia	10282	11/08/2016	2016 General Election	813	PCT 813	1938	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+VOL	Volusia	10282	11/08/2016	2016 General Election	813	PCT 813	1938	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	813	PCT 813	1938	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	813	PCT 813	1938	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	813	PCT 813	1938	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	17
+VOL	Volusia	10282	11/08/2016	2016 General Election	813	PCT 813	1938	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	813	PCT 813	1938	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	16
+VOL	Volusia	10282	11/08/2016	2016 General Election	814	PCT 814	2636	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1223
+VOL	Volusia	10282	11/08/2016	2016 General Election	814	PCT 814	2636	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	638
+VOL	Volusia	10282	11/08/2016	2016 General Election	814	PCT 814	2636	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+VOL	Volusia	10282	11/08/2016	2016 General Election	814	PCT 814	2636	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	814	PCT 814	2636	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	814	PCT 814	2636	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	814	PCT 814	2636	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	814	PCT 814	2636	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	814	PCT 814	2636	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	816	PCT 816	1972	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1133
+VOL	Volusia	10282	11/08/2016	2016 General Election	816	PCT 816	1972	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	285
+VOL	Volusia	10282	11/08/2016	2016 General Election	816	PCT 816	1972	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+VOL	Volusia	10282	11/08/2016	2016 General Election	816	PCT 816	1972	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	816	PCT 816	1972	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+VOL	Volusia	10282	11/08/2016	2016 General Election	816	PCT 816	1972	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	816	PCT 816	1972	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	11
+VOL	Volusia	10282	11/08/2016	2016 General Election	816	PCT 816	1972	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	816	PCT 816	1972	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	901	PCT 901	2264	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	922
+VOL	Volusia	10282	11/08/2016	2016 General Election	901	PCT 901	2264	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	616
+VOL	Volusia	10282	11/08/2016	2016 General Election	901	PCT 901	2264	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+VOL	Volusia	10282	11/08/2016	2016 General Election	901	PCT 901	2264	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	901	PCT 901	2264	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+VOL	Volusia	10282	11/08/2016	2016 General Election	901	PCT 901	2264	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	901	PCT 901	2264	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	901	PCT 901	2264	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	901	PCT 901	2264	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	902	PCT 902	3929	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1713
+VOL	Volusia	10282	11/08/2016	2016 General Election	902	PCT 902	3929	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	957
+VOL	Volusia	10282	11/08/2016	2016 General Election	902	PCT 902	3929	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+VOL	Volusia	10282	11/08/2016	2016 General Election	902	PCT 902	3929	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	902	PCT 902	3929	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	40
+VOL	Volusia	10282	11/08/2016	2016 General Election	902	PCT 902	3929	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+VOL	Volusia	10282	11/08/2016	2016 General Election	902	PCT 902	3929	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	27
+VOL	Volusia	10282	11/08/2016	2016 General Election	902	PCT 902	3929	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	902	PCT 902	3929	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	903	PCT 903	3748	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1667
+VOL	Volusia	10282	11/08/2016	2016 General Election	903	PCT 903	3748	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	934
+VOL	Volusia	10282	11/08/2016	2016 General Election	903	PCT 903	3748	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	87
+VOL	Volusia	10282	11/08/2016	2016 General Election	903	PCT 903	3748	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	903	PCT 903	3748	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+VOL	Volusia	10282	11/08/2016	2016 General Election	903	PCT 903	3748	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	903	PCT 903	3748	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	20
+VOL	Volusia	10282	11/08/2016	2016 General Election	903	PCT 903	3748	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	903	PCT 903	3748	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	12
+VOL	Volusia	10282	11/08/2016	2016 General Election	904	PCT 904	3782	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1676
+VOL	Volusia	10282	11/08/2016	2016 General Election	904	PCT 904	3782	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	976
+VOL	Volusia	10282	11/08/2016	2016 General Election	904	PCT 904	3782	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	77
+VOL	Volusia	10282	11/08/2016	2016 General Election	904	PCT 904	3782	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	904	PCT 904	3782	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+VOL	Volusia	10282	11/08/2016	2016 General Election	904	PCT 904	3782	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	904	PCT 904	3782	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	19
+VOL	Volusia	10282	11/08/2016	2016 General Election	904	PCT 904	3782	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	904	PCT 904	3782	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	14
+VOL	Volusia	10282	11/08/2016	2016 General Election	907	PCT 907	3349	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	1648
+VOL	Volusia	10282	11/08/2016	2016 General Election	907	PCT 907	3349	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	744
+VOL	Volusia	10282	11/08/2016	2016 General Election	907	PCT 907	3349	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+VOL	Volusia	10282	11/08/2016	2016 General Election	907	PCT 907	3349	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	907	PCT 907	3349	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	907	PCT 907	3349	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	907	PCT 907	3349	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	22
+VOL	Volusia	10282	11/08/2016	2016 General Election	907	PCT 907	3349	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	907	PCT 907	3349	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	13
+VOL	Volusia	10282	11/08/2016	2016 General Election	909	PCT 909	1494	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	712
+VOL	Volusia	10282	11/08/2016	2016 General Election	909	PCT 909	1494	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	397
+VOL	Volusia	10282	11/08/2016	2016 General Election	909	PCT 909	1494	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+VOL	Volusia	10282	11/08/2016	2016 General Election	909	PCT 909	1494	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+VOL	Volusia	10282	11/08/2016	2016 General Election	909	PCT 909	1494	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+VOL	Volusia	10282	11/08/2016	2016 General Election	909	PCT 909	1494	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	909	PCT 909	1494	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	8
+VOL	Volusia	10282	11/08/2016	2016 General Election	909	PCT 909	1494	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	4
+VOL	Volusia	10282	11/08/2016	2016 General Election	909	PCT 909	1494	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	9
+VOL	Volusia	10282	11/08/2016	2016 General Election	910	PCT 910	1387	0	0	350820	President of the United States	 	100000	Trump / Pence	REP	0	65072	546
+VOL	Volusia	10282	11/08/2016	2016 General Election	910	PCT 910	1387	0	0	350820	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	362
+VOL	Volusia	10282	11/08/2016	2016 General Election	910	PCT 910	1387	0	0	350820	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+VOL	Volusia	10282	11/08/2016	2016 General Election	910	PCT 910	1387	0	0	350820	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	910	PCT 910	1387	0	0	350820	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+VOL	Volusia	10282	11/08/2016	2016 General Election	910	PCT 910	1387	0	0	350820	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+VOL	Volusia	10282	11/08/2016	2016 General Election	910	PCT 910	1387	0	0	350820	President of the United States	 	100000	WriteinVotes	 	0	900	5
+VOL	Volusia	10282	11/08/2016	2016 General Election	910	PCT 910	1387	0	0	350820	President of the United States	 	100000	OverVotes	 	0	901	1
+VOL	Volusia	10282	11/08/2016	2016 General Election	910	PCT 910	1387	0	0	350820	President of the United States	 	100000	UnderVotes	 	0	902	8

@@ -1,0 +1,711 @@
+ESC	Escambia	10282	11/08/2016	2016 General Election	1	PRECINCT 1	4835	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1869
+ESC	Escambia	10282	11/08/2016	2016 General Election	1	PRECINCT 1	4835	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1085
+ESC	Escambia	10282	11/08/2016	2016 General Election	1	PRECINCT 1	4835	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	199
+ESC	Escambia	10282	11/08/2016	2016 General Election	1	PRECINCT 1	4835	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	1	PRECINCT 1	4835	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	32
+ESC	Escambia	10282	11/08/2016	2016 General Election	1	PRECINCT 1	4835	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	1	PRECINCT 1	4835	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	50
+ESC	Escambia	10282	11/08/2016	2016 General Election	1	PRECINCT 1	4835	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	1	PRECINCT 1	4835	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	3	PRECINCT 3	4066	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1507
+ESC	Escambia	10282	11/08/2016	2016 General Election	3	PRECINCT 3	4066	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	991
+ESC	Escambia	10282	11/08/2016	2016 General Election	3	PRECINCT 3	4066	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	73
+ESC	Escambia	10282	11/08/2016	2016 General Election	3	PRECINCT 3	4066	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	3	PRECINCT 3	4066	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+ESC	Escambia	10282	11/08/2016	2016 General Election	3	PRECINCT 3	4066	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	3	PRECINCT 3	4066	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	24
+ESC	Escambia	10282	11/08/2016	2016 General Election	3	PRECINCT 3	4066	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	3	PRECINCT 3	4066	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	5	PRECINCT 5	3023	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1749
+ESC	Escambia	10282	11/08/2016	2016 General Election	5	PRECINCT 5	3023	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	534
+ESC	Escambia	10282	11/08/2016	2016 General Election	5	PRECINCT 5	3023	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+ESC	Escambia	10282	11/08/2016	2016 General Election	5	PRECINCT 5	3023	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	5	PRECINCT 5	3023	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	5	PRECINCT 5	3023	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	5	PRECINCT 5	3023	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	29
+ESC	Escambia	10282	11/08/2016	2016 General Election	5	PRECINCT 5	3023	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	5	PRECINCT 5	3023	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	22
+ESC	Escambia	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1735	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	968
+ESC	Escambia	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1735	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	317
+ESC	Escambia	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1735	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	25
+ESC	Escambia	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1735	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1735	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1735	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1735	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1735	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1735	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	7	PRECINCT 7	5186	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	3198
+ESC	Escambia	10282	11/08/2016	2016 General Election	7	PRECINCT 7	5186	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	868
+ESC	Escambia	10282	11/08/2016	2016 General Election	7	PRECINCT 7	5186	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	97
+ESC	Escambia	10282	11/08/2016	2016 General Election	7	PRECINCT 7	5186	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	7	PRECINCT 7	5186	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+ESC	Escambia	10282	11/08/2016	2016 General Election	7	PRECINCT 7	5186	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	7	PRECINCT 7	5186	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	31
+ESC	Escambia	10282	11/08/2016	2016 General Election	7	PRECINCT 7	5186	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	7	PRECINCT 7	5186	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	27
+ESC	Escambia	10282	11/08/2016	2016 General Election	11	PRECINCT 11	1236	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	695
+ESC	Escambia	10282	11/08/2016	2016 General Election	11	PRECINCT 11	1236	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	157
+ESC	Escambia	10282	11/08/2016	2016 General Election	11	PRECINCT 11	1236	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	11	PRECINCT 11	1236	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	11	PRECINCT 11	1236	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	11	PRECINCT 11	1236	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	11	PRECINCT 11	1236	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	11	PRECINCT 11	1236	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	11	PRECINCT 11	1236	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	14	PRECINCT 14	2263	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	236
+ESC	Escambia	10282	11/08/2016	2016 General Election	14	PRECINCT 14	2263	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1287
+ESC	Escambia	10282	11/08/2016	2016 General Election	14	PRECINCT 14	2263	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+ESC	Escambia	10282	11/08/2016	2016 General Election	14	PRECINCT 14	2263	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	14	PRECINCT 14	2263	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	14	PRECINCT 14	2263	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	14	PRECINCT 14	2263	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	14	PRECINCT 14	2263	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	14	PRECINCT 14	2263	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	15	PRECINCT 15	3407	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1279
+ESC	Escambia	10282	11/08/2016	2016 General Election	15	PRECINCT 15	3407	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	696
+ESC	Escambia	10282	11/08/2016	2016 General Election	15	PRECINCT 15	3407	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	164
+ESC	Escambia	10282	11/08/2016	2016 General Election	15	PRECINCT 15	3407	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	15	PRECINCT 15	3407	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	15	PRECINCT 15	3407	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	15	PRECINCT 15	3407	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	78
+ESC	Escambia	10282	11/08/2016	2016 General Election	15	PRECINCT 15	3407	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	15	PRECINCT 15	3407	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	17
+ESC	Escambia	10282	11/08/2016	2016 General Election	18	PRECINCT 18	604	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	384
+ESC	Escambia	10282	11/08/2016	2016 General Election	18	PRECINCT 18	604	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	61
+ESC	Escambia	10282	11/08/2016	2016 General Election	18	PRECINCT 18	604	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	18	PRECINCT 18	604	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	18	PRECINCT 18	604	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	18	PRECINCT 18	604	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	18	PRECINCT 18	604	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	18	PRECINCT 18	604	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	18	PRECINCT 18	604	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	19	PRECINCT 19	3926	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	2450
+ESC	Escambia	10282	11/08/2016	2016 General Election	19	PRECINCT 19	3926	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	479
+ESC	Escambia	10282	11/08/2016	2016 General Election	19	PRECINCT 19	3926	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+ESC	Escambia	10282	11/08/2016	2016 General Election	19	PRECINCT 19	3926	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	19	PRECINCT 19	3926	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	19	PRECINCT 19	3926	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	19	PRECINCT 19	3926	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	24
+ESC	Escambia	10282	11/08/2016	2016 General Election	19	PRECINCT 19	3926	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	19	PRECINCT 19	3926	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	21	PRECINCT 21	2807	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1276
+ESC	Escambia	10282	11/08/2016	2016 General Election	21	PRECINCT 21	2807	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	657
+ESC	Escambia	10282	11/08/2016	2016 General Election	21	PRECINCT 21	2807	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+ESC	Escambia	10282	11/08/2016	2016 General Election	21	PRECINCT 21	2807	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	21	PRECINCT 21	2807	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	21	PRECINCT 21	2807	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	21	PRECINCT 21	2807	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	21	PRECINCT 21	2807	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	21	PRECINCT 21	2807	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	22	PRECINCT 22	1181	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	289
+ESC	Escambia	10282	11/08/2016	2016 General Election	22	PRECINCT 22	1181	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	403
+ESC	Escambia	10282	11/08/2016	2016 General Election	22	PRECINCT 22	1181	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	22	PRECINCT 22	1181	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	22	PRECINCT 22	1181	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	22	PRECINCT 22	1181	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	22	PRECINCT 22	1181	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	22	PRECINCT 22	1181	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	22	PRECINCT 22	1181	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	23	PRECINCT 23	860	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	571
+ESC	Escambia	10282	11/08/2016	2016 General Election	23	PRECINCT 23	860	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	53
+ESC	Escambia	10282	11/08/2016	2016 General Election	23	PRECINCT 23	860	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	23	PRECINCT 23	860	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	23	PRECINCT 23	860	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	23	PRECINCT 23	860	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	23	PRECINCT 23	860	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	23	PRECINCT 23	860	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	23	PRECINCT 23	860	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	24	PRECINCT 24	3420	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1521
+ESC	Escambia	10282	11/08/2016	2016 General Election	24	PRECINCT 24	3420	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	867
+ESC	Escambia	10282	11/08/2016	2016 General Election	24	PRECINCT 24	3420	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	99
+ESC	Escambia	10282	11/08/2016	2016 General Election	24	PRECINCT 24	3420	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	24	PRECINCT 24	3420	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+ESC	Escambia	10282	11/08/2016	2016 General Election	24	PRECINCT 24	3420	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	24	PRECINCT 24	3420	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	27
+ESC	Escambia	10282	11/08/2016	2016 General Election	24	PRECINCT 24	3420	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	24	PRECINCT 24	3420	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	25
+ESC	Escambia	10282	11/08/2016	2016 General Election	25	PRECINCT 25	1397	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	562
+ESC	Escambia	10282	11/08/2016	2016 General Election	25	PRECINCT 25	1397	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	419
+ESC	Escambia	10282	11/08/2016	2016 General Election	25	PRECINCT 25	1397	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+ESC	Escambia	10282	11/08/2016	2016 General Election	25	PRECINCT 25	1397	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	25	PRECINCT 25	1397	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	25	PRECINCT 25	1397	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	25	PRECINCT 25	1397	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	25	PRECINCT 25	1397	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	25	PRECINCT 25	1397	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	26	PRECINCT 26	6047	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	2846
+ESC	Escambia	10282	11/08/2016	2016 General Election	26	PRECINCT 26	6047	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1321
+ESC	Escambia	10282	11/08/2016	2016 General Election	26	PRECINCT 26	6047	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	114
+ESC	Escambia	10282	11/08/2016	2016 General Election	26	PRECINCT 26	6047	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	26	PRECINCT 26	6047	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+ESC	Escambia	10282	11/08/2016	2016 General Election	26	PRECINCT 26	6047	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	26	PRECINCT 26	6047	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	48
+ESC	Escambia	10282	11/08/2016	2016 General Election	26	PRECINCT 26	6047	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	26	PRECINCT 26	6047	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	30
+ESC	Escambia	10282	11/08/2016	2016 General Election	28	PRECINCT 28	2643	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	217
+ESC	Escambia	10282	11/08/2016	2016 General Election	28	PRECINCT 28	2643	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1593
+ESC	Escambia	10282	11/08/2016	2016 General Election	28	PRECINCT 28	2643	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	28	PRECINCT 28	2643	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	28	PRECINCT 28	2643	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	28	PRECINCT 28	2643	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	28	PRECINCT 28	2643	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	28	PRECINCT 28	2643	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	28	PRECINCT 28	2643	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	29	PRECINCT 29	1506	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	374
+ESC	Escambia	10282	11/08/2016	2016 General Election	29	PRECINCT 29	1506	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	648
+ESC	Escambia	10282	11/08/2016	2016 General Election	29	PRECINCT 29	1506	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+ESC	Escambia	10282	11/08/2016	2016 General Election	29	PRECINCT 29	1506	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	29	PRECINCT 29	1506	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	29	PRECINCT 29	1506	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	29	PRECINCT 29	1506	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	29	PRECINCT 29	1506	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	29	PRECINCT 29	1506	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	30	PRECINCT 30	2360	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1233
+ESC	Escambia	10282	11/08/2016	2016 General Election	30	PRECINCT 30	2360	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	585
+ESC	Escambia	10282	11/08/2016	2016 General Election	30	PRECINCT 30	2360	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+ESC	Escambia	10282	11/08/2016	2016 General Election	30	PRECINCT 30	2360	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	30	PRECINCT 30	2360	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	30	PRECINCT 30	2360	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	30	PRECINCT 30	2360	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	43
+ESC	Escambia	10282	11/08/2016	2016 General Election	30	PRECINCT 30	2360	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	30	PRECINCT 30	2360	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	21
+ESC	Escambia	10282	11/08/2016	2016 General Election	31	PRECINCT 31	1877	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	349
+ESC	Escambia	10282	11/08/2016	2016 General Election	31	PRECINCT 31	1877	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	937
+ESC	Escambia	10282	11/08/2016	2016 General Election	31	PRECINCT 31	1877	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+ESC	Escambia	10282	11/08/2016	2016 General Election	31	PRECINCT 31	1877	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	31	PRECINCT 31	1877	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	31	PRECINCT 31	1877	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	31	PRECINCT 31	1877	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	17
+ESC	Escambia	10282	11/08/2016	2016 General Election	31	PRECINCT 31	1877	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	31	PRECINCT 31	1877	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	32	PRECINCT 32	572	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	212
+ESC	Escambia	10282	11/08/2016	2016 General Election	32	PRECINCT 32	572	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	184
+ESC	Escambia	10282	11/08/2016	2016 General Election	32	PRECINCT 32	572	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	32	PRECINCT 32	572	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	32	PRECINCT 32	572	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	32	PRECINCT 32	572	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	32	PRECINCT 32	572	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	32	PRECINCT 32	572	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	32	PRECINCT 32	572	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	33	PRECINCT 33	1266	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	840
+ESC	Escambia	10282	11/08/2016	2016 General Election	33	PRECINCT 33	1266	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	63
+ESC	Escambia	10282	11/08/2016	2016 General Election	33	PRECINCT 33	1266	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	33	PRECINCT 33	1266	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	33	PRECINCT 33	1266	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	33	PRECINCT 33	1266	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	33	PRECINCT 33	1266	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	33	PRECINCT 33	1266	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	33	PRECINCT 33	1266	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	34	PRECINCT 34	2920	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	391
+ESC	Escambia	10282	11/08/2016	2016 General Election	34	PRECINCT 34	2920	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1344
+ESC	Escambia	10282	11/08/2016	2016 General Election	34	PRECINCT 34	2920	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+ESC	Escambia	10282	11/08/2016	2016 General Election	34	PRECINCT 34	2920	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	34	PRECINCT 34	2920	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+ESC	Escambia	10282	11/08/2016	2016 General Election	34	PRECINCT 34	2920	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	34	PRECINCT 34	2920	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	34	PRECINCT 34	2920	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	34	PRECINCT 34	2920	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	35	PRECINCT 35	2321	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1006
+ESC	Escambia	10282	11/08/2016	2016 General Election	35	PRECINCT 35	2321	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	651
+ESC	Escambia	10282	11/08/2016	2016 General Election	35	PRECINCT 35	2321	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	68
+ESC	Escambia	10282	11/08/2016	2016 General Election	35	PRECINCT 35	2321	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	35	PRECINCT 35	2321	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	35	PRECINCT 35	2321	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	35	PRECINCT 35	2321	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	20
+ESC	Escambia	10282	11/08/2016	2016 General Election	35	PRECINCT 35	2321	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	35	PRECINCT 35	2321	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	36	PRECINCT 36	3143	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1687
+ESC	Escambia	10282	11/08/2016	2016 General Election	36	PRECINCT 36	3143	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	562
+ESC	Escambia	10282	11/08/2016	2016 General Election	36	PRECINCT 36	3143	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+ESC	Escambia	10282	11/08/2016	2016 General Election	36	PRECINCT 36	3143	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	36	PRECINCT 36	3143	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	36	PRECINCT 36	3143	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	36	PRECINCT 36	3143	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	36	PRECINCT 36	3143	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	36	PRECINCT 36	3143	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	38	PRECINCT 38	3834	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	2140
+ESC	Escambia	10282	11/08/2016	2016 General Election	38	PRECINCT 38	3834	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	733
+ESC	Escambia	10282	11/08/2016	2016 General Election	38	PRECINCT 38	3834	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	87
+ESC	Escambia	10282	11/08/2016	2016 General Election	38	PRECINCT 38	3834	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	38	PRECINCT 38	3834	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	38	PRECINCT 38	3834	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	38	PRECINCT 38	3834	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	46
+ESC	Escambia	10282	11/08/2016	2016 General Election	38	PRECINCT 38	3834	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	38	PRECINCT 38	3834	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	40	PRECINCT 40	1479	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	706
+ESC	Escambia	10282	11/08/2016	2016 General Election	40	PRECINCT 40	1479	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	501
+ESC	Escambia	10282	11/08/2016	2016 General Election	40	PRECINCT 40	1479	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+ESC	Escambia	10282	11/08/2016	2016 General Election	40	PRECINCT 40	1479	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	40	PRECINCT 40	1479	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	40	PRECINCT 40	1479	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	40	PRECINCT 40	1479	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	13
+ESC	Escambia	10282	11/08/2016	2016 General Election	40	PRECINCT 40	1479	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	40	PRECINCT 40	1479	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	41	PRECINCT 41	2106	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	709
+ESC	Escambia	10282	11/08/2016	2016 General Election	41	PRECINCT 41	2106	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	921
+ESC	Escambia	10282	11/08/2016	2016 General Election	41	PRECINCT 41	2106	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	70
+ESC	Escambia	10282	11/08/2016	2016 General Election	41	PRECINCT 41	2106	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	41	PRECINCT 41	2106	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+ESC	Escambia	10282	11/08/2016	2016 General Election	41	PRECINCT 41	2106	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	41	PRECINCT 41	2106	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	41	PRECINCT 41	2106	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	41	PRECINCT 41	2106	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	42	PRECINCT 42	2803	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1463
+ESC	Escambia	10282	11/08/2016	2016 General Election	42	PRECINCT 42	2803	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	744
+ESC	Escambia	10282	11/08/2016	2016 General Election	42	PRECINCT 42	2803	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	82
+ESC	Escambia	10282	11/08/2016	2016 General Election	42	PRECINCT 42	2803	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	42	PRECINCT 42	2803	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	42	PRECINCT 42	2803	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	42	PRECINCT 42	2803	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	31
+ESC	Escambia	10282	11/08/2016	2016 General Election	42	PRECINCT 42	2803	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	42	PRECINCT 42	2803	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	22
+ESC	Escambia	10282	11/08/2016	2016 General Election	43	PRECINCT 43	6175	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	3803
+ESC	Escambia	10282	11/08/2016	2016 General Election	43	PRECINCT 43	6175	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	984
+ESC	Escambia	10282	11/08/2016	2016 General Election	43	PRECINCT 43	6175	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	107
+ESC	Escambia	10282	11/08/2016	2016 General Election	43	PRECINCT 43	6175	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	43	PRECINCT 43	6175	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+ESC	Escambia	10282	11/08/2016	2016 General Election	43	PRECINCT 43	6175	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	43	PRECINCT 43	6175	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	49
+ESC	Escambia	10282	11/08/2016	2016 General Election	43	PRECINCT 43	6175	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	43	PRECINCT 43	6175	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	22
+ESC	Escambia	10282	11/08/2016	2016 General Election	46	PRECINCT 46	2451	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1304
+ESC	Escambia	10282	11/08/2016	2016 General Election	46	PRECINCT 46	2451	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	648
+ESC	Escambia	10282	11/08/2016	2016 General Election	46	PRECINCT 46	2451	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	68
+ESC	Escambia	10282	11/08/2016	2016 General Election	46	PRECINCT 46	2451	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	46	PRECINCT 46	2451	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	46	PRECINCT 46	2451	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	46	PRECINCT 46	2451	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	28
+ESC	Escambia	10282	11/08/2016	2016 General Election	46	PRECINCT 46	2451	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	46	PRECINCT 46	2451	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	25
+ESC	Escambia	10282	11/08/2016	2016 General Election	47	PRECINCT 47	1646	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	282
+ESC	Escambia	10282	11/08/2016	2016 General Election	47	PRECINCT 47	1646	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	656
+ESC	Escambia	10282	11/08/2016	2016 General Election	47	PRECINCT 47	1646	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+ESC	Escambia	10282	11/08/2016	2016 General Election	47	PRECINCT 47	1646	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	47	PRECINCT 47	1646	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	47	PRECINCT 47	1646	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	47	PRECINCT 47	1646	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	47	PRECINCT 47	1646	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	47	PRECINCT 47	1646	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	48	PRECINCT 48	1935	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	152
+ESC	Escambia	10282	11/08/2016	2016 General Election	48	PRECINCT 48	1935	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	944
+ESC	Escambia	10282	11/08/2016	2016 General Election	48	PRECINCT 48	1935	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+ESC	Escambia	10282	11/08/2016	2016 General Election	48	PRECINCT 48	1935	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	48	PRECINCT 48	1935	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	48	PRECINCT 48	1935	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	48	PRECINCT 48	1935	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	48	PRECINCT 48	1935	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	48	PRECINCT 48	1935	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	49	PRECINCT 49	1849	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	632
+ESC	Escambia	10282	11/08/2016	2016 General Election	49	PRECINCT 49	1849	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	606
+ESC	Escambia	10282	11/08/2016	2016 General Election	49	PRECINCT 49	1849	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+ESC	Escambia	10282	11/08/2016	2016 General Election	49	PRECINCT 49	1849	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	49	PRECINCT 49	1849	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	49	PRECINCT 49	1849	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	49	PRECINCT 49	1849	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	18
+ESC	Escambia	10282	11/08/2016	2016 General Election	49	PRECINCT 49	1849	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	49	PRECINCT 49	1849	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	50	PRECINCT 50	570	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	158
+ESC	Escambia	10282	11/08/2016	2016 General Election	50	PRECINCT 50	570	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	249
+ESC	Escambia	10282	11/08/2016	2016 General Election	50	PRECINCT 50	570	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+ESC	Escambia	10282	11/08/2016	2016 General Election	50	PRECINCT 50	570	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	50	PRECINCT 50	570	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	50	PRECINCT 50	570	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	50	PRECINCT 50	570	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	50	PRECINCT 50	570	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	50	PRECINCT 50	570	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	51	PRECINCT 51	3530	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1455
+ESC	Escambia	10282	11/08/2016	2016 General Election	51	PRECINCT 51	3530	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	933
+ESC	Escambia	10282	11/08/2016	2016 General Election	51	PRECINCT 51	3530	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	94
+ESC	Escambia	10282	11/08/2016	2016 General Election	51	PRECINCT 51	3530	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	51	PRECINCT 51	3530	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+ESC	Escambia	10282	11/08/2016	2016 General Election	51	PRECINCT 51	3530	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	51	PRECINCT 51	3530	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	36
+ESC	Escambia	10282	11/08/2016	2016 General Election	51	PRECINCT 51	3530	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	51	PRECINCT 51	3530	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	54	PRECINCT 54	2295	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1065
+ESC	Escambia	10282	11/08/2016	2016 General Election	54	PRECINCT 54	2295	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	554
+ESC	Escambia	10282	11/08/2016	2016 General Election	54	PRECINCT 54	2295	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+ESC	Escambia	10282	11/08/2016	2016 General Election	54	PRECINCT 54	2295	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	54	PRECINCT 54	2295	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	54	PRECINCT 54	2295	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	54	PRECINCT 54	2295	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	54	PRECINCT 54	2295	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	54	PRECINCT 54	2295	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	55	PRECINCT 55	2181	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1006
+ESC	Escambia	10282	11/08/2016	2016 General Election	55	PRECINCT 55	2181	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	499
+ESC	Escambia	10282	11/08/2016	2016 General Election	55	PRECINCT 55	2181	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+ESC	Escambia	10282	11/08/2016	2016 General Election	55	PRECINCT 55	2181	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	55	PRECINCT 55	2181	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	55	PRECINCT 55	2181	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	55	PRECINCT 55	2181	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	55	PRECINCT 55	2181	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	55	PRECINCT 55	2181	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	56	PRECINCT 56	1801	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	389
+ESC	Escambia	10282	11/08/2016	2016 General Election	56	PRECINCT 56	1801	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	801
+ESC	Escambia	10282	11/08/2016	2016 General Election	56	PRECINCT 56	1801	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+ESC	Escambia	10282	11/08/2016	2016 General Election	56	PRECINCT 56	1801	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	56	PRECINCT 56	1801	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	56	PRECINCT 56	1801	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	56	PRECINCT 56	1801	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	56	PRECINCT 56	1801	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	56	PRECINCT 56	1801	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	58	PRECINCT 58	1064	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	514
+ESC	Escambia	10282	11/08/2016	2016 General Election	58	PRECINCT 58	1064	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	270
+ESC	Escambia	10282	11/08/2016	2016 General Election	58	PRECINCT 58	1064	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+ESC	Escambia	10282	11/08/2016	2016 General Election	58	PRECINCT 58	1064	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	58	PRECINCT 58	1064	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	58	PRECINCT 58	1064	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	58	PRECINCT 58	1064	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	19
+ESC	Escambia	10282	11/08/2016	2016 General Election	58	PRECINCT 58	1064	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	58	PRECINCT 58	1064	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	60	PRECINCT 60	1125	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	107
+ESC	Escambia	10282	11/08/2016	2016 General Election	60	PRECINCT 60	1125	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	606
+ESC	Escambia	10282	11/08/2016	2016 General Election	60	PRECINCT 60	1125	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	60	PRECINCT 60	1125	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	60	PRECINCT 60	1125	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	60	PRECINCT 60	1125	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	60	PRECINCT 60	1125	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	60	PRECINCT 60	1125	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	60	PRECINCT 60	1125	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	61	PRECINCT 61	2993	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1061
+ESC	Escambia	10282	11/08/2016	2016 General Election	61	PRECINCT 61	2993	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	775
+ESC	Escambia	10282	11/08/2016	2016 General Election	61	PRECINCT 61	2993	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	89
+ESC	Escambia	10282	11/08/2016	2016 General Election	61	PRECINCT 61	2993	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	61	PRECINCT 61	2993	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	61	PRECINCT 61	2993	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	61	PRECINCT 61	2993	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	23
+ESC	Escambia	10282	11/08/2016	2016 General Election	61	PRECINCT 61	2993	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	61	PRECINCT 61	2993	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	13
+ESC	Escambia	10282	11/08/2016	2016 General Election	62	PRECINCT 62	3123	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1171
+ESC	Escambia	10282	11/08/2016	2016 General Election	62	PRECINCT 62	3123	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	987
+ESC	Escambia	10282	11/08/2016	2016 General Election	62	PRECINCT 62	3123	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	78
+ESC	Escambia	10282	11/08/2016	2016 General Election	62	PRECINCT 62	3123	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	62	PRECINCT 62	3123	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+ESC	Escambia	10282	11/08/2016	2016 General Election	62	PRECINCT 62	3123	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	62	PRECINCT 62	3123	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	26
+ESC	Escambia	10282	11/08/2016	2016 General Election	62	PRECINCT 62	3123	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	62	PRECINCT 62	3123	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	63	PRECINCT 63	1138	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	63	PRECINCT 63	1138	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	795
+ESC	Escambia	10282	11/08/2016	2016 General Election	63	PRECINCT 63	1138	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	63	PRECINCT 63	1138	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	63	PRECINCT 63	1138	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	63	PRECINCT 63	1138	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	63	PRECINCT 63	1138	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	63	PRECINCT 63	1138	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	63	PRECINCT 63	1138	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	64	PRECINCT 64	2835	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1052
+ESC	Escambia	10282	11/08/2016	2016 General Election	64	PRECINCT 64	2835	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	812
+ESC	Escambia	10282	11/08/2016	2016 General Election	64	PRECINCT 64	2835	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	80
+ESC	Escambia	10282	11/08/2016	2016 General Election	64	PRECINCT 64	2835	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	64	PRECINCT 64	2835	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	64	PRECINCT 64	2835	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	64	PRECINCT 64	2835	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	40
+ESC	Escambia	10282	11/08/2016	2016 General Election	64	PRECINCT 64	2835	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	64	PRECINCT 64	2835	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	67	PRECINCT 67	5494	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	2859
+ESC	Escambia	10282	11/08/2016	2016 General Election	67	PRECINCT 67	5494	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1072
+ESC	Escambia	10282	11/08/2016	2016 General Election	67	PRECINCT 67	5494	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	178
+ESC	Escambia	10282	11/08/2016	2016 General Election	67	PRECINCT 67	5494	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	67	PRECINCT 67	5494	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	67	PRECINCT 67	5494	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	67	PRECINCT 67	5494	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	51
+ESC	Escambia	10282	11/08/2016	2016 General Election	67	PRECINCT 67	5494	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	67	PRECINCT 67	5494	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	23
+ESC	Escambia	10282	11/08/2016	2016 General Election	68	PRECINCT 68	2354	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1124
+ESC	Escambia	10282	11/08/2016	2016 General Election	68	PRECINCT 68	2354	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	502
+ESC	Escambia	10282	11/08/2016	2016 General Election	68	PRECINCT 68	2354	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+ESC	Escambia	10282	11/08/2016	2016 General Election	68	PRECINCT 68	2354	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	68	PRECINCT 68	2354	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	68	PRECINCT 68	2354	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	68	PRECINCT 68	2354	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	18
+ESC	Escambia	10282	11/08/2016	2016 General Election	68	PRECINCT 68	2354	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	68	PRECINCT 68	2354	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	69	PRECINCT 69	4132	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1441
+ESC	Escambia	10282	11/08/2016	2016 General Election	69	PRECINCT 69	4132	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1432
+ESC	Escambia	10282	11/08/2016	2016 General Election	69	PRECINCT 69	4132	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	97
+ESC	Escambia	10282	11/08/2016	2016 General Election	69	PRECINCT 69	4132	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	13
+ESC	Escambia	10282	11/08/2016	2016 General Election	69	PRECINCT 69	4132	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	69	PRECINCT 69	4132	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	69	PRECINCT 69	4132	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	23
+ESC	Escambia	10282	11/08/2016	2016 General Election	69	PRECINCT 69	4132	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	69	PRECINCT 69	4132	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	70	PRECINCT 70	2746	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	925
+ESC	Escambia	10282	11/08/2016	2016 General Election	70	PRECINCT 70	2746	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1019
+ESC	Escambia	10282	11/08/2016	2016 General Election	70	PRECINCT 70	2746	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+ESC	Escambia	10282	11/08/2016	2016 General Election	70	PRECINCT 70	2746	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	70	PRECINCT 70	2746	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	70	PRECINCT 70	2746	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	70	PRECINCT 70	2746	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	19
+ESC	Escambia	10282	11/08/2016	2016 General Election	70	PRECINCT 70	2746	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	70	PRECINCT 70	2746	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	71	PRECINCT 71	1949	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	611
+ESC	Escambia	10282	11/08/2016	2016 General Election	71	PRECINCT 71	1949	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	628
+ESC	Escambia	10282	11/08/2016	2016 General Election	71	PRECINCT 71	1949	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+ESC	Escambia	10282	11/08/2016	2016 General Election	71	PRECINCT 71	1949	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	71	PRECINCT 71	1949	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	71	PRECINCT 71	1949	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	71	PRECINCT 71	1949	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	71	PRECINCT 71	1949	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	71	PRECINCT 71	1949	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	72	PRECINCT 72	836	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	357
+ESC	Escambia	10282	11/08/2016	2016 General Election	72	PRECINCT 72	836	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	277
+ESC	Escambia	10282	11/08/2016	2016 General Election	72	PRECINCT 72	836	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	72	PRECINCT 72	836	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	72	PRECINCT 72	836	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	72	PRECINCT 72	836	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	72	PRECINCT 72	836	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	72	PRECINCT 72	836	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	72	PRECINCT 72	836	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	73	PRECINCT 73	3684	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1756
+ESC	Escambia	10282	11/08/2016	2016 General Election	73	PRECINCT 73	3684	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	846
+ESC	Escambia	10282	11/08/2016	2016 General Election	73	PRECINCT 73	3684	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	99
+ESC	Escambia	10282	11/08/2016	2016 General Election	73	PRECINCT 73	3684	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	73	PRECINCT 73	3684	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+ESC	Escambia	10282	11/08/2016	2016 General Election	73	PRECINCT 73	3684	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	73	PRECINCT 73	3684	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	34
+ESC	Escambia	10282	11/08/2016	2016 General Election	73	PRECINCT 73	3684	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	73	PRECINCT 73	3684	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	74	PRECINCT 74	5174	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	3162
+ESC	Escambia	10282	11/08/2016	2016 General Election	74	PRECINCT 74	5174	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	894
+ESC	Escambia	10282	11/08/2016	2016 General Election	74	PRECINCT 74	5174	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	88
+ESC	Escambia	10282	11/08/2016	2016 General Election	74	PRECINCT 74	5174	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	74	PRECINCT 74	5174	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+ESC	Escambia	10282	11/08/2016	2016 General Election	74	PRECINCT 74	5174	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	74	PRECINCT 74	5174	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	32
+ESC	Escambia	10282	11/08/2016	2016 General Election	74	PRECINCT 74	5174	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	74	PRECINCT 74	5174	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	31
+ESC	Escambia	10282	11/08/2016	2016 General Election	75	PRECINCT 75	4040	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1648
+ESC	Escambia	10282	11/08/2016	2016 General Election	75	PRECINCT 75	4040	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1019
+ESC	Escambia	10282	11/08/2016	2016 General Election	75	PRECINCT 75	4040	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	79
+ESC	Escambia	10282	11/08/2016	2016 General Election	75	PRECINCT 75	4040	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	75	PRECINCT 75	4040	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+ESC	Escambia	10282	11/08/2016	2016 General Election	75	PRECINCT 75	4040	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	75	PRECINCT 75	4040	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	32
+ESC	Escambia	10282	11/08/2016	2016 General Election	75	PRECINCT 75	4040	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	75	PRECINCT 75	4040	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	77	PRECINCT 77	2388	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	562
+ESC	Escambia	10282	11/08/2016	2016 General Election	77	PRECINCT 77	2388	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	753
+ESC	Escambia	10282	11/08/2016	2016 General Election	77	PRECINCT 77	2388	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+ESC	Escambia	10282	11/08/2016	2016 General Election	77	PRECINCT 77	2388	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	77	PRECINCT 77	2388	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+ESC	Escambia	10282	11/08/2016	2016 General Election	77	PRECINCT 77	2388	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	77	PRECINCT 77	2388	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	21
+ESC	Escambia	10282	11/08/2016	2016 General Election	77	PRECINCT 77	2388	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	77	PRECINCT 77	2388	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	80	PRECINCT 80	1141	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	520
+ESC	Escambia	10282	11/08/2016	2016 General Election	80	PRECINCT 80	1141	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	250
+ESC	Escambia	10282	11/08/2016	2016 General Election	80	PRECINCT 80	1141	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+ESC	Escambia	10282	11/08/2016	2016 General Election	80	PRECINCT 80	1141	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	80	PRECINCT 80	1141	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	80	PRECINCT 80	1141	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	80	PRECINCT 80	1141	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	80	PRECINCT 80	1141	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	80	PRECINCT 80	1141	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	82	PRECINCT 82	1062	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	243
+ESC	Escambia	10282	11/08/2016	2016 General Election	82	PRECINCT 82	1062	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	355
+ESC	Escambia	10282	11/08/2016	2016 General Election	82	PRECINCT 82	1062	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	82	PRECINCT 82	1062	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	82	PRECINCT 82	1062	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	82	PRECINCT 82	1062	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	82	PRECINCT 82	1062	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	82	PRECINCT 82	1062	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	82	PRECINCT 82	1062	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	83	PRECINCT 83	2380	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	981
+ESC	Escambia	10282	11/08/2016	2016 General Election	83	PRECINCT 83	2380	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	575
+ESC	Escambia	10282	11/08/2016	2016 General Election	83	PRECINCT 83	2380	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+ESC	Escambia	10282	11/08/2016	2016 General Election	83	PRECINCT 83	2380	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	83	PRECINCT 83	2380	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	83	PRECINCT 83	2380	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	83	PRECINCT 83	2380	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	21
+ESC	Escambia	10282	11/08/2016	2016 General Election	83	PRECINCT 83	2380	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	83	PRECINCT 83	2380	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	86	PRECINCT 86	2975	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1246
+ESC	Escambia	10282	11/08/2016	2016 General Election	86	PRECINCT 86	2975	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	813
+ESC	Escambia	10282	11/08/2016	2016 General Election	86	PRECINCT 86	2975	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+ESC	Escambia	10282	11/08/2016	2016 General Election	86	PRECINCT 86	2975	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	86	PRECINCT 86	2975	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	86	PRECINCT 86	2975	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	86	PRECINCT 86	2975	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	21
+ESC	Escambia	10282	11/08/2016	2016 General Election	86	PRECINCT 86	2975	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	86	PRECINCT 86	2975	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	88	PRECINCT 88	2256	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	874
+ESC	Escambia	10282	11/08/2016	2016 General Election	88	PRECINCT 88	2256	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	669
+ESC	Escambia	10282	11/08/2016	2016 General Election	88	PRECINCT 88	2256	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	93
+ESC	Escambia	10282	11/08/2016	2016 General Election	88	PRECINCT 88	2256	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	88	PRECINCT 88	2256	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+ESC	Escambia	10282	11/08/2016	2016 General Election	88	PRECINCT 88	2256	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	88	PRECINCT 88	2256	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	34
+ESC	Escambia	10282	11/08/2016	2016 General Election	88	PRECINCT 88	2256	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	88	PRECINCT 88	2256	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	90	PRECINCT 90	1449	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	166
+ESC	Escambia	10282	11/08/2016	2016 General Election	90	PRECINCT 90	1449	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	776
+ESC	Escambia	10282	11/08/2016	2016 General Election	90	PRECINCT 90	1449	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+ESC	Escambia	10282	11/08/2016	2016 General Election	90	PRECINCT 90	1449	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	90	PRECINCT 90	1449	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	90	PRECINCT 90	1449	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	90	PRECINCT 90	1449	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	90	PRECINCT 90	1449	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	90	PRECINCT 90	1449	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	91	PRECINCT 91	5452	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	2336
+ESC	Escambia	10282	11/08/2016	2016 General Election	91	PRECINCT 91	5452	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1408
+ESC	Escambia	10282	11/08/2016	2016 General Election	91	PRECINCT 91	5452	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	145
+ESC	Escambia	10282	11/08/2016	2016 General Election	91	PRECINCT 91	5452	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	91	PRECINCT 91	5452	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	34
+ESC	Escambia	10282	11/08/2016	2016 General Election	91	PRECINCT 91	5452	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	91	PRECINCT 91	5452	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	55
+ESC	Escambia	10282	11/08/2016	2016 General Election	91	PRECINCT 91	5452	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	91	PRECINCT 91	5452	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	30
+ESC	Escambia	10282	11/08/2016	2016 General Election	94	PRECINCT 94	2697	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1541
+ESC	Escambia	10282	11/08/2016	2016 General Election	94	PRECINCT 94	2697	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	596
+ESC	Escambia	10282	11/08/2016	2016 General Election	94	PRECINCT 94	2697	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+ESC	Escambia	10282	11/08/2016	2016 General Election	94	PRECINCT 94	2697	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	94	PRECINCT 94	2697	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	94	PRECINCT 94	2697	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	94	PRECINCT 94	2697	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	34
+ESC	Escambia	10282	11/08/2016	2016 General Election	94	PRECINCT 94	2697	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	94	PRECINCT 94	2697	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	95	PRECINCT 95	1987	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1047
+ESC	Escambia	10282	11/08/2016	2016 General Election	95	PRECINCT 95	1987	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	425
+ESC	Escambia	10282	11/08/2016	2016 General Election	95	PRECINCT 95	1987	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+ESC	Escambia	10282	11/08/2016	2016 General Election	95	PRECINCT 95	1987	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	95	PRECINCT 95	1987	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	95	PRECINCT 95	1987	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	95	PRECINCT 95	1987	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	95	PRECINCT 95	1987	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	95	PRECINCT 95	1987	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	97	PRECINCT 97	1698	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	837
+ESC	Escambia	10282	11/08/2016	2016 General Election	97	PRECINCT 97	1698	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	497
+ESC	Escambia	10282	11/08/2016	2016 General Election	97	PRECINCT 97	1698	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+ESC	Escambia	10282	11/08/2016	2016 General Election	97	PRECINCT 97	1698	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	97	PRECINCT 97	1698	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	97	PRECINCT 97	1698	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	97	PRECINCT 97	1698	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	97	PRECINCT 97	1698	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	97	PRECINCT 97	1698	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	13
+ESC	Escambia	10282	11/08/2016	2016 General Election	98	PRECINCT 98	3463	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	369
+ESC	Escambia	10282	11/08/2016	2016 General Election	98	PRECINCT 98	3463	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1985
+ESC	Escambia	10282	11/08/2016	2016 General Election	98	PRECINCT 98	3463	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+ESC	Escambia	10282	11/08/2016	2016 General Election	98	PRECINCT 98	3463	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	98	PRECINCT 98	3463	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+ESC	Escambia	10282	11/08/2016	2016 General Election	98	PRECINCT 98	3463	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	98	PRECINCT 98	3463	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	18
+ESC	Escambia	10282	11/08/2016	2016 General Election	98	PRECINCT 98	3463	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	98	PRECINCT 98	3463	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	99	PRECINCT 99	1609	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	694
+ESC	Escambia	10282	11/08/2016	2016 General Election	99	PRECINCT 99	1609	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	376
+ESC	Escambia	10282	11/08/2016	2016 General Election	99	PRECINCT 99	1609	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+ESC	Escambia	10282	11/08/2016	2016 General Election	99	PRECINCT 99	1609	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	99	PRECINCT 99	1609	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	99	PRECINCT 99	1609	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	99	PRECINCT 99	1609	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	99	PRECINCT 99	1609	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	99	PRECINCT 99	1609	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	101	PRECINCT 101	2023	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	961
+ESC	Escambia	10282	11/08/2016	2016 General Election	101	PRECINCT 101	2023	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	467
+ESC	Escambia	10282	11/08/2016	2016 General Election	101	PRECINCT 101	2023	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	45
+ESC	Escambia	10282	11/08/2016	2016 General Election	101	PRECINCT 101	2023	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	101	PRECINCT 101	2023	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	101	PRECINCT 101	2023	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	101	PRECINCT 101	2023	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	101	PRECINCT 101	2023	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	101	PRECINCT 101	2023	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	102	PRECINCT 102	2560	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1084
+ESC	Escambia	10282	11/08/2016	2016 General Election	102	PRECINCT 102	2560	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	744
+ESC	Escambia	10282	11/08/2016	2016 General Election	102	PRECINCT 102	2560	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+ESC	Escambia	10282	11/08/2016	2016 General Election	102	PRECINCT 102	2560	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	102	PRECINCT 102	2560	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	102	PRECINCT 102	2560	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	102	PRECINCT 102	2560	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	21
+ESC	Escambia	10282	11/08/2016	2016 General Election	102	PRECINCT 102	2560	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	102	PRECINCT 102	2560	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	103	PRECINCT 103	2265	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	409
+ESC	Escambia	10282	11/08/2016	2016 General Election	103	PRECINCT 103	2265	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1109
+ESC	Escambia	10282	11/08/2016	2016 General Election	103	PRECINCT 103	2265	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+ESC	Escambia	10282	11/08/2016	2016 General Election	103	PRECINCT 103	2265	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	103	PRECINCT 103	2265	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+ESC	Escambia	10282	11/08/2016	2016 General Election	103	PRECINCT 103	2265	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	103	PRECINCT 103	2265	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	10
+ESC	Escambia	10282	11/08/2016	2016 General Election	103	PRECINCT 103	2265	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	103	PRECINCT 103	2265	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	6
+ESC	Escambia	10282	11/08/2016	2016 General Election	104	PRECINCT 104	2398	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	489
+ESC	Escambia	10282	11/08/2016	2016 General Election	104	PRECINCT 104	2398	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	938
+ESC	Escambia	10282	11/08/2016	2016 General Election	104	PRECINCT 104	2398	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+ESC	Escambia	10282	11/08/2016	2016 General Election	104	PRECINCT 104	2398	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	104	PRECINCT 104	2398	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+ESC	Escambia	10282	11/08/2016	2016 General Election	104	PRECINCT 104	2398	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	104	PRECINCT 104	2398	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	14
+ESC	Escambia	10282	11/08/2016	2016 General Election	104	PRECINCT 104	2398	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	104	PRECINCT 104	2398	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	105	PRECINCT 105	4468	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	2377
+ESC	Escambia	10282	11/08/2016	2016 General Election	105	PRECINCT 105	4468	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	819
+ESC	Escambia	10282	11/08/2016	2016 General Election	105	PRECINCT 105	4468	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	125
+ESC	Escambia	10282	11/08/2016	2016 General Election	105	PRECINCT 105	4468	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	105	PRECINCT 105	4468	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+ESC	Escambia	10282	11/08/2016	2016 General Election	105	PRECINCT 105	4468	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	105	PRECINCT 105	4468	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	42
+ESC	Escambia	10282	11/08/2016	2016 General Election	105	PRECINCT 105	4468	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	105	PRECINCT 105	4468	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	26
+ESC	Escambia	10282	11/08/2016	2016 General Election	106	PRECINCT 106	1987	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	779
+ESC	Escambia	10282	11/08/2016	2016 General Election	106	PRECINCT 106	1987	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	560
+ESC	Escambia	10282	11/08/2016	2016 General Election	106	PRECINCT 106	1987	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+ESC	Escambia	10282	11/08/2016	2016 General Election	106	PRECINCT 106	1987	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	106	PRECINCT 106	1987	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+ESC	Escambia	10282	11/08/2016	2016 General Election	106	PRECINCT 106	1987	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	106	PRECINCT 106	1987	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	23
+ESC	Escambia	10282	11/08/2016	2016 General Election	106	PRECINCT 106	1987	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	106	PRECINCT 106	1987	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	107	PRECINCT 107	4151	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1871
+ESC	Escambia	10282	11/08/2016	2016 General Election	107	PRECINCT 107	4151	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1132
+ESC	Escambia	10282	11/08/2016	2016 General Election	107	PRECINCT 107	4151	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	135
+ESC	Escambia	10282	11/08/2016	2016 General Election	107	PRECINCT 107	4151	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	17
+ESC	Escambia	10282	11/08/2016	2016 General Election	107	PRECINCT 107	4151	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	34
+ESC	Escambia	10282	11/08/2016	2016 General Election	107	PRECINCT 107	4151	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	107	PRECINCT 107	4151	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	31
+ESC	Escambia	10282	11/08/2016	2016 General Election	107	PRECINCT 107	4151	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	107	PRECINCT 107	4151	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	23
+ESC	Escambia	10282	11/08/2016	2016 General Election	108	PRECINCT 108	3705	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1498
+ESC	Escambia	10282	11/08/2016	2016 General Election	108	PRECINCT 108	3705	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1046
+ESC	Escambia	10282	11/08/2016	2016 General Election	108	PRECINCT 108	3705	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	129
+ESC	Escambia	10282	11/08/2016	2016 General Election	108	PRECINCT 108	3705	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	108	PRECINCT 108	3705	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+ESC	Escambia	10282	11/08/2016	2016 General Election	108	PRECINCT 108	3705	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+ESC	Escambia	10282	11/08/2016	2016 General Election	108	PRECINCT 108	3705	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	49
+ESC	Escambia	10282	11/08/2016	2016 General Election	108	PRECINCT 108	3705	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	108	PRECINCT 108	3705	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	11
+ESC	Escambia	10282	11/08/2016	2016 General Election	110	PRECINCT 110	2805	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1665
+ESC	Escambia	10282	11/08/2016	2016 General Election	110	PRECINCT 110	2805	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	127
+ESC	Escambia	10282	11/08/2016	2016 General Election	110	PRECINCT 110	2805	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+ESC	Escambia	10282	11/08/2016	2016 General Election	110	PRECINCT 110	2805	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	40
+ESC	Escambia	10282	11/08/2016	2016 General Election	110	PRECINCT 110	2805	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	110	PRECINCT 110	2805	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+ESC	Escambia	10282	11/08/2016	2016 General Election	110	PRECINCT 110	2805	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	22
+ESC	Escambia	10282	11/08/2016	2016 General Election	110	PRECINCT 110	2805	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	110	PRECINCT 110	2805	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	111	PRECINCT 111	3013	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	1465
+ESC	Escambia	10282	11/08/2016	2016 General Election	111	PRECINCT 111	3013	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	757
+ESC	Escambia	10282	11/08/2016	2016 General Election	111	PRECINCT 111	3013	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	87
+ESC	Escambia	10282	11/08/2016	2016 General Election	111	PRECINCT 111	3013	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+ESC	Escambia	10282	11/08/2016	2016 General Election	111	PRECINCT 111	3013	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	31
+ESC	Escambia	10282	11/08/2016	2016 General Election	111	PRECINCT 111	3013	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	111	PRECINCT 111	3013	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	31
+ESC	Escambia	10282	11/08/2016	2016 General Election	111	PRECINCT 111	3013	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	111	PRECINCT 111	3013	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	19
+ESC	Escambia	10282	11/08/2016	2016 General Election	112	PRECINCT 112	6464	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	3417
+ESC	Escambia	10282	11/08/2016	2016 General Election	112	PRECINCT 112	6464	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1329
+ESC	Escambia	10282	11/08/2016	2016 General Election	112	PRECINCT 112	6464	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	137
+ESC	Escambia	10282	11/08/2016	2016 General Election	112	PRECINCT 112	6464	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	17
+ESC	Escambia	10282	11/08/2016	2016 General Election	112	PRECINCT 112	6464	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	37
+ESC	Escambia	10282	11/08/2016	2016 General Election	112	PRECINCT 112	6464	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+ESC	Escambia	10282	11/08/2016	2016 General Election	112	PRECINCT 112	6464	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	41
+ESC	Escambia	10282	11/08/2016	2016 General Election	112	PRECINCT 112	6464	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	3
+ESC	Escambia	10282	11/08/2016	2016 General Election	112	PRECINCT 112	6464	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	28
+ESC	Escambia	10282	11/08/2016	2016 General Election	113	PRECINCT 113	1697	0	0	202434	President of the United States	 	100000	Trump / Pence	REP	0	65072	601
+ESC	Escambia	10282	11/08/2016	2016 General Election	113	PRECINCT 113	1697	0	0	202434	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	486
+ESC	Escambia	10282	11/08/2016	2016 General Election	113	PRECINCT 113	1697	0	0	202434	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+ESC	Escambia	10282	11/08/2016	2016 General Election	113	PRECINCT 113	1697	0	0	202434	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+ESC	Escambia	10282	11/08/2016	2016 General Election	113	PRECINCT 113	1697	0	0	202434	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+ESC	Escambia	10282	11/08/2016	2016 General Election	113	PRECINCT 113	1697	0	0	202434	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+ESC	Escambia	10282	11/08/2016	2016 General Election	113	PRECINCT 113	1697	0	0	202434	President of the United States	 	100000	WriteinVotes	 	0	900	8
+ESC	Escambia	10282	11/08/2016	2016 General Election	113	PRECINCT 113	1697	0	0	202434	President of the United States	 	100000	OverVotes	 	0	901	2
+ESC	Escambia	10282	11/08/2016	2016 General Election	113	PRECINCT 113	1697	0	0	202434	President of the United States	 	100000	UnderVotes	 	0	902	5

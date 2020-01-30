@@ -1,0 +1,87 @@
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	1315
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	612
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	11
+WAK	Wakulla	10282	11/08/2016	2016 General Election	1	01 Wakulla	2619	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	10
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	2608
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1085
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	110
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	28
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	OverVotes	 	0	901	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	2	02 Crawfordville	5051	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	626
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	350
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	3	03 Sopchoppy	1268	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	133
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	12
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	4	04 Smith Creek	176	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	230
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	86
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	5	05 St Marks	384	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	860
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	265
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	8
+WAK	Wakulla	10282	11/08/2016	2016 General Election	6	06 Medart	1509	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	1764
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	576
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	11
+WAK	Wakulla	10282	11/08/2016	2016 General Election	7	07 Ivan	3071	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	15
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	466
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	241
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	8	08 Shell Point	940	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	319
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	83
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	9	09 Panacea	595	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	280
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	103
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10282	11/08/2016	2016 General Election	10	10 Ochlockonee Bay	506	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	797
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	445
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	9
+WAK	Wakulla	10282	11/08/2016	2016 General Election	11	11 Bethel	1621	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	5
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Trump / Pence	REP	0	65072	1114
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	490
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	WriteinVotes	 	0	900	15
+WAK	Wakulla	10282	11/08/2016	2016 General Election	12	12 Shadeville	2305	0	0	19698	President of the United States	 	100000	UnderVotes	 	0	902	5

@@ -1,0 +1,72 @@
+HAM	Hamilton	10282	11/08/2016	2016 General Election	1	PCT 1 JENNINGS CITY HALL	669	0	0	7988	President of the United States	 	100000	Trump / Pence	REP	0	65072	234
+HAM	Hamilton	10282	11/08/2016	2016 General Election	1	PCT 1 JENNINGS CITY HALL	669	0	0	7988	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	152
+HAM	Hamilton	10282	11/08/2016	2016 General Election	1	PCT 1 JENNINGS CITY HALL	669	0	0	7988	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+HAM	Hamilton	10282	11/08/2016	2016 General Election	1	PCT 1 JENNINGS CITY HALL	669	0	0	7988	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HAM	Hamilton	10282	11/08/2016	2016 General Election	1	PCT 1 JENNINGS CITY HALL	669	0	0	7988	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	1	PCT 1 JENNINGS CITY HALL	669	0	0	7988	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	1	PCT 1 JENNINGS CITY HALL	669	0	0	7988	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HAM	Hamilton	10282	11/08/2016	2016 General Election	1	PCT 1 JENNINGS CITY HALL	669	0	0	7988	President of the United States	 	100000	OverVotes	 	0	901	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	1	PCT 1 JENNINGS CITY HALL	669	0	0	7988	President of the United States	 	100000	UnderVotes	 	0	902	2
+HAM	Hamilton	10282	11/08/2016	2016 General Election	2	PCT 2 JASPER COURT HOUSE	1425	0	0	7988	President of the United States	 	100000	Trump / Pence	REP	0	65072	282
+HAM	Hamilton	10282	11/08/2016	2016 General Election	2	PCT 2 JASPER COURT HOUSE	1425	0	0	7988	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	598
+HAM	Hamilton	10282	11/08/2016	2016 General Election	2	PCT 2 JASPER COURT HOUSE	1425	0	0	7988	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+HAM	Hamilton	10282	11/08/2016	2016 General Election	2	PCT 2 JASPER COURT HOUSE	1425	0	0	7988	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+HAM	Hamilton	10282	11/08/2016	2016 General Election	2	PCT 2 JASPER COURT HOUSE	1425	0	0	7988	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HAM	Hamilton	10282	11/08/2016	2016 General Election	2	PCT 2 JASPER COURT HOUSE	1425	0	0	7988	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	2	PCT 2 JASPER COURT HOUSE	1425	0	0	7988	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HAM	Hamilton	10282	11/08/2016	2016 General Election	2	PCT 2 JASPER COURT HOUSE	1425	0	0	7988	President of the United States	 	100000	OverVotes	 	0	901	4
+HAM	Hamilton	10282	11/08/2016	2016 General Election	2	PCT 2 JASPER COURT HOUSE	1425	0	0	7988	President of the United States	 	100000	UnderVotes	 	0	902	10
+HAM	Hamilton	10282	11/08/2016	2016 General Election	3	PCT 3 WHITE SPRINGS HEALTH DEP	956	0	0	7988	President of the United States	 	100000	Trump / Pence	REP	0	65072	372
+HAM	Hamilton	10282	11/08/2016	2016 General Election	3	PCT 3 WHITE SPRINGS HEALTH DEP	956	0	0	7988	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	306
+HAM	Hamilton	10282	11/08/2016	2016 General Election	3	PCT 3 WHITE SPRINGS HEALTH DEP	956	0	0	7988	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+HAM	Hamilton	10282	11/08/2016	2016 General Election	3	PCT 3 WHITE SPRINGS HEALTH DEP	956	0	0	7988	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	3	PCT 3 WHITE SPRINGS HEALTH DEP	956	0	0	7988	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	3	PCT 3 WHITE SPRINGS HEALTH DEP	956	0	0	7988	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	3	PCT 3 WHITE SPRINGS HEALTH DEP	956	0	0	7988	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HAM	Hamilton	10282	11/08/2016	2016 General Election	3	PCT 3 WHITE SPRINGS HEALTH DEP	956	0	0	7988	President of the United States	 	100000	OverVotes	 	0	901	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	3	PCT 3 WHITE SPRINGS HEALTH DEP	956	0	0	7988	President of the United States	 	100000	UnderVotes	 	0	902	5
+HAM	Hamilton	10282	11/08/2016	2016 General Election	4	PCT 4 JASPER CIVIC CENTER	1638	0	0	7988	President of the United States	 	100000	Trump / Pence	REP	0	65072	799
+HAM	Hamilton	10282	11/08/2016	2016 General Election	4	PCT 4 JASPER CIVIC CENTER	1638	0	0	7988	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	266
+HAM	Hamilton	10282	11/08/2016	2016 General Election	4	PCT 4 JASPER CIVIC CENTER	1638	0	0	7988	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HAM	Hamilton	10282	11/08/2016	2016 General Election	4	PCT 4 JASPER CIVIC CENTER	1638	0	0	7988	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HAM	Hamilton	10282	11/08/2016	2016 General Election	4	PCT 4 JASPER CIVIC CENTER	1638	0	0	7988	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+HAM	Hamilton	10282	11/08/2016	2016 General Election	4	PCT 4 JASPER CIVIC CENTER	1638	0	0	7988	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HAM	Hamilton	10282	11/08/2016	2016 General Election	4	PCT 4 JASPER CIVIC CENTER	1638	0	0	7988	President of the United States	 	100000	WriteinVotes	 	0	900	6
+HAM	Hamilton	10282	11/08/2016	2016 General Election	4	PCT 4 JASPER CIVIC CENTER	1638	0	0	7988	President of the United States	 	100000	OverVotes	 	0	901	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	4	PCT 4 JASPER CIVIC CENTER	1638	0	0	7988	President of the United States	 	100000	UnderVotes	 	0	902	4
+HAM	Hamilton	10282	11/08/2016	2016 General Election	5	PCT 5 BRIGHT POND FELLOWSHIP  	285	0	0	7988	President of the United States	 	100000	Trump / Pence	REP	0	65072	156
+HAM	Hamilton	10282	11/08/2016	2016 General Election	5	PCT 5 BRIGHT POND FELLOWSHIP  	285	0	0	7988	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	32
+HAM	Hamilton	10282	11/08/2016	2016 General Election	5	PCT 5 BRIGHT POND FELLOWSHIP  	285	0	0	7988	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+HAM	Hamilton	10282	11/08/2016	2016 General Election	5	PCT 5 BRIGHT POND FELLOWSHIP  	285	0	0	7988	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	5	PCT 5 BRIGHT POND FELLOWSHIP  	285	0	0	7988	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	5	PCT 5 BRIGHT POND FELLOWSHIP  	285	0	0	7988	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	5	PCT 5 BRIGHT POND FELLOWSHIP  	285	0	0	7988	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HAM	Hamilton	10282	11/08/2016	2016 General Election	5	PCT 5 BRIGHT POND FELLOWSHIP  	285	0	0	7988	President of the United States	 	100000	OverVotes	 	0	901	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	5	PCT 5 BRIGHT POND FELLOWSHIP  	285	0	0	7988	President of the United States	 	100000	UnderVotes	 	0	902	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	6	PCT 6 GENOA VOL FIRE DEPT	784	0	0	7988	President of the United States	 	100000	Trump / Pence	REP	0	65072	384
+HAM	Hamilton	10282	11/08/2016	2016 General Election	6	PCT 6 GENOA VOL FIRE DEPT	784	0	0	7988	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	180
+HAM	Hamilton	10282	11/08/2016	2016 General Election	6	PCT 6 GENOA VOL FIRE DEPT	784	0	0	7988	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+HAM	Hamilton	10282	11/08/2016	2016 General Election	6	PCT 6 GENOA VOL FIRE DEPT	784	0	0	7988	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	6	PCT 6 GENOA VOL FIRE DEPT	784	0	0	7988	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	6	PCT 6 GENOA VOL FIRE DEPT	784	0	0	7988	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	6	PCT 6 GENOA VOL FIRE DEPT	784	0	0	7988	President of the United States	 	100000	WriteinVotes	 	0	900	5
+HAM	Hamilton	10282	11/08/2016	2016 General Election	6	PCT 6 GENOA VOL FIRE DEPT	784	0	0	7988	President of the United States	 	100000	OverVotes	 	0	901	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	6	PCT 6 GENOA VOL FIRE DEPT	784	0	0	7988	President of the United States	 	100000	UnderVotes	 	0	902	3
+HAM	Hamilton	10282	11/08/2016	2016 General Election	7	PCT 7 BELLVILLE VOL FIRE DEPT 	848	0	0	7988	President of the United States	 	100000	Trump / Pence	REP	0	65072	341
+HAM	Hamilton	10282	11/08/2016	2016 General Election	7	PCT 7 BELLVILLE VOL FIRE DEPT 	848	0	0	7988	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	210
+HAM	Hamilton	10282	11/08/2016	2016 General Election	7	PCT 7 BELLVILLE VOL FIRE DEPT 	848	0	0	7988	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+HAM	Hamilton	10282	11/08/2016	2016 General Election	7	PCT 7 BELLVILLE VOL FIRE DEPT 	848	0	0	7988	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	7	PCT 7 BELLVILLE VOL FIRE DEPT 	848	0	0	7988	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HAM	Hamilton	10282	11/08/2016	2016 General Election	7	PCT 7 BELLVILLE VOL FIRE DEPT 	848	0	0	7988	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HAM	Hamilton	10282	11/08/2016	2016 General Election	7	PCT 7 BELLVILLE VOL FIRE DEPT 	848	0	0	7988	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HAM	Hamilton	10282	11/08/2016	2016 General Election	7	PCT 7 BELLVILLE VOL FIRE DEPT 	848	0	0	7988	President of the United States	 	100000	OverVotes	 	0	901	2
+HAM	Hamilton	10282	11/08/2016	2016 General Election	7	PCT 7 BELLVILLE VOL FIRE DEPT 	848	0	0	7988	President of the United States	 	100000	UnderVotes	 	0	902	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	8	PCT 8 CROSS ROADS	1481	0	0	7988	President of the United States	 	100000	Trump / Pence	REP	0	65072	875
+HAM	Hamilton	10282	11/08/2016	2016 General Election	8	PCT 8 CROSS ROADS	1481	0	0	7988	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	160
+HAM	Hamilton	10282	11/08/2016	2016 General Election	8	PCT 8 CROSS ROADS	1481	0	0	7988	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+HAM	Hamilton	10282	11/08/2016	2016 General Election	8	PCT 8 CROSS ROADS	1481	0	0	7988	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	8	PCT 8 CROSS ROADS	1481	0	0	7988	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+HAM	Hamilton	10282	11/08/2016	2016 General Election	8	PCT 8 CROSS ROADS	1481	0	0	7988	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	8	PCT 8 CROSS ROADS	1481	0	0	7988	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HAM	Hamilton	10282	11/08/2016	2016 General Election	8	PCT 8 CROSS ROADS	1481	0	0	7988	President of the United States	 	100000	OverVotes	 	0	901	0
+HAM	Hamilton	10282	11/08/2016	2016 General Election	8	PCT 8 CROSS ROADS	1481	0	0	7988	President of the United States	 	100000	UnderVotes	 	0	902	6

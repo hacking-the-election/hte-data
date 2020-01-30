@@ -1,0 +1,333 @@
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	President of the United States	 	100000	Trump / Pence	REP	0	65072	36
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	3
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	President of the United States	 	100000	OverVotes	 	0	901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	1	Indian River Estates	45	9	32	4	President of the United States	 	100000	UnderVotes	 	0	902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	President of the United States	 	100000	Trump / Pence	REP	0	65072	201
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	610
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	25
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	President of the United States	 	100000	WriteinVotes	 	0	900	1
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	President of the United States	 	100000	OverVotes	 	0	901	1
+IND	Indian River	10282	11/8/2016	2016 General Election	2	Fellsmere City Council Chambers	1398	628	259	511	President of the United States	 	100000	UnderVotes	 	0	902	5
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	President of the United States	 	100000	Trump / Pence	REP	0	65072	638
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	199
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	President of the United States	 	100000	OverVotes	 	0	901	1
+IND	Indian River	10282	11/8/2016	2016 General Election	3	Fellsmere City Council Chambers	1127	265	574	288	President of the United States	 	100000	UnderVotes	 	0	902	6
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	President of the United States	 	100000	Trump / Pence	REP	0	65072	17
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	President of the United States	 	100000	OverVotes	 	0	901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	4	Indian River Estates	32	6	21	5	President of the United States	 	100000	UnderVotes	 	0	902	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	President of the United States	 	100000	Trump / Pence	REP	0	65072	1977
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1083
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	85
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	President of the United States	 	100000	OverVotes	 	0	901	4
+IND	Indian River	10282	11/8/2016	2016 General Election	5	Liberty Magnet School	4494	1311	1780	1403	President of the United States	 	100000	UnderVotes	 	0	902	16
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	President of the United States	 	100000	Trump / Pence	REP	0	65072	755
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	399
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	President of the United States	 	100000	OverVotes	 	0	901	4
+IND	Indian River	10282	11/8/2016	2016 General Election	6	St. Sebastian Catholic Church	1563	441	701	421	President of the United States	 	100000	UnderVotes	 	0	902	10
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	President of the United States	 	100000	Trump / Pence	REP	0	65072	987
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	450
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	32
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	President of the United States	 	100000	OverVotes	 	0	901	6
+IND	Indian River	10282	11/8/2016	2016 General Election	7	St. Sebastian Catholic Church	1940	461	897	582	President of the United States	 	100000	UnderVotes	 	0	902	16
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	President of the United States	 	100000	Trump / Pence	REP	0	65072	1984
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1140
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	78
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	President of the United States	 	100000	WriteinVotes	 	0	900	1
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	President of the United States	 	100000	OverVotes	 	0	901	8
+IND	Indian River	10282	11/8/2016	2016 General Election	8	American Legion Hall Post 189	4383	1283	1761	1339	President of the United States	 	100000	UnderVotes	 	0	902	19
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	President of the United States	 	100000	Trump / Pence	REP	0	65072	2801
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1581
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	117
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	President of the United States	 	100000	OverVotes	 	0	901	5
+IND	Indian River	10282	11/8/2016	2016 General Election	9	Sebastian Elks Lodge No. 2714	5976	1671	2590	1715	President of the United States	 	100000	UnderVotes	 	0	902	40
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	President of the United States	 	100000	Trump / Pence	REP	0	65072	2762
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1635
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	113
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	16
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	38
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	President of the United States	 	100000	OverVotes	 	0	901	15
+IND	Indian River	10282	11/8/2016	2016 General Election	10	Sebastian Christian Church	6173	1761	2537	1875	President of the United States	 	100000	UnderVotes	 	0	902	35
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	President of the United States	 	100000	Trump / Pence	REP	0	65072	624
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	414
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	President of the United States	 	100000	OverVotes	 	0	901	2
+IND	Indian River	10282	11/8/2016	2016 General Election	11	Sebastian Christian Church	1454	433	619	402	President of the United States	 	100000	UnderVotes	 	0	902	13
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	President of the United States	 	100000	Trump / Pence	REP	0	65072	680
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	257
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	President of the United States	 	100000	OverVotes	 	0	901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	12	Liberty Magnet School	1198	277	643	278	President of the United States	 	100000	UnderVotes	 	0	902	5
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	President of the United States	 	100000	Trump / Pence	REP	0	65072	2815
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1515
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	79
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	President of the United States	 	100000	OverVotes	 	0	901	7
+IND	Indian River	10282	11/8/2016	2016 General Election	13	Realtors Association of IRC	5524	1226	2986	1312	President of the United States	 	100000	UnderVotes	 	0	902	71
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	President of the United States	 	100000	Trump / Pence	REP	0	65072	1199
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	734
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	President of the United States	 	100000	OverVotes	 	0	901	1
+IND	Indian River	10282	11/8/2016	2016 General Election	14	Indian River Shores - Comm Center	2368	424	1371	573	President of the United States	 	100000	UnderVotes	 	0	902	32
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	President of the United States	 	100000	Trump / Pence	REP	0	65072	290
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	100
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	President of the United States	 	100000	OverVotes	 	0	901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	15	Indian River Shores - Comm Center	462	37	336	89	President of the United States	 	100000	UnderVotes	 	0	902	9
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	President of the United States	 	100000	Trump / Pence	REP	0	65072	2050
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	935
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	President of the United States	 	100000	OverVotes	 	0	901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	16	Indian River Shores - Comm Center	3688	511	2517	660	President of the United States	 	100000	UnderVotes	 	0	902	81
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	President of the United States	 	100000	Trump / Pence	REP	0	65072	2196
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1273
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	89
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	President of the United States	 	100000	OverVotes	 	0	901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	17	Christ By The Sea UMC	4437	852	2541	1044	President of the United States	 	100000	UnderVotes	 	0	902	40
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	President of the United States	 	100000	Trump / Pence	REP	0	65072	1823
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	845
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	41
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	President of the United States	 	100000	OverVotes	 	0	901	0
+IND	Indian River	10282	11/8/2016	2016 General Election	18	St. Edwards Upper School	3300	480	2133	687	President of the United States	 	100000	UnderVotes	 	0	902	41
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	President of the United States	 	100000	Trump / Pence	REP	0	65072	899
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	537
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	President of the United States	 	100000	OverVotes	 	0	901	1
+IND	Indian River	10282	11/8/2016	2016 General Election	19	Trinity Episcopal Great Hall	2080	563	1018	499	President of the United States	 	100000	UnderVotes	 	0	902	9
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	President of the United States	 	100000	Trump / Pence	REP	0	65072	241
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	168
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	President of the United States	 	100000	OverVotes	 	0	901	4
+IND	Indian River	10282	11/8/2016	2016 General Election	20	Trinity Episcopal Great Hall	622	205	281	136	President of the United States	 	100000	UnderVotes	 	0	902	4
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	President of the United States	 	100000	Trump / Pence	REP	0	65072	367
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1676
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	President of the United States	 	100000	OverVotes	 	0	901	15
+IND	Indian River	10282	11/8/2016	2016 General Election	21	Gifford Community Center	3114	2130	431	553	President of the United States	 	100000	UnderVotes	 	0	902	13
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	President of the United States	 	100000	Trump / Pence	REP	0	65072	1605
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	828
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	President of the United States	 	100000	OverVotes	 	0	901	5
+IND	Indian River	10282	11/8/2016	2016 General Election	22	Central Assembly of God	3333	829	1753	751	President of the United States	 	100000	UnderVotes	 	0	902	18
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	President of the United States	 	100000	Trump / Pence	REP	0	65072	927
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	742
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	President of the United States	 	100000	OverVotes	 	0	901	7
+IND	Indian River	10282	11/8/2016	2016 General Election	23	Unity Church of Vero Beach	2593	823	1045	725	President of the United States	 	100000	UnderVotes	 	0	902	12
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	President of the United States	 	100000	Trump / Pence	REP	0	65072	280
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	245
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	President of the United States	 	100000	OverVotes	 	0	901	1
+IND	Indian River	10282	11/8/2016	2016 General Election	24	Unitarian Universalist Fellowship Hall	903	345	279	279	President of the United States	 	100000	UnderVotes	 	0	902	4
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	President of the United States	 	100000	Trump / Pence	REP	0	65072	797
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	412
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	President of the United States	 	100000	OverVotes	 	0	901	2
+IND	Indian River	10282	11/8/2016	2016 General Election	25	Our Savior Lutheran Church	1603	376	843	384	President of the United States	 	100000	UnderVotes	 	0	902	10
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	President of the United States	 	100000	Trump / Pence	REP	0	65072	703
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	677
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	President of the United States	 	100000	OverVotes	 	0	901	4
+IND	Indian River	10282	11/8/2016	2016 General Election	26	Our Savior Lutheran Church	2286	827	786	673	President of the United States	 	100000	UnderVotes	 	0	902	15
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	President of the United States	 	100000	Trump / Pence	REP	0	65072	1992
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1092
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	73
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	President of the United States	 	100000	OverVotes	 	0	901	11
+IND	Indian River	10282	11/8/2016	2016 General Election	27	Royal Palm Clubhouse Vista Royale	4375	1248	1986	1141	President of the United States	 	100000	UnderVotes	 	0	902	33
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	President of the United States	 	100000	Trump / Pence	REP	0	65072	2471
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1650
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	96
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	President of the United States	 	100000	OverVotes	 	0	901	11
+IND	Indian River	10282	11/8/2016	2016 General Election	28	Vero Beach Highlands P.O.A.	5738	1733	2438	1567	President of the United States	 	100000	UnderVotes	 	0	902	33
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	President of the United States	 	100000	Trump / Pence	REP	0	65072	2763
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1919
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	91
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	13
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	President of the United States	 	100000	OverVotes	 	0	901	13
+IND	Indian River	10282	11/8/2016	2016 General Election	29	Morning Star Presbyterian Church	6730	2254	2677	1799	President of the United States	 	100000	UnderVotes	 	0	902	27
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	President of the United States	 	100000	Trump / Pence	REP	0	65072	1604
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	842
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	75
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	President of the United States	 	100000	OverVotes	 	0	901	3
+IND	Indian River	10282	11/8/2016	2016 General Election	30	Unitarian Universalist Fellowship Hall	3558	961	1663	934	President of the United States	 	100000	UnderVotes	 	0	902	15
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	President of the United States	 	100000	Trump / Pence	REP	0	65072	1727
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	797
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	56
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	President of the United States	 	100000	OverVotes	 	0	901	2
+IND	Indian River	10282	11/8/2016	2016 General Election	31	Unity Church of Vero Beach	3422	798	1880	744	President of the United States	 	100000	UnderVotes	 	0	902	25
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	President of the United States	 	100000	Trump / Pence	REP	0	65072	3030
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1467
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	107
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	8
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	President of the United States	 	100000	OverVotes	 	0	901	6
+IND	Indian River	10282	11/8/2016	2016 General Election	32	Freedom Church	5928	1357	3109	1462	President of the United States	 	100000	UnderVotes	 	0	902	38
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	President of the United States	 	100000	Trump / Pence	REP	0	65072	1353
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	648
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	President of the United States	 	100000	OverVotes	 	0	901	7
+IND	Indian River	10282	11/8/2016	2016 General Election	33	Indian River Estates	2593	501	1474	618	President of the United States	 	100000	UnderVotes	 	0	902	21
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	President of the United States	 	100000	Trump / Pence	REP	0	65072	1566
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	819
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	President of the United States	 	100000	OverVotes	 	0	901	7
+IND	Indian River	10282	11/8/2016	2016 General Election	34	Lakewood Village Club House	3264	886	1412	966	President of the United States	 	100000	UnderVotes	 	0	902	27
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	President of the United States	 	100000	Trump / Pence	REP	0	65072	1459
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	864
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	President of the United States	 	100000	OverVotes	 	0	901	7
+IND	Indian River	10282	11/8/2016	2016 General Election	35	Central Assembly of God	3027	813	1367	847	President of the United States	 	100000	UnderVotes	 	0	902	27
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	President of the United States	 	100000	Trump / Pence	REP	0	65072	911
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	439
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	President of the United States	 	100000	OverVotes	 	0	901	2
+IND	Indian River	10282	11/8/2016	2016 General Election	36	Gifford Community Center	1695	394	894	407	President of the United States	 	100000	UnderVotes	 	0	902	12
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	President of the United States	 	100000	Trump / Pence	REP	0	65072	90
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	46
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	President of the United States	 	100000	WriteinVotes	 	0	900	0
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	President of the United States	 	100000	OverVotes	 	0	901	1
+IND	Indian River	10282	11/8/2016	2016 General Election	37	Realtors Association of IRC	215	52	80	83	President of the United States	 	100000	UnderVotes	 	0	902	2

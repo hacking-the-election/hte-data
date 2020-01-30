@@ -1,0 +1,225 @@
+HIG	Highlands	10282	11/08/2016	2016 General Election	1	Precinct 1	1969	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	797
+HIG	Highlands	10282	11/08/2016	2016 General Election	1	Precinct 1	1969	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	508
+HIG	Highlands	10282	11/08/2016	2016 General Election	1	Precinct 1	1969	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+HIG	Highlands	10282	11/08/2016	2016 General Election	1	Precinct 1	1969	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	1	Precinct 1	1969	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+HIG	Highlands	10282	11/08/2016	2016 General Election	1	Precinct 1	1969	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	1	Precinct 1	1969	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	11
+HIG	Highlands	10282	11/08/2016	2016 General Election	1	Precinct 1	1969	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	7
+HIG	Highlands	10282	11/08/2016	2016 General Election	1	Precinct 1	1969	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	10
+HIG	Highlands	10282	11/08/2016	2016 General Election	2	Precinct 2	2818	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	696
+HIG	Highlands	10282	11/08/2016	2016 General Election	2	Precinct 2	2818	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1326
+HIG	Highlands	10282	11/08/2016	2016 General Election	2	Precinct 2	2818	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+HIG	Highlands	10282	11/08/2016	2016 General Election	2	Precinct 2	2818	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+HIG	Highlands	10282	11/08/2016	2016 General Election	2	Precinct 2	2818	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	2	Precinct 2	2818	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	2	Precinct 2	2818	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	15
+HIG	Highlands	10282	11/08/2016	2016 General Election	2	Precinct 2	2818	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	7
+HIG	Highlands	10282	11/08/2016	2016 General Election	2	Precinct 2	2818	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	10
+HIG	Highlands	10282	11/08/2016	2016 General Election	3	Precinct 3	1758	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	1024
+HIG	Highlands	10282	11/08/2016	2016 General Election	3	Precinct 3	1758	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	286
+HIG	Highlands	10282	11/08/2016	2016 General Election	3	Precinct 3	1758	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HIG	Highlands	10282	11/08/2016	2016 General Election	3	Precinct 3	1758	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	3	Precinct 3	1758	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	3	Precinct 3	1758	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	3	Precinct 3	1758	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	12
+HIG	Highlands	10282	11/08/2016	2016 General Election	3	Precinct 3	1758	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	3	Precinct 3	1758	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	10
+HIG	Highlands	10282	11/08/2016	2016 General Election	4	Precinct 4	4230	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	1837
+HIG	Highlands	10282	11/08/2016	2016 General Election	4	Precinct 4	4230	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1165
+HIG	Highlands	10282	11/08/2016	2016 General Election	4	Precinct 4	4230	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	68
+HIG	Highlands	10282	11/08/2016	2016 General Election	4	Precinct 4	4230	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	4	Precinct 4	4230	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+HIG	Highlands	10282	11/08/2016	2016 General Election	4	Precinct 4	4230	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	4	Precinct 4	4230	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	19
+HIG	Highlands	10282	11/08/2016	2016 General Election	4	Precinct 4	4230	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	7
+HIG	Highlands	10282	11/08/2016	2016 General Election	4	Precinct 4	4230	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	26
+HIG	Highlands	10282	11/08/2016	2016 General Election	5	Precinct 5	4547	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	2159
+HIG	Highlands	10282	11/08/2016	2016 General Election	5	Precinct 5	4547	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1113
+HIG	Highlands	10282	11/08/2016	2016 General Election	5	Precinct 5	4547	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	89
+HIG	Highlands	10282	11/08/2016	2016 General Election	5	Precinct 5	4547	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+HIG	Highlands	10282	11/08/2016	2016 General Election	5	Precinct 5	4547	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+HIG	Highlands	10282	11/08/2016	2016 General Election	5	Precinct 5	4547	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	8
+HIG	Highlands	10282	11/08/2016	2016 General Election	5	Precinct 5	4547	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	34
+HIG	Highlands	10282	11/08/2016	2016 General Election	5	Precinct 5	4547	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	5	Precinct 5	4547	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	25
+HIG	Highlands	10282	11/08/2016	2016 General Election	6	Precinct 6	1768	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	979
+HIG	Highlands	10282	11/08/2016	2016 General Election	6	Precinct 6	1768	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	406
+HIG	Highlands	10282	11/08/2016	2016 General Election	6	Precinct 6	1768	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+HIG	Highlands	10282	11/08/2016	2016 General Election	6	Precinct 6	1768	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	6	Precinct 6	1768	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	6	Precinct 6	1768	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	6	Precinct 6	1768	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	6	Precinct 6	1768	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	6	Precinct 6	1768	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	9
+HIG	Highlands	10282	11/08/2016	2016 General Election	7	Precinct 7	1263	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	312
+HIG	Highlands	10282	11/08/2016	2016 General Election	7	Precinct 7	1263	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	398
+HIG	Highlands	10282	11/08/2016	2016 General Election	7	Precinct 7	1263	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+HIG	Highlands	10282	11/08/2016	2016 General Election	7	Precinct 7	1263	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	7	Precinct 7	1263	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	7	Precinct 7	1263	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	7	Precinct 7	1263	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	7	Precinct 7	1263	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	7	Precinct 7	1263	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	7
+HIG	Highlands	10282	11/08/2016	2016 General Election	8	Precinct 8	1735	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	614
+HIG	Highlands	10282	11/08/2016	2016 General Election	8	Precinct 8	1735	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	403
+HIG	Highlands	10282	11/08/2016	2016 General Election	8	Precinct 8	1735	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+HIG	Highlands	10282	11/08/2016	2016 General Election	8	Precinct 8	1735	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	8	Precinct 8	1735	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+HIG	Highlands	10282	11/08/2016	2016 General Election	8	Precinct 8	1735	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	8	Precinct 8	1735	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	14
+HIG	Highlands	10282	11/08/2016	2016 General Election	8	Precinct 8	1735	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	8	Precinct 8	1735	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	6
+HIG	Highlands	10282	11/08/2016	2016 General Election	9	Precinct 9	281	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	6
+HIG	Highlands	10282	11/08/2016	2016 General Election	9	Precinct 9	281	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	165
+HIG	Highlands	10282	11/08/2016	2016 General Election	9	Precinct 9	281	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	9	Precinct 9	281	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	9	Precinct 9	281	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	9	Precinct 9	281	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	9	Precinct 9	281	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	9	Precinct 9	281	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	9	Precinct 9	281	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	10	Precinct 10	1662	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	841
+HIG	Highlands	10282	11/08/2016	2016 General Election	10	Precinct 10	1662	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	357
+HIG	Highlands	10282	11/08/2016	2016 General Election	10	Precinct 10	1662	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+HIG	Highlands	10282	11/08/2016	2016 General Election	10	Precinct 10	1662	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	10	Precinct 10	1662	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+HIG	Highlands	10282	11/08/2016	2016 General Election	10	Precinct 10	1662	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	10	Precinct 10	1662	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	7
+HIG	Highlands	10282	11/08/2016	2016 General Election	10	Precinct 10	1662	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	10	Precinct 10	1662	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	8
+HIG	Highlands	10282	11/08/2016	2016 General Election	11	Precinct 11	1811	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	835
+HIG	Highlands	10282	11/08/2016	2016 General Election	11	Precinct 11	1811	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	394
+HIG	Highlands	10282	11/08/2016	2016 General Election	11	Precinct 11	1811	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+HIG	Highlands	10282	11/08/2016	2016 General Election	11	Precinct 11	1811	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	11	Precinct 11	1811	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+HIG	Highlands	10282	11/08/2016	2016 General Election	11	Precinct 11	1811	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	11	Precinct 11	1811	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	6
+HIG	Highlands	10282	11/08/2016	2016 General Election	11	Precinct 11	1811	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	11	Precinct 11	1811	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	12	Precinct 12	1077	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	630
+HIG	Highlands	10282	11/08/2016	2016 General Election	12	Precinct 12	1077	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	154
+HIG	Highlands	10282	11/08/2016	2016 General Election	12	Precinct 12	1077	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+HIG	Highlands	10282	11/08/2016	2016 General Election	12	Precinct 12	1077	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	12	Precinct 12	1077	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	12	Precinct 12	1077	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	12	Precinct 12	1077	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	12	Precinct 12	1077	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	12	Precinct 12	1077	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	13	Precinct 13	4337	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	2299
+HIG	Highlands	10282	11/08/2016	2016 General Election	13	Precinct 13	4337	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	956
+HIG	Highlands	10282	11/08/2016	2016 General Election	13	Precinct 13	4337	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+HIG	Highlands	10282	11/08/2016	2016 General Election	13	Precinct 13	4337	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	13	Precinct 13	4337	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+HIG	Highlands	10282	11/08/2016	2016 General Election	13	Precinct 13	4337	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	13	Precinct 13	4337	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	23
+HIG	Highlands	10282	11/08/2016	2016 General Election	13	Precinct 13	4337	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	13	Precinct 13	4337	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	14
+HIG	Highlands	10282	11/08/2016	2016 General Election	14	Precinct 14	389	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	237
+HIG	Highlands	10282	11/08/2016	2016 General Election	14	Precinct 14	389	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	58
+HIG	Highlands	10282	11/08/2016	2016 General Election	14	Precinct 14	389	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	14	Precinct 14	389	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	14	Precinct 14	389	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	14	Precinct 14	389	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	14	Precinct 14	389	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	14	Precinct 14	389	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	14	Precinct 14	389	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	15	Precinct 15	5627	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	3156
+HIG	Highlands	10282	11/08/2016	2016 General Election	15	Precinct 15	5627	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1162
+HIG	Highlands	10282	11/08/2016	2016 General Election	15	Precinct 15	5627	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	87
+HIG	Highlands	10282	11/08/2016	2016 General Election	15	Precinct 15	5627	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	15	Precinct 15	5627	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+HIG	Highlands	10282	11/08/2016	2016 General Election	15	Precinct 15	5627	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	15	Precinct 15	5627	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	42
+HIG	Highlands	10282	11/08/2016	2016 General Election	15	Precinct 15	5627	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	7
+HIG	Highlands	10282	11/08/2016	2016 General Election	15	Precinct 15	5627	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	43
+HIG	Highlands	10282	11/08/2016	2016 General Election	16	Precinct 16	4199	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	1728
+HIG	Highlands	10282	11/08/2016	2016 General Election	16	Precinct 16	4199	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1174
+HIG	Highlands	10282	11/08/2016	2016 General Election	16	Precinct 16	4199	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+HIG	Highlands	10282	11/08/2016	2016 General Election	16	Precinct 16	4199	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	17
+HIG	Highlands	10282	11/08/2016	2016 General Election	16	Precinct 16	4199	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+HIG	Highlands	10282	11/08/2016	2016 General Election	16	Precinct 16	4199	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	9
+HIG	Highlands	10282	11/08/2016	2016 General Election	16	Precinct 16	4199	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	30
+HIG	Highlands	10282	11/08/2016	2016 General Election	16	Precinct 16	4199	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	16	Precinct 16	4199	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	22
+HIG	Highlands	10282	11/08/2016	2016 General Election	17	Precinct 17	5761	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	3335
+HIG	Highlands	10282	11/08/2016	2016 General Election	17	Precinct 17	5761	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1102
+HIG	Highlands	10282	11/08/2016	2016 General Election	17	Precinct 17	5761	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	70
+HIG	Highlands	10282	11/08/2016	2016 General Election	17	Precinct 17	5761	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+HIG	Highlands	10282	11/08/2016	2016 General Election	17	Precinct 17	5761	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+HIG	Highlands	10282	11/08/2016	2016 General Election	17	Precinct 17	5761	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	17	Precinct 17	5761	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	26
+HIG	Highlands	10282	11/08/2016	2016 General Election	17	Precinct 17	5761	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	17	Precinct 17	5761	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	24
+HIG	Highlands	10282	11/08/2016	2016 General Election	18	Precinct 18	273	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	120
+HIG	Highlands	10282	11/08/2016	2016 General Election	18	Precinct 18	273	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	43
+HIG	Highlands	10282	11/08/2016	2016 General Election	18	Precinct 18	273	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	18	Precinct 18	273	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	18	Precinct 18	273	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	18	Precinct 18	273	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	18	Precinct 18	273	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	6
+HIG	Highlands	10282	11/08/2016	2016 General Election	18	Precinct 18	273	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	18	Precinct 18	273	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	19	Precinct 19	3427	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	1588
+HIG	Highlands	10282	11/08/2016	2016 General Election	19	Precinct 19	3427	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	849
+HIG	Highlands	10282	11/08/2016	2016 General Election	19	Precinct 19	3427	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HIG	Highlands	10282	11/08/2016	2016 General Election	19	Precinct 19	3427	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	19	Precinct 19	3427	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+HIG	Highlands	10282	11/08/2016	2016 General Election	19	Precinct 19	3427	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	19	Precinct 19	3427	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	14
+HIG	Highlands	10282	11/08/2016	2016 General Election	19	Precinct 19	3427	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	19	Precinct 19	3427	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	17
+HIG	Highlands	10282	11/08/2016	2016 General Election	20	Precinct 20	1907	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	968
+HIG	Highlands	10282	11/08/2016	2016 General Election	20	Precinct 20	1907	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	429
+HIG	Highlands	10282	11/08/2016	2016 General Election	20	Precinct 20	1907	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+HIG	Highlands	10282	11/08/2016	2016 General Election	20	Precinct 20	1907	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	20	Precinct 20	1907	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+HIG	Highlands	10282	11/08/2016	2016 General Election	20	Precinct 20	1907	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	20	Precinct 20	1907	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	8
+HIG	Highlands	10282	11/08/2016	2016 General Election	20	Precinct 20	1907	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	20	Precinct 20	1907	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	10
+HIG	Highlands	10282	11/08/2016	2016 General Election	21	Precinct 21	2849	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	1714
+HIG	Highlands	10282	11/08/2016	2016 General Election	21	Precinct 21	2849	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	475
+HIG	Highlands	10282	11/08/2016	2016 General Election	21	Precinct 21	2849	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+HIG	Highlands	10282	11/08/2016	2016 General Election	21	Precinct 21	2849	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	21	Precinct 21	2849	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+HIG	Highlands	10282	11/08/2016	2016 General Election	21	Precinct 21	2849	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	21	Precinct 21	2849	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	16
+HIG	Highlands	10282	11/08/2016	2016 General Election	21	Precinct 21	2849	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	21	Precinct 21	2849	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	15
+HIG	Highlands	10282	11/08/2016	2016 General Election	22	Precinct 22	990	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	393
+HIG	Highlands	10282	11/08/2016	2016 General Election	22	Precinct 22	990	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	277
+HIG	Highlands	10282	11/08/2016	2016 General Election	22	Precinct 22	990	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+HIG	Highlands	10282	11/08/2016	2016 General Election	22	Precinct 22	990	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	22	Precinct 22	990	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+HIG	Highlands	10282	11/08/2016	2016 General Election	22	Precinct 22	990	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	22	Precinct 22	990	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	22	Precinct 22	990	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	22	Precinct 22	990	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	3
+HIG	Highlands	10282	11/08/2016	2016 General Election	23	Precinct 23	900	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	399
+HIG	Highlands	10282	11/08/2016	2016 General Election	23	Precinct 23	900	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	206
+HIG	Highlands	10282	11/08/2016	2016 General Election	23	Precinct 23	900	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+HIG	Highlands	10282	11/08/2016	2016 General Election	23	Precinct 23	900	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	23	Precinct 23	900	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	23	Precinct 23	900	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	23	Precinct 23	900	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	23	Precinct 23	900	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	0
+HIG	Highlands	10282	11/08/2016	2016 General Election	23	Precinct 23	900	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	24	Precinct 24	2031	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	1095
+HIG	Highlands	10282	11/08/2016	2016 General Election	24	Precinct 24	2031	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	465
+HIG	Highlands	10282	11/08/2016	2016 General Election	24	Precinct 24	2031	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+HIG	Highlands	10282	11/08/2016	2016 General Election	24	Precinct 24	2031	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	24	Precinct 24	2031	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HIG	Highlands	10282	11/08/2016	2016 General Election	24	Precinct 24	2031	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	24	Precinct 24	2031	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	9
+HIG	Highlands	10282	11/08/2016	2016 General Election	24	Precinct 24	2031	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	24	Precinct 24	2031	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	9
+HIG	Highlands	10282	11/08/2016	2016 General Election	25	Precinct 25	3994	0	0	60382	President of the United States	 	100000	Trump / Pence	REP	0	65072	1803
+HIG	Highlands	10282	11/08/2016	2016 General Election	25	Precinct 25	3994	0	0	60382	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1066
+HIG	Highlands	10282	11/08/2016	2016 General Election	25	Precinct 25	3994	0	0	60382	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	62
+HIG	Highlands	10282	11/08/2016	2016 General Election	25	Precinct 25	3994	0	0	60382	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+HIG	Highlands	10282	11/08/2016	2016 General Election	25	Precinct 25	3994	0	0	60382	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+HIG	Highlands	10282	11/08/2016	2016 General Election	25	Precinct 25	3994	0	0	60382	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HIG	Highlands	10282	11/08/2016	2016 General Election	25	Precinct 25	3994	0	0	60382	President of the United States	 	100000	WriteinVotes	 	0	900	15
+HIG	Highlands	10282	11/08/2016	2016 General Election	25	Precinct 25	3994	0	0	60382	President of the United States	 	100000	OverVotes	 	0	901	5
+HIG	Highlands	10282	11/08/2016	2016 General Election	25	Precinct 25	3994	0	0	60382	President of the United States	 	100000	UnderVotes	 	0	902	24

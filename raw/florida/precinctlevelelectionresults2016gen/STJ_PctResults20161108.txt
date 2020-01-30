@@ -1,0 +1,414 @@
+STJ	St. Johns	10282	11/08/2016	2016 General Election	101	PCT 101	5092	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2638
+STJ	St. Johns	10282	11/08/2016	2016 General Election	101	PCT 101	5092	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1202
+STJ	St. Johns	10282	11/08/2016	2016 General Election	101	PCT 101	5092	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	127
+STJ	St. Johns	10282	11/08/2016	2016 General Election	101	PCT 101	5092	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+STJ	St. Johns	10282	11/08/2016	2016 General Election	101	PCT 101	5092	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+STJ	St. Johns	10282	11/08/2016	2016 General Election	101	PCT 101	5092	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	101	PCT 101	5092	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	36
+STJ	St. Johns	10282	11/08/2016	2016 General Election	101	PCT 101	5092	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	101	PCT 101	5092	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	16
+STJ	St. Johns	10282	11/08/2016	2016 General Election	102	PCT 102	3328	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1763
+STJ	St. Johns	10282	11/08/2016	2016 General Election	102	PCT 102	3328	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	750
+STJ	St. Johns	10282	11/08/2016	2016 General Election	102	PCT 102	3328	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	87
+STJ	St. Johns	10282	11/08/2016	2016 General Election	102	PCT 102	3328	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	102	PCT 102	3328	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+STJ	St. Johns	10282	11/08/2016	2016 General Election	102	PCT 102	3328	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	102	PCT 102	3328	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	37
+STJ	St. Johns	10282	11/08/2016	2016 General Election	102	PCT 102	3328	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	102	PCT 102	3328	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	9
+STJ	St. Johns	10282	11/08/2016	2016 General Election	103	PCT 103	2770	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1655
+STJ	St. Johns	10282	11/08/2016	2016 General Election	103	PCT 103	2770	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	516
+STJ	St. Johns	10282	11/08/2016	2016 General Election	103	PCT 103	2770	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	61
+STJ	St. Johns	10282	11/08/2016	2016 General Election	103	PCT 103	2770	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	103	PCT 103	2770	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+STJ	St. Johns	10282	11/08/2016	2016 General Election	103	PCT 103	2770	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	103	PCT 103	2770	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	25
+STJ	St. Johns	10282	11/08/2016	2016 General Election	103	PCT 103	2770	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	103	PCT 103	2770	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	15
+STJ	St. Johns	10282	11/08/2016	2016 General Election	104	PCT 104	4110	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2324
+STJ	St. Johns	10282	11/08/2016	2016 General Election	104	PCT 104	4110	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	878
+STJ	St. Johns	10282	11/08/2016	2016 General Election	104	PCT 104	4110	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	95
+STJ	St. Johns	10282	11/08/2016	2016 General Election	104	PCT 104	4110	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	104	PCT 104	4110	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+STJ	St. Johns	10282	11/08/2016	2016 General Election	104	PCT 104	4110	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	104	PCT 104	4110	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	41
+STJ	St. Johns	10282	11/08/2016	2016 General Election	104	PCT 104	4110	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	104	PCT 104	4110	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	21
+STJ	St. Johns	10282	11/08/2016	2016 General Election	105	PCT 105	5853	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	3098
+STJ	St. Johns	10282	11/08/2016	2016 General Election	105	PCT 105	5853	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1555
+STJ	St. Johns	10282	11/08/2016	2016 General Election	105	PCT 105	5853	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	182
+STJ	St. Johns	10282	11/08/2016	2016 General Election	105	PCT 105	5853	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+STJ	St. Johns	10282	11/08/2016	2016 General Election	105	PCT 105	5853	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+STJ	St. Johns	10282	11/08/2016	2016 General Election	105	PCT 105	5853	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+STJ	St. Johns	10282	11/08/2016	2016 General Election	105	PCT 105	5853	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	59
+STJ	St. Johns	10282	11/08/2016	2016 General Election	105	PCT 105	5853	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	105	PCT 105	5853	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	24
+STJ	St. Johns	10282	11/08/2016	2016 General Election	106	PCT 106	4517	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2858
+STJ	St. Johns	10282	11/08/2016	2016 General Election	106	PCT 106	4517	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	747
+STJ	St. Johns	10282	11/08/2016	2016 General Election	106	PCT 106	4517	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	85
+STJ	St. Johns	10282	11/08/2016	2016 General Election	106	PCT 106	4517	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	106	PCT 106	4517	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+STJ	St. Johns	10282	11/08/2016	2016 General Election	106	PCT 106	4517	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	106	PCT 106	4517	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	23
+STJ	St. Johns	10282	11/08/2016	2016 General Election	106	PCT 106	4517	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	106	PCT 106	4517	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	15
+STJ	St. Johns	10282	11/08/2016	2016 General Election	107	PCT 107	5553	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	3110
+STJ	St. Johns	10282	11/08/2016	2016 General Election	107	PCT 107	5553	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1175
+STJ	St. Johns	10282	11/08/2016	2016 General Election	107	PCT 107	5553	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	153
+STJ	St. Johns	10282	11/08/2016	2016 General Election	107	PCT 107	5553	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+STJ	St. Johns	10282	11/08/2016	2016 General Election	107	PCT 107	5553	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+STJ	St. Johns	10282	11/08/2016	2016 General Election	107	PCT 107	5553	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	107	PCT 107	5553	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	43
+STJ	St. Johns	10282	11/08/2016	2016 General Election	107	PCT 107	5553	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	107	PCT 107	5553	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	18
+STJ	St. Johns	10282	11/08/2016	2016 General Election	108	PCT 108	2055	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1158
+STJ	St. Johns	10282	11/08/2016	2016 General Election	108	PCT 108	2055	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	462
+STJ	St. Johns	10282	11/08/2016	2016 General Election	108	PCT 108	2055	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	41
+STJ	St. Johns	10282	11/08/2016	2016 General Election	108	PCT 108	2055	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	108	PCT 108	2055	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+STJ	St. Johns	10282	11/08/2016	2016 General Election	108	PCT 108	2055	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	108	PCT 108	2055	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	17
+STJ	St. Johns	10282	11/08/2016	2016 General Election	108	PCT 108	2055	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	108	PCT 108	2055	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	11
+STJ	St. Johns	10282	11/08/2016	2016 General Election	109	PCT 109	1621	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1075
+STJ	St. Johns	10282	11/08/2016	2016 General Election	109	PCT 109	1621	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	248
+STJ	St. Johns	10282	11/08/2016	2016 General Election	109	PCT 109	1621	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+STJ	St. Johns	10282	11/08/2016	2016 General Election	109	PCT 109	1621	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	109	PCT 109	1621	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	109	PCT 109	1621	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	109	PCT 109	1621	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	11
+STJ	St. Johns	10282	11/08/2016	2016 General Election	109	PCT 109	1621	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	109	PCT 109	1621	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	110	PCT 110	822	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	567
+STJ	St. Johns	10282	11/08/2016	2016 General Election	110	PCT 110	822	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	90
+STJ	St. Johns	10282	11/08/2016	2016 General Election	110	PCT 110	822	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+STJ	St. Johns	10282	11/08/2016	2016 General Election	110	PCT 110	822	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	110	PCT 110	822	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	110	PCT 110	822	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	110	PCT 110	822	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	110	PCT 110	822	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	110	PCT 110	822	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	201	PCT 201	4454	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2408
+STJ	St. Johns	10282	11/08/2016	2016 General Election	201	PCT 201	4454	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1057
+STJ	St. Johns	10282	11/08/2016	2016 General Election	201	PCT 201	4454	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	90
+STJ	St. Johns	10282	11/08/2016	2016 General Election	201	PCT 201	4454	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	201	PCT 201	4454	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+STJ	St. Johns	10282	11/08/2016	2016 General Election	201	PCT 201	4454	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	201	PCT 201	4454	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	42
+STJ	St. Johns	10282	11/08/2016	2016 General Election	201	PCT 201	4454	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	201	PCT 201	4454	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	14
+STJ	St. Johns	10282	11/08/2016	2016 General Election	202	PCT 202	3246	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1847
+STJ	St. Johns	10282	11/08/2016	2016 General Election	202	PCT 202	3246	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	717
+STJ	St. Johns	10282	11/08/2016	2016 General Election	202	PCT 202	3246	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	96
+STJ	St. Johns	10282	11/08/2016	2016 General Election	202	PCT 202	3246	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+STJ	St. Johns	10282	11/08/2016	2016 General Election	202	PCT 202	3246	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+STJ	St. Johns	10282	11/08/2016	2016 General Election	202	PCT 202	3246	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	202	PCT 202	3246	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	25
+STJ	St. Johns	10282	11/08/2016	2016 General Election	202	PCT 202	3246	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	202	PCT 202	3246	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	15
+STJ	St. Johns	10282	11/08/2016	2016 General Election	203	PCT 203	4787	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2610
+STJ	St. Johns	10282	11/08/2016	2016 General Election	203	PCT 203	4787	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1083
+STJ	St. Johns	10282	11/08/2016	2016 General Election	203	PCT 203	4787	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	88
+STJ	St. Johns	10282	11/08/2016	2016 General Election	203	PCT 203	4787	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	203	PCT 203	4787	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+STJ	St. Johns	10282	11/08/2016	2016 General Election	203	PCT 203	4787	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	203	PCT 203	4787	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	33
+STJ	St. Johns	10282	11/08/2016	2016 General Election	203	PCT 203	4787	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	203	PCT 203	4787	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	18
+STJ	St. Johns	10282	11/08/2016	2016 General Election	204	PCT 204	2827	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1666
+STJ	St. Johns	10282	11/08/2016	2016 General Election	204	PCT 204	2827	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	415
+STJ	St. Johns	10282	11/08/2016	2016 General Election	204	PCT 204	2827	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+STJ	St. Johns	10282	11/08/2016	2016 General Election	204	PCT 204	2827	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	204	PCT 204	2827	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+STJ	St. Johns	10282	11/08/2016	2016 General Election	204	PCT 204	2827	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	204	PCT 204	2827	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	20
+STJ	St. Johns	10282	11/08/2016	2016 General Election	204	PCT 204	2827	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	204	PCT 204	2827	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	205	PCT 205	5364	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2841
+STJ	St. Johns	10282	11/08/2016	2016 General Election	205	PCT 205	5364	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1162
+STJ	St. Johns	10282	11/08/2016	2016 General Election	205	PCT 205	5364	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	112
+STJ	St. Johns	10282	11/08/2016	2016 General Election	205	PCT 205	5364	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+STJ	St. Johns	10282	11/08/2016	2016 General Election	205	PCT 205	5364	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+STJ	St. Johns	10282	11/08/2016	2016 General Election	205	PCT 205	5364	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	205	PCT 205	5364	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	36
+STJ	St. Johns	10282	11/08/2016	2016 General Election	205	PCT 205	5364	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	205	PCT 205	5364	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	23
+STJ	St. Johns	10282	11/08/2016	2016 General Election	206	PCT 206	1361	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	633
+STJ	St. Johns	10282	11/08/2016	2016 General Election	206	PCT 206	1361	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	263
+STJ	St. Johns	10282	11/08/2016	2016 General Election	206	PCT 206	1361	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	25
+STJ	St. Johns	10282	11/08/2016	2016 General Election	206	PCT 206	1361	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	206	PCT 206	1361	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+STJ	St. Johns	10282	11/08/2016	2016 General Election	206	PCT 206	1361	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	206	PCT 206	1361	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	206	PCT 206	1361	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	206	PCT 206	1361	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	207	PCT 207	3871	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	788
+STJ	St. Johns	10282	11/08/2016	2016 General Election	207	PCT 207	3871	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1717
+STJ	St. Johns	10282	11/08/2016	2016 General Election	207	PCT 207	3871	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+STJ	St. Johns	10282	11/08/2016	2016 General Election	207	PCT 207	3871	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	207	PCT 207	3871	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+STJ	St. Johns	10282	11/08/2016	2016 General Election	207	PCT 207	3871	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	207	PCT 207	3871	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	15
+STJ	St. Johns	10282	11/08/2016	2016 General Election	207	PCT 207	3871	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	207	PCT 207	3871	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	14
+STJ	St. Johns	10282	11/08/2016	2016 General Election	208	PCT 208	1491	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	818
+STJ	St. Johns	10282	11/08/2016	2016 General Election	208	PCT 208	1491	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	323
+STJ	St. Johns	10282	11/08/2016	2016 General Election	208	PCT 208	1491	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+STJ	St. Johns	10282	11/08/2016	2016 General Election	208	PCT 208	1491	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	208	PCT 208	1491	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+STJ	St. Johns	10282	11/08/2016	2016 General Election	208	PCT 208	1491	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	208	PCT 208	1491	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	7
+STJ	St. Johns	10282	11/08/2016	2016 General Election	208	PCT 208	1491	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	208	PCT 208	1491	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	5
+STJ	St. Johns	10282	11/08/2016	2016 General Election	209	PCT 209	3522	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1418
+STJ	St. Johns	10282	11/08/2016	2016 General Election	209	PCT 209	3522	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	796
+STJ	St. Johns	10282	11/08/2016	2016 General Election	209	PCT 209	3522	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+STJ	St. Johns	10282	11/08/2016	2016 General Election	209	PCT 209	3522	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	209	PCT 209	3522	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+STJ	St. Johns	10282	11/08/2016	2016 General Election	209	PCT 209	3522	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	209	PCT 209	3522	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	8
+STJ	St. Johns	10282	11/08/2016	2016 General Election	209	PCT 209	3522	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	209	PCT 209	3522	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	301	PCT 301	1527	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	778
+STJ	St. Johns	10282	11/08/2016	2016 General Election	301	PCT 301	1527	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	270
+STJ	St. Johns	10282	11/08/2016	2016 General Election	301	PCT 301	1527	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+STJ	St. Johns	10282	11/08/2016	2016 General Election	301	PCT 301	1527	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	301	PCT 301	1527	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+STJ	St. Johns	10282	11/08/2016	2016 General Election	301	PCT 301	1527	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	301	PCT 301	1527	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	301	PCT 301	1527	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	301	PCT 301	1527	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	302	PCT 302	4688	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2567
+STJ	St. Johns	10282	11/08/2016	2016 General Election	302	PCT 302	4688	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	961
+STJ	St. Johns	10282	11/08/2016	2016 General Election	302	PCT 302	4688	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	80
+STJ	St. Johns	10282	11/08/2016	2016 General Election	302	PCT 302	4688	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	302	PCT 302	4688	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+STJ	St. Johns	10282	11/08/2016	2016 General Election	302	PCT 302	4688	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	302	PCT 302	4688	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	35
+STJ	St. Johns	10282	11/08/2016	2016 General Election	302	PCT 302	4688	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	302	PCT 302	4688	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	13
+STJ	St. Johns	10282	11/08/2016	2016 General Election	303	PCT 303	1868	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	915
+STJ	St. Johns	10282	11/08/2016	2016 General Election	303	PCT 303	1868	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	465
+STJ	St. Johns	10282	11/08/2016	2016 General Election	303	PCT 303	1868	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+STJ	St. Johns	10282	11/08/2016	2016 General Election	303	PCT 303	1868	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	303	PCT 303	1868	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+STJ	St. Johns	10282	11/08/2016	2016 General Election	303	PCT 303	1868	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	303	PCT 303	1868	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	11
+STJ	St. Johns	10282	11/08/2016	2016 General Election	303	PCT 303	1868	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	303	PCT 303	1868	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	304	PCT 304	4810	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2299
+STJ	St. Johns	10282	11/08/2016	2016 General Election	304	PCT 304	4810	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1171
+STJ	St. Johns	10282	11/08/2016	2016 General Election	304	PCT 304	4810	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	95
+STJ	St. Johns	10282	11/08/2016	2016 General Election	304	PCT 304	4810	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+STJ	St. Johns	10282	11/08/2016	2016 General Election	304	PCT 304	4810	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	39
+STJ	St. Johns	10282	11/08/2016	2016 General Election	304	PCT 304	4810	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	304	PCT 304	4810	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	29
+STJ	St. Johns	10282	11/08/2016	2016 General Election	304	PCT 304	4810	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	304	PCT 304	4810	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	19
+STJ	St. Johns	10282	11/08/2016	2016 General Election	305	PCT 305	5685	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2818
+STJ	St. Johns	10282	11/08/2016	2016 General Election	305	PCT 305	5685	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1548
+STJ	St. Johns	10282	11/08/2016	2016 General Election	305	PCT 305	5685	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	104
+STJ	St. Johns	10282	11/08/2016	2016 General Election	305	PCT 305	5685	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+STJ	St. Johns	10282	11/08/2016	2016 General Election	305	PCT 305	5685	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+STJ	St. Johns	10282	11/08/2016	2016 General Election	305	PCT 305	5685	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	305	PCT 305	5685	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	41
+STJ	St. Johns	10282	11/08/2016	2016 General Election	305	PCT 305	5685	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	305	PCT 305	5685	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	24
+STJ	St. Johns	10282	11/08/2016	2016 General Election	306	PCT 306	2416	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1356
+STJ	St. Johns	10282	11/08/2016	2016 General Election	306	PCT 306	2416	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	566
+STJ	St. Johns	10282	11/08/2016	2016 General Election	306	PCT 306	2416	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+STJ	St. Johns	10282	11/08/2016	2016 General Election	306	PCT 306	2416	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	306	PCT 306	2416	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+STJ	St. Johns	10282	11/08/2016	2016 General Election	306	PCT 306	2416	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	306	PCT 306	2416	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	16
+STJ	St. Johns	10282	11/08/2016	2016 General Election	306	PCT 306	2416	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	306	PCT 306	2416	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	10
+STJ	St. Johns	10282	11/08/2016	2016 General Election	307	PCT 307	4420	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2373
+STJ	St. Johns	10282	11/08/2016	2016 General Election	307	PCT 307	4420	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1014
+STJ	St. Johns	10282	11/08/2016	2016 General Election	307	PCT 307	4420	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	90
+STJ	St. Johns	10282	11/08/2016	2016 General Election	307	PCT 307	4420	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+STJ	St. Johns	10282	11/08/2016	2016 General Election	307	PCT 307	4420	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	41
+STJ	St. Johns	10282	11/08/2016	2016 General Election	307	PCT 307	4420	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	11
+STJ	St. Johns	10282	11/08/2016	2016 General Election	307	PCT 307	4420	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	33
+STJ	St. Johns	10282	11/08/2016	2016 General Election	307	PCT 307	4420	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	307	PCT 307	4420	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	18
+STJ	St. Johns	10282	11/08/2016	2016 General Election	308	PCT 308	2389	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1215
+STJ	St. Johns	10282	11/08/2016	2016 General Election	308	PCT 308	2389	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	709
+STJ	St. Johns	10282	11/08/2016	2016 General Election	308	PCT 308	2389	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+STJ	St. Johns	10282	11/08/2016	2016 General Election	308	PCT 308	2389	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	308	PCT 308	2389	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+STJ	St. Johns	10282	11/08/2016	2016 General Election	308	PCT 308	2389	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	308	PCT 308	2389	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	31
+STJ	St. Johns	10282	11/08/2016	2016 General Election	308	PCT 308	2389	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	308	PCT 308	2389	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	15
+STJ	St. Johns	10282	11/08/2016	2016 General Election	309	PCT 309	5401	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2641
+STJ	St. Johns	10282	11/08/2016	2016 General Election	309	PCT 309	5401	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1611
+STJ	St. Johns	10282	11/08/2016	2016 General Election	309	PCT 309	5401	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	96
+STJ	St. Johns	10282	11/08/2016	2016 General Election	309	PCT 309	5401	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	309	PCT 309	5401	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+STJ	St. Johns	10282	11/08/2016	2016 General Election	309	PCT 309	5401	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	309	PCT 309	5401	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	43
+STJ	St. Johns	10282	11/08/2016	2016 General Election	309	PCT 309	5401	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	309	PCT 309	5401	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	23
+STJ	St. Johns	10282	11/08/2016	2016 General Election	401	PCT 401	5954	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	3075
+STJ	St. Johns	10282	11/08/2016	2016 General Election	401	PCT 401	5954	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1393
+STJ	St. Johns	10282	11/08/2016	2016 General Election	401	PCT 401	5954	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	162
+STJ	St. Johns	10282	11/08/2016	2016 General Election	401	PCT 401	5954	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	401	PCT 401	5954	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+STJ	St. Johns	10282	11/08/2016	2016 General Election	401	PCT 401	5954	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	401	PCT 401	5954	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	60
+STJ	St. Johns	10282	11/08/2016	2016 General Election	401	PCT 401	5954	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	401	PCT 401	5954	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	50
+STJ	St. Johns	10282	11/08/2016	2016 General Election	402	PCT 402	7091	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	3839
+STJ	St. Johns	10282	11/08/2016	2016 General Election	402	PCT 402	7091	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1814
+STJ	St. Johns	10282	11/08/2016	2016 General Election	402	PCT 402	7091	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	148
+STJ	St. Johns	10282	11/08/2016	2016 General Election	402	PCT 402	7091	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	402	PCT 402	7091	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	37
+STJ	St. Johns	10282	11/08/2016	2016 General Election	402	PCT 402	7091	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+STJ	St. Johns	10282	11/08/2016	2016 General Election	402	PCT 402	7091	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	84
+STJ	St. Johns	10282	11/08/2016	2016 General Election	402	PCT 402	7091	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	402	PCT 402	7091	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	59
+STJ	St. Johns	10282	11/08/2016	2016 General Election	403	PCT 403	5674	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	3325
+STJ	St. Johns	10282	11/08/2016	2016 General Election	403	PCT 403	5674	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1253
+STJ	St. Johns	10282	11/08/2016	2016 General Election	403	PCT 403	5674	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	89
+STJ	St. Johns	10282	11/08/2016	2016 General Election	403	PCT 403	5674	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	403	PCT 403	5674	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+STJ	St. Johns	10282	11/08/2016	2016 General Election	403	PCT 403	5674	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	403	PCT 403	5674	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	49
+STJ	St. Johns	10282	11/08/2016	2016 General Election	403	PCT 403	5674	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	403	PCT 403	5674	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	41
+STJ	St. Johns	10282	11/08/2016	2016 General Election	404	PCT 404	2963	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1676
+STJ	St. Johns	10282	11/08/2016	2016 General Election	404	PCT 404	2963	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	715
+STJ	St. Johns	10282	11/08/2016	2016 General Election	404	PCT 404	2963	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+STJ	St. Johns	10282	11/08/2016	2016 General Election	404	PCT 404	2963	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	404	PCT 404	2963	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	404	PCT 404	2963	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	404	PCT 404	2963	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	32
+STJ	St. Johns	10282	11/08/2016	2016 General Election	404	PCT 404	2963	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	404	PCT 404	2963	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	30
+STJ	St. Johns	10282	11/08/2016	2016 General Election	405	PCT 405	3090	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1763
+STJ	St. Johns	10282	11/08/2016	2016 General Election	405	PCT 405	3090	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	739
+STJ	St. Johns	10282	11/08/2016	2016 General Election	405	PCT 405	3090	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	72
+STJ	St. Johns	10282	11/08/2016	2016 General Election	405	PCT 405	3090	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	405	PCT 405	3090	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+STJ	St. Johns	10282	11/08/2016	2016 General Election	405	PCT 405	3090	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	405	PCT 405	3090	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	26
+STJ	St. Johns	10282	11/08/2016	2016 General Election	405	PCT 405	3090	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	405	PCT 405	3090	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	16
+STJ	St. Johns	10282	11/08/2016	2016 General Election	406	PCT 406	8485	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	4538
+STJ	St. Johns	10282	11/08/2016	2016 General Election	406	PCT 406	8485	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2422
+STJ	St. Johns	10282	11/08/2016	2016 General Election	406	PCT 406	8485	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	221
+STJ	St. Johns	10282	11/08/2016	2016 General Election	406	PCT 406	8485	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+STJ	St. Johns	10282	11/08/2016	2016 General Election	406	PCT 406	8485	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	37
+STJ	St. Johns	10282	11/08/2016	2016 General Election	406	PCT 406	8485	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	406	PCT 406	8485	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	72
+STJ	St. Johns	10282	11/08/2016	2016 General Election	406	PCT 406	8485	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	406	PCT 406	8485	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	41
+STJ	St. Johns	10282	11/08/2016	2016 General Election	407	PCT 407	839	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	516
+STJ	St. Johns	10282	11/08/2016	2016 General Election	407	PCT 407	839	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	185
+STJ	St. Johns	10282	11/08/2016	2016 General Election	407	PCT 407	839	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+STJ	St. Johns	10282	11/08/2016	2016 General Election	407	PCT 407	839	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	407	PCT 407	839	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	407	PCT 407	839	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	407	PCT 407	839	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	9
+STJ	St. Johns	10282	11/08/2016	2016 General Election	407	PCT 407	839	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	407	PCT 407	839	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	408	PCT 408	5890	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	3322
+STJ	St. Johns	10282	11/08/2016	2016 General Election	408	PCT 408	5890	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1277
+STJ	St. Johns	10282	11/08/2016	2016 General Election	408	PCT 408	5890	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	145
+STJ	St. Johns	10282	11/08/2016	2016 General Election	408	PCT 408	5890	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	408	PCT 408	5890	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+STJ	St. Johns	10282	11/08/2016	2016 General Election	408	PCT 408	5890	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	408	PCT 408	5890	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	31
+STJ	St. Johns	10282	11/08/2016	2016 General Election	408	PCT 408	5890	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	408	PCT 408	5890	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	20
+STJ	St. Johns	10282	11/08/2016	2016 General Election	409	PCT 409	341	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	163
+STJ	St. Johns	10282	11/08/2016	2016 General Election	409	PCT 409	341	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	56
+STJ	St. Johns	10282	11/08/2016	2016 General Election	409	PCT 409	341	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+STJ	St. Johns	10282	11/08/2016	2016 General Election	409	PCT 409	341	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	409	PCT 409	341	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	409	PCT 409	341	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	409	PCT 409	341	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	409	PCT 409	341	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	409	PCT 409	341	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	501	PCT 501	3283	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1883
+STJ	St. Johns	10282	11/08/2016	2016 General Election	501	PCT 501	3283	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	827
+STJ	St. Johns	10282	11/08/2016	2016 General Election	501	PCT 501	3283	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+STJ	St. Johns	10282	11/08/2016	2016 General Election	501	PCT 501	3283	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	501	PCT 501	3283	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+STJ	St. Johns	10282	11/08/2016	2016 General Election	501	PCT 501	3283	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	501	PCT 501	3283	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	20
+STJ	St. Johns	10282	11/08/2016	2016 General Election	501	PCT 501	3283	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	501	PCT 501	3283	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	12
+STJ	St. Johns	10282	11/08/2016	2016 General Election	502	PCT 502	5476	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2543
+STJ	St. Johns	10282	11/08/2016	2016 General Election	502	PCT 502	5476	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1329
+STJ	St. Johns	10282	11/08/2016	2016 General Election	502	PCT 502	5476	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	109
+STJ	St. Johns	10282	11/08/2016	2016 General Election	502	PCT 502	5476	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+STJ	St. Johns	10282	11/08/2016	2016 General Election	502	PCT 502	5476	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	44
+STJ	St. Johns	10282	11/08/2016	2016 General Election	502	PCT 502	5476	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	502	PCT 502	5476	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	31
+STJ	St. Johns	10282	11/08/2016	2016 General Election	502	PCT 502	5476	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	502	PCT 502	5476	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	28
+STJ	St. Johns	10282	11/08/2016	2016 General Election	503	PCT 503	1536	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	640
+STJ	St. Johns	10282	11/08/2016	2016 General Election	503	PCT 503	1536	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	536
+STJ	St. Johns	10282	11/08/2016	2016 General Election	503	PCT 503	1536	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	32
+STJ	St. Johns	10282	11/08/2016	2016 General Election	503	PCT 503	1536	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	503	PCT 503	1536	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+STJ	St. Johns	10282	11/08/2016	2016 General Election	503	PCT 503	1536	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+STJ	St. Johns	10282	11/08/2016	2016 General Election	503	PCT 503	1536	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	15
+STJ	St. Johns	10282	11/08/2016	2016 General Election	503	PCT 503	1536	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	503	PCT 503	1536	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	8
+STJ	St. Johns	10282	11/08/2016	2016 General Election	504	PCT 504	3869	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2016
+STJ	St. Johns	10282	11/08/2016	2016 General Election	504	PCT 504	3869	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1045
+STJ	St. Johns	10282	11/08/2016	2016 General Election	504	PCT 504	3869	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+STJ	St. Johns	10282	11/08/2016	2016 General Election	504	PCT 504	3869	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	504	PCT 504	3869	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+STJ	St. Johns	10282	11/08/2016	2016 General Election	504	PCT 504	3869	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	504	PCT 504	3869	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	23
+STJ	St. Johns	10282	11/08/2016	2016 General Election	504	PCT 504	3869	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	504	PCT 504	3869	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	15
+STJ	St. Johns	10282	11/08/2016	2016 General Election	505	PCT 505	3570	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	1407
+STJ	St. Johns	10282	11/08/2016	2016 General Election	505	PCT 505	3570	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1067
+STJ	St. Johns	10282	11/08/2016	2016 General Election	505	PCT 505	3570	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	62
+STJ	St. Johns	10282	11/08/2016	2016 General Election	505	PCT 505	3570	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	505	PCT 505	3570	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	32
+STJ	St. Johns	10282	11/08/2016	2016 General Election	505	PCT 505	3570	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	505	PCT 505	3570	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	32
+STJ	St. Johns	10282	11/08/2016	2016 General Election	505	PCT 505	3570	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	505	PCT 505	3570	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	10
+STJ	St. Johns	10282	11/08/2016	2016 General Election	506	PCT 506	1937	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	651
+STJ	St. Johns	10282	11/08/2016	2016 General Election	506	PCT 506	1937	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	797
+STJ	St. Johns	10282	11/08/2016	2016 General Election	506	PCT 506	1937	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+STJ	St. Johns	10282	11/08/2016	2016 General Election	506	PCT 506	1937	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	506	PCT 506	1937	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+STJ	St. Johns	10282	11/08/2016	2016 General Election	506	PCT 506	1937	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	506	PCT 506	1937	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	20
+STJ	St. Johns	10282	11/08/2016	2016 General Election	506	PCT 506	1937	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	506	PCT 506	1937	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	12
+STJ	St. Johns	10282	11/08/2016	2016 General Election	507	PCT 507	2018	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	402
+STJ	St. Johns	10282	11/08/2016	2016 General Election	507	PCT 507	2018	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	932
+STJ	St. Johns	10282	11/08/2016	2016 General Election	507	PCT 507	2018	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+STJ	St. Johns	10282	11/08/2016	2016 General Election	507	PCT 507	2018	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	507	PCT 507	2018	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+STJ	St. Johns	10282	11/08/2016	2016 General Election	507	PCT 507	2018	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+STJ	St. Johns	10282	11/08/2016	2016 General Election	507	PCT 507	2018	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	16
+STJ	St. Johns	10282	11/08/2016	2016 General Election	507	PCT 507	2018	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	507	PCT 507	2018	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	9
+STJ	St. Johns	10282	11/08/2016	2016 General Election	508	PCT 508	4733	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2104
+STJ	St. Johns	10282	11/08/2016	2016 General Election	508	PCT 508	4733	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1526
+STJ	St. Johns	10282	11/08/2016	2016 General Election	508	PCT 508	4733	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	94
+STJ	St. Johns	10282	11/08/2016	2016 General Election	508	PCT 508	4733	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	508	PCT 508	4733	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+STJ	St. Johns	10282	11/08/2016	2016 General Election	508	PCT 508	4733	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	508	PCT 508	4733	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	33
+STJ	St. Johns	10282	11/08/2016	2016 General Election	508	PCT 508	4733	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	508	PCT 508	4733	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	18
+STJ	St. Johns	10282	11/08/2016	2016 General Election	509	PCT 509	5476	0	0	168467	President of the United States	 	100000	Trump / Pence	REP	0	65072	2584
+STJ	St. Johns	10282	11/08/2016	2016 General Election	509	PCT 509	5476	0	0	168467	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1715
+STJ	St. Johns	10282	11/08/2016	2016 General Election	509	PCT 509	5476	0	0	168467	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	151
+STJ	St. Johns	10282	11/08/2016	2016 General Election	509	PCT 509	5476	0	0	168467	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+STJ	St. Johns	10282	11/08/2016	2016 General Election	509	PCT 509	5476	0	0	168467	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	40
+STJ	St. Johns	10282	11/08/2016	2016 General Election	509	PCT 509	5476	0	0	168467	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+STJ	St. Johns	10282	11/08/2016	2016 General Election	509	PCT 509	5476	0	0	168467	President of the United States	 	100000	WriteinVotes	 	0	900	52
+STJ	St. Johns	10282	11/08/2016	2016 General Election	509	PCT 509	5476	0	0	168467	President of the United States	 	100000	OverVotes	 	0	901	1
+STJ	St. Johns	10282	11/08/2016	2016 General Election	509	PCT 509	5476	0	0	168467	President of the United States	 	100000	UnderVotes	 	0	902	27

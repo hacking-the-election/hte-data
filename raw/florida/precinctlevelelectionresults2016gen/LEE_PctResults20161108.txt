@@ -1,0 +1,1143 @@
+LEE	Lee	10282	11/08/2016	2016 General Election	1	PCT. 001	2236	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1399
+LEE	Lee	10282	11/08/2016	2016 General Election	1	PCT. 001	2236	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	369
+LEE	Lee	10282	11/08/2016	2016 General Election	1	PCT. 001	2236	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+LEE	Lee	10282	11/08/2016	2016 General Election	1	PCT. 001	2236	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	1	PCT. 001	2236	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+LEE	Lee	10282	11/08/2016	2016 General Election	1	PCT. 001	2236	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	1	PCT. 001	2236	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	1	PCT. 001	2236	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	1	PCT. 001	2236	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	2	PCT. 002	3756	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1729
+LEE	Lee	10282	11/08/2016	2016 General Election	2	PCT. 002	3756	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	908
+LEE	Lee	10282	11/08/2016	2016 General Election	2	PCT. 002	3756	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+LEE	Lee	10282	11/08/2016	2016 General Election	2	PCT. 002	3756	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+LEE	Lee	10282	11/08/2016	2016 General Election	2	PCT. 002	3756	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	32
+LEE	Lee	10282	11/08/2016	2016 General Election	2	PCT. 002	3756	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+LEE	Lee	10282	11/08/2016	2016 General Election	2	PCT. 002	3756	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	2	PCT. 002	3756	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	10
+LEE	Lee	10282	11/08/2016	2016 General Election	2	PCT. 002	3756	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	28
+LEE	Lee	10282	11/08/2016	2016 General Election	3	PCT. 003	3886	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	988
+LEE	Lee	10282	11/08/2016	2016 General Election	3	PCT. 003	3886	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1435
+LEE	Lee	10282	11/08/2016	2016 General Election	3	PCT. 003	3886	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+LEE	Lee	10282	11/08/2016	2016 General Election	3	PCT. 003	3886	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEE	Lee	10282	11/08/2016	2016 General Election	3	PCT. 003	3886	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	3	PCT. 003	3886	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	3	PCT. 003	3886	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	3	PCT. 003	3886	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	9
+LEE	Lee	10282	11/08/2016	2016 General Election	3	PCT. 003	3886	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	4	PCT. 004	3885	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1020
+LEE	Lee	10282	11/08/2016	2016 General Election	4	PCT. 004	3885	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1464
+LEE	Lee	10282	11/08/2016	2016 General Election	4	PCT. 004	3885	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+LEE	Lee	10282	11/08/2016	2016 General Election	4	PCT. 004	3885	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	4	PCT. 004	3885	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+LEE	Lee	10282	11/08/2016	2016 General Election	4	PCT. 004	3885	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	4	PCT. 004	3885	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	4	PCT. 004	3885	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	20
+LEE	Lee	10282	11/08/2016	2016 General Election	4	PCT. 004	3885	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	12
+LEE	Lee	10282	11/08/2016	2016 General Election	5	PCT. 005	3486	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1999
+LEE	Lee	10282	11/08/2016	2016 General Election	5	PCT. 005	3486	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	790
+LEE	Lee	10282	11/08/2016	2016 General Election	5	PCT. 005	3486	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+LEE	Lee	10282	11/08/2016	2016 General Election	5	PCT. 005	3486	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	5	PCT. 005	3486	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	5	PCT. 005	3486	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	5	PCT. 005	3486	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	5	PCT. 005	3486	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	5	PCT. 005	3486	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	6	PCT. 006	2132	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	614
+LEE	Lee	10282	11/08/2016	2016 General Election	6	PCT. 006	2132	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	723
+LEE	Lee	10282	11/08/2016	2016 General Election	6	PCT. 006	2132	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+LEE	Lee	10282	11/08/2016	2016 General Election	6	PCT. 006	2132	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	6	PCT. 006	2132	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+LEE	Lee	10282	11/08/2016	2016 General Election	6	PCT. 006	2132	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+LEE	Lee	10282	11/08/2016	2016 General Election	6	PCT. 006	2132	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	6	PCT. 006	2132	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	6	PCT. 006	2132	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	8
+LEE	Lee	10282	11/08/2016	2016 General Election	7	PCT. 007	3900	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	403
+LEE	Lee	10282	11/08/2016	2016 General Election	7	PCT. 007	3900	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1971
+LEE	Lee	10282	11/08/2016	2016 General Election	7	PCT. 007	3900	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+LEE	Lee	10282	11/08/2016	2016 General Election	7	PCT. 007	3900	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	7	PCT. 007	3900	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+LEE	Lee	10282	11/08/2016	2016 General Election	7	PCT. 007	3900	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+LEE	Lee	10282	11/08/2016	2016 General Election	7	PCT. 007	3900	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	7	PCT. 007	3900	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	24
+LEE	Lee	10282	11/08/2016	2016 General Election	7	PCT. 007	3900	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	18
+LEE	Lee	10282	11/08/2016	2016 General Election	8	PCT. 008	3901	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	728
+LEE	Lee	10282	11/08/2016	2016 General Election	8	PCT. 008	3901	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1889
+LEE	Lee	10282	11/08/2016	2016 General Election	8	PCT. 008	3901	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+LEE	Lee	10282	11/08/2016	2016 General Election	8	PCT. 008	3901	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	8	PCT. 008	3901	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+LEE	Lee	10282	11/08/2016	2016 General Election	8	PCT. 008	3901	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	8
+LEE	Lee	10282	11/08/2016	2016 General Election	8	PCT. 008	3901	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	8	PCT. 008	3901	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	9
+LEE	Lee	10282	11/08/2016	2016 General Election	8	PCT. 008	3901	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	8
+LEE	Lee	10282	11/08/2016	2016 General Election	9	PCT. 009	4129	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1240
+LEE	Lee	10282	11/08/2016	2016 General Election	9	PCT. 009	4129	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1484
+LEE	Lee	10282	11/08/2016	2016 General Election	9	PCT. 009	4129	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	75
+LEE	Lee	10282	11/08/2016	2016 General Election	9	PCT. 009	4129	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+LEE	Lee	10282	11/08/2016	2016 General Election	9	PCT. 009	4129	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+LEE	Lee	10282	11/08/2016	2016 General Election	9	PCT. 009	4129	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	9	PCT. 009	4129	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	9	PCT. 009	4129	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	8
+LEE	Lee	10282	11/08/2016	2016 General Election	9	PCT. 009	4129	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	14
+LEE	Lee	10282	11/08/2016	2016 General Election	10	PCT. 010	2631	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1279
+LEE	Lee	10282	11/08/2016	2016 General Election	10	PCT. 010	2631	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	866
+LEE	Lee	10282	11/08/2016	2016 General Election	10	PCT. 010	2631	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	67
+LEE	Lee	10282	11/08/2016	2016 General Election	10	PCT. 010	2631	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEE	Lee	10282	11/08/2016	2016 General Election	10	PCT. 010	2631	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+LEE	Lee	10282	11/08/2016	2016 General Election	10	PCT. 010	2631	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	10	PCT. 010	2631	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	10	PCT. 010	2631	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	2
+LEE	Lee	10282	11/08/2016	2016 General Election	10	PCT. 010	2631	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	11	PCT. 011	3306	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1469
+LEE	Lee	10282	11/08/2016	2016 General Election	11	PCT. 011	3306	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1044
+LEE	Lee	10282	11/08/2016	2016 General Election	11	PCT. 011	3306	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+LEE	Lee	10282	11/08/2016	2016 General Election	11	PCT. 011	3306	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	11	PCT. 011	3306	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+LEE	Lee	10282	11/08/2016	2016 General Election	11	PCT. 011	3306	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	11	PCT. 011	3306	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	11	PCT. 011	3306	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	11	PCT. 011	3306	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	26
+LEE	Lee	10282	11/08/2016	2016 General Election	12	PCT. 012	2769	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1426
+LEE	Lee	10282	11/08/2016	2016 General Election	12	PCT. 012	2769	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	774
+LEE	Lee	10282	11/08/2016	2016 General Election	12	PCT. 012	2769	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+LEE	Lee	10282	11/08/2016	2016 General Election	12	PCT. 012	2769	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	12	PCT. 012	2769	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+LEE	Lee	10282	11/08/2016	2016 General Election	12	PCT. 012	2769	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	12	PCT. 012	2769	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	12	PCT. 012	2769	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	8
+LEE	Lee	10282	11/08/2016	2016 General Election	12	PCT. 012	2769	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	13	PCT. 013	4008	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1756
+LEE	Lee	10282	11/08/2016	2016 General Election	13	PCT. 013	4008	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1176
+LEE	Lee	10282	11/08/2016	2016 General Election	13	PCT. 013	4008	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+LEE	Lee	10282	11/08/2016	2016 General Election	13	PCT. 013	4008	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	13	PCT. 013	4008	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+LEE	Lee	10282	11/08/2016	2016 General Election	13	PCT. 013	4008	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	13	PCT. 013	4008	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	13	PCT. 013	4008	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	14
+LEE	Lee	10282	11/08/2016	2016 General Election	13	PCT. 013	4008	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	14	PCT. 014	1429	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	633
+LEE	Lee	10282	11/08/2016	2016 General Election	14	PCT. 014	1429	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	436
+LEE	Lee	10282	11/08/2016	2016 General Election	14	PCT. 014	1429	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+LEE	Lee	10282	11/08/2016	2016 General Election	14	PCT. 014	1429	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	14	PCT. 014	1429	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+LEE	Lee	10282	11/08/2016	2016 General Election	14	PCT. 014	1429	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	14	PCT. 014	1429	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	14	PCT. 014	1429	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	2
+LEE	Lee	10282	11/08/2016	2016 General Election	14	PCT. 014	1429	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	9
+LEE	Lee	10282	11/08/2016	2016 General Election	15	PCT. 015	2838	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1531
+LEE	Lee	10282	11/08/2016	2016 General Election	15	PCT. 015	2838	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	785
+LEE	Lee	10282	11/08/2016	2016 General Election	15	PCT. 015	2838	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	51
+LEE	Lee	10282	11/08/2016	2016 General Election	15	PCT. 015	2838	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	15	PCT. 015	2838	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+LEE	Lee	10282	11/08/2016	2016 General Election	15	PCT. 015	2838	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	15	PCT. 015	2838	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	15	PCT. 015	2838	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	15	PCT. 015	2838	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	13
+LEE	Lee	10282	11/08/2016	2016 General Election	16	PCT. 016	1638	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	700
+LEE	Lee	10282	11/08/2016	2016 General Election	16	PCT. 016	1638	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	693
+LEE	Lee	10282	11/08/2016	2016 General Election	16	PCT. 016	1638	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+LEE	Lee	10282	11/08/2016	2016 General Election	16	PCT. 016	1638	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	16	PCT. 016	1638	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+LEE	Lee	10282	11/08/2016	2016 General Election	16	PCT. 016	1638	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	16	PCT. 016	1638	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	16	PCT. 016	1638	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	16	PCT. 016	1638	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	10
+LEE	Lee	10282	11/08/2016	2016 General Election	17	PCT. 017	322	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	151
+LEE	Lee	10282	11/08/2016	2016 General Election	17	PCT. 017	322	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	90
+LEE	Lee	10282	11/08/2016	2016 General Election	17	PCT. 017	322	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+LEE	Lee	10282	11/08/2016	2016 General Election	17	PCT. 017	322	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEE	Lee	10282	11/08/2016	2016 General Election	17	PCT. 017	322	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+LEE	Lee	10282	11/08/2016	2016 General Election	17	PCT. 017	322	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	17	PCT. 017	322	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	17	PCT. 017	322	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	1
+LEE	Lee	10282	11/08/2016	2016 General Election	17	PCT. 017	322	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	5
+LEE	Lee	10282	11/08/2016	2016 General Election	18	PCT. 018	1028	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	559
+LEE	Lee	10282	11/08/2016	2016 General Election	18	PCT. 018	1028	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	284
+LEE	Lee	10282	11/08/2016	2016 General Election	18	PCT. 018	1028	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+LEE	Lee	10282	11/08/2016	2016 General Election	18	PCT. 018	1028	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEE	Lee	10282	11/08/2016	2016 General Election	18	PCT. 018	1028	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+LEE	Lee	10282	11/08/2016	2016 General Election	18	PCT. 018	1028	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	18	PCT. 018	1028	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	18	PCT. 018	1028	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	1
+LEE	Lee	10282	11/08/2016	2016 General Election	18	PCT. 018	1028	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	19	PCT. 019	502	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	277
+LEE	Lee	10282	11/08/2016	2016 General Election	19	PCT. 019	502	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	83
+LEE	Lee	10282	11/08/2016	2016 General Election	19	PCT. 019	502	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+LEE	Lee	10282	11/08/2016	2016 General Election	19	PCT. 019	502	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	19	PCT. 019	502	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+LEE	Lee	10282	11/08/2016	2016 General Election	19	PCT. 019	502	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	19	PCT. 019	502	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	19	PCT. 019	502	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	1
+LEE	Lee	10282	11/08/2016	2016 General Election	19	PCT. 019	502	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	6
+LEE	Lee	10282	11/08/2016	2016 General Election	20	PCT. 020	3570	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1440
+LEE	Lee	10282	11/08/2016	2016 General Election	20	PCT. 020	3570	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1237
+LEE	Lee	10282	11/08/2016	2016 General Election	20	PCT. 020	3570	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	61
+LEE	Lee	10282	11/08/2016	2016 General Election	20	PCT. 020	3570	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	20	PCT. 020	3570	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+LEE	Lee	10282	11/08/2016	2016 General Election	20	PCT. 020	3570	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	20	PCT. 020	3570	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	20	PCT. 020	3570	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	20	PCT. 020	3570	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	25
+LEE	Lee	10282	11/08/2016	2016 General Election	21	PCT. 021	2261	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1198
+LEE	Lee	10282	11/08/2016	2016 General Election	21	PCT. 021	2261	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	617
+LEE	Lee	10282	11/08/2016	2016 General Election	21	PCT. 021	2261	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+LEE	Lee	10282	11/08/2016	2016 General Election	21	PCT. 021	2261	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	21	PCT. 021	2261	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+LEE	Lee	10282	11/08/2016	2016 General Election	21	PCT. 021	2261	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	21	PCT. 021	2261	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	21	PCT. 021	2261	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	2
+LEE	Lee	10282	11/08/2016	2016 General Election	21	PCT. 021	2261	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	24
+LEE	Lee	10282	11/08/2016	2016 General Election	22	PCT. 022	2853	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1581
+LEE	Lee	10282	11/08/2016	2016 General Election	22	PCT. 022	2853	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	743
+LEE	Lee	10282	11/08/2016	2016 General Election	22	PCT. 022	2853	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+LEE	Lee	10282	11/08/2016	2016 General Election	22	PCT. 022	2853	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	22	PCT. 022	2853	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+LEE	Lee	10282	11/08/2016	2016 General Election	22	PCT. 022	2853	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	22	PCT. 022	2853	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	22	PCT. 022	2853	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	22	PCT. 022	2853	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	29
+LEE	Lee	10282	11/08/2016	2016 General Election	23	PCT. 023	2479	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1259
+LEE	Lee	10282	11/08/2016	2016 General Election	23	PCT. 023	2479	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	721
+LEE	Lee	10282	11/08/2016	2016 General Election	23	PCT. 023	2479	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+LEE	Lee	10282	11/08/2016	2016 General Election	23	PCT. 023	2479	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	23	PCT. 023	2479	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+LEE	Lee	10282	11/08/2016	2016 General Election	23	PCT. 023	2479	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	23	PCT. 023	2479	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	23	PCT. 023	2479	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	9
+LEE	Lee	10282	11/08/2016	2016 General Election	23	PCT. 023	2479	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	20
+LEE	Lee	10282	11/08/2016	2016 General Election	24	PCT. 024	2599	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1418
+LEE	Lee	10282	11/08/2016	2016 General Election	24	PCT. 024	2599	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	676
+LEE	Lee	10282	11/08/2016	2016 General Election	24	PCT. 024	2599	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+LEE	Lee	10282	11/08/2016	2016 General Election	24	PCT. 024	2599	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	24	PCT. 024	2599	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+LEE	Lee	10282	11/08/2016	2016 General Election	24	PCT. 024	2599	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	24	PCT. 024	2599	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	24	PCT. 024	2599	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	24	PCT. 024	2599	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	15
+LEE	Lee	10282	11/08/2016	2016 General Election	25	PCT. 025	3521	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1870
+LEE	Lee	10282	11/08/2016	2016 General Election	25	PCT. 025	3521	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1039
+LEE	Lee	10282	11/08/2016	2016 General Election	25	PCT. 025	3521	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+LEE	Lee	10282	11/08/2016	2016 General Election	25	PCT. 025	3521	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	25	PCT. 025	3521	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+LEE	Lee	10282	11/08/2016	2016 General Election	25	PCT. 025	3521	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	25	PCT. 025	3521	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	25	PCT. 025	3521	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	25	PCT. 025	3521	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	22
+LEE	Lee	10282	11/08/2016	2016 General Election	26	PCT. 026	3351	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1419
+LEE	Lee	10282	11/08/2016	2016 General Election	26	PCT. 026	3351	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	973
+LEE	Lee	10282	11/08/2016	2016 General Election	26	PCT. 026	3351	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+LEE	Lee	10282	11/08/2016	2016 General Election	26	PCT. 026	3351	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	26	PCT. 026	3351	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+LEE	Lee	10282	11/08/2016	2016 General Election	26	PCT. 026	3351	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	26	PCT. 026	3351	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	26	PCT. 026	3351	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	26	PCT. 026	3351	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	13
+LEE	Lee	10282	11/08/2016	2016 General Election	27	PCT. 027	2469	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1512
+LEE	Lee	10282	11/08/2016	2016 General Election	27	PCT. 027	2469	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	579
+LEE	Lee	10282	11/08/2016	2016 General Election	27	PCT. 027	2469	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+LEE	Lee	10282	11/08/2016	2016 General Election	27	PCT. 027	2469	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	27	PCT. 027	2469	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LEE	Lee	10282	11/08/2016	2016 General Election	27	PCT. 027	2469	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	27	PCT. 027	2469	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	27	PCT. 027	2469	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	27	PCT. 027	2469	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	16
+LEE	Lee	10282	11/08/2016	2016 General Election	28	PCT. 028	3821	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1765
+LEE	Lee	10282	11/08/2016	2016 General Election	28	PCT. 028	3821	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1041
+LEE	Lee	10282	11/08/2016	2016 General Election	28	PCT. 028	3821	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	72
+LEE	Lee	10282	11/08/2016	2016 General Election	28	PCT. 028	3821	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	28	PCT. 028	3821	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+LEE	Lee	10282	11/08/2016	2016 General Election	28	PCT. 028	3821	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	28	PCT. 028	3821	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	28	PCT. 028	3821	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	28	PCT. 028	3821	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	13
+LEE	Lee	10282	11/08/2016	2016 General Election	29	PCT. 029	3819	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1779
+LEE	Lee	10282	11/08/2016	2016 General Election	29	PCT. 029	3819	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1062
+LEE	Lee	10282	11/08/2016	2016 General Election	29	PCT. 029	3819	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+LEE	Lee	10282	11/08/2016	2016 General Election	29	PCT. 029	3819	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	29	PCT. 029	3819	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	29	PCT. 029	3819	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	29	PCT. 029	3819	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	29	PCT. 029	3819	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	29	PCT. 029	3819	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	20
+LEE	Lee	10282	11/08/2016	2016 General Election	30	PCT. 030	2256	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1108
+LEE	Lee	10282	11/08/2016	2016 General Election	30	PCT. 030	2256	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	629
+LEE	Lee	10282	11/08/2016	2016 General Election	30	PCT. 030	2256	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+LEE	Lee	10282	11/08/2016	2016 General Election	30	PCT. 030	2256	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	30	PCT. 030	2256	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+LEE	Lee	10282	11/08/2016	2016 General Election	30	PCT. 030	2256	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	30	PCT. 030	2256	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	30	PCT. 030	2256	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	9
+LEE	Lee	10282	11/08/2016	2016 General Election	30	PCT. 030	2256	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	20
+LEE	Lee	10282	11/08/2016	2016 General Election	31	PCT. 031	3031	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1230
+LEE	Lee	10282	11/08/2016	2016 General Election	31	PCT. 031	3031	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1019
+LEE	Lee	10282	11/08/2016	2016 General Election	31	PCT. 031	3031	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	85
+LEE	Lee	10282	11/08/2016	2016 General Election	31	PCT. 031	3031	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+LEE	Lee	10282	11/08/2016	2016 General Election	31	PCT. 031	3031	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	31	PCT. 031	3031	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	31	PCT. 031	3031	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	31	PCT. 031	3031	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	31	PCT. 031	3031	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	22
+LEE	Lee	10282	11/08/2016	2016 General Election	32	PCT. 032	4696	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	774
+LEE	Lee	10282	11/08/2016	2016 General Election	32	PCT. 032	4696	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2238
+LEE	Lee	10282	11/08/2016	2016 General Election	32	PCT. 032	4696	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+LEE	Lee	10282	11/08/2016	2016 General Election	32	PCT. 032	4696	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	32	PCT. 032	4696	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+LEE	Lee	10282	11/08/2016	2016 General Election	32	PCT. 032	4696	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+LEE	Lee	10282	11/08/2016	2016 General Election	32	PCT. 032	4696	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	32	PCT. 032	4696	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	21
+LEE	Lee	10282	11/08/2016	2016 General Election	32	PCT. 032	4696	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	14
+LEE	Lee	10282	11/08/2016	2016 General Election	33	PCT. 033	2542	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1186
+LEE	Lee	10282	11/08/2016	2016 General Election	33	PCT. 033	2542	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	721
+LEE	Lee	10282	11/08/2016	2016 General Election	33	PCT. 033	2542	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+LEE	Lee	10282	11/08/2016	2016 General Election	33	PCT. 033	2542	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	33	PCT. 033	2542	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+LEE	Lee	10282	11/08/2016	2016 General Election	33	PCT. 033	2542	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	33	PCT. 033	2542	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	33	PCT. 033	2542	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	1
+LEE	Lee	10282	11/08/2016	2016 General Election	33	PCT. 033	2542	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	12
+LEE	Lee	10282	11/08/2016	2016 General Election	34	PCT. 034	3867	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1581
+LEE	Lee	10282	11/08/2016	2016 General Election	34	PCT. 034	3867	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1019
+LEE	Lee	10282	11/08/2016	2016 General Election	34	PCT. 034	3867	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	71
+LEE	Lee	10282	11/08/2016	2016 General Election	34	PCT. 034	3867	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	34	PCT. 034	3867	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	29
+LEE	Lee	10282	11/08/2016	2016 General Election	34	PCT. 034	3867	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+LEE	Lee	10282	11/08/2016	2016 General Election	34	PCT. 034	3867	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	34	PCT. 034	3867	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	9
+LEE	Lee	10282	11/08/2016	2016 General Election	34	PCT. 034	3867	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	22
+LEE	Lee	10282	11/08/2016	2016 General Election	35	PCT. 035	3561	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1769
+LEE	Lee	10282	11/08/2016	2016 General Election	35	PCT. 035	3561	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	932
+LEE	Lee	10282	11/08/2016	2016 General Election	35	PCT. 035	3561	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+LEE	Lee	10282	11/08/2016	2016 General Election	35	PCT. 035	3561	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	35	PCT. 035	3561	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+LEE	Lee	10282	11/08/2016	2016 General Election	35	PCT. 035	3561	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	35	PCT. 035	3561	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	35	PCT. 035	3561	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	35	PCT. 035	3561	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	29
+LEE	Lee	10282	11/08/2016	2016 General Election	36	PCT. 036	7482	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	4091
+LEE	Lee	10282	11/08/2016	2016 General Election	36	PCT. 036	7482	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2179
+LEE	Lee	10282	11/08/2016	2016 General Election	36	PCT. 036	7482	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	109
+LEE	Lee	10282	11/08/2016	2016 General Election	36	PCT. 036	7482	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+LEE	Lee	10282	11/08/2016	2016 General Election	36	PCT. 036	7482	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+LEE	Lee	10282	11/08/2016	2016 General Election	36	PCT. 036	7482	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	36	PCT. 036	7482	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	36	PCT. 036	7482	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	12
+LEE	Lee	10282	11/08/2016	2016 General Election	36	PCT. 036	7482	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	61
+LEE	Lee	10282	11/08/2016	2016 General Election	37	PCT. 037	2546	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1187
+LEE	Lee	10282	11/08/2016	2016 General Election	37	PCT. 037	2546	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	665
+LEE	Lee	10282	11/08/2016	2016 General Election	37	PCT. 037	2546	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+LEE	Lee	10282	11/08/2016	2016 General Election	37	PCT. 037	2546	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	37	PCT. 037	2546	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	37	PCT. 037	2546	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	37	PCT. 037	2546	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	37	PCT. 037	2546	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	37	PCT. 037	2546	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	23
+LEE	Lee	10282	11/08/2016	2016 General Election	38	PCT. 038	3938	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1676
+LEE	Lee	10282	11/08/2016	2016 General Election	38	PCT. 038	3938	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	958
+LEE	Lee	10282	11/08/2016	2016 General Election	38	PCT. 038	3938	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+LEE	Lee	10282	11/08/2016	2016 General Election	38	PCT. 038	3938	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+LEE	Lee	10282	11/08/2016	2016 General Election	38	PCT. 038	3938	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+LEE	Lee	10282	11/08/2016	2016 General Election	38	PCT. 038	3938	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	38	PCT. 038	3938	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	38	PCT. 038	3938	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	11
+LEE	Lee	10282	11/08/2016	2016 General Election	38	PCT. 038	3938	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	12
+LEE	Lee	10282	11/08/2016	2016 General Election	39	PCT. 039	3443	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1812
+LEE	Lee	10282	11/08/2016	2016 General Election	39	PCT. 039	3443	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	870
+LEE	Lee	10282	11/08/2016	2016 General Election	39	PCT. 039	3443	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	62
+LEE	Lee	10282	11/08/2016	2016 General Election	39	PCT. 039	3443	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+LEE	Lee	10282	11/08/2016	2016 General Election	39	PCT. 039	3443	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+LEE	Lee	10282	11/08/2016	2016 General Election	39	PCT. 039	3443	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	39	PCT. 039	3443	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	39	PCT. 039	3443	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	13
+LEE	Lee	10282	11/08/2016	2016 General Election	39	PCT. 039	3443	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	14
+LEE	Lee	10282	11/08/2016	2016 General Election	40	PCT. 040	2795	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1554
+LEE	Lee	10282	11/08/2016	2016 General Election	40	PCT. 040	2795	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	853
+LEE	Lee	10282	11/08/2016	2016 General Election	40	PCT. 040	2795	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	32
+LEE	Lee	10282	11/08/2016	2016 General Election	40	PCT. 040	2795	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	40	PCT. 040	2795	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+LEE	Lee	10282	11/08/2016	2016 General Election	40	PCT. 040	2795	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	40	PCT. 040	2795	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	40	PCT. 040	2795	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	40	PCT. 040	2795	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	26
+LEE	Lee	10282	11/08/2016	2016 General Election	41	PCT. 041	2428	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1196
+LEE	Lee	10282	11/08/2016	2016 General Election	41	PCT. 041	2428	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	674
+LEE	Lee	10282	11/08/2016	2016 General Election	41	PCT. 041	2428	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+LEE	Lee	10282	11/08/2016	2016 General Election	41	PCT. 041	2428	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	41	PCT. 041	2428	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+LEE	Lee	10282	11/08/2016	2016 General Election	41	PCT. 041	2428	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	41	PCT. 041	2428	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	41	PCT. 041	2428	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	41	PCT. 041	2428	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	23
+LEE	Lee	10282	11/08/2016	2016 General Election	42	PCT. 042	4019	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	975
+LEE	Lee	10282	11/08/2016	2016 General Election	42	PCT. 042	4019	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1483
+LEE	Lee	10282	11/08/2016	2016 General Election	42	PCT. 042	4019	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+LEE	Lee	10282	11/08/2016	2016 General Election	42	PCT. 042	4019	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEE	Lee	10282	11/08/2016	2016 General Election	42	PCT. 042	4019	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+LEE	Lee	10282	11/08/2016	2016 General Election	42	PCT. 042	4019	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	42	PCT. 042	4019	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	42	PCT. 042	4019	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	42	PCT. 042	4019	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	20
+LEE	Lee	10282	11/08/2016	2016 General Election	43	PCT. 043	3033	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2002
+LEE	Lee	10282	11/08/2016	2016 General Election	43	PCT. 043	3033	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	672
+LEE	Lee	10282	11/08/2016	2016 General Election	43	PCT. 043	3033	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+LEE	Lee	10282	11/08/2016	2016 General Election	43	PCT. 043	3033	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	43	PCT. 043	3033	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+LEE	Lee	10282	11/08/2016	2016 General Election	43	PCT. 043	3033	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	43	PCT. 043	3033	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	43	PCT. 043	3033	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	43	PCT. 043	3033	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	43
+LEE	Lee	10282	11/08/2016	2016 General Election	44	PCT. 044	4098	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2210
+LEE	Lee	10282	11/08/2016	2016 General Election	44	PCT. 044	4098	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1185
+LEE	Lee	10282	11/08/2016	2016 General Election	44	PCT. 044	4098	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+LEE	Lee	10282	11/08/2016	2016 General Election	44	PCT. 044	4098	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	44	PCT. 044	4098	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+LEE	Lee	10282	11/08/2016	2016 General Election	44	PCT. 044	4098	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	44	PCT. 044	4098	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	44	PCT. 044	4098	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	44	PCT. 044	4098	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	35
+LEE	Lee	10282	11/08/2016	2016 General Election	45	PCT. 045	2605	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1414
+LEE	Lee	10282	11/08/2016	2016 General Election	45	PCT. 045	2605	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	567
+LEE	Lee	10282	11/08/2016	2016 General Election	45	PCT. 045	2605	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+LEE	Lee	10282	11/08/2016	2016 General Election	45	PCT. 045	2605	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	45	PCT. 045	2605	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LEE	Lee	10282	11/08/2016	2016 General Election	45	PCT. 045	2605	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	45	PCT. 045	2605	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	45	PCT. 045	2605	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	45	PCT. 045	2605	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	10
+LEE	Lee	10282	11/08/2016	2016 General Election	46	PCT. 046	4408	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1569
+LEE	Lee	10282	11/08/2016	2016 General Election	46	PCT. 046	4408	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1570
+LEE	Lee	10282	11/08/2016	2016 General Election	46	PCT. 046	4408	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	105
+LEE	Lee	10282	11/08/2016	2016 General Election	46	PCT. 046	4408	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEE	Lee	10282	11/08/2016	2016 General Election	46	PCT. 046	4408	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	36
+LEE	Lee	10282	11/08/2016	2016 General Election	46	PCT. 046	4408	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	46	PCT. 046	4408	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LEE	Lee	10282	11/08/2016	2016 General Election	46	PCT. 046	4408	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	46	PCT. 046	4408	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	25
+LEE	Lee	10282	11/08/2016	2016 General Election	47	PCT. 047	4526	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1481
+LEE	Lee	10282	11/08/2016	2016 General Election	47	PCT. 047	4526	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1654
+LEE	Lee	10282	11/08/2016	2016 General Election	47	PCT. 047	4526	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	89
+LEE	Lee	10282	11/08/2016	2016 General Election	47	PCT. 047	4526	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+LEE	Lee	10282	11/08/2016	2016 General Election	47	PCT. 047	4526	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	36
+LEE	Lee	10282	11/08/2016	2016 General Election	47	PCT. 047	4526	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	47	PCT. 047	4526	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	47	PCT. 047	4526	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	12
+LEE	Lee	10282	11/08/2016	2016 General Election	47	PCT. 047	4526	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	24
+LEE	Lee	10282	11/08/2016	2016 General Election	48	PCT. 048	3825	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1455
+LEE	Lee	10282	11/08/2016	2016 General Election	48	PCT. 048	3825	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1352
+LEE	Lee	10282	11/08/2016	2016 General Election	48	PCT. 048	3825	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	93
+LEE	Lee	10282	11/08/2016	2016 General Election	48	PCT. 048	3825	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEE	Lee	10282	11/08/2016	2016 General Election	48	PCT. 048	3825	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+LEE	Lee	10282	11/08/2016	2016 General Election	48	PCT. 048	3825	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	48	PCT. 048	3825	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LEE	Lee	10282	11/08/2016	2016 General Election	48	PCT. 048	3825	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	48	PCT. 048	3825	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	27
+LEE	Lee	10282	11/08/2016	2016 General Election	49	PCT. 049	3012	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1589
+LEE	Lee	10282	11/08/2016	2016 General Election	49	PCT. 049	3012	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	778
+LEE	Lee	10282	11/08/2016	2016 General Election	49	PCT. 049	3012	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+LEE	Lee	10282	11/08/2016	2016 General Election	49	PCT. 049	3012	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	49	PCT. 049	3012	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+LEE	Lee	10282	11/08/2016	2016 General Election	49	PCT. 049	3012	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	49	PCT. 049	3012	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	49	PCT. 049	3012	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	49	PCT. 049	3012	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	25
+LEE	Lee	10282	11/08/2016	2016 General Election	50	PCT. 050	4141	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1318
+LEE	Lee	10282	11/08/2016	2016 General Election	50	PCT. 050	4141	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1327
+LEE	Lee	10282	11/08/2016	2016 General Election	50	PCT. 050	4141	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+LEE	Lee	10282	11/08/2016	2016 General Election	50	PCT. 050	4141	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	50	PCT. 050	4141	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+LEE	Lee	10282	11/08/2016	2016 General Election	50	PCT. 050	4141	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	50	PCT. 050	4141	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	50	PCT. 050	4141	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	50	PCT. 050	4141	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	18
+LEE	Lee	10282	11/08/2016	2016 General Election	51	PCT. 051	4961	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1056
+LEE	Lee	10282	11/08/2016	2016 General Election	51	PCT. 051	4961	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1845
+LEE	Lee	10282	11/08/2016	2016 General Election	51	PCT. 051	4961	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+LEE	Lee	10282	11/08/2016	2016 General Election	51	PCT. 051	4961	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	51	PCT. 051	4961	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	29
+LEE	Lee	10282	11/08/2016	2016 General Election	51	PCT. 051	4961	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+LEE	Lee	10282	11/08/2016	2016 General Election	51	PCT. 051	4961	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	51	PCT. 051	4961	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	11
+LEE	Lee	10282	11/08/2016	2016 General Election	51	PCT. 051	4961	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	14
+LEE	Lee	10282	11/08/2016	2016 General Election	52	PCT. 052	3810	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1127
+LEE	Lee	10282	11/08/2016	2016 General Election	52	PCT. 052	3810	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1370
+LEE	Lee	10282	11/08/2016	2016 General Election	52	PCT. 052	3810	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+LEE	Lee	10282	11/08/2016	2016 General Election	52	PCT. 052	3810	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+LEE	Lee	10282	11/08/2016	2016 General Election	52	PCT. 052	3810	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+LEE	Lee	10282	11/08/2016	2016 General Election	52	PCT. 052	3810	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+LEE	Lee	10282	11/08/2016	2016 General Election	52	PCT. 052	3810	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	52	PCT. 052	3810	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	23
+LEE	Lee	10282	11/08/2016	2016 General Election	52	PCT. 052	3810	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	12
+LEE	Lee	10282	11/08/2016	2016 General Election	53	PCT. 053	4326	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1325
+LEE	Lee	10282	11/08/2016	2016 General Election	53	PCT. 053	4326	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1367
+LEE	Lee	10282	11/08/2016	2016 General Election	53	PCT. 053	4326	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+LEE	Lee	10282	11/08/2016	2016 General Election	53	PCT. 053	4326	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	53	PCT. 053	4326	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+LEE	Lee	10282	11/08/2016	2016 General Election	53	PCT. 053	4326	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+LEE	Lee	10282	11/08/2016	2016 General Election	53	PCT. 053	4326	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	53	PCT. 053	4326	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	9
+LEE	Lee	10282	11/08/2016	2016 General Election	53	PCT. 053	4326	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	12
+LEE	Lee	10282	11/08/2016	2016 General Election	54	PCT. 054	1389	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	868
+LEE	Lee	10282	11/08/2016	2016 General Election	54	PCT. 054	1389	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	224
+LEE	Lee	10282	11/08/2016	2016 General Election	54	PCT. 054	1389	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+LEE	Lee	10282	11/08/2016	2016 General Election	54	PCT. 054	1389	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	54	PCT. 054	1389	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+LEE	Lee	10282	11/08/2016	2016 General Election	54	PCT. 054	1389	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	54	PCT. 054	1389	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	54	PCT. 054	1389	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	54	PCT. 054	1389	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	6
+LEE	Lee	10282	11/08/2016	2016 General Election	55	PCT. 055	4573	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2121
+LEE	Lee	10282	11/08/2016	2016 General Election	55	PCT. 055	4573	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1153
+LEE	Lee	10282	11/08/2016	2016 General Election	55	PCT. 055	4573	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+LEE	Lee	10282	11/08/2016	2016 General Election	55	PCT. 055	4573	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	55	PCT. 055	4573	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	55	PCT. 055	4573	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	55	PCT. 055	4573	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	55	PCT. 055	4573	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	55	PCT. 055	4573	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	25
+LEE	Lee	10282	11/08/2016	2016 General Election	56	PCT. 056	3840	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1447
+LEE	Lee	10282	11/08/2016	2016 General Election	56	PCT. 056	3840	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1107
+LEE	Lee	10282	11/08/2016	2016 General Election	56	PCT. 056	3840	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	97
+LEE	Lee	10282	11/08/2016	2016 General Election	56	PCT. 056	3840	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	56	PCT. 056	3840	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+LEE	Lee	10282	11/08/2016	2016 General Election	56	PCT. 056	3840	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	56	PCT. 056	3840	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	56	PCT. 056	3840	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	56	PCT. 056	3840	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	12
+LEE	Lee	10282	11/08/2016	2016 General Election	57	PCT. 057	3840	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2286
+LEE	Lee	10282	11/08/2016	2016 General Election	57	PCT. 057	3840	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	857
+LEE	Lee	10282	11/08/2016	2016 General Election	57	PCT. 057	3840	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	67
+LEE	Lee	10282	11/08/2016	2016 General Election	57	PCT. 057	3840	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	57	PCT. 057	3840	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+LEE	Lee	10282	11/08/2016	2016 General Election	57	PCT. 057	3840	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	57	PCT. 057	3840	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	57	PCT. 057	3840	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	57	PCT. 057	3840	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	58	PCT. 058	3276	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1052
+LEE	Lee	10282	11/08/2016	2016 General Election	58	PCT. 058	3276	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1161
+LEE	Lee	10282	11/08/2016	2016 General Election	58	PCT. 058	3276	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	51
+LEE	Lee	10282	11/08/2016	2016 General Election	58	PCT. 058	3276	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	13
+LEE	Lee	10282	11/08/2016	2016 General Election	58	PCT. 058	3276	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+LEE	Lee	10282	11/08/2016	2016 General Election	58	PCT. 058	3276	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	58	PCT. 058	3276	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	58	PCT. 058	3276	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	8
+LEE	Lee	10282	11/08/2016	2016 General Election	58	PCT. 058	3276	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	59	PCT. 059	3547	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1168
+LEE	Lee	10282	11/08/2016	2016 General Election	59	PCT. 059	3547	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1299
+LEE	Lee	10282	11/08/2016	2016 General Election	59	PCT. 059	3547	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+LEE	Lee	10282	11/08/2016	2016 General Election	59	PCT. 059	3547	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	59	PCT. 059	3547	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+LEE	Lee	10282	11/08/2016	2016 General Election	59	PCT. 059	3547	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+LEE	Lee	10282	11/08/2016	2016 General Election	59	PCT. 059	3547	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	59	PCT. 059	3547	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	59	PCT. 059	3547	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	26
+LEE	Lee	10282	11/08/2016	2016 General Election	60	PCT. 060	2662	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1449
+LEE	Lee	10282	11/08/2016	2016 General Election	60	PCT. 060	2662	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	695
+LEE	Lee	10282	11/08/2016	2016 General Election	60	PCT. 060	2662	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+LEE	Lee	10282	11/08/2016	2016 General Election	60	PCT. 060	2662	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	60	PCT. 060	2662	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+LEE	Lee	10282	11/08/2016	2016 General Election	60	PCT. 060	2662	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	60	PCT. 060	2662	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	60	PCT. 060	2662	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	1
+LEE	Lee	10282	11/08/2016	2016 General Election	60	PCT. 060	2662	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	30
+LEE	Lee	10282	11/08/2016	2016 General Election	61	PCT. 061	3756	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1463
+LEE	Lee	10282	11/08/2016	2016 General Election	61	PCT. 061	3756	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1173
+LEE	Lee	10282	11/08/2016	2016 General Election	61	PCT. 061	3756	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+LEE	Lee	10282	11/08/2016	2016 General Election	61	PCT. 061	3756	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	61	PCT. 061	3756	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+LEE	Lee	10282	11/08/2016	2016 General Election	61	PCT. 061	3756	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	61	PCT. 061	3756	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	61	PCT. 061	3756	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	15
+LEE	Lee	10282	11/08/2016	2016 General Election	61	PCT. 061	3756	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	17
+LEE	Lee	10282	11/08/2016	2016 General Election	62	PCT. 062	3704	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1470
+LEE	Lee	10282	11/08/2016	2016 General Election	62	PCT. 062	3704	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1026
+LEE	Lee	10282	11/08/2016	2016 General Election	62	PCT. 062	3704	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	99
+LEE	Lee	10282	11/08/2016	2016 General Election	62	PCT. 062	3704	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	62	PCT. 062	3704	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	34
+LEE	Lee	10282	11/08/2016	2016 General Election	62	PCT. 062	3704	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+LEE	Lee	10282	11/08/2016	2016 General Election	62	PCT. 062	3704	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	62	PCT. 062	3704	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	1
+LEE	Lee	10282	11/08/2016	2016 General Election	62	PCT. 062	3704	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	20
+LEE	Lee	10282	11/08/2016	2016 General Election	63	PCT. 063	3189	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1480
+LEE	Lee	10282	11/08/2016	2016 General Election	63	PCT. 063	3189	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	805
+LEE	Lee	10282	11/08/2016	2016 General Election	63	PCT. 063	3189	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+LEE	Lee	10282	11/08/2016	2016 General Election	63	PCT. 063	3189	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEE	Lee	10282	11/08/2016	2016 General Election	63	PCT. 063	3189	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+LEE	Lee	10282	11/08/2016	2016 General Election	63	PCT. 063	3189	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+LEE	Lee	10282	11/08/2016	2016 General Election	63	PCT. 063	3189	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	63	PCT. 063	3189	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	63	PCT. 063	3189	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	64	PCT. 064	4288	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2306
+LEE	Lee	10282	11/08/2016	2016 General Election	64	PCT. 064	4288	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1101
+LEE	Lee	10282	11/08/2016	2016 General Election	64	PCT. 064	4288	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	72
+LEE	Lee	10282	11/08/2016	2016 General Election	64	PCT. 064	4288	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEE	Lee	10282	11/08/2016	2016 General Election	64	PCT. 064	4288	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	29
+LEE	Lee	10282	11/08/2016	2016 General Election	64	PCT. 064	4288	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	64	PCT. 064	4288	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	64	PCT. 064	4288	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	64	PCT. 064	4288	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	23
+LEE	Lee	10282	11/08/2016	2016 General Election	65	PCT. 065	3712	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2047
+LEE	Lee	10282	11/08/2016	2016 General Election	65	PCT. 065	3712	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1077
+LEE	Lee	10282	11/08/2016	2016 General Election	65	PCT. 065	3712	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+LEE	Lee	10282	11/08/2016	2016 General Election	65	PCT. 065	3712	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	65	PCT. 065	3712	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+LEE	Lee	10282	11/08/2016	2016 General Election	65	PCT. 065	3712	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	65	PCT. 065	3712	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	65	PCT. 065	3712	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	10
+LEE	Lee	10282	11/08/2016	2016 General Election	65	PCT. 065	3712	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	20
+LEE	Lee	10282	11/08/2016	2016 General Election	66	PCT. 066	1394	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	814
+LEE	Lee	10282	11/08/2016	2016 General Election	66	PCT. 066	1394	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	476
+LEE	Lee	10282	11/08/2016	2016 General Election	66	PCT. 066	1394	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+LEE	Lee	10282	11/08/2016	2016 General Election	66	PCT. 066	1394	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	66	PCT. 066	1394	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+LEE	Lee	10282	11/08/2016	2016 General Election	66	PCT. 066	1394	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	66	PCT. 066	1394	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	66	PCT. 066	1394	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	66	PCT. 066	1394	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	11
+LEE	Lee	10282	11/08/2016	2016 General Election	67	PCT. 067	3605	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2163
+LEE	Lee	10282	11/08/2016	2016 General Election	67	PCT. 067	3605	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	554
+LEE	Lee	10282	11/08/2016	2016 General Election	67	PCT. 067	3605	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+LEE	Lee	10282	11/08/2016	2016 General Election	67	PCT. 067	3605	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	12
+LEE	Lee	10282	11/08/2016	2016 General Election	67	PCT. 067	3605	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+LEE	Lee	10282	11/08/2016	2016 General Election	67	PCT. 067	3605	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	67	PCT. 067	3605	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	67	PCT. 067	3605	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	8
+LEE	Lee	10282	11/08/2016	2016 General Election	67	PCT. 067	3605	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	68	PCT. 068	3786	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1662
+LEE	Lee	10282	11/08/2016	2016 General Election	68	PCT. 068	3786	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	810
+LEE	Lee	10282	11/08/2016	2016 General Election	68	PCT. 068	3786	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+LEE	Lee	10282	11/08/2016	2016 General Election	68	PCT. 068	3786	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	68	PCT. 068	3786	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+LEE	Lee	10282	11/08/2016	2016 General Election	68	PCT. 068	3786	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+LEE	Lee	10282	11/08/2016	2016 General Election	68	PCT. 068	3786	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	68	PCT. 068	3786	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	9
+LEE	Lee	10282	11/08/2016	2016 General Election	68	PCT. 068	3786	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	69	PCT. 069	4184	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2371
+LEE	Lee	10282	11/08/2016	2016 General Election	69	PCT. 069	4184	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1016
+LEE	Lee	10282	11/08/2016	2016 General Election	69	PCT. 069	4184	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	56
+LEE	Lee	10282	11/08/2016	2016 General Election	69	PCT. 069	4184	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	69	PCT. 069	4184	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+LEE	Lee	10282	11/08/2016	2016 General Election	69	PCT. 069	4184	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	69	PCT. 069	4184	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	69	PCT. 069	4184	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	69	PCT. 069	4184	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	22
+LEE	Lee	10282	11/08/2016	2016 General Election	70	PCT. 070	3617	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1807
+LEE	Lee	10282	11/08/2016	2016 General Election	70	PCT. 070	3617	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1156
+LEE	Lee	10282	11/08/2016	2016 General Election	70	PCT. 070	3617	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+LEE	Lee	10282	11/08/2016	2016 General Election	70	PCT. 070	3617	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	70	PCT. 070	3617	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+LEE	Lee	10282	11/08/2016	2016 General Election	70	PCT. 070	3617	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	70	PCT. 070	3617	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	70	PCT. 070	3617	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	70	PCT. 070	3617	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	33
+LEE	Lee	10282	11/08/2016	2016 General Election	71	PCT. 071	2864	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1334
+LEE	Lee	10282	11/08/2016	2016 General Election	71	PCT. 071	2864	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	880
+LEE	Lee	10282	11/08/2016	2016 General Election	71	PCT. 071	2864	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+LEE	Lee	10282	11/08/2016	2016 General Election	71	PCT. 071	2864	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	71	PCT. 071	2864	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+LEE	Lee	10282	11/08/2016	2016 General Election	71	PCT. 071	2864	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	71	PCT. 071	2864	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	71	PCT. 071	2864	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	71	PCT. 071	2864	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	15
+LEE	Lee	10282	11/08/2016	2016 General Election	72	PCT. 072	3095	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1579
+LEE	Lee	10282	11/08/2016	2016 General Election	72	PCT. 072	3095	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	880
+LEE	Lee	10282	11/08/2016	2016 General Election	72	PCT. 072	3095	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+LEE	Lee	10282	11/08/2016	2016 General Election	72	PCT. 072	3095	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	72	PCT. 072	3095	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	72	PCT. 072	3095	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+LEE	Lee	10282	11/08/2016	2016 General Election	72	PCT. 072	3095	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	72	PCT. 072	3095	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	2
+LEE	Lee	10282	11/08/2016	2016 General Election	72	PCT. 072	3095	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	18
+LEE	Lee	10282	11/08/2016	2016 General Election	73	PCT. 073	3721	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1601
+LEE	Lee	10282	11/08/2016	2016 General Election	73	PCT. 073	3721	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1185
+LEE	Lee	10282	11/08/2016	2016 General Election	73	PCT. 073	3721	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	76
+LEE	Lee	10282	11/08/2016	2016 General Election	73	PCT. 073	3721	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	73	PCT. 073	3721	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+LEE	Lee	10282	11/08/2016	2016 General Election	73	PCT. 073	3721	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+LEE	Lee	10282	11/08/2016	2016 General Election	73	PCT. 073	3721	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	73	PCT. 073	3721	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	73	PCT. 073	3721	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	25
+LEE	Lee	10282	11/08/2016	2016 General Election	74	PCT. 074	3528	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1787
+LEE	Lee	10282	11/08/2016	2016 General Election	74	PCT. 074	3528	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1002
+LEE	Lee	10282	11/08/2016	2016 General Election	74	PCT. 074	3528	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+LEE	Lee	10282	11/08/2016	2016 General Election	74	PCT. 074	3528	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	74	PCT. 074	3528	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+LEE	Lee	10282	11/08/2016	2016 General Election	74	PCT. 074	3528	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	74	PCT. 074	3528	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	74	PCT. 074	3528	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	74	PCT. 074	3528	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	30
+LEE	Lee	10282	11/08/2016	2016 General Election	75	PCT. 075	4379	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2281
+LEE	Lee	10282	11/08/2016	2016 General Election	75	PCT. 075	4379	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1233
+LEE	Lee	10282	11/08/2016	2016 General Election	75	PCT. 075	4379	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	78
+LEE	Lee	10282	11/08/2016	2016 General Election	75	PCT. 075	4379	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	75	PCT. 075	4379	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	75	PCT. 075	4379	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	75	PCT. 075	4379	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	75	PCT. 075	4379	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	75	PCT. 075	4379	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	76	PCT. 076	2235	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1040
+LEE	Lee	10282	11/08/2016	2016 General Election	76	PCT. 076	2235	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	692
+LEE	Lee	10282	11/08/2016	2016 General Election	76	PCT. 076	2235	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+LEE	Lee	10282	11/08/2016	2016 General Election	76	PCT. 076	2235	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	76	PCT. 076	2235	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+LEE	Lee	10282	11/08/2016	2016 General Election	76	PCT. 076	2235	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	76	PCT. 076	2235	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	76	PCT. 076	2235	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	76	PCT. 076	2235	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	9
+LEE	Lee	10282	11/08/2016	2016 General Election	77	PCT. 077	3874	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1440
+LEE	Lee	10282	11/08/2016	2016 General Election	77	PCT. 077	3874	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1164
+LEE	Lee	10282	11/08/2016	2016 General Election	77	PCT. 077	3874	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+LEE	Lee	10282	11/08/2016	2016 General Election	77	PCT. 077	3874	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	77	PCT. 077	3874	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+LEE	Lee	10282	11/08/2016	2016 General Election	77	PCT. 077	3874	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	77	PCT. 077	3874	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	1
+LEE	Lee	10282	11/08/2016	2016 General Election	77	PCT. 077	3874	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	8
+LEE	Lee	10282	11/08/2016	2016 General Election	77	PCT. 077	3874	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	18
+LEE	Lee	10282	11/08/2016	2016 General Election	78	PCT. 078	4610	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1530
+LEE	Lee	10282	11/08/2016	2016 General Election	78	PCT. 078	4610	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1466
+LEE	Lee	10282	11/08/2016	2016 General Election	78	PCT. 078	4610	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+LEE	Lee	10282	11/08/2016	2016 General Election	78	PCT. 078	4610	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	78	PCT. 078	4610	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	27
+LEE	Lee	10282	11/08/2016	2016 General Election	78	PCT. 078	4610	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+LEE	Lee	10282	11/08/2016	2016 General Election	78	PCT. 078	4610	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	78	PCT. 078	4610	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	78	PCT. 078	4610	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	23
+LEE	Lee	10282	11/08/2016	2016 General Election	79	PCT. 079	3716	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1765
+LEE	Lee	10282	11/08/2016	2016 General Election	79	PCT. 079	3716	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1266
+LEE	Lee	10282	11/08/2016	2016 General Election	79	PCT. 079	3716	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+LEE	Lee	10282	11/08/2016	2016 General Election	79	PCT. 079	3716	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	79	PCT. 079	3716	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+LEE	Lee	10282	11/08/2016	2016 General Election	79	PCT. 079	3716	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	79	PCT. 079	3716	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	79	PCT. 079	3716	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	79	PCT. 079	3716	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	28
+LEE	Lee	10282	11/08/2016	2016 General Election	80	PCT. 080	2271	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1197
+LEE	Lee	10282	11/08/2016	2016 General Election	80	PCT. 080	2271	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	643
+LEE	Lee	10282	11/08/2016	2016 General Election	80	PCT. 080	2271	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+LEE	Lee	10282	11/08/2016	2016 General Election	80	PCT. 080	2271	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEE	Lee	10282	11/08/2016	2016 General Election	80	PCT. 080	2271	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+LEE	Lee	10282	11/08/2016	2016 General Election	80	PCT. 080	2271	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	80	PCT. 080	2271	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	80	PCT. 080	2271	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	80	PCT. 080	2271	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	20
+LEE	Lee	10282	11/08/2016	2016 General Election	81	PCT. 081	2313	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1317
+LEE	Lee	10282	11/08/2016	2016 General Election	81	PCT. 081	2313	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	602
+LEE	Lee	10282	11/08/2016	2016 General Election	81	PCT. 081	2313	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+LEE	Lee	10282	11/08/2016	2016 General Election	81	PCT. 081	2313	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	81	PCT. 081	2313	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+LEE	Lee	10282	11/08/2016	2016 General Election	81	PCT. 081	2313	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	81	PCT. 081	2313	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	81	PCT. 081	2313	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	81	PCT. 081	2313	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	34
+LEE	Lee	10282	11/08/2016	2016 General Election	82	PCT. 082	1446	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	661
+LEE	Lee	10282	11/08/2016	2016 General Election	82	PCT. 082	1446	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	444
+LEE	Lee	10282	11/08/2016	2016 General Election	82	PCT. 082	1446	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+LEE	Lee	10282	11/08/2016	2016 General Election	82	PCT. 082	1446	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEE	Lee	10282	11/08/2016	2016 General Election	82	PCT. 082	1446	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+LEE	Lee	10282	11/08/2016	2016 General Election	82	PCT. 082	1446	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	82	PCT. 082	1446	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	82	PCT. 082	1446	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	82	PCT. 082	1446	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	14
+LEE	Lee	10282	11/08/2016	2016 General Election	83	PCT. 083	2609	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1316
+LEE	Lee	10282	11/08/2016	2016 General Election	83	PCT. 083	2609	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	757
+LEE	Lee	10282	11/08/2016	2016 General Election	83	PCT. 083	2609	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+LEE	Lee	10282	11/08/2016	2016 General Election	83	PCT. 083	2609	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	83	PCT. 083	2609	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+LEE	Lee	10282	11/08/2016	2016 General Election	83	PCT. 083	2609	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	83	PCT. 083	2609	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	83	PCT. 083	2609	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	83	PCT. 083	2609	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	26
+LEE	Lee	10282	11/08/2016	2016 General Election	84	PCT. 084	3427	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1561
+LEE	Lee	10282	11/08/2016	2016 General Election	84	PCT. 084	3427	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1043
+LEE	Lee	10282	11/08/2016	2016 General Election	84	PCT. 084	3427	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	58
+LEE	Lee	10282	11/08/2016	2016 General Election	84	PCT. 084	3427	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	84	PCT. 084	3427	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+LEE	Lee	10282	11/08/2016	2016 General Election	84	PCT. 084	3427	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	84	PCT. 084	3427	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	84	PCT. 084	3427	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	84	PCT. 084	3427	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	33
+LEE	Lee	10282	11/08/2016	2016 General Election	85	PCT. 085	2666	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1328
+LEE	Lee	10282	11/08/2016	2016 General Election	85	PCT. 085	2666	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	795
+LEE	Lee	10282	11/08/2016	2016 General Election	85	PCT. 085	2666	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+LEE	Lee	10282	11/08/2016	2016 General Election	85	PCT. 085	2666	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEE	Lee	10282	11/08/2016	2016 General Election	85	PCT. 085	2666	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+LEE	Lee	10282	11/08/2016	2016 General Election	85	PCT. 085	2666	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	85	PCT. 085	2666	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	85	PCT. 085	2666	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	85	PCT. 085	2666	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	11
+LEE	Lee	10282	11/08/2016	2016 General Election	86	PCT. 086	4014	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2115
+LEE	Lee	10282	11/08/2016	2016 General Election	86	PCT. 086	4014	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1091
+LEE	Lee	10282	11/08/2016	2016 General Election	86	PCT. 086	4014	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+LEE	Lee	10282	11/08/2016	2016 General Election	86	PCT. 086	4014	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	86	PCT. 086	4014	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+LEE	Lee	10282	11/08/2016	2016 General Election	86	PCT. 086	4014	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	86	PCT. 086	4014	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	86	PCT. 086	4014	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	86	PCT. 086	4014	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	29
+LEE	Lee	10282	11/08/2016	2016 General Election	87	PCT. 087	2589	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1351
+LEE	Lee	10282	11/08/2016	2016 General Election	87	PCT. 087	2589	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	736
+LEE	Lee	10282	11/08/2016	2016 General Election	87	PCT. 087	2589	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+LEE	Lee	10282	11/08/2016	2016 General Election	87	PCT. 087	2589	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	87	PCT. 087	2589	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+LEE	Lee	10282	11/08/2016	2016 General Election	87	PCT. 087	2589	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	87	PCT. 087	2589	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	87	PCT. 087	2589	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	87	PCT. 087	2589	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	15
+LEE	Lee	10282	11/08/2016	2016 General Election	88	PCT. 088	2693	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1506
+LEE	Lee	10282	11/08/2016	2016 General Election	88	PCT. 088	2693	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	687
+LEE	Lee	10282	11/08/2016	2016 General Election	88	PCT. 088	2693	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+LEE	Lee	10282	11/08/2016	2016 General Election	88	PCT. 088	2693	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	88	PCT. 088	2693	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	88	PCT. 088	2693	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	88	PCT. 088	2693	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	88	PCT. 088	2693	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	88	PCT. 088	2693	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	14
+LEE	Lee	10282	11/08/2016	2016 General Election	89	PCT. 089	2865	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1039
+LEE	Lee	10282	11/08/2016	2016 General Election	89	PCT. 089	2865	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	857
+LEE	Lee	10282	11/08/2016	2016 General Election	89	PCT. 089	2865	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+LEE	Lee	10282	11/08/2016	2016 General Election	89	PCT. 089	2865	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	89	PCT. 089	2865	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+LEE	Lee	10282	11/08/2016	2016 General Election	89	PCT. 089	2865	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+LEE	Lee	10282	11/08/2016	2016 General Election	89	PCT. 089	2865	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	89	PCT. 089	2865	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	89	PCT. 089	2865	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	9
+LEE	Lee	10282	11/08/2016	2016 General Election	90	PCT. 090	3239	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1610
+LEE	Lee	10282	11/08/2016	2016 General Election	90	PCT. 090	3239	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	995
+LEE	Lee	10282	11/08/2016	2016 General Election	90	PCT. 090	3239	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	78
+LEE	Lee	10282	11/08/2016	2016 General Election	90	PCT. 090	3239	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	90	PCT. 090	3239	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	90	PCT. 090	3239	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	90	PCT. 090	3239	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	90	PCT. 090	3239	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	90	PCT. 090	3239	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	17
+LEE	Lee	10282	11/08/2016	2016 General Election	91	PCT. 091	3236	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1562
+LEE	Lee	10282	11/08/2016	2016 General Election	91	PCT. 091	3236	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1017
+LEE	Lee	10282	11/08/2016	2016 General Election	91	PCT. 091	3236	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+LEE	Lee	10282	11/08/2016	2016 General Election	91	PCT. 091	3236	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	91	PCT. 091	3236	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+LEE	Lee	10282	11/08/2016	2016 General Election	91	PCT. 091	3236	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	91	PCT. 091	3236	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	91	PCT. 091	3236	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	91	PCT. 091	3236	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	15
+LEE	Lee	10282	11/08/2016	2016 General Election	92	PCT. 092	4139	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1752
+LEE	Lee	10282	11/08/2016	2016 General Election	92	PCT. 092	4139	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1283
+LEE	Lee	10282	11/08/2016	2016 General Election	92	PCT. 092	4139	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	77
+LEE	Lee	10282	11/08/2016	2016 General Election	92	PCT. 092	4139	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	92	PCT. 092	4139	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	24
+LEE	Lee	10282	11/08/2016	2016 General Election	92	PCT. 092	4139	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+LEE	Lee	10282	11/08/2016	2016 General Election	92	PCT. 092	4139	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	92	PCT. 092	4139	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	92	PCT. 092	4139	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	93	PCT. 093	3474	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1965
+LEE	Lee	10282	11/08/2016	2016 General Election	93	PCT. 093	3474	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	822
+LEE	Lee	10282	11/08/2016	2016 General Election	93	PCT. 093	3474	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	51
+LEE	Lee	10282	11/08/2016	2016 General Election	93	PCT. 093	3474	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	93	PCT. 093	3474	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+LEE	Lee	10282	11/08/2016	2016 General Election	93	PCT. 093	3474	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	93	PCT. 093	3474	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	93	PCT. 093	3474	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	93	PCT. 093	3474	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	15
+LEE	Lee	10282	11/08/2016	2016 General Election	94	PCT. 094.	3514	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1844
+LEE	Lee	10282	11/08/2016	2016 General Election	94	PCT. 094.	3514	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	888
+LEE	Lee	10282	11/08/2016	2016 General Election	94	PCT. 094.	3514	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+LEE	Lee	10282	11/08/2016	2016 General Election	94	PCT. 094.	3514	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	94	PCT. 094.	3514	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+LEE	Lee	10282	11/08/2016	2016 General Election	94	PCT. 094.	3514	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	94	PCT. 094.	3514	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	94	PCT. 094.	3514	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	94	PCT. 094.	3514	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	13
+LEE	Lee	10282	11/08/2016	2016 General Election	95	PCT. 095	3952	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1749
+LEE	Lee	10282	11/08/2016	2016 General Election	95	PCT. 095	3952	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1189
+LEE	Lee	10282	11/08/2016	2016 General Election	95	PCT. 095	3952	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	56
+LEE	Lee	10282	11/08/2016	2016 General Election	95	PCT. 095	3952	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	95	PCT. 095	3952	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+LEE	Lee	10282	11/08/2016	2016 General Election	95	PCT. 095	3952	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+LEE	Lee	10282	11/08/2016	2016 General Election	95	PCT. 095	3952	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	95	PCT. 095	3952	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	95	PCT. 095	3952	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	15
+LEE	Lee	10282	11/08/2016	2016 General Election	96	PCT. 096	3568	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1676
+LEE	Lee	10282	11/08/2016	2016 General Election	96	PCT. 096	3568	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	977
+LEE	Lee	10282	11/08/2016	2016 General Election	96	PCT. 096	3568	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+LEE	Lee	10282	11/08/2016	2016 General Election	96	PCT. 096	3568	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	96	PCT. 096	3568	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	96	PCT. 096	3568	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	96	PCT. 096	3568	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	96	PCT. 096	3568	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	8
+LEE	Lee	10282	11/08/2016	2016 General Election	96	PCT. 096	3568	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	23
+LEE	Lee	10282	11/08/2016	2016 General Election	97	PCT. 097	3867	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1882
+LEE	Lee	10282	11/08/2016	2016 General Election	97	PCT. 097	3867	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1068
+LEE	Lee	10282	11/08/2016	2016 General Election	97	PCT. 097	3867	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+LEE	Lee	10282	11/08/2016	2016 General Election	97	PCT. 097	3867	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	97	PCT. 097	3867	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+LEE	Lee	10282	11/08/2016	2016 General Election	97	PCT. 097	3867	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+LEE	Lee	10282	11/08/2016	2016 General Election	97	PCT. 097	3867	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	97	PCT. 097	3867	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	10
+LEE	Lee	10282	11/08/2016	2016 General Election	97	PCT. 097	3867	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	98	PCT. 098	3378	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1700
+LEE	Lee	10282	11/08/2016	2016 General Election	98	PCT. 098	3378	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	899
+LEE	Lee	10282	11/08/2016	2016 General Election	98	PCT. 098	3378	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+LEE	Lee	10282	11/08/2016	2016 General Election	98	PCT. 098	3378	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	98	PCT. 098	3378	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+LEE	Lee	10282	11/08/2016	2016 General Election	98	PCT. 098	3378	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	98	PCT. 098	3378	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	98	PCT. 098	3378	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	98	PCT. 098	3378	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	99	PCT. 099	3626	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1598
+LEE	Lee	10282	11/08/2016	2016 General Election	99	PCT. 099	3626	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1127
+LEE	Lee	10282	11/08/2016	2016 General Election	99	PCT. 099	3626	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	56
+LEE	Lee	10282	11/08/2016	2016 General Election	99	PCT. 099	3626	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	99	PCT. 099	3626	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+LEE	Lee	10282	11/08/2016	2016 General Election	99	PCT. 099	3626	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	99	PCT. 099	3626	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	99	PCT. 099	3626	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	2
+LEE	Lee	10282	11/08/2016	2016 General Election	99	PCT. 099	3626	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	100	PCT. 100	3059	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1547
+LEE	Lee	10282	11/08/2016	2016 General Election	100	PCT. 100	3059	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	921
+LEE	Lee	10282	11/08/2016	2016 General Election	100	PCT. 100	3059	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	53
+LEE	Lee	10282	11/08/2016	2016 General Election	100	PCT. 100	3059	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	100	PCT. 100	3059	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+LEE	Lee	10282	11/08/2016	2016 General Election	100	PCT. 100	3059	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	100	PCT. 100	3059	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	100	PCT. 100	3059	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	100	PCT. 100	3059	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	25
+LEE	Lee	10282	11/08/2016	2016 General Election	101	PCT. 101	3080	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1810
+LEE	Lee	10282	11/08/2016	2016 General Election	101	PCT. 101	3080	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	741
+LEE	Lee	10282	11/08/2016	2016 General Election	101	PCT. 101	3080	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+LEE	Lee	10282	11/08/2016	2016 General Election	101	PCT. 101	3080	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEE	Lee	10282	11/08/2016	2016 General Election	101	PCT. 101	3080	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LEE	Lee	10282	11/08/2016	2016 General Election	101	PCT. 101	3080	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	101	PCT. 101	3080	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	101	PCT. 101	3080	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	2
+LEE	Lee	10282	11/08/2016	2016 General Election	101	PCT. 101	3080	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	31
+LEE	Lee	10282	11/08/2016	2016 General Election	102	PCT. 102	4010	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2307
+LEE	Lee	10282	11/08/2016	2016 General Election	102	PCT. 102	4010	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	935
+LEE	Lee	10282	11/08/2016	2016 General Election	102	PCT. 102	4010	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	55
+LEE	Lee	10282	11/08/2016	2016 General Election	102	PCT. 102	4010	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	102	PCT. 102	4010	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+LEE	Lee	10282	11/08/2016	2016 General Election	102	PCT. 102	4010	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	102	PCT. 102	4010	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	102	PCT. 102	4010	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	102	PCT. 102	4010	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	22
+LEE	Lee	10282	11/08/2016	2016 General Election	103	PCT. 103	4459	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1952
+LEE	Lee	10282	11/08/2016	2016 General Election	103	PCT. 103	4459	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1273
+LEE	Lee	10282	11/08/2016	2016 General Election	103	PCT. 103	4459	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	90
+LEE	Lee	10282	11/08/2016	2016 General Election	103	PCT. 103	4459	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+LEE	Lee	10282	11/08/2016	2016 General Election	103	PCT. 103	4459	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+LEE	Lee	10282	11/08/2016	2016 General Election	103	PCT. 103	4459	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	103	PCT. 103	4459	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	103	PCT. 103	4459	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	103	PCT. 103	4459	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	20
+LEE	Lee	10282	11/08/2016	2016 General Election	104	PCT. 104	3921	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1805
+LEE	Lee	10282	11/08/2016	2016 General Election	104	PCT. 104	3921	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1085
+LEE	Lee	10282	11/08/2016	2016 General Election	104	PCT. 104	3921	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+LEE	Lee	10282	11/08/2016	2016 General Election	104	PCT. 104	3921	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	104	PCT. 104	3921	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	33
+LEE	Lee	10282	11/08/2016	2016 General Election	104	PCT. 104	3921	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+LEE	Lee	10282	11/08/2016	2016 General Election	104	PCT. 104	3921	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	104	PCT. 104	3921	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	104	PCT. 104	3921	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	18
+LEE	Lee	10282	11/08/2016	2016 General Election	105	PCT. 105	3867	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1696
+LEE	Lee	10282	11/08/2016	2016 General Election	105	PCT. 105	3867	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1084
+LEE	Lee	10282	11/08/2016	2016 General Election	105	PCT. 105	3867	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+LEE	Lee	10282	11/08/2016	2016 General Election	105	PCT. 105	3867	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	105	PCT. 105	3867	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+LEE	Lee	10282	11/08/2016	2016 General Election	105	PCT. 105	3867	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	8
+LEE	Lee	10282	11/08/2016	2016 General Election	105	PCT. 105	3867	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	105	PCT. 105	3867	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	105	PCT. 105	3867	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	106	PCT. 106	3570	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1594
+LEE	Lee	10282	11/08/2016	2016 General Election	106	PCT. 106	3570	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1102
+LEE	Lee	10282	11/08/2016	2016 General Election	106	PCT. 106	3570	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+LEE	Lee	10282	11/08/2016	2016 General Election	106	PCT. 106	3570	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	106	PCT. 106	3570	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+LEE	Lee	10282	11/08/2016	2016 General Election	106	PCT. 106	3570	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	106	PCT. 106	3570	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	106	PCT. 106	3570	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	106	PCT. 106	3570	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	25
+LEE	Lee	10282	11/08/2016	2016 General Election	107	PCT. 107	4603	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2422
+LEE	Lee	10282	11/08/2016	2016 General Election	107	PCT. 107	4603	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1133
+LEE	Lee	10282	11/08/2016	2016 General Election	107	PCT. 107	4603	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	71
+LEE	Lee	10282	11/08/2016	2016 General Election	107	PCT. 107	4603	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	107	PCT. 107	4603	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+LEE	Lee	10282	11/08/2016	2016 General Election	107	PCT. 107	4603	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	107	PCT. 107	4603	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	107	PCT. 107	4603	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	107	PCT. 107	4603	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	26
+LEE	Lee	10282	11/08/2016	2016 General Election	108	PCT. 108	4332	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1685
+LEE	Lee	10282	11/08/2016	2016 General Election	108	PCT. 108	4332	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1344
+LEE	Lee	10282	11/08/2016	2016 General Election	108	PCT. 108	4332	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+LEE	Lee	10282	11/08/2016	2016 General Election	108	PCT. 108	4332	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	108	PCT. 108	4332	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+LEE	Lee	10282	11/08/2016	2016 General Election	108	PCT. 108	4332	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+LEE	Lee	10282	11/08/2016	2016 General Election	108	PCT. 108	4332	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	108	PCT. 108	4332	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	11
+LEE	Lee	10282	11/08/2016	2016 General Election	108	PCT. 108	4332	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	109	PCT. 109	3904	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1598
+LEE	Lee	10282	11/08/2016	2016 General Election	109	PCT. 109	3904	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1161
+LEE	Lee	10282	11/08/2016	2016 General Election	109	PCT. 109	3904	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+LEE	Lee	10282	11/08/2016	2016 General Election	109	PCT. 109	3904	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	109	PCT. 109	3904	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	30
+LEE	Lee	10282	11/08/2016	2016 General Election	109	PCT. 109	3904	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	109	PCT. 109	3904	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	109	PCT. 109	3904	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	6
+LEE	Lee	10282	11/08/2016	2016 General Election	109	PCT. 109	3904	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	25
+LEE	Lee	10282	11/08/2016	2016 General Election	110	PCT. 110	3480	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1246
+LEE	Lee	10282	11/08/2016	2016 General Election	110	PCT. 110	3480	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1011
+LEE	Lee	10282	11/08/2016	2016 General Election	110	PCT. 110	3480	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+LEE	Lee	10282	11/08/2016	2016 General Election	110	PCT. 110	3480	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	110	PCT. 110	3480	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+LEE	Lee	10282	11/08/2016	2016 General Election	110	PCT. 110	3480	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+LEE	Lee	10282	11/08/2016	2016 General Election	110	PCT. 110	3480	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	110	PCT. 110	3480	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	110	PCT. 110	3480	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	111	PCT. 111	2723	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1094
+LEE	Lee	10282	11/08/2016	2016 General Election	111	PCT. 111	2723	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	710
+LEE	Lee	10282	11/08/2016	2016 General Election	111	PCT. 111	2723	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+LEE	Lee	10282	11/08/2016	2016 General Election	111	PCT. 111	2723	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+LEE	Lee	10282	11/08/2016	2016 General Election	111	PCT. 111	2723	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+LEE	Lee	10282	11/08/2016	2016 General Election	111	PCT. 111	2723	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	8
+LEE	Lee	10282	11/08/2016	2016 General Election	111	PCT. 111	2723	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	111	PCT. 111	2723	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	111	PCT. 111	2723	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	12
+LEE	Lee	10282	11/08/2016	2016 General Election	112	PCT. 112	4702	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2196
+LEE	Lee	10282	11/08/2016	2016 General Election	112	PCT. 112	4702	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1202
+LEE	Lee	10282	11/08/2016	2016 General Election	112	PCT. 112	4702	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	67
+LEE	Lee	10282	11/08/2016	2016 General Election	112	PCT. 112	4702	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+LEE	Lee	10282	11/08/2016	2016 General Election	112	PCT. 112	4702	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	31
+LEE	Lee	10282	11/08/2016	2016 General Election	112	PCT. 112	4702	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+LEE	Lee	10282	11/08/2016	2016 General Election	112	PCT. 112	4702	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	112	PCT. 112	4702	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	112	PCT. 112	4702	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	18
+LEE	Lee	10282	11/08/2016	2016 General Election	113	PCT. 113	3779	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1478
+LEE	Lee	10282	11/08/2016	2016 General Election	113	PCT. 113	3779	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1099
+LEE	Lee	10282	11/08/2016	2016 General Election	113	PCT. 113	3779	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	56
+LEE	Lee	10282	11/08/2016	2016 General Election	113	PCT. 113	3779	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	113	PCT. 113	3779	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+LEE	Lee	10282	11/08/2016	2016 General Election	113	PCT. 113	3779	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	113	PCT. 113	3779	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	113	PCT. 113	3779	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	113	PCT. 113	3779	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	7
+LEE	Lee	10282	11/08/2016	2016 General Election	114	PCT. 114	3791	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1503
+LEE	Lee	10282	11/08/2016	2016 General Election	114	PCT. 114	3791	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1150
+LEE	Lee	10282	11/08/2016	2016 General Election	114	PCT. 114	3791	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	77
+LEE	Lee	10282	11/08/2016	2016 General Election	114	PCT. 114	3791	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	114	PCT. 114	3791	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	26
+LEE	Lee	10282	11/08/2016	2016 General Election	114	PCT. 114	3791	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	114	PCT. 114	3791	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	114	PCT. 114	3791	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	13
+LEE	Lee	10282	11/08/2016	2016 General Election	114	PCT. 114	3791	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	18
+LEE	Lee	10282	11/08/2016	2016 General Election	115	PCT. 115	4677	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2080
+LEE	Lee	10282	11/08/2016	2016 General Election	115	PCT. 115	4677	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1217
+LEE	Lee	10282	11/08/2016	2016 General Election	115	PCT. 115	4677	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	68
+LEE	Lee	10282	11/08/2016	2016 General Election	115	PCT. 115	4677	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEE	Lee	10282	11/08/2016	2016 General Election	115	PCT. 115	4677	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	34
+LEE	Lee	10282	11/08/2016	2016 General Election	115	PCT. 115	4677	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	115	PCT. 115	4677	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	115	PCT. 115	4677	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	9
+LEE	Lee	10282	11/08/2016	2016 General Election	115	PCT. 115	4677	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	16
+LEE	Lee	10282	11/08/2016	2016 General Election	116	PCT. 116	3858	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1711
+LEE	Lee	10282	11/08/2016	2016 General Election	116	PCT. 116	3858	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1049
+LEE	Lee	10282	11/08/2016	2016 General Election	116	PCT. 116	3858	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	72
+LEE	Lee	10282	11/08/2016	2016 General Election	116	PCT. 116	3858	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+LEE	Lee	10282	11/08/2016	2016 General Election	116	PCT. 116	3858	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	28
+LEE	Lee	10282	11/08/2016	2016 General Election	116	PCT. 116	3858	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	116	PCT. 116	3858	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	116	PCT. 116	3858	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	116	PCT. 116	3858	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	14
+LEE	Lee	10282	11/08/2016	2016 General Election	117	PCT. 117	2109	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	926
+LEE	Lee	10282	11/08/2016	2016 General Election	117	PCT. 117	2109	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	783
+LEE	Lee	10282	11/08/2016	2016 General Election	117	PCT. 117	2109	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+LEE	Lee	10282	11/08/2016	2016 General Election	117	PCT. 117	2109	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	117	PCT. 117	2109	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LEE	Lee	10282	11/08/2016	2016 General Election	117	PCT. 117	2109	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	117	PCT. 117	2109	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	117	PCT. 117	2109	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	117	PCT. 117	2109	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	23
+LEE	Lee	10282	11/08/2016	2016 General Election	118	PCT. 118	3660	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1784
+LEE	Lee	10282	11/08/2016	2016 General Election	118	PCT. 118	3660	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1056
+LEE	Lee	10282	11/08/2016	2016 General Election	118	PCT. 118	3660	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	78
+LEE	Lee	10282	11/08/2016	2016 General Election	118	PCT. 118	3660	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+LEE	Lee	10282	11/08/2016	2016 General Election	118	PCT. 118	3660	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+LEE	Lee	10282	11/08/2016	2016 General Election	118	PCT. 118	3660	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	118	PCT. 118	3660	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	118	PCT. 118	3660	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	2
+LEE	Lee	10282	11/08/2016	2016 General Election	118	PCT. 118	3660	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	24
+LEE	Lee	10282	11/08/2016	2016 General Election	119	PCT. 119	2738	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1716
+LEE	Lee	10282	11/08/2016	2016 General Election	119	PCT. 119	2738	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	670
+LEE	Lee	10282	11/08/2016	2016 General Election	119	PCT. 119	2738	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+LEE	Lee	10282	11/08/2016	2016 General Election	119	PCT. 119	2738	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	119	PCT. 119	2738	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LEE	Lee	10282	11/08/2016	2016 General Election	119	PCT. 119	2738	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+LEE	Lee	10282	11/08/2016	2016 General Election	119	PCT. 119	2738	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	119	PCT. 119	2738	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	2
+LEE	Lee	10282	11/08/2016	2016 General Election	119	PCT. 119	2738	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	21
+LEE	Lee	10282	11/08/2016	2016 General Election	120	PCT. 120	3829	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1475
+LEE	Lee	10282	11/08/2016	2016 General Election	120	PCT. 120	3829	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1047
+LEE	Lee	10282	11/08/2016	2016 General Election	120	PCT. 120	3829	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	83
+LEE	Lee	10282	11/08/2016	2016 General Election	120	PCT. 120	3829	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+LEE	Lee	10282	11/08/2016	2016 General Election	120	PCT. 120	3829	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	32
+LEE	Lee	10282	11/08/2016	2016 General Election	120	PCT. 120	3829	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+LEE	Lee	10282	11/08/2016	2016 General Election	120	PCT. 120	3829	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	120	PCT. 120	3829	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	5
+LEE	Lee	10282	11/08/2016	2016 General Election	120	PCT. 120	3829	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	17
+LEE	Lee	10282	11/08/2016	2016 General Election	121	PCT. 121	3345	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1756
+LEE	Lee	10282	11/08/2016	2016 General Election	121	PCT. 121	3345	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	887
+LEE	Lee	10282	11/08/2016	2016 General Election	121	PCT. 121	3345	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	85
+LEE	Lee	10282	11/08/2016	2016 General Election	121	PCT. 121	3345	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+LEE	Lee	10282	11/08/2016	2016 General Election	121	PCT. 121	3345	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+LEE	Lee	10282	11/08/2016	2016 General Election	121	PCT. 121	3345	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	121	PCT. 121	3345	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	121	PCT. 121	3345	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	2
+LEE	Lee	10282	11/08/2016	2016 General Election	121	PCT. 121	3345	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	20
+LEE	Lee	10282	11/08/2016	2016 General Election	122	PCT. 122	3677	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1913
+LEE	Lee	10282	11/08/2016	2016 General Election	122	PCT. 122	3677	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1066
+LEE	Lee	10282	11/08/2016	2016 General Election	122	PCT. 122	3677	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	67
+LEE	Lee	10282	11/08/2016	2016 General Election	122	PCT. 122	3677	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+LEE	Lee	10282	11/08/2016	2016 General Election	122	PCT. 122	3677	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+LEE	Lee	10282	11/08/2016	2016 General Election	122	PCT. 122	3677	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	122	PCT. 122	3677	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	122	PCT. 122	3677	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	8
+LEE	Lee	10282	11/08/2016	2016 General Election	122	PCT. 122	3677	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	19
+LEE	Lee	10282	11/08/2016	2016 General Election	123	PCT. 123	3223	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	1810
+LEE	Lee	10282	11/08/2016	2016 General Election	123	PCT. 123	3223	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	920
+LEE	Lee	10282	11/08/2016	2016 General Election	123	PCT. 123	3223	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	53
+LEE	Lee	10282	11/08/2016	2016 General Election	123	PCT. 123	3223	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+LEE	Lee	10282	11/08/2016	2016 General Election	123	PCT. 123	3223	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+LEE	Lee	10282	11/08/2016	2016 General Election	123	PCT. 123	3223	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	123	PCT. 123	3223	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	123	PCT. 123	3223	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	4
+LEE	Lee	10282	11/08/2016	2016 General Election	123	PCT. 123	3223	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	26
+LEE	Lee	10282	11/08/2016	2016 General Election	124	PCT. 124	3926	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2021
+LEE	Lee	10282	11/08/2016	2016 General Election	124	PCT. 124	3926	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1161
+LEE	Lee	10282	11/08/2016	2016 General Election	124	PCT. 124	3926	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	66
+LEE	Lee	10282	11/08/2016	2016 General Election	124	PCT. 124	3926	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	124	PCT. 124	3926	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+LEE	Lee	10282	11/08/2016	2016 General Election	124	PCT. 124	3926	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	124	PCT. 124	3926	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	124	PCT. 124	3926	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	7
+LEE	Lee	10282	11/08/2016	2016 General Election	124	PCT. 124	3926	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	37
+LEE	Lee	10282	11/08/2016	2016 General Election	125	PCT. 125	3426	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	2159
+LEE	Lee	10282	11/08/2016	2016 General Election	125	PCT. 125	3426	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	848
+LEE	Lee	10282	11/08/2016	2016 General Election	125	PCT. 125	3426	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+LEE	Lee	10282	11/08/2016	2016 General Election	125	PCT. 125	3426	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+LEE	Lee	10282	11/08/2016	2016 General Election	125	PCT. 125	3426	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+LEE	Lee	10282	11/08/2016	2016 General Election	125	PCT. 125	3426	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	125	PCT. 125	3426	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	125	PCT. 125	3426	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	3
+LEE	Lee	10282	11/08/2016	2016 General Election	125	PCT. 125	3426	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	53
+LEE	Lee	10282	11/08/2016	2016 General Election	126	PCT. 126	1894	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	813
+LEE	Lee	10282	11/08/2016	2016 General Election	126	PCT. 126	1894	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	695
+LEE	Lee	10282	11/08/2016	2016 General Election	126	PCT. 126	1894	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	43
+LEE	Lee	10282	11/08/2016	2016 General Election	126	PCT. 126	1894	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEE	Lee	10282	11/08/2016	2016 General Election	126	PCT. 126	1894	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+LEE	Lee	10282	11/08/2016	2016 General Election	126	PCT. 126	1894	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+LEE	Lee	10282	11/08/2016	2016 General Election	126	PCT. 126	1894	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	126	PCT. 126	1894	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	126	PCT. 126	1894	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	25
+LEE	Lee	10282	11/08/2016	2016 General Election	127	PCT. 127	1096	0	0	408502	President of the United States	 	100000	Trump / Pence	REP	0	65072	567
+LEE	Lee	10282	11/08/2016	2016 General Election	127	PCT. 127	1096	0	0	408502	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	301
+LEE	Lee	10282	11/08/2016	2016 General Election	127	PCT. 127	1096	0	0	408502	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+LEE	Lee	10282	11/08/2016	2016 General Election	127	PCT. 127	1096	0	0	408502	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+LEE	Lee	10282	11/08/2016	2016 General Election	127	PCT. 127	1096	0	0	408502	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+LEE	Lee	10282	11/08/2016	2016 General Election	127	PCT. 127	1096	0	0	408502	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+LEE	Lee	10282	11/08/2016	2016 General Election	127	PCT. 127	1096	0	0	408502	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LEE	Lee	10282	11/08/2016	2016 General Election	127	PCT. 127	1096	0	0	408502	President of the United States	 	100000	OverVotes	 	0	901	0
+LEE	Lee	10282	11/08/2016	2016 General Election	127	PCT. 127	1096	0	0	408502	President of the United States	 	100000	UnderVotes	 	0	902	6

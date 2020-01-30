@@ -1,0 +1,315 @@
+PUT	Putnam	10282	11/08/2016	2016 General Election	1	South Putnam Government Center	928	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	330
+PUT	Putnam	10282	11/08/2016	2016 General Election	1	South Putnam Government Center	928	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	304
+PUT	Putnam	10282	11/08/2016	2016 General Election	1	South Putnam Government Center	928	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+PUT	Putnam	10282	11/08/2016	2016 General Election	1	South Putnam Government Center	928	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	1	South Putnam Government Center	928	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	1	South Putnam Government Center	928	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	1	South Putnam Government Center	928	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	1	South Putnam Government Center	928	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	1	South Putnam Government Center	928	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	2	South Putnam Government Center	1344	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	432
+PUT	Putnam	10282	11/08/2016	2016 General Election	2	South Putnam Government Center	1344	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	372
+PUT	Putnam	10282	11/08/2016	2016 General Election	2	South Putnam Government Center	1344	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+PUT	Putnam	10282	11/08/2016	2016 General Election	2	South Putnam Government Center	1344	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	2	South Putnam Government Center	1344	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	2	South Putnam Government Center	1344	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	2	South Putnam Government Center	1344	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	2	South Putnam Government Center	1344	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	2	South Putnam Government Center	1344	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	3	Beulah Baptist Church	1455	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	768
+PUT	Putnam	10282	11/08/2016	2016 General Election	3	Beulah Baptist Church	1455	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	240
+PUT	Putnam	10282	11/08/2016	2016 General Election	3	Beulah Baptist Church	1455	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+PUT	Putnam	10282	11/08/2016	2016 General Election	3	Beulah Baptist Church	1455	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	3	Beulah Baptist Church	1455	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+PUT	Putnam	10282	11/08/2016	2016 General Election	3	Beulah Baptist Church	1455	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	3	Beulah Baptist Church	1455	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	11
+PUT	Putnam	10282	11/08/2016	2016 General Election	3	Beulah Baptist Church	1455	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	3	Beulah Baptist Church	1455	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	4	First Baptist Church of Welaka	516	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	231
+PUT	Putnam	10282	11/08/2016	2016 General Election	4	First Baptist Church of Welaka	516	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	154
+PUT	Putnam	10282	11/08/2016	2016 General Election	4	First Baptist Church of Welaka	516	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	4	First Baptist Church of Welaka	516	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	4	First Baptist Church of Welaka	516	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	4	First Baptist Church of Welaka	516	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	4	First Baptist Church of Welaka	516	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	4	First Baptist Church of Welaka	516	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	4	First Baptist Church of Welaka	516	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	5	First Baptist Church of Welaka	870	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	471
+PUT	Putnam	10282	11/08/2016	2016 General Election	5	First Baptist Church of Welaka	870	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	138
+PUT	Putnam	10282	11/08/2016	2016 General Election	5	First Baptist Church of Welaka	870	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	5	First Baptist Church of Welaka	870	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	5	First Baptist Church of Welaka	870	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+PUT	Putnam	10282	11/08/2016	2016 General Election	5	First Baptist Church of Welaka	870	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	5	First Baptist Church of Welaka	870	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	5	First Baptist Church of Welaka	870	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	5	First Baptist Church of Welaka	870	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	6	Pomona Park Community Center	514	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	209
+PUT	Putnam	10282	11/08/2016	2016 General Election	6	Pomona Park Community Center	514	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	101
+PUT	Putnam	10282	11/08/2016	2016 General Election	6	Pomona Park Community Center	514	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	6	Pomona Park Community Center	514	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	6	Pomona Park Community Center	514	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	6	Pomona Park Community Center	514	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	6	Pomona Park Community Center	514	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	6	Pomona Park Community Center	514	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	6	Pomona Park Community Center	514	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	7	Pomona Park Community Center	1568	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	841
+PUT	Putnam	10282	11/08/2016	2016 General Election	7	Pomona Park Community Center	1568	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	237
+PUT	Putnam	10282	11/08/2016	2016 General Election	7	Pomona Park Community Center	1568	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+PUT	Putnam	10282	11/08/2016	2016 General Election	7	Pomona Park Community Center	1568	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	7	Pomona Park Community Center	1568	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	7	Pomona Park Community Center	1568	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	7	Pomona Park Community Center	1568	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	7	Pomona Park Community Center	1568	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	7	Pomona Park Community Center	1568	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	6
+PUT	Putnam	10282	11/08/2016	2016 General Election	8	Satsuma Fire Dept	1394	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	764
+PUT	Putnam	10282	11/08/2016	2016 General Election	8	Satsuma Fire Dept	1394	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	229
+PUT	Putnam	10282	11/08/2016	2016 General Election	8	Satsuma Fire Dept	1394	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+PUT	Putnam	10282	11/08/2016	2016 General Election	8	Satsuma Fire Dept	1394	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	8	Satsuma Fire Dept	1394	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+PUT	Putnam	10282	11/08/2016	2016 General Election	8	Satsuma Fire Dept	1394	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	8	Satsuma Fire Dept	1394	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	8	Satsuma Fire Dept	1394	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	8	Satsuma Fire Dept	1394	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	9	Satsuma Fire Dept	700	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	323
+PUT	Putnam	10282	11/08/2016	2016 General Election	9	Satsuma Fire Dept	700	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	94
+PUT	Putnam	10282	11/08/2016	2016 General Election	9	Satsuma Fire Dept	700	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+PUT	Putnam	10282	11/08/2016	2016 General Election	9	Satsuma Fire Dept	700	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	9	Satsuma Fire Dept	700	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	9	Satsuma Fire Dept	700	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	9	Satsuma Fire Dept	700	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	9	Satsuma Fire Dept	700	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	9	Satsuma Fire Dept	700	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	10	Dunns Creek Baptist Church	2984	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	1617
+PUT	Putnam	10282	11/08/2016	2016 General Election	10	Dunns Creek Baptist Church	2984	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	511
+PUT	Putnam	10282	11/08/2016	2016 General Election	10	Dunns Creek Baptist Church	2984	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+PUT	Putnam	10282	11/08/2016	2016 General Election	10	Dunns Creek Baptist Church	2984	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	10	Dunns Creek Baptist Church	2984	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+PUT	Putnam	10282	11/08/2016	2016 General Election	10	Dunns Creek Baptist Church	2984	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	10	Dunns Creek Baptist Church	2984	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	10	Dunns Creek Baptist Church	2984	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	10	Dunns Creek Baptist Church	2984	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	13
+PUT	Putnam	10282	11/08/2016	2016 General Election	11	Putnam County Ag Center	3023	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	1543
+PUT	Putnam	10282	11/08/2016	2016 General Election	11	Putnam County Ag Center	3023	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	682
+PUT	Putnam	10282	11/08/2016	2016 General Election	11	Putnam County Ag Center	3023	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+PUT	Putnam	10282	11/08/2016	2016 General Election	11	Putnam County Ag Center	3023	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	11	Putnam County Ag Center	3023	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	11	Putnam County Ag Center	3023	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	11	Putnam County Ag Center	3023	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	11	Putnam County Ag Center	3023	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	11	Putnam County Ag Center	3023	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	13
+PUT	Putnam	10282	11/08/2016	2016 General Election	12	Bostwick Community Center	2207	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	1367
+PUT	Putnam	10282	11/08/2016	2016 General Election	12	Bostwick Community Center	2207	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	236
+PUT	Putnam	10282	11/08/2016	2016 General Election	12	Bostwick Community Center	2207	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+PUT	Putnam	10282	11/08/2016	2016 General Election	12	Bostwick Community Center	2207	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	12	Bostwick Community Center	2207	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	12	Bostwick Community Center	2207	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	12	Bostwick Community Center	2207	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	9
+PUT	Putnam	10282	11/08/2016	2016 General Election	12	Bostwick Community Center	2207	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	12	Bostwick Community Center	2207	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	13	Bardin Fire Dept	617	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	401
+PUT	Putnam	10282	11/08/2016	2016 General Election	13	Bardin Fire Dept	617	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	41
+PUT	Putnam	10282	11/08/2016	2016 General Election	13	Bardin Fire Dept	617	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	13	Bardin Fire Dept	617	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	13	Bardin Fire Dept	617	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	13	Bardin Fire Dept	617	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	13	Bardin Fire Dept	617	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	13	Bardin Fire Dept	617	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	13	Bardin Fire Dept	617	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	14	Bardin Fire Dept	503	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	362
+PUT	Putnam	10282	11/08/2016	2016 General Election	14	Bardin Fire Dept	503	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	18
+PUT	Putnam	10282	11/08/2016	2016 General Election	14	Bardin Fire Dept	503	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	14	Bardin Fire Dept	503	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	14	Bardin Fire Dept	503	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	14	Bardin Fire Dept	503	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	14	Bardin Fire Dept	503	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	14	Bardin Fire Dept	503	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	14	Bardin Fire Dept	503	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	15	Living Hope Family Worship Center	1860	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	1014
+PUT	Putnam	10282	11/08/2016	2016 General Election	15	Living Hope Family Worship Center	1860	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	298
+PUT	Putnam	10282	11/08/2016	2016 General Election	15	Living Hope Family Worship Center	1860	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+PUT	Putnam	10282	11/08/2016	2016 General Election	15	Living Hope Family Worship Center	1860	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	15	Living Hope Family Worship Center	1860	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+PUT	Putnam	10282	11/08/2016	2016 General Election	15	Living Hope Family Worship Center	1860	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	15	Living Hope Family Worship Center	1860	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	9
+PUT	Putnam	10282	11/08/2016	2016 General Election	15	Living Hope Family Worship Center	1860	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	15	Living Hope Family Worship Center	1860	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	9
+PUT	Putnam	10282	11/08/2016	2016 General Election	16	Trinity Episcopal Church	2262	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	1111
+PUT	Putnam	10282	11/08/2016	2016 General Election	16	Trinity Episcopal Church	2262	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	537
+PUT	Putnam	10282	11/08/2016	2016 General Election	16	Trinity Episcopal Church	2262	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+PUT	Putnam	10282	11/08/2016	2016 General Election	16	Trinity Episcopal Church	2262	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	16	Trinity Episcopal Church	2262	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+PUT	Putnam	10282	11/08/2016	2016 General Election	16	Trinity Episcopal Church	2262	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	16	Trinity Episcopal Church	2262	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	6
+PUT	Putnam	10282	11/08/2016	2016 General Election	16	Trinity Episcopal Church	2262	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	16	Trinity Episcopal Church	2262	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	17	Woodlawn Baptist Church	681	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	211
+PUT	Putnam	10282	11/08/2016	2016 General Election	17	Woodlawn Baptist Church	681	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	239
+PUT	Putnam	10282	11/08/2016	2016 General Election	17	Woodlawn Baptist Church	681	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	17	Woodlawn Baptist Church	681	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	17	Woodlawn Baptist Church	681	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+PUT	Putnam	10282	11/08/2016	2016 General Election	17	Woodlawn Baptist Church	681	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	17	Woodlawn Baptist Church	681	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	17	Woodlawn Baptist Church	681	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	17	Woodlawn Baptist Church	681	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	18	Woodlawn Baptist Church	2426	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	1083
+PUT	Putnam	10282	11/08/2016	2016 General Election	18	Woodlawn Baptist Church	2426	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	601
+PUT	Putnam	10282	11/08/2016	2016 General Election	18	Woodlawn Baptist Church	2426	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+PUT	Putnam	10282	11/08/2016	2016 General Election	18	Woodlawn Baptist Church	2426	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	18	Woodlawn Baptist Church	2426	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+PUT	Putnam	10282	11/08/2016	2016 General Election	18	Woodlawn Baptist Church	2426	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	18	Woodlawn Baptist Church	2426	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	18	Woodlawn Baptist Church	2426	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	18	Woodlawn Baptist Church	2426	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	19	Interlachen Community Center	949	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	335
+PUT	Putnam	10282	11/08/2016	2016 General Election	19	Interlachen Community Center	949	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	229
+PUT	Putnam	10282	11/08/2016	2016 General Election	19	Interlachen Community Center	949	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+PUT	Putnam	10282	11/08/2016	2016 General Election	19	Interlachen Community Center	949	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	19	Interlachen Community Center	949	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	19	Interlachen Community Center	949	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	19	Interlachen Community Center	949	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	19	Interlachen Community Center	949	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	19	Interlachen Community Center	949	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	20	Interlachen Community Center	1618	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	770
+PUT	Putnam	10282	11/08/2016	2016 General Election	20	Interlachen Community Center	1618	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	205
+PUT	Putnam	10282	11/08/2016	2016 General Election	20	Interlachen Community Center	1618	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+PUT	Putnam	10282	11/08/2016	2016 General Election	20	Interlachen Community Center	1618	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	20	Interlachen Community Center	1618	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+PUT	Putnam	10282	11/08/2016	2016 General Election	20	Interlachen Community Center	1618	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	20	Interlachen Community Center	1618	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	20	Interlachen Community Center	1618	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	20	Interlachen Community Center	1618	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	21	Interlachen Community Center	1452	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	599
+PUT	Putnam	10282	11/08/2016	2016 General Election	21	Interlachen Community Center	1452	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	266
+PUT	Putnam	10282	11/08/2016	2016 General Election	21	Interlachen Community Center	1452	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+PUT	Putnam	10282	11/08/2016	2016 General Election	21	Interlachen Community Center	1452	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	21	Interlachen Community Center	1452	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	21	Interlachen Community Center	1452	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	21	Interlachen Community Center	1452	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	6
+PUT	Putnam	10282	11/08/2016	2016 General Election	21	Interlachen Community Center	1452	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	21	Interlachen Community Center	1452	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	22	Grandin Lake Shores Community Cente	2441	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	1095
+PUT	Putnam	10282	11/08/2016	2016 General Election	22	Grandin Lake Shores Community Cente	2441	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	364
+PUT	Putnam	10282	11/08/2016	2016 General Election	22	Grandin Lake Shores Community Cente	2441	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+PUT	Putnam	10282	11/08/2016	2016 General Election	22	Grandin Lake Shores Community Cente	2441	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	22	Grandin Lake Shores Community Cente	2441	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+PUT	Putnam	10282	11/08/2016	2016 General Election	22	Grandin Lake Shores Community Cente	2441	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	22	Grandin Lake Shores Community Cente	2441	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	10
+PUT	Putnam	10282	11/08/2016	2016 General Election	22	Grandin Lake Shores Community Cente	2441	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	22	Grandin Lake Shores Community Cente	2441	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	9
+PUT	Putnam	10282	11/08/2016	2016 General Election	23	Hollister Fire Dept	1411	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	816
+PUT	Putnam	10282	11/08/2016	2016 General Election	23	Hollister Fire Dept	1411	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	148
+PUT	Putnam	10282	11/08/2016	2016 General Election	23	Hollister Fire Dept	1411	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+PUT	Putnam	10282	11/08/2016	2016 General Election	23	Hollister Fire Dept	1411	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	23	Hollister Fire Dept	1411	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	23	Hollister Fire Dept	1411	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	23	Hollister Fire Dept	1411	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	23	Hollister Fire Dept	1411	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	23	Hollister Fire Dept	1411	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	24	Grace Community Baptist Church	2018	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	1326
+PUT	Putnam	10282	11/08/2016	2016 General Election	24	Grace Community Baptist Church	2018	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	166
+PUT	Putnam	10282	11/08/2016	2016 General Election	24	Grace Community Baptist Church	2018	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+PUT	Putnam	10282	11/08/2016	2016 General Election	24	Grace Community Baptist Church	2018	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	24	Grace Community Baptist Church	2018	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	24	Grace Community Baptist Church	2018	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	24	Grace Community Baptist Church	2018	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	24	Grace Community Baptist Church	2018	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	24	Grace Community Baptist Church	2018	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	6
+PUT	Putnam	10282	11/08/2016	2016 General Election	25	Southwest Fire Dept	1871	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	1113
+PUT	Putnam	10282	11/08/2016	2016 General Election	25	Southwest Fire Dept	1871	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	256
+PUT	Putnam	10282	11/08/2016	2016 General Election	25	Southwest Fire Dept	1871	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+PUT	Putnam	10282	11/08/2016	2016 General Election	25	Southwest Fire Dept	1871	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	25	Southwest Fire Dept	1871	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	25	Southwest Fire Dept	1871	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	25	Southwest Fire Dept	1871	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	25	Southwest Fire Dept	1871	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	25	Southwest Fire Dept	1871	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	10
+PUT	Putnam	10282	11/08/2016	2016 General Election	26	Edgar Johnson Senior Center	1746	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	733
+PUT	Putnam	10282	11/08/2016	2016 General Election	26	Edgar Johnson Senior Center	1746	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	464
+PUT	Putnam	10282	11/08/2016	2016 General Election	26	Edgar Johnson Senior Center	1746	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+PUT	Putnam	10282	11/08/2016	2016 General Election	26	Edgar Johnson Senior Center	1746	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	26	Edgar Johnson Senior Center	1746	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+PUT	Putnam	10282	11/08/2016	2016 General Election	26	Edgar Johnson Senior Center	1746	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	26	Edgar Johnson Senior Center	1746	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	12
+PUT	Putnam	10282	11/08/2016	2016 General Election	26	Edgar Johnson Senior Center	1746	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	26	Edgar Johnson Senior Center	1746	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	6
+PUT	Putnam	10282	11/08/2016	2016 General Election	27	Southwest Fire Dept	215	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	136
+PUT	Putnam	10282	11/08/2016	2016 General Election	27	Southwest Fire Dept	215	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	23
+PUT	Putnam	10282	11/08/2016	2016 General Election	27	Southwest Fire Dept	215	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	27	Southwest Fire Dept	215	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	27	Southwest Fire Dept	215	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	27	Southwest Fire Dept	215	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	27	Southwest Fire Dept	215	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	27	Southwest Fire Dept	215	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	27	Southwest Fire Dept	215	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	28	Price Martin Community Center	576	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	31
+PUT	Putnam	10282	11/08/2016	2016 General Election	28	Price Martin Community Center	576	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	331
+PUT	Putnam	10282	11/08/2016	2016 General Election	28	Price Martin Community Center	576	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	28	Price Martin Community Center	576	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	28	Price Martin Community Center	576	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	28	Price Martin Community Center	576	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	28	Price Martin Community Center	576	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	28	Price Martin Community Center	576	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	28	Price Martin Community Center	576	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	29	St Johns River State College	804	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	303
+PUT	Putnam	10282	11/08/2016	2016 General Election	29	St Johns River State College	804	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	214
+PUT	Putnam	10282	11/08/2016	2016 General Election	29	St Johns River State College	804	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	29	St Johns River State College	804	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	29	St Johns River State College	804	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	29	St Johns River State College	804	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	29	St Johns River State College	804	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	29	St Johns River State College	804	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	29	St Johns River State College	804	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	30	St Johns River State College	344	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	243
+PUT	Putnam	10282	11/08/2016	2016 General Election	30	St Johns River State College	344	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	22
+PUT	Putnam	10282	11/08/2016	2016 General Election	30	St Johns River State College	344	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	30	St Johns River State College	344	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	30	St Johns River State College	344	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	30	St Johns River State College	344	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	30	St Johns River State College	344	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	30	St Johns River State College	344	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	30	St Johns River State College	344	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	31	St Johns River State College	1283	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	385
+PUT	Putnam	10282	11/08/2016	2016 General Election	31	St Johns River State College	1283	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	468
+PUT	Putnam	10282	11/08/2016	2016 General Election	31	St Johns River State College	1283	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+PUT	Putnam	10282	11/08/2016	2016 General Election	31	St Johns River State College	1283	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	31	St Johns River State College	1283	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	31	St Johns River State College	1283	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	31	St Johns River State College	1283	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	6
+PUT	Putnam	10282	11/08/2016	2016 General Election	31	St Johns River State College	1283	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	31	St Johns River State College	1283	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	32	Edgar Johnson Senior Center	987	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	337
+PUT	Putnam	10282	11/08/2016	2016 General Election	32	Edgar Johnson Senior Center	987	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	310
+PUT	Putnam	10282	11/08/2016	2016 General Election	32	Edgar Johnson Senior Center	987	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+PUT	Putnam	10282	11/08/2016	2016 General Election	32	Edgar Johnson Senior Center	987	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	32	Edgar Johnson Senior Center	987	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	32	Edgar Johnson Senior Center	987	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	32	Edgar Johnson Senior Center	987	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	4
+PUT	Putnam	10282	11/08/2016	2016 General Election	32	Edgar Johnson Senior Center	987	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	32	Edgar Johnson Senior Center	987	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	33	Palatka Woman's Club	1727	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	528
+PUT	Putnam	10282	11/08/2016	2016 General Election	33	Palatka Woman's Club	1727	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	602
+PUT	Putnam	10282	11/08/2016	2016 General Election	33	Palatka Woman's Club	1727	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+PUT	Putnam	10282	11/08/2016	2016 General Election	33	Palatka Woman's Club	1727	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	33	Palatka Woman's Club	1727	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+PUT	Putnam	10282	11/08/2016	2016 General Election	33	Palatka Woman's Club	1727	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	33	Palatka Woman's Club	1727	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	8
+PUT	Putnam	10282	11/08/2016	2016 General Election	33	Palatka Woman's Club	1727	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	33	Palatka Woman's Club	1727	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	7
+PUT	Putnam	10282	11/08/2016	2016 General Election	36	Palatka Woman's Club	757	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	193
+PUT	Putnam	10282	11/08/2016	2016 General Election	36	Palatka Woman's Club	757	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	267
+PUT	Putnam	10282	11/08/2016	2016 General Election	36	Palatka Woman's Club	757	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+PUT	Putnam	10282	11/08/2016	2016 General Election	36	Palatka Woman's Club	757	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	36	Palatka Woman's Club	757	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	36	Palatka Woman's Club	757	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	36	Palatka Woman's Club	757	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	36	Palatka Woman's Club	757	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	36	Palatka Woman's Club	757	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	3
+PUT	Putnam	10282	11/08/2016	2016 General Election	37	Price Martin Community Center	1371	0	0	46636	President of the United States	 	100000	Trump / Pence	REP	0	65072	117
+PUT	Putnam	10282	11/08/2016	2016 General Election	37	Price Martin Community Center	1371	0	0	46636	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	727
+PUT	Putnam	10282	11/08/2016	2016 General Election	37	Price Martin Community Center	1371	0	0	46636	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+PUT	Putnam	10282	11/08/2016	2016 General Election	37	Price Martin Community Center	1371	0	0	46636	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+PUT	Putnam	10282	11/08/2016	2016 General Election	37	Price Martin Community Center	1371	0	0	46636	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	37	Price Martin Community Center	1371	0	0	46636	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+PUT	Putnam	10282	11/08/2016	2016 General Election	37	Price Martin Community Center	1371	0	0	46636	President of the United States	 	100000	WriteinVotes	 	0	900	5
+PUT	Putnam	10282	11/08/2016	2016 General Election	37	Price Martin Community Center	1371	0	0	46636	President of the United States	 	100000	OverVotes	 	0	901	1
+PUT	Putnam	10282	11/08/2016	2016 General Election	37	Price Martin Community Center	1371	0	0	46636	President of the United States	 	100000	UnderVotes	 	0	902	1

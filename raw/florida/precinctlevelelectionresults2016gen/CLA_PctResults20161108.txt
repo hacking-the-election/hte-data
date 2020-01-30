@@ -1,0 +1,423 @@
+CLA	Clay	10282	11/08/2016	2016 General Election	100		2864	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1798
+CLA	Clay	10282	11/08/2016	2016 General Election	100		2864	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	190
+CLA	Clay	10282	11/08/2016	2016 General Election	100		2864	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+CLA	Clay	10282	11/08/2016	2016 General Election	100		2864	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLA	Clay	10282	11/08/2016	2016 General Election	100		2864	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+CLA	Clay	10282	11/08/2016	2016 General Election	100		2864	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CLA	Clay	10282	11/08/2016	2016 General Election	100		2864	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	11
+CLA	Clay	10282	11/08/2016	2016 General Election	100		2864	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	1
+CLA	Clay	10282	11/08/2016	2016 General Election	100		2864	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	7
+CLA	Clay	10282	11/08/2016	2016 General Election	102		3557	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1927
+CLA	Clay	10282	11/08/2016	2016 General Election	102		3557	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	314
+CLA	Clay	10282	11/08/2016	2016 General Election	102		3557	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+CLA	Clay	10282	11/08/2016	2016 General Election	102		3557	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CLA	Clay	10282	11/08/2016	2016 General Election	102		3557	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+CLA	Clay	10282	11/08/2016	2016 General Election	102		3557	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	102		3557	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	11
+CLA	Clay	10282	11/08/2016	2016 General Election	102		3557	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	102		3557	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	5
+CLA	Clay	10282	11/08/2016	2016 General Election	106		4116	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2379
+CLA	Clay	10282	11/08/2016	2016 General Election	106		4116	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	353
+CLA	Clay	10282	11/08/2016	2016 General Election	106		4116	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	62
+CLA	Clay	10282	11/08/2016	2016 General Election	106		4116	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CLA	Clay	10282	11/08/2016	2016 General Election	106		4116	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+CLA	Clay	10282	11/08/2016	2016 General Election	106		4116	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CLA	Clay	10282	11/08/2016	2016 General Election	106		4116	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	12
+CLA	Clay	10282	11/08/2016	2016 General Election	106		4116	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	106		4116	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	6
+CLA	Clay	10282	11/08/2016	2016 General Election	110		2354	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1396
+CLA	Clay	10282	11/08/2016	2016 General Election	110		2354	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	280
+CLA	Clay	10282	11/08/2016	2016 General Election	110		2354	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+CLA	Clay	10282	11/08/2016	2016 General Election	110		2354	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+CLA	Clay	10282	11/08/2016	2016 General Election	110		2354	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+CLA	Clay	10282	11/08/2016	2016 General Election	110		2354	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CLA	Clay	10282	11/08/2016	2016 General Election	110		2354	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	14
+CLA	Clay	10282	11/08/2016	2016 General Election	110		2354	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	1
+CLA	Clay	10282	11/08/2016	2016 General Election	110		2354	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	5
+CLA	Clay	10282	11/08/2016	2016 General Election	112		5514	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2915
+CLA	Clay	10282	11/08/2016	2016 General Election	112		5514	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1163
+CLA	Clay	10282	11/08/2016	2016 General Election	112		5514	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	102
+CLA	Clay	10282	11/08/2016	2016 General Election	112		5514	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	13
+CLA	Clay	10282	11/08/2016	2016 General Election	112		5514	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+CLA	Clay	10282	11/08/2016	2016 General Election	112		5514	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+CLA	Clay	10282	11/08/2016	2016 General Election	112		5514	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	39
+CLA	Clay	10282	11/08/2016	2016 General Election	112		5514	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	1
+CLA	Clay	10282	11/08/2016	2016 General Election	112		5514	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	20
+CLA	Clay	10282	11/08/2016	2016 General Election	113		6964	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2594
+CLA	Clay	10282	11/08/2016	2016 General Election	113		6964	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	2319
+CLA	Clay	10282	11/08/2016	2016 General Election	113		6964	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	140
+CLA	Clay	10282	11/08/2016	2016 General Election	113		6964	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	16
+CLA	Clay	10282	11/08/2016	2016 General Election	113		6964	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	39
+CLA	Clay	10282	11/08/2016	2016 General Election	113		6964	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	8
+CLA	Clay	10282	11/08/2016	2016 General Election	113		6964	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	47
+CLA	Clay	10282	11/08/2016	2016 General Election	113		6964	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	5
+CLA	Clay	10282	11/08/2016	2016 General Election	113		6964	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	20
+CLA	Clay	10282	11/08/2016	2016 General Election	115		5153	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1836
+CLA	Clay	10282	11/08/2016	2016 General Election	115		5153	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1547
+CLA	Clay	10282	11/08/2016	2016 General Election	115		5153	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	119
+CLA	Clay	10282	11/08/2016	2016 General Election	115		5153	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+CLA	Clay	10282	11/08/2016	2016 General Election	115		5153	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	23
+CLA	Clay	10282	11/08/2016	2016 General Election	115		5153	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+CLA	Clay	10282	11/08/2016	2016 General Election	115		5153	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	31
+CLA	Clay	10282	11/08/2016	2016 General Election	115		5153	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	115		5153	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	13
+CLA	Clay	10282	11/08/2016	2016 General Election	116		4664	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1603
+CLA	Clay	10282	11/08/2016	2016 General Election	116		4664	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1557
+CLA	Clay	10282	11/08/2016	2016 General Election	116		4664	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	93
+CLA	Clay	10282	11/08/2016	2016 General Election	116		4664	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	14
+CLA	Clay	10282	11/08/2016	2016 General Election	116		4664	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+CLA	Clay	10282	11/08/2016	2016 General Election	116		4664	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	116		4664	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	30
+CLA	Clay	10282	11/08/2016	2016 General Election	116		4664	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	1
+CLA	Clay	10282	11/08/2016	2016 General Election	116		4664	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	10
+CLA	Clay	10282	11/08/2016	2016 General Election	118		4080	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2134
+CLA	Clay	10282	11/08/2016	2016 General Election	118		4080	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	673
+CLA	Clay	10282	11/08/2016	2016 General Election	118		4080	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	79
+CLA	Clay	10282	11/08/2016	2016 General Election	118		4080	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	118		4080	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+CLA	Clay	10282	11/08/2016	2016 General Election	118		4080	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	118		4080	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	26
+CLA	Clay	10282	11/08/2016	2016 General Election	118		4080	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	118		4080	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	9
+CLA	Clay	10282	11/08/2016	2016 General Election	122		4127	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1811
+CLA	Clay	10282	11/08/2016	2016 General Election	122		4127	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	911
+CLA	Clay	10282	11/08/2016	2016 General Election	122		4127	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	89
+CLA	Clay	10282	11/08/2016	2016 General Election	122		4127	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+CLA	Clay	10282	11/08/2016	2016 General Election	122		4127	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+CLA	Clay	10282	11/08/2016	2016 General Election	122		4127	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+CLA	Clay	10282	11/08/2016	2016 General Election	122		4127	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	18
+CLA	Clay	10282	11/08/2016	2016 General Election	122		4127	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	2
+CLA	Clay	10282	11/08/2016	2016 General Election	122		4127	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	7
+CLA	Clay	10282	11/08/2016	2016 General Election	124		2186	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1264
+CLA	Clay	10282	11/08/2016	2016 General Election	124		2186	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	451
+CLA	Clay	10282	11/08/2016	2016 General Election	124		2186	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+CLA	Clay	10282	11/08/2016	2016 General Election	124		2186	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLA	Clay	10282	11/08/2016	2016 General Election	124		2186	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CLA	Clay	10282	11/08/2016	2016 General Election	124		2186	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	124		2186	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	7
+CLA	Clay	10282	11/08/2016	2016 General Election	124		2186	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	124		2186	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	11
+CLA	Clay	10282	11/08/2016	2016 General Election	128		2641	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	820
+CLA	Clay	10282	11/08/2016	2016 General Election	128		2641	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	678
+CLA	Clay	10282	11/08/2016	2016 General Election	128		2641	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+CLA	Clay	10282	11/08/2016	2016 General Election	128		2641	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	128		2641	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+CLA	Clay	10282	11/08/2016	2016 General Election	128		2641	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	128		2641	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	15
+CLA	Clay	10282	11/08/2016	2016 General Election	128		2641	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	128		2641	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	5
+CLA	Clay	10282	11/08/2016	2016 General Election	202		3771	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1437
+CLA	Clay	10282	11/08/2016	2016 General Election	202		3771	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	765
+CLA	Clay	10282	11/08/2016	2016 General Election	202		3771	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	71
+CLA	Clay	10282	11/08/2016	2016 General Election	202		3771	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CLA	Clay	10282	11/08/2016	2016 General Election	202		3771	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	19
+CLA	Clay	10282	11/08/2016	2016 General Election	202		3771	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+CLA	Clay	10282	11/08/2016	2016 General Election	202		3771	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	29
+CLA	Clay	10282	11/08/2016	2016 General Election	202		3771	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	2
+CLA	Clay	10282	11/08/2016	2016 General Election	202		3771	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	6
+CLA	Clay	10282	11/08/2016	2016 General Election	204		2810	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1133
+CLA	Clay	10282	11/08/2016	2016 General Election	204		2810	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	610
+CLA	Clay	10282	11/08/2016	2016 General Election	204		2810	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+CLA	Clay	10282	11/08/2016	2016 General Election	204		2810	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+CLA	Clay	10282	11/08/2016	2016 General Election	204		2810	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+CLA	Clay	10282	11/08/2016	2016 General Election	204		2810	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	204		2810	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	21
+CLA	Clay	10282	11/08/2016	2016 General Election	204		2810	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	3
+CLA	Clay	10282	11/08/2016	2016 General Election	204		2810	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	8
+CLA	Clay	10282	11/08/2016	2016 General Election	206		1627	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	667
+CLA	Clay	10282	11/08/2016	2016 General Election	206		1627	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	377
+CLA	Clay	10282	11/08/2016	2016 General Election	206		1627	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+CLA	Clay	10282	11/08/2016	2016 General Election	206		1627	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+CLA	Clay	10282	11/08/2016	2016 General Election	206		1627	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+CLA	Clay	10282	11/08/2016	2016 General Election	206		1627	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	206		1627	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	11
+CLA	Clay	10282	11/08/2016	2016 General Election	206		1627	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	4
+CLA	Clay	10282	11/08/2016	2016 General Election	206		1627	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	7
+CLA	Clay	10282	11/08/2016	2016 General Election	208		1475	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	679
+CLA	Clay	10282	11/08/2016	2016 General Election	208		1475	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	347
+CLA	Clay	10282	11/08/2016	2016 General Election	208		1475	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+CLA	Clay	10282	11/08/2016	2016 General Election	208		1475	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+CLA	Clay	10282	11/08/2016	2016 General Election	208		1475	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+CLA	Clay	10282	11/08/2016	2016 General Election	208		1475	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	208		1475	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	8
+CLA	Clay	10282	11/08/2016	2016 General Election	208		1475	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	5
+CLA	Clay	10282	11/08/2016	2016 General Election	208		1475	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	11
+CLA	Clay	10282	11/08/2016	2016 General Election	210		3221	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1592
+CLA	Clay	10282	11/08/2016	2016 General Election	210		3221	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	669
+CLA	Clay	10282	11/08/2016	2016 General Election	210		3221	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+CLA	Clay	10282	11/08/2016	2016 General Election	210		3221	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+CLA	Clay	10282	11/08/2016	2016 General Election	210		3221	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+CLA	Clay	10282	11/08/2016	2016 General Election	210		3221	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	210		3221	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	18
+CLA	Clay	10282	11/08/2016	2016 General Election	210		3221	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	2
+CLA	Clay	10282	11/08/2016	2016 General Election	210		3221	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	10
+CLA	Clay	10282	11/08/2016	2016 General Election	216		4109	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2288
+CLA	Clay	10282	11/08/2016	2016 General Election	216		4109	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	705
+CLA	Clay	10282	11/08/2016	2016 General Election	216		4109	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	86
+CLA	Clay	10282	11/08/2016	2016 General Election	216		4109	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+CLA	Clay	10282	11/08/2016	2016 General Election	216		4109	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+CLA	Clay	10282	11/08/2016	2016 General Election	216		4109	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	216		4109	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	19
+CLA	Clay	10282	11/08/2016	2016 General Election	216		4109	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	1
+CLA	Clay	10282	11/08/2016	2016 General Election	216		4109	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	20
+CLA	Clay	10282	11/08/2016	2016 General Election	218		3257	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1696
+CLA	Clay	10282	11/08/2016	2016 General Election	218		3257	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	543
+CLA	Clay	10282	11/08/2016	2016 General Election	218		3257	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	91
+CLA	Clay	10282	11/08/2016	2016 General Election	218		3257	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CLA	Clay	10282	11/08/2016	2016 General Election	218		3257	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+CLA	Clay	10282	11/08/2016	2016 General Election	218		3257	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	218		3257	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	21
+CLA	Clay	10282	11/08/2016	2016 General Election	218		3257	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	2
+CLA	Clay	10282	11/08/2016	2016 General Election	218		3257	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	12
+CLA	Clay	10282	11/08/2016	2016 General Election	302		4537	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2063
+CLA	Clay	10282	11/08/2016	2016 General Election	302		4537	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	864
+CLA	Clay	10282	11/08/2016	2016 General Election	302		4537	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	84
+CLA	Clay	10282	11/08/2016	2016 General Election	302		4537	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	10
+CLA	Clay	10282	11/08/2016	2016 General Election	302		4537	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	29
+CLA	Clay	10282	11/08/2016	2016 General Election	302		4537	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+CLA	Clay	10282	11/08/2016	2016 General Election	302		4537	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	24
+CLA	Clay	10282	11/08/2016	2016 General Election	302		4537	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	3
+CLA	Clay	10282	11/08/2016	2016 General Election	302		4537	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	13
+CLA	Clay	10282	11/08/2016	2016 General Election	304		3876	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1911
+CLA	Clay	10282	11/08/2016	2016 General Election	304		3876	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	751
+CLA	Clay	10282	11/08/2016	2016 General Election	304		3876	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	64
+CLA	Clay	10282	11/08/2016	2016 General Election	304		3876	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	304		3876	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+CLA	Clay	10282	11/08/2016	2016 General Election	304		3876	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+CLA	Clay	10282	11/08/2016	2016 General Election	304		3876	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	23
+CLA	Clay	10282	11/08/2016	2016 General Election	304		3876	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	3
+CLA	Clay	10282	11/08/2016	2016 General Election	304		3876	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	19
+CLA	Clay	10282	11/08/2016	2016 General Election	308		2899	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1427
+CLA	Clay	10282	11/08/2016	2016 General Election	308		2899	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	595
+CLA	Clay	10282	11/08/2016	2016 General Election	308		2899	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	66
+CLA	Clay	10282	11/08/2016	2016 General Election	308		2899	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+CLA	Clay	10282	11/08/2016	2016 General Election	308		2899	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+CLA	Clay	10282	11/08/2016	2016 General Election	308		2899	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	308		2899	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	11
+CLA	Clay	10282	11/08/2016	2016 General Election	308		2899	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	308		2899	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	7
+CLA	Clay	10282	11/08/2016	2016 General Election	310		2864	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1758
+CLA	Clay	10282	11/08/2016	2016 General Election	310		2864	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	405
+CLA	Clay	10282	11/08/2016	2016 General Election	310		2864	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+CLA	Clay	10282	11/08/2016	2016 General Election	310		2864	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	310		2864	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+CLA	Clay	10282	11/08/2016	2016 General Election	310		2864	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	310		2864	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	18
+CLA	Clay	10282	11/08/2016	2016 General Election	310		2864	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	2
+CLA	Clay	10282	11/08/2016	2016 General Election	310		2864	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	6
+CLA	Clay	10282	11/08/2016	2016 General Election	400		2722	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1575
+CLA	Clay	10282	11/08/2016	2016 General Election	400		2722	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	502
+CLA	Clay	10282	11/08/2016	2016 General Election	400		2722	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	45
+CLA	Clay	10282	11/08/2016	2016 General Election	400		2722	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CLA	Clay	10282	11/08/2016	2016 General Election	400		2722	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+CLA	Clay	10282	11/08/2016	2016 General Election	400		2722	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CLA	Clay	10282	11/08/2016	2016 General Election	400		2722	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	18
+CLA	Clay	10282	11/08/2016	2016 General Election	400		2722	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	400		2722	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	14
+CLA	Clay	10282	11/08/2016	2016 General Election	406		2476	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1380
+CLA	Clay	10282	11/08/2016	2016 General Election	406		2476	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	499
+CLA	Clay	10282	11/08/2016	2016 General Election	406		2476	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+CLA	Clay	10282	11/08/2016	2016 General Election	406		2476	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	406		2476	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+CLA	Clay	10282	11/08/2016	2016 General Election	406		2476	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	406		2476	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	14
+CLA	Clay	10282	11/08/2016	2016 General Election	406		2476	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	406		2476	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	13
+CLA	Clay	10282	11/08/2016	2016 General Election	408		4379	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2605
+CLA	Clay	10282	11/08/2016	2016 General Election	408		4379	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	802
+CLA	Clay	10282	11/08/2016	2016 General Election	408		4379	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	81
+CLA	Clay	10282	11/08/2016	2016 General Election	408		4379	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CLA	Clay	10282	11/08/2016	2016 General Election	408		4379	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+CLA	Clay	10282	11/08/2016	2016 General Election	408		4379	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CLA	Clay	10282	11/08/2016	2016 General Election	408		4379	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	34
+CLA	Clay	10282	11/08/2016	2016 General Election	408		4379	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	1
+CLA	Clay	10282	11/08/2016	2016 General Election	408		4379	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	22
+CLA	Clay	10282	11/08/2016	2016 General Election	410		6860	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	3470
+CLA	Clay	10282	11/08/2016	2016 General Election	410		6860	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1435
+CLA	Clay	10282	11/08/2016	2016 General Election	410		6860	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	141
+CLA	Clay	10282	11/08/2016	2016 General Election	410		6860	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	13
+CLA	Clay	10282	11/08/2016	2016 General Election	410		6860	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	25
+CLA	Clay	10282	11/08/2016	2016 General Election	410		6860	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CLA	Clay	10282	11/08/2016	2016 General Election	410		6860	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	38
+CLA	Clay	10282	11/08/2016	2016 General Election	410		6860	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	2
+CLA	Clay	10282	11/08/2016	2016 General Election	410		6860	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	21
+CLA	Clay	10282	11/08/2016	2016 General Election	412		3363	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2167
+CLA	Clay	10282	11/08/2016	2016 General Election	412		3363	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	526
+CLA	Clay	10282	11/08/2016	2016 General Election	412		3363	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+CLA	Clay	10282	11/08/2016	2016 General Election	412		3363	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	412		3363	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+CLA	Clay	10282	11/08/2016	2016 General Election	412		3363	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	412		3363	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	20
+CLA	Clay	10282	11/08/2016	2016 General Election	412		3363	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	412		3363	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	23
+CLA	Clay	10282	11/08/2016	2016 General Election	414		2790	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1546
+CLA	Clay	10282	11/08/2016	2016 General Election	414		2790	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	515
+CLA	Clay	10282	11/08/2016	2016 General Election	414		2790	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	61
+CLA	Clay	10282	11/08/2016	2016 General Election	414		2790	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+CLA	Clay	10282	11/08/2016	2016 General Election	414		2790	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+CLA	Clay	10282	11/08/2016	2016 General Election	414		2790	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+CLA	Clay	10282	11/08/2016	2016 General Election	414		2790	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	21
+CLA	Clay	10282	11/08/2016	2016 General Election	414		2790	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	414		2790	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	10
+CLA	Clay	10282	11/08/2016	2016 General Election	500		3671	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1737
+CLA	Clay	10282	11/08/2016	2016 General Election	500		3671	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	610
+CLA	Clay	10282	11/08/2016	2016 General Election	500		3671	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	85
+CLA	Clay	10282	11/08/2016	2016 General Election	500		3671	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	500		3671	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+CLA	Clay	10282	11/08/2016	2016 General Election	500		3671	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+CLA	Clay	10282	11/08/2016	2016 General Election	500		3671	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	16
+CLA	Clay	10282	11/08/2016	2016 General Election	500		3671	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	4
+CLA	Clay	10282	11/08/2016	2016 General Election	500		3671	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	9
+CLA	Clay	10282	11/08/2016	2016 General Election	503		1482	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	896
+CLA	Clay	10282	11/08/2016	2016 General Election	503		1482	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	239
+CLA	Clay	10282	11/08/2016	2016 General Election	503		1482	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+CLA	Clay	10282	11/08/2016	2016 General Election	503		1482	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLA	Clay	10282	11/08/2016	2016 General Election	503		1482	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CLA	Clay	10282	11/08/2016	2016 General Election	503		1482	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	503		1482	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	13
+CLA	Clay	10282	11/08/2016	2016 General Election	503		1482	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	503		1482	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	3
+CLA	Clay	10282	11/08/2016	2016 General Election	504		2412	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1661
+CLA	Clay	10282	11/08/2016	2016 General Election	504		2412	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	243
+CLA	Clay	10282	11/08/2016	2016 General Election	504		2412	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	49
+CLA	Clay	10282	11/08/2016	2016 General Election	504		2412	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	504		2412	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+CLA	Clay	10282	11/08/2016	2016 General Election	504		2412	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	504		2412	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	12
+CLA	Clay	10282	11/08/2016	2016 General Election	504		2412	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	504		2412	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	8
+CLA	Clay	10282	11/08/2016	2016 General Election	506		1657	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1028
+CLA	Clay	10282	11/08/2016	2016 General Election	506		1657	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	144
+CLA	Clay	10282	11/08/2016	2016 General Election	506		1657	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+CLA	Clay	10282	11/08/2016	2016 General Election	506		1657	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CLA	Clay	10282	11/08/2016	2016 General Election	506		1657	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CLA	Clay	10282	11/08/2016	2016 General Election	506		1657	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	506		1657	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CLA	Clay	10282	11/08/2016	2016 General Election	506		1657	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	1
+CLA	Clay	10282	11/08/2016	2016 General Election	506		1657	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	1
+CLA	Clay	10282	11/08/2016	2016 General Election	508		3599	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2325
+CLA	Clay	10282	11/08/2016	2016 General Election	508		3599	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	326
+CLA	Clay	10282	11/08/2016	2016 General Election	508		3599	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+CLA	Clay	10282	11/08/2016	2016 General Election	508		3599	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CLA	Clay	10282	11/08/2016	2016 General Election	508		3599	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+CLA	Clay	10282	11/08/2016	2016 General Election	508		3599	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	508		3599	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	18
+CLA	Clay	10282	11/08/2016	2016 General Election	508		3599	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	3
+CLA	Clay	10282	11/08/2016	2016 General Election	508		3599	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	7
+CLA	Clay	10282	11/08/2016	2016 General Election	600		4883	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2772
+CLA	Clay	10282	11/08/2016	2016 General Election	600		4883	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	796
+CLA	Clay	10282	11/08/2016	2016 General Election	600		4883	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	131
+CLA	Clay	10282	11/08/2016	2016 General Election	600		4883	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	11
+CLA	Clay	10282	11/08/2016	2016 General Election	600		4883	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+CLA	Clay	10282	11/08/2016	2016 General Election	600		4883	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	600		4883	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	37
+CLA	Clay	10282	11/08/2016	2016 General Election	600		4883	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	600		4883	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	16
+CLA	Clay	10282	11/08/2016	2016 General Election	601		830	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	471
+CLA	Clay	10282	11/08/2016	2016 General Election	601		830	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	75
+CLA	Clay	10282	11/08/2016	2016 General Election	601		830	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+CLA	Clay	10282	11/08/2016	2016 General Election	601		830	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CLA	Clay	10282	11/08/2016	2016 General Election	601		830	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CLA	Clay	10282	11/08/2016	2016 General Election	601		830	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	601		830	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	4
+CLA	Clay	10282	11/08/2016	2016 General Election	601		830	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	1
+CLA	Clay	10282	11/08/2016	2016 General Election	601		830	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	2
+CLA	Clay	10282	11/08/2016	2016 General Election	602		1099	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	596
+CLA	Clay	10282	11/08/2016	2016 General Election	602		1099	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	205
+CLA	Clay	10282	11/08/2016	2016 General Election	602		1099	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+CLA	Clay	10282	11/08/2016	2016 General Election	602		1099	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	602		1099	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CLA	Clay	10282	11/08/2016	2016 General Election	602		1099	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	602		1099	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	7
+CLA	Clay	10282	11/08/2016	2016 General Election	602		1099	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	602		1099	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	3
+CLA	Clay	10282	11/08/2016	2016 General Election	604		2269	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1514
+CLA	Clay	10282	11/08/2016	2016 General Election	604		2269	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	391
+CLA	Clay	10282	11/08/2016	2016 General Election	604		2269	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	51
+CLA	Clay	10282	11/08/2016	2016 General Election	604		2269	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLA	Clay	10282	11/08/2016	2016 General Election	604		2269	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CLA	Clay	10282	11/08/2016	2016 General Election	604		2269	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLA	Clay	10282	11/08/2016	2016 General Election	604		2269	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	9
+CLA	Clay	10282	11/08/2016	2016 General Election	604		2269	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	604		2269	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	7
+CLA	Clay	10282	11/08/2016	2016 General Election	606		6625	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	2615
+CLA	Clay	10282	11/08/2016	2016 General Election	606		6625	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1804
+CLA	Clay	10282	11/08/2016	2016 General Election	606		6625	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	143
+CLA	Clay	10282	11/08/2016	2016 General Election	606		6625	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+CLA	Clay	10282	11/08/2016	2016 General Election	606		6625	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	34
+CLA	Clay	10282	11/08/2016	2016 General Election	606		6625	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CLA	Clay	10282	11/08/2016	2016 General Election	606		6625	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	41
+CLA	Clay	10282	11/08/2016	2016 General Election	606		6625	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	3
+CLA	Clay	10282	11/08/2016	2016 General Election	606		6625	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	29
+CLA	Clay	10282	11/08/2016	2016 General Election	610		1022	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	664
+CLA	Clay	10282	11/08/2016	2016 General Election	610		1022	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	88
+CLA	Clay	10282	11/08/2016	2016 General Election	610		1022	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+CLA	Clay	10282	11/08/2016	2016 General Election	610		1022	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLA	Clay	10282	11/08/2016	2016 General Election	610		1022	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+CLA	Clay	10282	11/08/2016	2016 General Election	610		1022	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	610		1022	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	5
+CLA	Clay	10282	11/08/2016	2016 General Election	610		1022	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	610		1022	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	1
+CLA	Clay	10282	11/08/2016	2016 General Election	612		798	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	443
+CLA	Clay	10282	11/08/2016	2016 General Election	612		798	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	75
+CLA	Clay	10282	11/08/2016	2016 General Election	612		798	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+CLA	Clay	10282	11/08/2016	2016 General Election	612		798	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLA	Clay	10282	11/08/2016	2016 General Election	612		798	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+CLA	Clay	10282	11/08/2016	2016 General Election	612		798	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	612		798	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	2
+CLA	Clay	10282	11/08/2016	2016 General Election	612		798	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	612		798	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	5
+CLA	Clay	10282	11/08/2016	2016 General Election	700		325	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	238
+CLA	Clay	10282	11/08/2016	2016 General Election	700		325	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	29
+CLA	Clay	10282	11/08/2016	2016 General Election	700		325	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+CLA	Clay	10282	11/08/2016	2016 General Election	700		325	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CLA	Clay	10282	11/08/2016	2016 General Election	700		325	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CLA	Clay	10282	11/08/2016	2016 General Election	700		325	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	700		325	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	3
+CLA	Clay	10282	11/08/2016	2016 General Election	700		325	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	700		325	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	1
+CLA	Clay	10282	11/08/2016	2016 General Election	702		2655	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1545
+CLA	Clay	10282	11/08/2016	2016 General Election	702		2655	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	366
+CLA	Clay	10282	11/08/2016	2016 General Election	702		2655	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+CLA	Clay	10282	11/08/2016	2016 General Election	702		2655	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+CLA	Clay	10282	11/08/2016	2016 General Election	702		2655	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CLA	Clay	10282	11/08/2016	2016 General Election	702		2655	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+CLA	Clay	10282	11/08/2016	2016 General Election	702		2655	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	14
+CLA	Clay	10282	11/08/2016	2016 General Election	702		2655	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	1
+CLA	Clay	10282	11/08/2016	2016 General Election	702		2655	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	9
+CLA	Clay	10282	11/08/2016	2016 General Election	704		1683	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	971
+CLA	Clay	10282	11/08/2016	2016 General Election	704		1683	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	235
+CLA	Clay	10282	11/08/2016	2016 General Election	704		1683	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+CLA	Clay	10282	11/08/2016	2016 General Election	704		1683	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CLA	Clay	10282	11/08/2016	2016 General Election	704		1683	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CLA	Clay	10282	11/08/2016	2016 General Election	704		1683	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	704		1683	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	12
+CLA	Clay	10282	11/08/2016	2016 General Election	704		1683	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	2
+CLA	Clay	10282	11/08/2016	2016 General Election	704		1683	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	5
+CLA	Clay	10282	11/08/2016	2016 General Election	706		3380	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1956
+CLA	Clay	10282	11/08/2016	2016 General Election	706		3380	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	376
+CLA	Clay	10282	11/08/2016	2016 General Election	706		3380	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	60
+CLA	Clay	10282	11/08/2016	2016 General Election	706		3380	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+CLA	Clay	10282	11/08/2016	2016 General Election	706		3380	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+CLA	Clay	10282	11/08/2016	2016 General Election	706		3380	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	706		3380	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	12
+CLA	Clay	10282	11/08/2016	2016 General Election	706		3380	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	2
+CLA	Clay	10282	11/08/2016	2016 General Election	706		3380	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	9
+CLA	Clay	10282	11/08/2016	2016 General Election	708		1961	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	1171
+CLA	Clay	10282	11/08/2016	2016 General Election	708		1961	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	175
+CLA	Clay	10282	11/08/2016	2016 General Election	708		1961	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	22
+CLA	Clay	10282	11/08/2016	2016 General Election	708		1961	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+CLA	Clay	10282	11/08/2016	2016 General Election	708		1961	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CLA	Clay	10282	11/08/2016	2016 General Election	708		1961	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	708		1961	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	8
+CLA	Clay	10282	11/08/2016	2016 General Election	708		1961	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	0
+CLA	Clay	10282	11/08/2016	2016 General Election	708		1961	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	4
+CLA	Clay	10282	11/08/2016	2016 General Election	710		1024	0	0	142828	President of the United States	 	100000	Trump / Pence	REP	0	65072	489
+CLA	Clay	10282	11/08/2016	2016 General Election	710		1024	0	0	142828	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	299
+CLA	Clay	10282	11/08/2016	2016 General Election	710		1024	0	0	142828	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+CLA	Clay	10282	11/08/2016	2016 General Election	710		1024	0	0	142828	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+CLA	Clay	10282	11/08/2016	2016 General Election	710		1024	0	0	142828	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+CLA	Clay	10282	11/08/2016	2016 General Election	710		1024	0	0	142828	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLA	Clay	10282	11/08/2016	2016 General Election	710		1024	0	0	142828	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CLA	Clay	10282	11/08/2016	2016 General Election	710		1024	0	0	142828	President of the United States	 	100000	OverVotes	 	0	901	2
+CLA	Clay	10282	11/08/2016	2016 General Election	710		1024	0	0	142828	President of the United States	 	100000	UnderVotes	 	0	902	2

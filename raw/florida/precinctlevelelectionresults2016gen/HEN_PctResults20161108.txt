@@ -1,0 +1,90 @@
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	392
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1674
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	1	PRECINCT 1	3361	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	11
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	1477
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	794
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	15
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	2	PRECINCT 2	3596	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	12
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	1262
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	625
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	13
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	3	PRECINCT 3	3009	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	14
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	52
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	56
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	4	PRECINCT 4	191	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	217
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	57
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	5	PRECINCT 5	413	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	677
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	395
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	7
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	6	PRECINCT 6	1851	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	1121
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	288
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	7
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	7	PRECINCT 7	1971	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	14
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	274
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	109
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	8	PRECINCT 8	606	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	380
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	351
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	9
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	9	PRECINCT 9	1274	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	3
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Trump / Pence	REP	0	65072	343
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	266
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10282	11/08/2016	2016 General Election	10	PRECINCT 10	1203	0	0	17060	President of the United States	 	100000	UnderVotes	 	0	902	6

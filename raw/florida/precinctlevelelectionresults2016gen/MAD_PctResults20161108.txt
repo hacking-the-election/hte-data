@@ -1,0 +1,99 @@
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	877
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	696
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	3
+MAD	Madison	10282	11/08/2016	2016 General Election	1	Agriculture Center	2190	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	11
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	49
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	264
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	2	Madison Recreation Center	442	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	2
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	1212
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	237
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	3	Lee City Hall	1974	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	240
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	73
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	4	Voting House, Sirmans	423	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	2
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	314
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	518
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	7
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	5	Senior Citizens Building	1206	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	162
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	54
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	6	Hamburg Vol. Fire Station	275	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	612
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	252
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	7	Voting House, Crossroads	1193	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	599
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	206
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	8	Pinetta Vol. Fire Dept	1057	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	4
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	99
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	87
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	2
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	9	Recycling Center, Lamont	253	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	424
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	658
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10282	11/08/2016	2016 General Election	10	Board Room Madison County Annex	1530	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Trump / Pence	REP	0	65072	263
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	481
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	10282	11/08/2016	2016 General Election	11	Voting House, Bunker St.	1024	0	0	11365	President of the United States	 	100000	UnderVotes	 	0	902	10

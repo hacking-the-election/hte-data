@@ -1,0 +1,81 @@
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	1277
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	727
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	5
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	1A	Sanderson Community Center	2488	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	13
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	1903
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	498
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	15
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	3
+BAK	Baker	10282	11/08/2016	2016 General Election	2A	Macclenny Baptist Gym	2982	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	9
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	2281
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	363
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	17
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	2
+BAK	Baker	10282	11/08/2016	2016 General Election	3A	Center of the Agriculture	3213	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	14
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	153
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	8
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4A	Baxter Fire Station	209	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	430
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	34
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4B	Taylor Voting House	606	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	1330
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	147
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	6
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4C	Center of the Agriculture	1670	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	5
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	745
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	59
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	4
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10282	11/08/2016	2016 General Election	4D	Cuyler Church Hall	963	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	2029
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	212
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	22
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	4
+BAK	Baker	10282	11/08/2016	2016 General Election	5A	Glen Baptist Hall	2750	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	7
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Trump / Pence	REP	0	65072	146
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	64
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	WriteinVotes	 	0	900	1
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	OverVotes	 	0	901	1
+BAK	Baker	10282	11/08/2016	2016 General Election	6A	Olustee Baptist Hall	264	0	0	14381	President of the United States	 	100000	UnderVotes	 	0	902	1

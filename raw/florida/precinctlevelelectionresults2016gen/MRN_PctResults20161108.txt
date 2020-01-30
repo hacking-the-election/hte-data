@@ -1,0 +1,1125 @@
+MRN	Marion	10282	11/08/2016	2016 General Election	1	0001	1012	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	476
+MRN	Marion	10282	11/08/2016	2016 General Election	1	0001	1012	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	271
+MRN	Marion	10282	11/08/2016	2016 General Election	1	0001	1012	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+MRN	Marion	10282	11/08/2016	2016 General Election	1	0001	1012	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1	0001	1012	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRN	Marion	10282	11/08/2016	2016 General Election	1	0001	1012	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRN	Marion	10282	11/08/2016	2016 General Election	1	0001	1012	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	1	0001	1012	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1	0001	1012	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	10
+MRN	Marion	10282	11/08/2016	2016 General Election	2	0002	914	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	22
+MRN	Marion	10282	11/08/2016	2016 General Election	2	0002	914	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	529
+MRN	Marion	10282	11/08/2016	2016 General Election	2	0002	914	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2	0002	914	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2	0002	914	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2	0002	914	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2	0002	914	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2	0002	914	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2	0002	914	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3	0003	2803	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1149
+MRN	Marion	10282	11/08/2016	2016 General Election	3	0003	2803	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	708
+MRN	Marion	10282	11/08/2016	2016 General Election	3	0003	2803	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	69
+MRN	Marion	10282	11/08/2016	2016 General Election	3	0003	2803	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3	0003	2803	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+MRN	Marion	10282	11/08/2016	2016 General Election	3	0003	2803	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3	0003	2803	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	22
+MRN	Marion	10282	11/08/2016	2016 General Election	3	0003	2803	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3	0003	2803	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	4	0004	3938	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1504
+MRN	Marion	10282	11/08/2016	2016 General Election	4	0004	3938	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1166
+MRN	Marion	10282	11/08/2016	2016 General Election	4	0004	3938	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	65
+MRN	Marion	10282	11/08/2016	2016 General Election	4	0004	3938	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4	0004	3938	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+MRN	Marion	10282	11/08/2016	2016 General Election	4	0004	3938	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4	0004	3938	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MRN	Marion	10282	11/08/2016	2016 General Election	4	0004	3938	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4	0004	3938	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	22
+MRN	Marion	10282	11/08/2016	2016 General Election	5	0005	1807	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1007
+MRN	Marion	10282	11/08/2016	2016 General Election	5	0005	1807	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	451
+MRN	Marion	10282	11/08/2016	2016 General Election	5	0005	1807	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+MRN	Marion	10282	11/08/2016	2016 General Election	5	0005	1807	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	5	0005	1807	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRN	Marion	10282	11/08/2016	2016 General Election	5	0005	1807	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	5	0005	1807	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MRN	Marion	10282	11/08/2016	2016 General Election	5	0005	1807	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	5	0005	1807	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	17
+MRN	Marion	10282	11/08/2016	2016 General Election	6	0006	2637	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1162
+MRN	Marion	10282	11/08/2016	2016 General Election	6	0006	2637	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	706
+MRN	Marion	10282	11/08/2016	2016 General Election	6	0006	2637	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	63
+MRN	Marion	10282	11/08/2016	2016 General Election	6	0006	2637	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	6	0006	2637	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRN	Marion	10282	11/08/2016	2016 General Election	6	0006	2637	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	6	0006	2637	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	18
+MRN	Marion	10282	11/08/2016	2016 General Election	6	0006	2637	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	6	0006	2637	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	14
+MRN	Marion	10282	11/08/2016	2016 General Election	7	0007	2702	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1028
+MRN	Marion	10282	11/08/2016	2016 General Election	7	0007	2702	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	746
+MRN	Marion	10282	11/08/2016	2016 General Election	7	0007	2702	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+MRN	Marion	10282	11/08/2016	2016 General Election	7	0007	2702	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	7	0007	2702	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+MRN	Marion	10282	11/08/2016	2016 General Election	7	0007	2702	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MRN	Marion	10282	11/08/2016	2016 General Election	7	0007	2702	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	16
+MRN	Marion	10282	11/08/2016	2016 General Election	7	0007	2702	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	7	0007	2702	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	8	0008	1824	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	486
+MRN	Marion	10282	11/08/2016	2016 General Election	8	0008	1824	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	637
+MRN	Marion	10282	11/08/2016	2016 General Election	8	0008	1824	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+MRN	Marion	10282	11/08/2016	2016 General Election	8	0008	1824	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	8	0008	1824	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+MRN	Marion	10282	11/08/2016	2016 General Election	8	0008	1824	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	8	0008	1824	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	10
+MRN	Marion	10282	11/08/2016	2016 General Election	8	0008	1824	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	8	0008	1824	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRN	Marion	10282	11/08/2016	2016 General Election	9	0009	2326	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	142
+MRN	Marion	10282	11/08/2016	2016 General Election	9	0009	2326	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1249
+MRN	Marion	10282	11/08/2016	2016 General Election	9	0009	2326	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+MRN	Marion	10282	11/08/2016	2016 General Election	9	0009	2326	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	9	0009	2326	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	9	0009	2326	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+MRN	Marion	10282	11/08/2016	2016 General Election	9	0009	2326	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRN	Marion	10282	11/08/2016	2016 General Election	9	0009	2326	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	9	0009	2326	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	7
+MRN	Marion	10282	11/08/2016	2016 General Election	10	0010	1343	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	120
+MRN	Marion	10282	11/08/2016	2016 General Election	10	0010	1343	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	715
+MRN	Marion	10282	11/08/2016	2016 General Election	10	0010	1343	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRN	Marion	10282	11/08/2016	2016 General Election	10	0010	1343	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	10	0010	1343	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MRN	Marion	10282	11/08/2016	2016 General Election	10	0010	1343	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	10	0010	1343	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MRN	Marion	10282	11/08/2016	2016 General Election	10	0010	1343	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	10	0010	1343	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	1
+MRN	Marion	10282	11/08/2016	2016 General Election	11	0011	1015	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	195
+MRN	Marion	10282	11/08/2016	2016 General Election	11	0011	1015	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	443
+MRN	Marion	10282	11/08/2016	2016 General Election	11	0011	1015	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+MRN	Marion	10282	11/08/2016	2016 General Election	11	0011	1015	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	11	0011	1015	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRN	Marion	10282	11/08/2016	2016 General Election	11	0011	1015	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	11	0011	1015	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	11	0011	1015	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	11	0011	1015	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	1
+MRN	Marion	10282	11/08/2016	2016 General Election	12	0012	2376	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	998
+MRN	Marion	10282	11/08/2016	2016 General Election	12	0012	2376	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	564
+MRN	Marion	10282	11/08/2016	2016 General Election	12	0012	2376	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	53
+MRN	Marion	10282	11/08/2016	2016 General Election	12	0012	2376	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	12	0012	2376	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+MRN	Marion	10282	11/08/2016	2016 General Election	12	0012	2376	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MRN	Marion	10282	11/08/2016	2016 General Election	12	0012	2376	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	12
+MRN	Marion	10282	11/08/2016	2016 General Election	12	0012	2376	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	12	0012	2376	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	12
+MRN	Marion	10282	11/08/2016	2016 General Election	13	0013	411	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	215
+MRN	Marion	10282	11/08/2016	2016 General Election	13	0013	411	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	117
+MRN	Marion	10282	11/08/2016	2016 General Election	13	0013	411	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRN	Marion	10282	11/08/2016	2016 General Election	13	0013	411	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	13	0013	411	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MRN	Marion	10282	11/08/2016	2016 General Election	13	0013	411	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	13	0013	411	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MRN	Marion	10282	11/08/2016	2016 General Election	13	0013	411	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	13	0013	411	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	1
+MRN	Marion	10282	11/08/2016	2016 General Election	14	0014	3186	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1774
+MRN	Marion	10282	11/08/2016	2016 General Election	14	0014	3186	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	725
+MRN	Marion	10282	11/08/2016	2016 General Election	14	0014	3186	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	64
+MRN	Marion	10282	11/08/2016	2016 General Election	14	0014	3186	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	14	0014	3186	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+MRN	Marion	10282	11/08/2016	2016 General Election	14	0014	3186	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	14	0014	3186	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	27
+MRN	Marion	10282	11/08/2016	2016 General Election	14	0014	3186	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	14	0014	3186	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	24
+MRN	Marion	10282	11/08/2016	2016 General Election	15	0015	2138	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1089
+MRN	Marion	10282	11/08/2016	2016 General Election	15	0015	2138	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	525
+MRN	Marion	10282	11/08/2016	2016 General Election	15	0015	2138	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+MRN	Marion	10282	11/08/2016	2016 General Election	15	0015	2138	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	15	0015	2138	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MRN	Marion	10282	11/08/2016	2016 General Election	15	0015	2138	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	15	0015	2138	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	14
+MRN	Marion	10282	11/08/2016	2016 General Election	15	0015	2138	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	15	0015	2138	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRN	Marion	10282	11/08/2016	2016 General Election	16	0016	1998	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1132
+MRN	Marion	10282	11/08/2016	2016 General Election	16	0016	1998	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	426
+MRN	Marion	10282	11/08/2016	2016 General Election	16	0016	1998	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	48
+MRN	Marion	10282	11/08/2016	2016 General Election	16	0016	1998	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+MRN	Marion	10282	11/08/2016	2016 General Election	16	0016	1998	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+MRN	Marion	10282	11/08/2016	2016 General Election	16	0016	1998	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	16	0016	1998	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	11
+MRN	Marion	10282	11/08/2016	2016 General Election	16	0016	1998	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	16	0016	1998	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	18
+MRN	Marion	10282	11/08/2016	2016 General Election	17	0017	1639	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	849
+MRN	Marion	10282	11/08/2016	2016 General Election	17	0017	1639	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	360
+MRN	Marion	10282	11/08/2016	2016 General Election	17	0017	1639	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	50
+MRN	Marion	10282	11/08/2016	2016 General Election	17	0017	1639	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	17	0017	1639	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+MRN	Marion	10282	11/08/2016	2016 General Election	17	0017	1639	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	17	0017	1639	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MRN	Marion	10282	11/08/2016	2016 General Election	17	0017	1639	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	17	0017	1639	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	15
+MRN	Marion	10282	11/08/2016	2016 General Election	18	0018	3483	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1387
+MRN	Marion	10282	11/08/2016	2016 General Election	18	0018	3483	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1042
+MRN	Marion	10282	11/08/2016	2016 General Election	18	0018	3483	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+MRN	Marion	10282	11/08/2016	2016 General Election	18	0018	3483	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	18	0018	3483	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	21
+MRN	Marion	10282	11/08/2016	2016 General Election	18	0018	3483	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	18	0018	3483	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	18
+MRN	Marion	10282	11/08/2016	2016 General Election	18	0018	3483	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	4
+MRN	Marion	10282	11/08/2016	2016 General Election	18	0018	3483	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	13
+MRN	Marion	10282	11/08/2016	2016 General Election	19	0019	1588	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	625
+MRN	Marion	10282	11/08/2016	2016 General Election	19	0019	1588	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	530
+MRN	Marion	10282	11/08/2016	2016 General Election	19	0019	1588	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+MRN	Marion	10282	11/08/2016	2016 General Election	19	0019	1588	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	19	0019	1588	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRN	Marion	10282	11/08/2016	2016 General Election	19	0019	1588	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRN	Marion	10282	11/08/2016	2016 General Election	19	0019	1588	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MRN	Marion	10282	11/08/2016	2016 General Election	19	0019	1588	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	19	0019	1588	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRN	Marion	10282	11/08/2016	2016 General Election	40	0040	2855	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1291
+MRN	Marion	10282	11/08/2016	2016 General Election	40	0040	2855	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	616
+MRN	Marion	10282	11/08/2016	2016 General Election	40	0040	2855	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	54
+MRN	Marion	10282	11/08/2016	2016 General Election	40	0040	2855	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	40	0040	2855	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+MRN	Marion	10282	11/08/2016	2016 General Election	40	0040	2855	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	40	0040	2855	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	11
+MRN	Marion	10282	11/08/2016	2016 General Election	40	0040	2855	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	40	0040	2855	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	13
+MRN	Marion	10282	11/08/2016	2016 General Election	50	0050	1294	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	629
+MRN	Marion	10282	11/08/2016	2016 General Election	50	0050	1294	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	347
+MRN	Marion	10282	11/08/2016	2016 General Election	50	0050	1294	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+MRN	Marion	10282	11/08/2016	2016 General Election	50	0050	1294	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	50	0050	1294	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	50	0050	1294	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	50	0050	1294	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRN	Marion	10282	11/08/2016	2016 General Election	50	0050	1294	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	50	0050	1294	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	60	0060	335	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	192
+MRN	Marion	10282	11/08/2016	2016 General Election	60	0060	335	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	92
+MRN	Marion	10282	11/08/2016	2016 General Election	60	0060	335	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MRN	Marion	10282	11/08/2016	2016 General Election	60	0060	335	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	60	0060	335	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRN	Marion	10282	11/08/2016	2016 General Election	60	0060	335	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	60	0060	335	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MRN	Marion	10282	11/08/2016	2016 General Election	60	0060	335	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	60	0060	335	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	70	0070	320	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	83
+MRN	Marion	10282	11/08/2016	2016 General Election	70	0070	320	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	147
+MRN	Marion	10282	11/08/2016	2016 General Election	70	0070	320	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+MRN	Marion	10282	11/08/2016	2016 General Election	70	0070	320	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	70	0070	320	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRN	Marion	10282	11/08/2016	2016 General Election	70	0070	320	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	70	0070	320	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MRN	Marion	10282	11/08/2016	2016 General Election	70	0070	320	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	70	0070	320	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1500	1500	502	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	292
+MRN	Marion	10282	11/08/2016	2016 General Election	1500	1500	502	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	85
+MRN	Marion	10282	11/08/2016	2016 General Election	1500	1500	502	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRN	Marion	10282	11/08/2016	2016 General Election	1500	1500	502	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1500	1500	502	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1500	1500	502	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1500	1500	502	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	2
+MRN	Marion	10282	11/08/2016	2016 General Election	1500	1500	502	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1500	1500	502	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1510	1510	967	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	529
+MRN	Marion	10282	11/08/2016	2016 General Election	1510	1510	967	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	152
+MRN	Marion	10282	11/08/2016	2016 General Election	1510	1510	967	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+MRN	Marion	10282	11/08/2016	2016 General Election	1510	1510	967	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	1510	1510	967	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRN	Marion	10282	11/08/2016	2016 General Election	1510	1510	967	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	1510	1510	967	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	1510	1510	967	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1510	1510	967	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1520	1520	1669	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	876
+MRN	Marion	10282	11/08/2016	2016 General Election	1520	1520	1669	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	275
+MRN	Marion	10282	11/08/2016	2016 General Election	1520	1520	1669	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+MRN	Marion	10282	11/08/2016	2016 General Election	1520	1520	1669	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1520	1520	1669	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1520	1520	1669	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1520	1520	1669	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MRN	Marion	10282	11/08/2016	2016 General Election	1520	1520	1669	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1520	1520	1669	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1530	1530	1696	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1030
+MRN	Marion	10282	11/08/2016	2016 General Election	1530	1530	1696	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	273
+MRN	Marion	10282	11/08/2016	2016 General Election	1530	1530	1696	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+MRN	Marion	10282	11/08/2016	2016 General Election	1530	1530	1696	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1530	1530	1696	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRN	Marion	10282	11/08/2016	2016 General Election	1530	1530	1696	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1530	1530	1696	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MRN	Marion	10282	11/08/2016	2016 General Election	1530	1530	1696	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1530	1530	1696	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	1540	1540	1909	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1085
+MRN	Marion	10282	11/08/2016	2016 General Election	1540	1540	1909	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	255
+MRN	Marion	10282	11/08/2016	2016 General Election	1540	1540	1909	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+MRN	Marion	10282	11/08/2016	2016 General Election	1540	1540	1909	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+MRN	Marion	10282	11/08/2016	2016 General Election	1540	1540	1909	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	1540	1540	1909	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1540	1540	1909	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRN	Marion	10282	11/08/2016	2016 General Election	1540	1540	1909	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	1540	1540	1909	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	1550	1550	2886	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1626
+MRN	Marion	10282	11/08/2016	2016 General Election	1550	1550	2886	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	555
+MRN	Marion	10282	11/08/2016	2016 General Election	1550	1550	2886	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+MRN	Marion	10282	11/08/2016	2016 General Election	1550	1550	2886	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1550	1550	2886	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+MRN	Marion	10282	11/08/2016	2016 General Election	1550	1550	2886	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1550	1550	2886	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MRN	Marion	10282	11/08/2016	2016 General Election	1550	1550	2886	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	1550	1550	2886	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRN	Marion	10282	11/08/2016	2016 General Election	1560	1560	1887	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	962
+MRN	Marion	10282	11/08/2016	2016 General Election	1560	1560	1887	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	299
+MRN	Marion	10282	11/08/2016	2016 General Election	1560	1560	1887	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+MRN	Marion	10282	11/08/2016	2016 General Election	1560	1560	1887	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1560	1560	1887	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	1560	1560	1887	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1560	1560	1887	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	1560	1560	1887	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1560	1560	1887	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1570	1570	2274	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1279
+MRN	Marion	10282	11/08/2016	2016 General Election	1570	1570	2274	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	419
+MRN	Marion	10282	11/08/2016	2016 General Election	1570	1570	2274	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+MRN	Marion	10282	11/08/2016	2016 General Election	1570	1570	2274	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	1570	1570	2274	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+MRN	Marion	10282	11/08/2016	2016 General Election	1570	1570	2274	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1570	1570	2274	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	16
+MRN	Marion	10282	11/08/2016	2016 General Election	1570	1570	2274	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1570	1570	2274	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRN	Marion	10282	11/08/2016	2016 General Election	1580	1580	1794	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	791
+MRN	Marion	10282	11/08/2016	2016 General Election	1580	1580	1794	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	442
+MRN	Marion	10282	11/08/2016	2016 General Election	1580	1580	1794	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+MRN	Marion	10282	11/08/2016	2016 General Election	1580	1580	1794	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	1580	1580	1794	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1580	1580	1794	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1580	1580	1794	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	1580	1580	1794	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1580	1580	1794	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRN	Marion	10282	11/08/2016	2016 General Election	1590	1590	2125	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1084
+MRN	Marion	10282	11/08/2016	2016 General Election	1590	1590	2125	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	456
+MRN	Marion	10282	11/08/2016	2016 General Election	1590	1590	2125	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+MRN	Marion	10282	11/08/2016	2016 General Election	1590	1590	2125	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1590	1590	2125	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+MRN	Marion	10282	11/08/2016	2016 General Election	1590	1590	2125	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1590	1590	2125	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	1590	1590	2125	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	3
+MRN	Marion	10282	11/08/2016	2016 General Election	1590	1590	2125	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRN	Marion	10282	11/08/2016	2016 General Election	1600	1600	2443	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1288
+MRN	Marion	10282	11/08/2016	2016 General Election	1600	1600	2443	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	505
+MRN	Marion	10282	11/08/2016	2016 General Election	1600	1600	2443	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+MRN	Marion	10282	11/08/2016	2016 General Election	1600	1600	2443	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+MRN	Marion	10282	11/08/2016	2016 General Election	1600	1600	2443	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MRN	Marion	10282	11/08/2016	2016 General Election	1600	1600	2443	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	1600	1600	2443	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MRN	Marion	10282	11/08/2016	2016 General Election	1600	1600	2443	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	1600	1600	2443	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	13
+MRN	Marion	10282	11/08/2016	2016 General Election	1610	1610	2784	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1419
+MRN	Marion	10282	11/08/2016	2016 General Election	1610	1610	2784	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	633
+MRN	Marion	10282	11/08/2016	2016 General Election	1610	1610	2784	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+MRN	Marion	10282	11/08/2016	2016 General Election	1610	1610	2784	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+MRN	Marion	10282	11/08/2016	2016 General Election	1610	1610	2784	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRN	Marion	10282	11/08/2016	2016 General Election	1610	1610	2784	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	1610	1610	2784	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	11
+MRN	Marion	10282	11/08/2016	2016 General Election	1610	1610	2784	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	1610	1610	2784	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	24
+MRN	Marion	10282	11/08/2016	2016 General Election	2500	2500	1419	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	744
+MRN	Marion	10282	11/08/2016	2016 General Election	2500	2500	1419	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	346
+MRN	Marion	10282	11/08/2016	2016 General Election	2500	2500	1419	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+MRN	Marion	10282	11/08/2016	2016 General Election	2500	2500	1419	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2500	2500	1419	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRN	Marion	10282	11/08/2016	2016 General Election	2500	2500	1419	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	2500	2500	1419	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	2500	2500	1419	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2500	2500	1419	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	2510	2510	517	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	245
+MRN	Marion	10282	11/08/2016	2016 General Election	2510	2510	517	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	174
+MRN	Marion	10282	11/08/2016	2016 General Election	2510	2510	517	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+MRN	Marion	10282	11/08/2016	2016 General Election	2510	2510	517	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2510	2510	517	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MRN	Marion	10282	11/08/2016	2016 General Election	2510	2510	517	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2510	2510	517	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MRN	Marion	10282	11/08/2016	2016 General Election	2510	2510	517	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2510	2510	517	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2520	2520	1842	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	778
+MRN	Marion	10282	11/08/2016	2016 General Election	2520	2520	1842	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	630
+MRN	Marion	10282	11/08/2016	2016 General Election	2520	2520	1842	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+MRN	Marion	10282	11/08/2016	2016 General Election	2520	2520	1842	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2520	2520	1842	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+MRN	Marion	10282	11/08/2016	2016 General Election	2520	2520	1842	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2520	2520	1842	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MRN	Marion	10282	11/08/2016	2016 General Election	2520	2520	1842	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2520	2520	1842	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	7
+MRN	Marion	10282	11/08/2016	2016 General Election	2530	2530	1537	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	518
+MRN	Marion	10282	11/08/2016	2016 General Election	2530	2530	1537	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	639
+MRN	Marion	10282	11/08/2016	2016 General Election	2530	2530	1537	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+MRN	Marion	10282	11/08/2016	2016 General Election	2530	2530	1537	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2530	2530	1537	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	2530	2530	1537	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2530	2530	1537	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRN	Marion	10282	11/08/2016	2016 General Election	2530	2530	1537	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2530	2530	1537	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	2540	2540	1118	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	452
+MRN	Marion	10282	11/08/2016	2016 General Election	2540	2540	1118	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	343
+MRN	Marion	10282	11/08/2016	2016 General Election	2540	2540	1118	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+MRN	Marion	10282	11/08/2016	2016 General Election	2540	2540	1118	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2540	2540	1118	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	2540	2540	1118	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2540	2540	1118	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	2
+MRN	Marion	10282	11/08/2016	2016 General Election	2540	2540	1118	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2540	2540	1118	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	5
+MRN	Marion	10282	11/08/2016	2016 General Election	2550	2550	1485	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	774
+MRN	Marion	10282	11/08/2016	2016 General Election	2550	2550	1485	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	389
+MRN	Marion	10282	11/08/2016	2016 General Election	2550	2550	1485	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+MRN	Marion	10282	11/08/2016	2016 General Election	2550	2550	1485	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2550	2550	1485	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MRN	Marion	10282	11/08/2016	2016 General Election	2550	2550	1485	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2550	2550	1485	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MRN	Marion	10282	11/08/2016	2016 General Election	2550	2550	1485	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2550	2550	1485	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	2551	2551	967	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	502
+MRN	Marion	10282	11/08/2016	2016 General Election	2551	2551	967	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	249
+MRN	Marion	10282	11/08/2016	2016 General Election	2551	2551	967	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+MRN	Marion	10282	11/08/2016	2016 General Election	2551	2551	967	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	2551	2551	967	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MRN	Marion	10282	11/08/2016	2016 General Election	2551	2551	967	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2551	2551	967	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	3
+MRN	Marion	10282	11/08/2016	2016 General Election	2551	2551	967	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2551	2551	967	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	2560	2560	1001	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	463
+MRN	Marion	10282	11/08/2016	2016 General Election	2560	2560	1001	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	294
+MRN	Marion	10282	11/08/2016	2016 General Election	2560	2560	1001	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+MRN	Marion	10282	11/08/2016	2016 General Election	2560	2560	1001	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2560	2560	1001	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2560	2560	1001	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2560	2560	1001	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	2
+MRN	Marion	10282	11/08/2016	2016 General Election	2560	2560	1001	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2560	2560	1001	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	2570	2570	2719	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	916
+MRN	Marion	10282	11/08/2016	2016 General Election	2570	2570	2719	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	885
+MRN	Marion	10282	11/08/2016	2016 General Election	2570	2570	2719	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	52
+MRN	Marion	10282	11/08/2016	2016 General Election	2570	2570	2719	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	2570	2570	2719	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	2570	2570	2719	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2570	2570	2719	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	2570	2570	2719	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2570	2570	2719	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	13
+MRN	Marion	10282	11/08/2016	2016 General Election	2580	2580	988	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	489
+MRN	Marion	10282	11/08/2016	2016 General Election	2580	2580	988	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	331
+MRN	Marion	10282	11/08/2016	2016 General Election	2580	2580	988	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MRN	Marion	10282	11/08/2016	2016 General Election	2580	2580	988	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2580	2580	988	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	2580	2580	988	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2580	2580	988	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MRN	Marion	10282	11/08/2016	2016 General Election	2580	2580	988	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2580	2580	988	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	4
+MRN	Marion	10282	11/08/2016	2016 General Election	2590	2590	1033	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	270
+MRN	Marion	10282	11/08/2016	2016 General Election	2590	2590	1033	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	398
+MRN	Marion	10282	11/08/2016	2016 General Election	2590	2590	1033	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	8
+MRN	Marion	10282	11/08/2016	2016 General Election	2590	2590	1033	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2590	2590	1033	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2590	2590	1033	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2590	2590	1033	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MRN	Marion	10282	11/08/2016	2016 General Election	2590	2590	1033	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2590	2590	1033	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	5
+MRN	Marion	10282	11/08/2016	2016 General Election	2600	2600	4018	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1825
+MRN	Marion	10282	11/08/2016	2016 General Election	2600	2600	4018	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	953
+MRN	Marion	10282	11/08/2016	2016 General Election	2600	2600	4018	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	59
+MRN	Marion	10282	11/08/2016	2016 General Election	2600	2600	4018	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+MRN	Marion	10282	11/08/2016	2016 General Election	2600	2600	4018	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	20
+MRN	Marion	10282	11/08/2016	2016 General Election	2600	2600	4018	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRN	Marion	10282	11/08/2016	2016 General Election	2600	2600	4018	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	18
+MRN	Marion	10282	11/08/2016	2016 General Election	2600	2600	4018	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	3
+MRN	Marion	10282	11/08/2016	2016 General Election	2600	2600	4018	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	22
+MRN	Marion	10282	11/08/2016	2016 General Election	2610	2610	1527	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	842
+MRN	Marion	10282	11/08/2016	2016 General Election	2610	2610	1527	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	465
+MRN	Marion	10282	11/08/2016	2016 General Election	2610	2610	1527	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+MRN	Marion	10282	11/08/2016	2016 General Election	2610	2610	1527	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	2610	2610	1527	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	2610	2610	1527	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2610	2610	1527	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	2610	2610	1527	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2610	2610	1527	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRN	Marion	10282	11/08/2016	2016 General Election	2620	2620	349	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	163
+MRN	Marion	10282	11/08/2016	2016 General Election	2620	2620	349	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	126
+MRN	Marion	10282	11/08/2016	2016 General Election	2620	2620	349	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRN	Marion	10282	11/08/2016	2016 General Election	2620	2620	349	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2620	2620	349	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2620	2620	349	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2620	2620	349	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2620	2620	349	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2620	2620	349	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	4
+MRN	Marion	10282	11/08/2016	2016 General Election	2621	2621	25	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2621	2621	25	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	8
+MRN	Marion	10282	11/08/2016	2016 General Election	2621	2621	25	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2621	2621	25	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2621	2621	25	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2621	2621	25	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2621	2621	25	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2621	2621	25	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2621	2621	25	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2630	2630	648	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	84
+MRN	Marion	10282	11/08/2016	2016 General Election	2630	2630	648	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	317
+MRN	Marion	10282	11/08/2016	2016 General Election	2630	2630	648	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRN	Marion	10282	11/08/2016	2016 General Election	2630	2630	648	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2630	2630	648	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	2630	2630	648	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2630	2630	648	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MRN	Marion	10282	11/08/2016	2016 General Election	2630	2630	648	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	2630	2630	648	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3510	3510	1740	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	813
+MRN	Marion	10282	11/08/2016	2016 General Election	3510	3510	1740	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	246
+MRN	Marion	10282	11/08/2016	2016 General Election	3510	3510	1740	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+MRN	Marion	10282	11/08/2016	2016 General Election	3510	3510	1740	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3510	3510	1740	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3510	3510	1740	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	8
+MRN	Marion	10282	11/08/2016	2016 General Election	3510	3510	1740	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3510	3510	1740	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3510	3510	1740	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3520	3520	1866	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1040
+MRN	Marion	10282	11/08/2016	2016 General Election	3520	3520	1866	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	343
+MRN	Marion	10282	11/08/2016	2016 General Election	3520	3520	1866	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+MRN	Marion	10282	11/08/2016	2016 General Election	3520	3520	1866	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3520	3520	1866	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3520	3520	1866	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3520	3520	1866	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3520	3520	1866	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3520	3520	1866	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3530	3530	3183	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1990
+MRN	Marion	10282	11/08/2016	2016 General Election	3530	3530	3183	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	762
+MRN	Marion	10282	11/08/2016	2016 General Election	3530	3530	3183	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+MRN	Marion	10282	11/08/2016	2016 General Election	3530	3530	3183	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3530	3530	3183	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MRN	Marion	10282	11/08/2016	2016 General Election	3530	3530	3183	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3530	3530	3183	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3530	3530	3183	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3530	3530	3183	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	17
+MRN	Marion	10282	11/08/2016	2016 General Election	3540	3540	2120	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1262
+MRN	Marion	10282	11/08/2016	2016 General Election	3540	3540	2120	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	534
+MRN	Marion	10282	11/08/2016	2016 General Election	3540	3540	2120	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3540	3540	2120	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3540	3540	2120	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3540	3540	2120	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3540	3540	2120	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3540	3540	2120	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3540	3540	2120	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	12
+MRN	Marion	10282	11/08/2016	2016 General Election	3550	3550	1847	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1129
+MRN	Marion	10282	11/08/2016	2016 General Election	3550	3550	1847	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	480
+MRN	Marion	10282	11/08/2016	2016 General Election	3550	3550	1847	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+MRN	Marion	10282	11/08/2016	2016 General Election	3550	3550	1847	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3550	3550	1847	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3550	3550	1847	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3550	3550	1847	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	10
+MRN	Marion	10282	11/08/2016	2016 General Election	3550	3550	1847	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3550	3550	1847	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3551	3551	1700	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1050
+MRN	Marion	10282	11/08/2016	2016 General Election	3551	3551	1700	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	482
+MRN	Marion	10282	11/08/2016	2016 General Election	3551	3551	1700	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	20
+MRN	Marion	10282	11/08/2016	2016 General Election	3551	3551	1700	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3551	3551	1700	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3551	3551	1700	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3551	3551	1700	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3551	3551	1700	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3551	3551	1700	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3552	3552	1723	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1067
+MRN	Marion	10282	11/08/2016	2016 General Election	3552	3552	1723	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	449
+MRN	Marion	10282	11/08/2016	2016 General Election	3552	3552	1723	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+MRN	Marion	10282	11/08/2016	2016 General Election	3552	3552	1723	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3552	3552	1723	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3552	3552	1723	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3552	3552	1723	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3552	3552	1723	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3552	3552	1723	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	15
+MRN	Marion	10282	11/08/2016	2016 General Election	3553	3553	2104	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1347
+MRN	Marion	10282	11/08/2016	2016 General Election	3553	3553	2104	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	529
+MRN	Marion	10282	11/08/2016	2016 General Election	3553	3553	2104	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+MRN	Marion	10282	11/08/2016	2016 General Election	3553	3553	2104	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3553	3553	2104	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3553	3553	2104	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3553	3553	2104	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	12
+MRN	Marion	10282	11/08/2016	2016 General Election	3553	3553	2104	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3553	3553	2104	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3560	3560	1265	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	588
+MRN	Marion	10282	11/08/2016	2016 General Election	3560	3560	1265	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	242
+MRN	Marion	10282	11/08/2016	2016 General Election	3560	3560	1265	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+MRN	Marion	10282	11/08/2016	2016 General Election	3560	3560	1265	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3560	3560	1265	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3560	3560	1265	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3560	3560	1265	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3560	3560	1265	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3560	3560	1265	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	3570	3570	2614	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1298
+MRN	Marion	10282	11/08/2016	2016 General Election	3570	3570	2614	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	489
+MRN	Marion	10282	11/08/2016	2016 General Election	3570	3570	2614	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	34
+MRN	Marion	10282	11/08/2016	2016 General Election	3570	3570	2614	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3570	3570	2614	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+MRN	Marion	10282	11/08/2016	2016 General Election	3570	3570	2614	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3570	3570	2614	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MRN	Marion	10282	11/08/2016	2016 General Election	3570	3570	2614	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3570	3570	2614	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3580	3580	3316	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1630
+MRN	Marion	10282	11/08/2016	2016 General Election	3580	3580	3316	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	665
+MRN	Marion	10282	11/08/2016	2016 General Election	3580	3580	3316	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	35
+MRN	Marion	10282	11/08/2016	2016 General Election	3580	3580	3316	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3580	3580	3316	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3580	3580	3316	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3580	3580	3316	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	18
+MRN	Marion	10282	11/08/2016	2016 General Election	3580	3580	3316	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3580	3580	3316	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3590	3590	2164	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1082
+MRN	Marion	10282	11/08/2016	2016 General Election	3590	3590	2164	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	458
+MRN	Marion	10282	11/08/2016	2016 General Election	3590	3590	2164	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	42
+MRN	Marion	10282	11/08/2016	2016 General Election	3590	3590	2164	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3590	3590	2164	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+MRN	Marion	10282	11/08/2016	2016 General Election	3590	3590	2164	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3590	3590	2164	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MRN	Marion	10282	11/08/2016	2016 General Election	3590	3590	2164	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3590	3590	2164	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3600	3600	1704	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	897
+MRN	Marion	10282	11/08/2016	2016 General Election	3600	3600	1704	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	296
+MRN	Marion	10282	11/08/2016	2016 General Election	3600	3600	1704	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+MRN	Marion	10282	11/08/2016	2016 General Election	3600	3600	1704	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3600	3600	1704	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MRN	Marion	10282	11/08/2016	2016 General Election	3600	3600	1704	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3600	3600	1704	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	12
+MRN	Marion	10282	11/08/2016	2016 General Election	3600	3600	1704	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3600	3600	1704	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3610	3610	853	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	354
+MRN	Marion	10282	11/08/2016	2016 General Election	3610	3610	853	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	177
+MRN	Marion	10282	11/08/2016	2016 General Election	3610	3610	853	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+MRN	Marion	10282	11/08/2016	2016 General Election	3610	3610	853	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3610	3610	853	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3610	3610	853	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3610	3610	853	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3610	3610	853	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3610	3610	853	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3620	3620	1765	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1027
+MRN	Marion	10282	11/08/2016	2016 General Election	3620	3620	1765	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	500
+MRN	Marion	10282	11/08/2016	2016 General Election	3620	3620	1765	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+MRN	Marion	10282	11/08/2016	2016 General Election	3620	3620	1765	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3620	3620	1765	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3620	3620	1765	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3620	3620	1765	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	16
+MRN	Marion	10282	11/08/2016	2016 General Election	3620	3620	1765	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3620	3620	1765	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	21
+MRN	Marion	10282	11/08/2016	2016 General Election	3621	3621	1541	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1001
+MRN	Marion	10282	11/08/2016	2016 General Election	3621	3621	1541	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	400
+MRN	Marion	10282	11/08/2016	2016 General Election	3621	3621	1541	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3621	3621	1541	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3621	3621	1541	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3621	3621	1541	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3621	3621	1541	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3621	3621	1541	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3621	3621	1541	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3622	3622	1714	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1082
+MRN	Marion	10282	11/08/2016	2016 General Election	3622	3622	1714	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	460
+MRN	Marion	10282	11/08/2016	2016 General Election	3622	3622	1714	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+MRN	Marion	10282	11/08/2016	2016 General Election	3622	3622	1714	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3622	3622	1714	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3622	3622	1714	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3622	3622	1714	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	10
+MRN	Marion	10282	11/08/2016	2016 General Election	3622	3622	1714	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3622	3622	1714	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	16
+MRN	Marion	10282	11/08/2016	2016 General Election	3630	3630	2105	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1054
+MRN	Marion	10282	11/08/2016	2016 General Election	3630	3630	2105	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	416
+MRN	Marion	10282	11/08/2016	2016 General Election	3630	3630	2105	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	24
+MRN	Marion	10282	11/08/2016	2016 General Election	3630	3630	2105	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3630	3630	2105	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MRN	Marion	10282	11/08/2016	2016 General Election	3630	3630	2105	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3630	3630	2105	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3630	3630	2105	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3630	3630	2105	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3640	3640	1752	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1006
+MRN	Marion	10282	11/08/2016	2016 General Election	3640	3640	1752	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	314
+MRN	Marion	10282	11/08/2016	2016 General Election	3640	3640	1752	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+MRN	Marion	10282	11/08/2016	2016 General Election	3640	3640	1752	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3640	3640	1752	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+MRN	Marion	10282	11/08/2016	2016 General Election	3640	3640	1752	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3640	3640	1752	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	10
+MRN	Marion	10282	11/08/2016	2016 General Election	3640	3640	1752	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3640	3640	1752	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3650	3650	1794	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	921
+MRN	Marion	10282	11/08/2016	2016 General Election	3650	3650	1794	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	284
+MRN	Marion	10282	11/08/2016	2016 General Election	3650	3650	1794	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+MRN	Marion	10282	11/08/2016	2016 General Election	3650	3650	1794	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3650	3650	1794	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3650	3650	1794	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3650	3650	1794	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	3650	3650	1794	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3650	3650	1794	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	3660	3660	1939	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	880
+MRN	Marion	10282	11/08/2016	2016 General Election	3660	3660	1939	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	464
+MRN	Marion	10282	11/08/2016	2016 General Election	3660	3660	1939	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+MRN	Marion	10282	11/08/2016	2016 General Election	3660	3660	1939	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3660	3660	1939	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3660	3660	1939	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3660	3660	1939	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3660	3660	1939	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3660	3660	1939	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3670	3670	5054	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1486
+MRN	Marion	10282	11/08/2016	2016 General Election	3670	3670	5054	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1912
+MRN	Marion	10282	11/08/2016	2016 General Election	3670	3670	5054	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	91
+MRN	Marion	10282	11/08/2016	2016 General Election	3670	3670	5054	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3670	3670	5054	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	22
+MRN	Marion	10282	11/08/2016	2016 General Election	3670	3670	5054	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3670	3670	5054	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	33
+MRN	Marion	10282	11/08/2016	2016 General Election	3670	3670	5054	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3670	3670	5054	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	30
+MRN	Marion	10282	11/08/2016	2016 General Election	3680	3680	1494	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	499
+MRN	Marion	10282	11/08/2016	2016 General Election	3680	3680	1494	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	494
+MRN	Marion	10282	11/08/2016	2016 General Election	3680	3680	1494	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+MRN	Marion	10282	11/08/2016	2016 General Election	3680	3680	1494	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3680	3680	1494	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3680	3680	1494	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3680	3680	1494	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3680	3680	1494	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3680	3680	1494	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3690	3690	3541	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1439
+MRN	Marion	10282	11/08/2016	2016 General Election	3690	3690	3541	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1057
+MRN	Marion	10282	11/08/2016	2016 General Election	3690	3690	3541	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	62
+MRN	Marion	10282	11/08/2016	2016 General Election	3690	3690	3541	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3690	3690	3541	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+MRN	Marion	10282	11/08/2016	2016 General Election	3690	3690	3541	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3690	3690	3541	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	14
+MRN	Marion	10282	11/08/2016	2016 General Election	3690	3690	3541	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3690	3690	3541	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3700	3700	2587	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	658
+MRN	Marion	10282	11/08/2016	2016 General Election	3700	3700	2587	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1045
+MRN	Marion	10282	11/08/2016	2016 General Election	3700	3700	2587	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+MRN	Marion	10282	11/08/2016	2016 General Election	3700	3700	2587	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3700	3700	2587	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3700	3700	2587	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3700	3700	2587	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	14
+MRN	Marion	10282	11/08/2016	2016 General Election	3700	3700	2587	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3700	3700	2587	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	14
+MRN	Marion	10282	11/08/2016	2016 General Election	3710	3710	3219	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1376
+MRN	Marion	10282	11/08/2016	2016 General Election	3710	3710	3219	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	854
+MRN	Marion	10282	11/08/2016	2016 General Election	3710	3710	3219	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	57
+MRN	Marion	10282	11/08/2016	2016 General Election	3710	3710	3219	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3710	3710	3219	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3710	3710	3219	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3710	3710	3219	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MRN	Marion	10282	11/08/2016	2016 General Election	3710	3710	3219	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3710	3710	3219	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	10
+MRN	Marion	10282	11/08/2016	2016 General Election	3720	3720	1067	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	548
+MRN	Marion	10282	11/08/2016	2016 General Election	3720	3720	1067	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	222
+MRN	Marion	10282	11/08/2016	2016 General Election	3720	3720	1067	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+MRN	Marion	10282	11/08/2016	2016 General Election	3720	3720	1067	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3720	3720	1067	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3720	3720	1067	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3720	3720	1067	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3720	3720	1067	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3720	3720	1067	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3721	3721	143	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	52
+MRN	Marion	10282	11/08/2016	2016 General Election	3721	3721	143	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	45
+MRN	Marion	10282	11/08/2016	2016 General Election	3721	3721	143	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3721	3721	143	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3721	3721	143	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3721	3721	143	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3721	3721	143	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3721	3721	143	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3721	3721	143	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3730	3730	2413	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1052
+MRN	Marion	10282	11/08/2016	2016 General Election	3730	3730	2413	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	521
+MRN	Marion	10282	11/08/2016	2016 General Election	3730	3730	2413	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	29
+MRN	Marion	10282	11/08/2016	2016 General Election	3730	3730	2413	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3730	3730	2413	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3730	3730	2413	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3730	3730	2413	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3730	3730	2413	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3730	3730	2413	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3740	3740	1786	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	934
+MRN	Marion	10282	11/08/2016	2016 General Election	3740	3740	1786	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	376
+MRN	Marion	10282	11/08/2016	2016 General Election	3740	3740	1786	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	26
+MRN	Marion	10282	11/08/2016	2016 General Election	3740	3740	1786	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3740	3740	1786	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3740	3740	1786	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3740	3740	1786	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3740	3740	1786	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3740	3740	1786	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	12
+MRN	Marion	10282	11/08/2016	2016 General Election	3750	3750	2231	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1219
+MRN	Marion	10282	11/08/2016	2016 General Election	3750	3750	2231	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	447
+MRN	Marion	10282	11/08/2016	2016 General Election	3750	3750	2231	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+MRN	Marion	10282	11/08/2016	2016 General Election	3750	3750	2231	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3750	3750	2231	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3750	3750	2231	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3750	3750	2231	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MRN	Marion	10282	11/08/2016	2016 General Election	3750	3750	2231	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3750	3750	2231	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	15
+MRN	Marion	10282	11/08/2016	2016 General Election	3760	3760	1913	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	990
+MRN	Marion	10282	11/08/2016	2016 General Election	3760	3760	1913	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	399
+MRN	Marion	10282	11/08/2016	2016 General Election	3760	3760	1913	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+MRN	Marion	10282	11/08/2016	2016 General Election	3760	3760	1913	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3760	3760	1913	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3760	3760	1913	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3760	3760	1913	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3760	3760	1913	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3760	3760	1913	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	3770	3770	2017	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1017
+MRN	Marion	10282	11/08/2016	2016 General Election	3770	3770	2017	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	349
+MRN	Marion	10282	11/08/2016	2016 General Election	3770	3770	2017	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+MRN	Marion	10282	11/08/2016	2016 General Election	3770	3770	2017	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3770	3770	2017	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3770	3770	2017	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3770	3770	2017	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3770	3770	2017	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3770	3770	2017	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3780	3780	3541	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	2000
+MRN	Marion	10282	11/08/2016	2016 General Election	3780	3780	3541	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	730
+MRN	Marion	10282	11/08/2016	2016 General Election	3780	3780	3541	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	78
+MRN	Marion	10282	11/08/2016	2016 General Election	3780	3780	3541	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	8
+MRN	Marion	10282	11/08/2016	2016 General Election	3780	3780	3541	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	17
+MRN	Marion	10282	11/08/2016	2016 General Election	3780	3780	3541	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3780	3780	3541	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	26
+MRN	Marion	10282	11/08/2016	2016 General Election	3780	3780	3541	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3780	3780	3541	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	23
+MRN	Marion	10282	11/08/2016	2016 General Election	3790	3790	765	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	415
+MRN	Marion	10282	11/08/2016	2016 General Election	3790	3790	765	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	119
+MRN	Marion	10282	11/08/2016	2016 General Election	3790	3790	765	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+MRN	Marion	10282	11/08/2016	2016 General Election	3790	3790	765	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3790	3790	765	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3790	3790	765	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3790	3790	765	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3790	3790	765	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3790	3790	765	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	3800	3800	1874	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	890
+MRN	Marion	10282	11/08/2016	2016 General Election	3800	3800	1874	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	454
+MRN	Marion	10282	11/08/2016	2016 General Election	3800	3800	1874	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+MRN	Marion	10282	11/08/2016	2016 General Election	3800	3800	1874	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3800	3800	1874	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+MRN	Marion	10282	11/08/2016	2016 General Election	3800	3800	1874	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3800	3800	1874	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	14
+MRN	Marion	10282	11/08/2016	2016 General Election	3800	3800	1874	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3800	3800	1874	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3810	3810	1993	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	961
+MRN	Marion	10282	11/08/2016	2016 General Election	3810	3810	1993	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	485
+MRN	Marion	10282	11/08/2016	2016 General Election	3810	3810	1993	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+MRN	Marion	10282	11/08/2016	2016 General Election	3810	3810	1993	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3810	3810	1993	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3810	3810	1993	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3810	3810	1993	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3810	3810	1993	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3810	3810	1993	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3820	3820	1230	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	688
+MRN	Marion	10282	11/08/2016	2016 General Election	3820	3820	1230	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	318
+MRN	Marion	10282	11/08/2016	2016 General Election	3820	3820	1230	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+MRN	Marion	10282	11/08/2016	2016 General Election	3820	3820	1230	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3820	3820	1230	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRN	Marion	10282	11/08/2016	2016 General Election	3820	3820	1230	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3820	3820	1230	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MRN	Marion	10282	11/08/2016	2016 General Election	3820	3820	1230	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	3820	3820	1230	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	15
+MRN	Marion	10282	11/08/2016	2016 General Election	3830	3830	1223	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	564
+MRN	Marion	10282	11/08/2016	2016 General Election	3830	3830	1223	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	287
+MRN	Marion	10282	11/08/2016	2016 General Election	3830	3830	1223	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MRN	Marion	10282	11/08/2016	2016 General Election	3830	3830	1223	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3830	3830	1223	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MRN	Marion	10282	11/08/2016	2016 General Election	3830	3830	1223	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3830	3830	1223	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	3830	3830	1223	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3830	3830	1223	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRN	Marion	10282	11/08/2016	2016 General Election	3840	3840	2204	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1186
+MRN	Marion	10282	11/08/2016	2016 General Election	3840	3840	2204	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	486
+MRN	Marion	10282	11/08/2016	2016 General Election	3840	3840	2204	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+MRN	Marion	10282	11/08/2016	2016 General Election	3840	3840	2204	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3840	3840	2204	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRN	Marion	10282	11/08/2016	2016 General Election	3840	3840	2204	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	3840	3840	2204	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	19
+MRN	Marion	10282	11/08/2016	2016 General Election	3840	3840	2204	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	3840	3840	2204	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4500	4500	1897	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	973
+MRN	Marion	10282	11/08/2016	2016 General Election	4500	4500	1897	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	523
+MRN	Marion	10282	11/08/2016	2016 General Election	4500	4500	1897	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+MRN	Marion	10282	11/08/2016	2016 General Election	4500	4500	1897	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4500	4500	1897	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4500	4500	1897	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4500	4500	1897	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	13
+MRN	Marion	10282	11/08/2016	2016 General Election	4500	4500	1897	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4500	4500	1897	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4510	4510	2611	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1490
+MRN	Marion	10282	11/08/2016	2016 General Election	4510	4510	2611	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	641
+MRN	Marion	10282	11/08/2016	2016 General Election	4510	4510	2611	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+MRN	Marion	10282	11/08/2016	2016 General Election	4510	4510	2611	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4510	4510	2611	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4510	4510	2611	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4510	4510	2611	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MRN	Marion	10282	11/08/2016	2016 General Election	4510	4510	2611	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4510	4510	2611	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	19
+MRN	Marion	10282	11/08/2016	2016 General Election	4520	4520	2690	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1404
+MRN	Marion	10282	11/08/2016	2016 General Election	4520	4520	2690	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	568
+MRN	Marion	10282	11/08/2016	2016 General Election	4520	4520	2690	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+MRN	Marion	10282	11/08/2016	2016 General Election	4520	4520	2690	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4520	4520	2690	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4520	4520	2690	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4520	4520	2690	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	18
+MRN	Marion	10282	11/08/2016	2016 General Election	4520	4520	2690	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4520	4520	2690	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	4521	4521	141	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	90
+MRN	Marion	10282	11/08/2016	2016 General Election	4521	4521	141	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	13
+MRN	Marion	10282	11/08/2016	2016 General Election	4521	4521	141	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4521	4521	141	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4521	4521	141	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4521	4521	141	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4521	4521	141	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4521	4521	141	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4521	4521	141	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4530	4530	941	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	524
+MRN	Marion	10282	11/08/2016	2016 General Election	4530	4530	941	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	285
+MRN	Marion	10282	11/08/2016	2016 General Election	4530	4530	941	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MRN	Marion	10282	11/08/2016	2016 General Election	4530	4530	941	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4530	4530	941	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4530	4530	941	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4530	4530	941	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4530	4530	941	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4530	4530	941	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4540	4540	1035	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	496
+MRN	Marion	10282	11/08/2016	2016 General Election	4540	4540	1035	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	172
+MRN	Marion	10282	11/08/2016	2016 General Election	4540	4540	1035	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	12
+MRN	Marion	10282	11/08/2016	2016 General Election	4540	4540	1035	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4540	4540	1035	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4540	4540	1035	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4540	4540	1035	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4540	4540	1035	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4540	4540	1035	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4550	4550	1946	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	389
+MRN	Marion	10282	11/08/2016	2016 General Election	4550	4550	1946	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	812
+MRN	Marion	10282	11/08/2016	2016 General Election	4550	4550	1946	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+MRN	Marion	10282	11/08/2016	2016 General Election	4550	4550	1946	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4550	4550	1946	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+MRN	Marion	10282	11/08/2016	2016 General Election	4550	4550	1946	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4550	4550	1946	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	16
+MRN	Marion	10282	11/08/2016	2016 General Election	4550	4550	1946	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4550	4550	1946	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	4560	4560	2313	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	576
+MRN	Marion	10282	11/08/2016	2016 General Election	4560	4560	2313	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	967
+MRN	Marion	10282	11/08/2016	2016 General Election	4560	4560	2313	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	31
+MRN	Marion	10282	11/08/2016	2016 General Election	4560	4560	2313	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4560	4560	2313	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+MRN	Marion	10282	11/08/2016	2016 General Election	4560	4560	2313	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4560	4560	2313	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4560	4560	2313	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4560	4560	2313	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	10
+MRN	Marion	10282	11/08/2016	2016 General Election	4570	4570	1660	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	948
+MRN	Marion	10282	11/08/2016	2016 General Election	4570	4570	1660	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	523
+MRN	Marion	10282	11/08/2016	2016 General Election	4570	4570	1660	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	14
+MRN	Marion	10282	11/08/2016	2016 General Election	4570	4570	1660	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4570	4570	1660	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4570	4570	1660	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4570	4570	1660	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4570	4570	1660	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4570	4570	1660	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	11
+MRN	Marion	10282	11/08/2016	2016 General Election	4580	4580	2808	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	662
+MRN	Marion	10282	11/08/2016	2016 General Election	4580	4580	2808	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1260
+MRN	Marion	10282	11/08/2016	2016 General Election	4580	4580	2808	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	38
+MRN	Marion	10282	11/08/2016	2016 General Election	4580	4580	2808	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4580	4580	2808	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4580	4580	2808	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4580	4580	2808	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	10
+MRN	Marion	10282	11/08/2016	2016 General Election	4580	4580	2808	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4580	4580	2808	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4590	4590	3253	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	721
+MRN	Marion	10282	11/08/2016	2016 General Election	4590	4590	3253	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1382
+MRN	Marion	10282	11/08/2016	2016 General Election	4590	4590	3253	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+MRN	Marion	10282	11/08/2016	2016 General Election	4590	4590	3253	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4590	4590	3253	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+MRN	Marion	10282	11/08/2016	2016 General Election	4590	4590	3253	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4590	4590	3253	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	16
+MRN	Marion	10282	11/08/2016	2016 General Election	4590	4590	3253	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4590	4590	3253	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	10
+MRN	Marion	10282	11/08/2016	2016 General Election	4600	4600	1111	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	508
+MRN	Marion	10282	11/08/2016	2016 General Election	4600	4600	1111	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	333
+MRN	Marion	10282	11/08/2016	2016 General Election	4600	4600	1111	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	13
+MRN	Marion	10282	11/08/2016	2016 General Election	4600	4600	1111	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4600	4600	1111	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4600	4600	1111	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4600	4600	1111	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4600	4600	1111	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4600	4600	1111	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	10
+MRN	Marion	10282	11/08/2016	2016 General Election	4610	4610	2340	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1162
+MRN	Marion	10282	11/08/2016	2016 General Election	4610	4610	2340	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	715
+MRN	Marion	10282	11/08/2016	2016 General Election	4610	4610	2340	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	36
+MRN	Marion	10282	11/08/2016	2016 General Election	4610	4610	2340	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4610	4610	2340	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	14
+MRN	Marion	10282	11/08/2016	2016 General Election	4610	4610	2340	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4610	4610	2340	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4610	4610	2340	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4610	4610	2340	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	14
+MRN	Marion	10282	11/08/2016	2016 General Election	4620	4620	2523	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1392
+MRN	Marion	10282	11/08/2016	2016 General Election	4620	4620	2523	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	791
+MRN	Marion	10282	11/08/2016	2016 General Election	4620	4620	2523	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+MRN	Marion	10282	11/08/2016	2016 General Election	4620	4620	2523	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4620	4620	2523	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRN	Marion	10282	11/08/2016	2016 General Election	4620	4620	2523	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4620	4620	2523	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	14
+MRN	Marion	10282	11/08/2016	2016 General Election	4620	4620	2523	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4620	4620	2523	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	20
+MRN	Marion	10282	11/08/2016	2016 General Election	4630	4630	970	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	463
+MRN	Marion	10282	11/08/2016	2016 General Election	4630	4630	970	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	314
+MRN	Marion	10282	11/08/2016	2016 General Election	4630	4630	970	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MRN	Marion	10282	11/08/2016	2016 General Election	4630	4630	970	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4630	4630	970	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4630	4630	970	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4630	4630	970	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4630	4630	970	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4630	4630	970	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4640	4640	2773	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1194
+MRN	Marion	10282	11/08/2016	2016 General Election	4640	4640	2773	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	904
+MRN	Marion	10282	11/08/2016	2016 General Election	4640	4640	2773	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	46
+MRN	Marion	10282	11/08/2016	2016 General Election	4640	4640	2773	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4640	4640	2773	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+MRN	Marion	10282	11/08/2016	2016 General Election	4640	4640	2773	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4640	4640	2773	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	12
+MRN	Marion	10282	11/08/2016	2016 General Election	4640	4640	2773	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4640	4640	2773	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	21
+MRN	Marion	10282	11/08/2016	2016 General Election	4650	4650	1708	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	890
+MRN	Marion	10282	11/08/2016	2016 General Election	4650	4650	1708	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	499
+MRN	Marion	10282	11/08/2016	2016 General Election	4650	4650	1708	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+MRN	Marion	10282	11/08/2016	2016 General Election	4650	4650	1708	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4650	4650	1708	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4650	4650	1708	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4650	4650	1708	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MRN	Marion	10282	11/08/2016	2016 General Election	4650	4650	1708	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4650	4650	1708	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	14
+MRN	Marion	10282	11/08/2016	2016 General Election	4651	4651	3884	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	2150
+MRN	Marion	10282	11/08/2016	2016 General Election	4651	4651	3884	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	1204
+MRN	Marion	10282	11/08/2016	2016 General Election	4651	4651	3884	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	27
+MRN	Marion	10282	11/08/2016	2016 General Election	4651	4651	3884	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4651	4651	3884	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	10
+MRN	Marion	10282	11/08/2016	2016 General Election	4651	4651	3884	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4651	4651	3884	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	23
+MRN	Marion	10282	11/08/2016	2016 General Election	4651	4651	3884	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4651	4651	3884	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	27
+MRN	Marion	10282	11/08/2016	2016 General Election	4652	4652	919	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	521
+MRN	Marion	10282	11/08/2016	2016 General Election	4652	4652	919	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	306
+MRN	Marion	10282	11/08/2016	2016 General Election	4652	4652	919	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+MRN	Marion	10282	11/08/2016	2016 General Election	4652	4652	919	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4652	4652	919	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4652	4652	919	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4652	4652	919	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4652	4652	919	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4652	4652	919	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	9
+MRN	Marion	10282	11/08/2016	2016 General Election	4653	4653	315	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	159
+MRN	Marion	10282	11/08/2016	2016 General Election	4653	4653	315	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	118
+MRN	Marion	10282	11/08/2016	2016 General Election	4653	4653	315	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4653	4653	315	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4653	4653	315	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4653	4653	315	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4653	4653	315	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4653	4653	315	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4653	4653	315	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4654	4654	2359	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1326
+MRN	Marion	10282	11/08/2016	2016 General Election	4654	4654	2359	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	778
+MRN	Marion	10282	11/08/2016	2016 General Election	4654	4654	2359	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	30
+MRN	Marion	10282	11/08/2016	2016 General Election	4654	4654	2359	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4654	4654	2359	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4654	4654	2359	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4654	4654	2359	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	20
+MRN	Marion	10282	11/08/2016	2016 General Election	4654	4654	2359	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4654	4654	2359	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	27
+MRN	Marion	10282	11/08/2016	2016 General Election	4660	4660	2240	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1146
+MRN	Marion	10282	11/08/2016	2016 General Election	4660	4660	2240	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	589
+MRN	Marion	10282	11/08/2016	2016 General Election	4660	4660	2240	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	32
+MRN	Marion	10282	11/08/2016	2016 General Election	4660	4660	2240	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4660	4660	2240	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRN	Marion	10282	11/08/2016	2016 General Election	4660	4660	2240	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4660	4660	2240	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	13
+MRN	Marion	10282	11/08/2016	2016 General Election	4660	4660	2240	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4660	4660	2240	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	18
+MRN	Marion	10282	11/08/2016	2016 General Election	4670	4670	3011	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1313
+MRN	Marion	10282	11/08/2016	2016 General Election	4670	4670	3011	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	963
+MRN	Marion	10282	11/08/2016	2016 General Election	4670	4670	3011	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	55
+MRN	Marion	10282	11/08/2016	2016 General Election	4670	4670	3011	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4670	4670	3011	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+MRN	Marion	10282	11/08/2016	2016 General Election	4670	4670	3011	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4670	4670	3011	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	15
+MRN	Marion	10282	11/08/2016	2016 General Election	4670	4670	3011	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4670	4670	3011	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	12
+MRN	Marion	10282	11/08/2016	2016 General Election	4680	4680	1927	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	900
+MRN	Marion	10282	11/08/2016	2016 General Election	4680	4680	1927	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	430
+MRN	Marion	10282	11/08/2016	2016 General Election	4680	4680	1927	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	32
+MRN	Marion	10282	11/08/2016	2016 General Election	4680	4680	1927	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4680	4680	1927	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4680	4680	1927	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4680	4680	1927	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MRN	Marion	10282	11/08/2016	2016 General Election	4680	4680	1927	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4680	4680	1927	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4690	4690	2539	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1223
+MRN	Marion	10282	11/08/2016	2016 General Election	4690	4690	2539	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	607
+MRN	Marion	10282	11/08/2016	2016 General Election	4690	4690	2539	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+MRN	Marion	10282	11/08/2016	2016 General Election	4690	4690	2539	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4690	4690	2539	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	18
+MRN	Marion	10282	11/08/2016	2016 General Election	4690	4690	2539	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4690	4690	2539	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4690	4690	2539	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4690	4690	2539	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4700	4700	685	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	400
+MRN	Marion	10282	11/08/2016	2016 General Election	4700	4700	685	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	121
+MRN	Marion	10282	11/08/2016	2016 General Election	4700	4700	685	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	11
+MRN	Marion	10282	11/08/2016	2016 General Election	4700	4700	685	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4700	4700	685	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4700	4700	685	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4700	4700	685	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4700	4700	685	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4700	4700	685	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4710	4710	3285	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	1629
+MRN	Marion	10282	11/08/2016	2016 General Election	4710	4710	3285	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	632
+MRN	Marion	10282	11/08/2016	2016 General Election	4710	4710	3285	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	47
+MRN	Marion	10282	11/08/2016	2016 General Election	4710	4710	3285	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4710	4710	3285	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	16
+MRN	Marion	10282	11/08/2016	2016 General Election	4710	4710	3285	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4710	4710	3285	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	16
+MRN	Marion	10282	11/08/2016	2016 General Election	4710	4710	3285	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4710	4710	3285	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4720	4720	1013	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	397
+MRN	Marion	10282	11/08/2016	2016 General Election	4720	4720	1013	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	292
+MRN	Marion	10282	11/08/2016	2016 General Election	4720	4720	1013	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+MRN	Marion	10282	11/08/2016	2016 General Election	4720	4720	1013	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4720	4720	1013	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4720	4720	1013	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4720	4720	1013	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4720	4720	1013	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4720	4720	1013	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4730	4730	1078	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	508
+MRN	Marion	10282	11/08/2016	2016 General Election	4730	4730	1078	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	242
+MRN	Marion	10282	11/08/2016	2016 General Election	4730	4730	1078	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+MRN	Marion	10282	11/08/2016	2016 General Election	4730	4730	1078	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4730	4730	1078	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4730	4730	1078	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4730	4730	1078	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4730	4730	1078	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4730	4730	1078	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	8
+MRN	Marion	10282	11/08/2016	2016 General Election	4740	4740	893	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	547
+MRN	Marion	10282	11/08/2016	2016 General Election	4740	4740	893	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	216
+MRN	Marion	10282	11/08/2016	2016 General Election	4740	4740	893	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	10
+MRN	Marion	10282	11/08/2016	2016 General Election	4740	4740	893	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4740	4740	893	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4740	4740	893	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4740	4740	893	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4740	4740	893	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4740	4740	893	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	10
+MRN	Marion	10282	11/08/2016	2016 General Election	4750	4750	2157	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	979
+MRN	Marion	10282	11/08/2016	2016 General Election	4750	4750	2157	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	590
+MRN	Marion	10282	11/08/2016	2016 General Election	4750	4750	2157	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	37
+MRN	Marion	10282	11/08/2016	2016 General Election	4750	4750	2157	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4750	4750	2157	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	13
+MRN	Marion	10282	11/08/2016	2016 General Election	4750	4750	2157	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4750	4750	2157	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	21
+MRN	Marion	10282	11/08/2016	2016 General Election	4750	4750	2157	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4750	4750	2157	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	12
+MRN	Marion	10282	11/08/2016	2016 General Election	4760	4760	786	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	349
+MRN	Marion	10282	11/08/2016	2016 General Election	4760	4760	786	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	252
+MRN	Marion	10282	11/08/2016	2016 General Election	4760	4760	786	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4760	4760	786	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4760	4760	786	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4760	4760	786	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4760	4760	786	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4760	4760	786	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4760	4760	786	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4770	4770	1349	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	765
+MRN	Marion	10282	11/08/2016	2016 General Election	4770	4770	1349	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	285
+MRN	Marion	10282	11/08/2016	2016 General Election	4770	4770	1349	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	23
+MRN	Marion	10282	11/08/2016	2016 General Election	4770	4770	1349	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+MRN	Marion	10282	11/08/2016	2016 General Election	4770	4770	1349	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4770	4770	1349	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4770	4770	1349	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	9
+MRN	Marion	10282	11/08/2016	2016 General Election	4770	4770	1349	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4770	4770	1349	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	5
+MRN	Marion	10282	11/08/2016	2016 General Election	4771	4771	502	0	0	223545	President of the United States	 	100000	Trump / Pence	REP	0	65072	265
+MRN	Marion	10282	11/08/2016	2016 General Election	4771	4771	502	0	0	223545	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	116
+MRN	Marion	10282	11/08/2016	2016 General Election	4771	4771	502	0	0	223545	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+MRN	Marion	10282	11/08/2016	2016 General Election	4771	4771	502	0	0	223545	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	6
+MRN	Marion	10282	11/08/2016	2016 General Election	4771	4771	502	0	0	223545	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+MRN	Marion	10282	11/08/2016	2016 General Election	4771	4771	502	0	0	223545	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+MRN	Marion	10282	11/08/2016	2016 General Election	4771	4771	502	0	0	223545	President of the United States	 	100000	WriteinVotes	 	0	900	7
+MRN	Marion	10282	11/08/2016	2016 General Election	4771	4771	502	0	0	223545	President of the United States	 	100000	OverVotes	 	0	901	0
+MRN	Marion	10282	11/08/2016	2016 General Election	4771	4771	502	0	0	223545	President of the United States	 	100000	UnderVotes	 	0	902	5

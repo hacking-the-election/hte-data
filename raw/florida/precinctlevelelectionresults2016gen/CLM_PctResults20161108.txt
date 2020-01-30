@@ -1,0 +1,155 @@
+CLM	Columbia	10282	11/08/2016	2016 General Election	10	10 Richardson Comm Center	1409	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	177
+CLM	Columbia	10282	11/08/2016	2016 General Election	10	10 Richardson Comm Center	1409	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	739
+CLM	Columbia	10282	11/08/2016	2016 General Election	10	10 Richardson Comm Center	1409	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	16
+CLM	Columbia	10282	11/08/2016	2016 General Election	10	10 Richardson Comm Center	1409	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLM	Columbia	10282	11/08/2016	2016 General Election	10	10 Richardson Comm Center	1409	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CLM	Columbia	10282	11/08/2016	2016 General Election	10	10 Richardson Comm Center	1409	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	5
+CLM	Columbia	10282	11/08/2016	2016 General Election	10	10 Richardson Comm Center	1409	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	9
+CLM	Columbia	10282	11/08/2016	2016 General Election	12	12 Supv Elections Office	575	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	52
+CLM	Columbia	10282	11/08/2016	2016 General Election	12	12 Supv Elections Office	575	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	347
+CLM	Columbia	10282	11/08/2016	2016 General Election	12	12 Supv Elections Office	575	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	6
+CLM	Columbia	10282	11/08/2016	2016 General Election	12	12 Supv Elections Office	575	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	3
+CLM	Columbia	10282	11/08/2016	2016 General Election	12	12 Supv Elections Office	575	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	5
+CLM	Columbia	10282	11/08/2016	2016 General Election	12	12 Supv Elections Office	575	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	5
+CLM	Columbia	10282	11/08/2016	2016 General Election	13	13 Supv Elections Office	78	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	57
+CLM	Columbia	10282	11/08/2016	2016 General Election	13	13 Supv Elections Office	78	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	7
+CLM	Columbia	10282	11/08/2016	2016 General Election	13	13 Supv Elections Office	78	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+CLM	Columbia	10282	11/08/2016	2016 General Election	13	13 Supv Elections Office	78	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	14	14 Richardson Comm Center	357	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	152
+CLM	Columbia	10282	11/08/2016	2016 General Election	14	14 Richardson Comm Center	357	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	93
+CLM	Columbia	10282	11/08/2016	2016 General Election	14	14 Richardson Comm Center	357	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+CLM	Columbia	10282	11/08/2016	2016 General Election	14	14 Richardson Comm Center	357	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	14	14 Richardson Comm Center	357	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	14	14 Richardson Comm Center	357	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	3
+CLM	Columbia	10282	11/08/2016	2016 General Election	14	14 Richardson Comm Center	357	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	15	15 Deep Creek Com Center	597	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	377
+CLM	Columbia	10282	11/08/2016	2016 General Election	15	15 Deep Creek Com Center	597	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	73
+CLM	Columbia	10282	11/08/2016	2016 General Election	15	15 Deep Creek Com Center	597	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	4
+CLM	Columbia	10282	11/08/2016	2016 General Election	15	15 Deep Creek Com Center	597	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	15	15 Deep Creek Com Center	597	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	16	16 Winfield Com Center	1964	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	923
+CLM	Columbia	10282	11/08/2016	2016 General Election	16	16 Winfield Com Center	1964	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	484
+CLM	Columbia	10282	11/08/2016	2016 General Election	16	16 Winfield Com Center	1964	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	18
+CLM	Columbia	10282	11/08/2016	2016 General Election	16	16 Winfield Com Center	1964	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+CLM	Columbia	10282	11/08/2016	2016 General Election	16	16 Winfield Com Center	1964	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	5
+CLM	Columbia	10282	11/08/2016	2016 General Election	16	16 Winfield Com Center	1964	0	0	37388	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	16	16 Winfield Com Center	1964	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	7
+CLM	Columbia	10282	11/08/2016	2016 General Election	16	16 Winfield Com Center	1964	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	17	17 Lake City Church God	1424	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	583
+CLM	Columbia	10282	11/08/2016	2016 General Election	17	17 Lake City Church God	1424	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	404
+CLM	Columbia	10282	11/08/2016	2016 General Election	17	17 Lake City Church God	1424	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	17
+CLM	Columbia	10282	11/08/2016	2016 General Election	17	17 Lake City Church God	1424	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLM	Columbia	10282	11/08/2016	2016 General Election	17	17 Lake City Church God	1424	0	0	37388	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CLM	Columbia	10282	11/08/2016	2016 General Election	17	17 Lake City Church God	1424	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	17	17 Lake City Church God	1424	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	9
+CLM	Columbia	10282	11/08/2016	2016 General Election	21	21 Christ Central Ministries	1563	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	893
+CLM	Columbia	10282	11/08/2016	2016 General Election	21	21 Christ Central Ministries	1563	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	257
+CLM	Columbia	10282	11/08/2016	2016 General Election	21	21 Christ Central Ministries	1563	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	9
+CLM	Columbia	10282	11/08/2016	2016 General Election	21	21 Christ Central Ministries	1563	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	21	21 Christ Central Ministries	1563	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CLM	Columbia	10282	11/08/2016	2016 General Election	21	21 Christ Central Ministries	1563	0	0	37388	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	21	21 Christ Central Ministries	1563	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	5
+CLM	Columbia	10282	11/08/2016	2016 General Election	21	21 Christ Central Ministries	1563	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	9
+CLM	Columbia	10282	11/08/2016	2016 General Election	22	22 Christ Central Ministries	1895	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	1154
+CLM	Columbia	10282	11/08/2016	2016 General Election	22	22 Christ Central Ministries	1895	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	319
+CLM	Columbia	10282	11/08/2016	2016 General Election	22	22 Christ Central Ministries	1895	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+CLM	Columbia	10282	11/08/2016	2016 General Election	22	22 Christ Central Ministries	1895	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	22	22 Christ Central Ministries	1895	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CLM	Columbia	10282	11/08/2016	2016 General Election	22	22 Christ Central Ministries	1895	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	7
+CLM	Columbia	10282	11/08/2016	2016 General Election	22	22 Christ Central Ministries	1895	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	3
+CLM	Columbia	10282	11/08/2016	2016 General Election	23	23 Ft White Comm Center	5049	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	2823
+CLM	Columbia	10282	11/08/2016	2016 General Election	23	23 Ft White Comm Center	5049	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	901
+CLM	Columbia	10282	11/08/2016	2016 General Election	23	23 Ft White Comm Center	5049	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	93
+CLM	Columbia	10282	11/08/2016	2016 General Election	23	23 Ft White Comm Center	5049	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	7
+CLM	Columbia	10282	11/08/2016	2016 General Election	23	23 Ft White Comm Center	5049	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	37
+CLM	Columbia	10282	11/08/2016	2016 General Election	23	23 Ft White Comm Center	5049	0	0	37388	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	6
+CLM	Columbia	10282	11/08/2016	2016 General Election	23	23 Ft White Comm Center	5049	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	19
+CLM	Columbia	10282	11/08/2016	2016 General Election	23	23 Ft White Comm Center	5049	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	18
+CLM	Columbia	10282	11/08/2016	2016 General Election	31	31 Westside Community Center	2992	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	1869
+CLM	Columbia	10282	11/08/2016	2016 General Election	31	31 Westside Community Center	2992	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	433
+CLM	Columbia	10282	11/08/2016	2016 General Election	31	31 Westside Community Center	2992	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	44
+CLM	Columbia	10282	11/08/2016	2016 General Election	31	31 Westside Community Center	2992	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	31	31 Westside Community Center	2992	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+CLM	Columbia	10282	11/08/2016	2016 General Election	31	31 Westside Community Center	2992	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	15
+CLM	Columbia	10282	11/08/2016	2016 General Election	31	31 Westside Community Center	2992	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	5
+CLM	Columbia	10282	11/08/2016	2016 General Election	32	32 Winfield Comm Center	426	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	233
+CLM	Columbia	10282	11/08/2016	2016 General Election	32	32 Winfield Comm Center	426	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	96
+CLM	Columbia	10282	11/08/2016	2016 General Election	32	32 Winfield Comm Center	426	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	3
+CLM	Columbia	10282	11/08/2016	2016 General Election	32	32 Winfield Comm Center	426	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	32	32 Winfield Comm Center	426	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	33	33 Southside Rec Complex	4250	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	2611
+CLM	Columbia	10282	11/08/2016	2016 General Election	33	33 Southside Rec Complex	4250	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	637
+CLM	Columbia	10282	11/08/2016	2016 General Election	33	33 Southside Rec Complex	4250	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	70
+CLM	Columbia	10282	11/08/2016	2016 General Election	33	33 Southside Rec Complex	4250	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	3
+CLM	Columbia	10282	11/08/2016	2016 General Election	33	33 Southside Rec Complex	4250	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	12
+CLM	Columbia	10282	11/08/2016	2016 General Election	33	33 Southside Rec Complex	4250	0	0	37388	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	3
+CLM	Columbia	10282	11/08/2016	2016 General Election	33	33 Southside Rec Complex	4250	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	19
+CLM	Columbia	10282	11/08/2016	2016 General Election	33	33 Southside Rec Complex	4250	0	0	37388	President of the United States	 	100000	OverVotes	 	0	901	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	33	33 Southside Rec Complex	4250	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	9
+CLM	Columbia	10282	11/08/2016	2016 General Election	34	34 Supv Elections Office	957	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	436
+CLM	Columbia	10282	11/08/2016	2016 General Election	34	34 Supv Elections Office	957	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	280
+CLM	Columbia	10282	11/08/2016	2016 General Election	34	34 Supv Elections Office	957	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+CLM	Columbia	10282	11/08/2016	2016 General Election	34	34 Supv Elections Office	957	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	34	34 Supv Elections Office	957	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+CLM	Columbia	10282	11/08/2016	2016 General Election	34	34 Supv Elections Office	957	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	34	34 Supv Elections Office	957	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	10
+CLM	Columbia	10282	11/08/2016	2016 General Election	41	41 Lake City Church God	2396	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	1343
+CLM	Columbia	10282	11/08/2016	2016 General Election	41	41 Lake City Church God	2396	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	504
+CLM	Columbia	10282	11/08/2016	2016 General Election	41	41 Lake City Church God	2396	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	40
+CLM	Columbia	10282	11/08/2016	2016 General Election	41	41 Lake City Church God	2396	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	41	41 Lake City Church God	2396	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	15
+CLM	Columbia	10282	11/08/2016	2016 General Election	41	41 Lake City Church God	2396	0	0	37388	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	41	41 Lake City Church God	2396	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	11
+CLM	Columbia	10282	11/08/2016	2016 General Election	41	41 Lake City Church God	2396	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	13
+CLM	Columbia	10282	11/08/2016	2016 General Election	42	42 Lulu Comm Center	290	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	201
+CLM	Columbia	10282	11/08/2016	2016 General Election	42	42 Lulu Comm Center	290	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	30
+CLM	Columbia	10282	11/08/2016	2016 General Election	42	42 Lulu Comm Center	290	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	5
+CLM	Columbia	10282	11/08/2016	2016 General Election	42	42 Lulu Comm Center	290	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	42	42 Lulu Comm Center	290	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	42	42 Lulu Comm Center	290	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	42	42 Lulu Comm Center	290	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	43	43 Mason City Comm Center	2015	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	1273
+CLM	Columbia	10282	11/08/2016	2016 General Election	43	43 Mason City Comm Center	2015	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	262
+CLM	Columbia	10282	11/08/2016	2016 General Election	43	43 Mason City Comm Center	2015	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	19
+CLM	Columbia	10282	11/08/2016	2016 General Election	43	43 Mason City Comm Center	2015	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+CLM	Columbia	10282	11/08/2016	2016 General Election	43	43 Mason City Comm Center	2015	0	0	37388	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	43	43 Mason City Comm Center	2015	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CLM	Columbia	10282	11/08/2016	2016 General Election	43	43 Mason City Comm Center	2015	0	0	37388	President of the United States	 	100000	OverVotes	 	0	901	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	43	43 Mason City Comm Center	2015	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	7
+CLM	Columbia	10282	11/08/2016	2016 General Election	44	44 Philippi Baptist Church	1798	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	1049
+CLM	Columbia	10282	11/08/2016	2016 General Election	44	44 Philippi Baptist Church	1798	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	328
+CLM	Columbia	10282	11/08/2016	2016 General Election	44	44 Philippi Baptist Church	1798	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	21
+CLM	Columbia	10282	11/08/2016	2016 General Election	44	44 Philippi Baptist Church	1798	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	44	44 Philippi Baptist Church	1798	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	8
+CLM	Columbia	10282	11/08/2016	2016 General Election	44	44 Philippi Baptist Church	1798	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	10
+CLM	Columbia	10282	11/08/2016	2016 General Election	44	44 Philippi Baptist Church	1798	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	8
+CLM	Columbia	10282	11/08/2016	2016 General Election	51	51 Southside Rec Complex	2434	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	1473
+CLM	Columbia	10282	11/08/2016	2016 General Election	51	51 Southside Rec Complex	2434	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	436
+CLM	Columbia	10282	11/08/2016	2016 General Election	51	51 Southside Rec Complex	2434	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	39
+CLM	Columbia	10282	11/08/2016	2016 General Election	51	51 Southside Rec Complex	2434	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	4
+CLM	Columbia	10282	11/08/2016	2016 General Election	51	51 Southside Rec Complex	2434	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	6
+CLM	Columbia	10282	11/08/2016	2016 General Election	51	51 Southside Rec Complex	2434	0	0	37388	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	51	51 Southside Rec Complex	2434	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	12
+CLM	Columbia	10282	11/08/2016	2016 General Election	51	51 Southside Rec Complex	2434	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	6
+CLM	Columbia	10282	11/08/2016	2016 General Election	52	52 Orchard Church Southridge	2388	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	1562
+CLM	Columbia	10282	11/08/2016	2016 General Election	52	52 Orchard Church Southridge	2388	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	290
+CLM	Columbia	10282	11/08/2016	2016 General Election	52	52 Orchard Church Southridge	2388	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	33
+CLM	Columbia	10282	11/08/2016	2016 General Election	52	52 Orchard Church Southridge	2388	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	52	52 Orchard Church Southridge	2388	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	4
+CLM	Columbia	10282	11/08/2016	2016 General Election	52	52 Orchard Church Southridge	2388	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	14
+CLM	Columbia	10282	11/08/2016	2016 General Election	52	52 Orchard Church Southridge	2388	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	12
+CLM	Columbia	10282	11/08/2016	2016 General Election	53	53 Supv Elections Office	1524	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	608
+CLM	Columbia	10282	11/08/2016	2016 General Election	53	53 Supv Elections Office	1524	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	438
+CLM	Columbia	10282	11/08/2016	2016 General Election	53	53 Supv Elections Office	1524	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	28
+CLM	Columbia	10282	11/08/2016	2016 General Election	53	53 Supv Elections Office	1524	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	53	53 Supv Elections Office	1524	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	11
+CLM	Columbia	10282	11/08/2016	2016 General Election	53	53 Supv Elections Office	1524	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CLM	Columbia	10282	11/08/2016	2016 General Election	53	53 Supv Elections Office	1524	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	7
+CLM	Columbia	10282	11/08/2016	2016 General Election	54	54 Southside Rec Complex	1004	0	0	37388	President of the United States	 	100000	Trump / Pence	REP	0	65072	519
+CLM	Columbia	10282	11/08/2016	2016 General Election	54	54 Southside Rec Complex	1004	0	0	37388	President of the United States	 	100000	Clinton / Kaine	DEM	0	65058	243
+CLM	Columbia	10282	11/08/2016	2016 General Election	54	54 Southside Rec Complex	1004	0	0	37388	President of the United States	 	100000	Johnson / Weld	LPF	0	69370	15
+CLM	Columbia	10282	11/08/2016	2016 General Election	54	54 Southside Rec Complex	1004	0	0	37388	President of the United States	 	100000	Castle / Bradley	CPF	0	69385	1
+CLM	Columbia	10282	11/08/2016	2016 General Election	54	54 Southside Rec Complex	1004	0	0	37388	President of the United States	 	100000	Stein / Baraka	GRE	0	69377	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	54	54 Southside Rec Complex	1004	0	0	37388	President of the United States	 	100000	De La Fuente / Steinberg	REF	0	69403	2
+CLM	Columbia	10282	11/08/2016	2016 General Election	54	54 Southside Rec Complex	1004	0	0	37388	President of the United States	 	100000	WriteinVotes	 	0	900	6
+CLM	Columbia	10282	11/08/2016	2016 General Election	54	54 Southside Rec Complex	1004	0	0	37388	President of the United States	 	100000	UnderVotes	 	0	902	11

@@ -1,1 +1,0 @@
-Population is in geodata as "PERSONS". Don't bother checking the election file, everything is good.

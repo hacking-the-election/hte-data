@@ -1,1 +1,0 @@
-Look in the geodata for the vap, use the cntyvtd to create a geoid10 (delete when read)

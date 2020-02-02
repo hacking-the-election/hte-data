@@ -7,3 +7,4 @@ bin/cpp/old/*
 
 !raw/california/*
 !test/*
+!districts-2016/*.geojson

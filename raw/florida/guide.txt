@@ -1,0 +1,5 @@
+Sadly, the geodata and election_data have different formats for counties, so you'll have to do each individually,
+but here's the best there is for matching:
+
+BAY: In election_data, use "precinct" (e.g. BAY0002), take the integer part and compare to 6th column of BAY_Pct
+BRE: In geodata, use the "region_id" and compare to 7th column of BRE_Pct

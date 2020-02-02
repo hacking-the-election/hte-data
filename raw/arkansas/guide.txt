@@ -1,1 +1,0 @@
-population is in POP100 in the geodata.json file, don't worry. -james

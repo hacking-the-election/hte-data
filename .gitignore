@@ -5,6 +5,7 @@
 
 bin/cpp/old/*
 
+*.txt
 !raw/california/*
 !test/*
 !districts-2016/*.geojson

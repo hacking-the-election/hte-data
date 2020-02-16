@@ -3,6 +3,9 @@
 *.json
 *.tab
 
+*/**/guide.txt
+*/**/guide and to do.txt
+
 bin/cpp/old/*
 
 *.txt
